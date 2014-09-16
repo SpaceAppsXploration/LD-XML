@@ -1,241 +1,241 @@
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>OptiCam 7UX</name>
- 
-<instance_of>Payload</instance_of>
-<part_of>spacecraft</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_out>CDH</wire_out>
-<wire_out>COM</wire_out>
- 
-<wire_in>POW</wire_in>
- 
-<volume unit="mm3">501120</volume>
-<mass unit="g">166</mass>
-<power unit="W">0.66</power>
-<price unit="euro">11500</price>
- 
-<function>Visible Light Sensor</function>
- 
-<media>electricity</media>
- 
-<voltage unit="V">3.3</voltage>
-<min_ampere unit="mA">70</min_ampere>
-<max_ampere unit="mA">110</max_ampere>
- 
-<status>OK</status>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>OptiCam 7UX</name>
+
+    <instance_of>Payload</instance_of>
+    <part_of>spacecraft</part_of>
+
+    <standard>cubesat</standard>
+
+    <wire_out>CDH</wire_out>
+    <wire_out>COM</wire_out>
+
+    <wire_in>POW</wire_in>
+
+    <volume unit="mm3">501120</volume>
+    <mass unit="g">166</mass>
+    <power unit="W">0.66</power>
+    <price unit="euro">11500</price>
+
+    <function>Visible Light Sensor</function>
+
+    <media>electricity</media>
+
+    <voltage unit="V">3.3</voltage>
+    <min_ampere unit="mA">70</min_ampere>
+    <max_ampere unit="mA">110</max_ampere>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>JH3 Array</name>
- 
-<instance_of>Primary Power</instance_of>
-<part_of>BUS</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_out>CDH</wire_out>
-<wire_out>COM</wire_out>
-<wire_out>AODCS</wire_out>
-<wire_out>THERM</wire_out>
-<wire_out>PROP</wire_out>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>JH3 Array</name>
 
-<volume unit="mm3">20000</volume>
-<mass unit="g">50</mass>
-<power unit="W">2.3</power>
-<price unit="euro">2500</price>
- 
-<function>Primary Power</function>
- 
-<media>electricity</media>
- 
-<voltage unit="V">3</voltage>
-<efficiency unit="%">28</efficiency>
- 
-<status>OK</status>
+    <instance_of>Primary Power</instance_of>
+    <part_of>BUS</part_of>
+
+    <standard>cubesat</standard>
+
+    <wire_out>CDH</wire_out>
+    <wire_out>COM</wire_out>
+    <wire_out>AODCS</wire_out>
+    <wire_out>THERM</wire_out>
+    <wire_out>PROP</wire_out>
+
+    <volume unit="mm3">20000</volume>
+    <mass unit="g">50</mass>
+    <power unit="W">2.3</power>
+    <price unit="euro">2500</price>
+
+    <function>Primary Power</function>
+
+    <media>electricity</media>
+
+    <voltage unit="V">3</voltage>
+    <efficiency unit="%">28</efficiency>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>JH3 Compatible Battery</name>
- 
-<instance_of>Backup Power</instance_of>
-<part_of>BUS</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_out>CDH</wire_out>
-<wire_out>COM</wire_out>
-<wire_out>AODCS</wire_out>
-<wire_out>THERM</wire_out>
-<wire_out>PROP</wire_out>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>JH3 Compatible Battery</name>
 
-<wire_in>POW</wire_in>
+    <instance_of>Backup Power</instance_of>
+    <part_of>BUS</part_of>
 
-<volume unit="mm3">190256</volume>
-<mass unit="g">240</mass>
-<price unit="euro">1500</price>
- 
-<function>Backup Power</function>
- 
-<media>electricity</media>
-  
-<status>OK</status>
+    <standard>cubesat</standard>
+
+    <wire_out>CDH</wire_out>
+    <wire_out>COM</wire_out>
+    <wire_out>AODCS</wire_out>
+    <wire_out>THERM</wire_out>
+    <wire_out>PROP</wire_out>
+
+    <wire_in>POW</wire_in>
+
+    <volume unit="mm3">190256</volume>
+    <mass unit="g">240</mass>
+    <price unit="euro">1500</price>
+
+    <function>Backup Power</function>
+
+    <media>electricity</media>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>ABL782</name>
- 
-<instance_of>Thermal</instance_of>
-<part_of>BUS</part_of>
- 
-<standard>cubesat</standard>
- 
-<volume​ unit="mm3">10000</volume>
-<mass unit="g">30</mass>
-<price unit="euro">500</price>
- 
-<function>Thermal Passive</function>
- 
-<status>OK</status>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>ABL782</name>
+
+    <instance_of>Thermal</instance_of>
+    <part_of>BUS</part_of>
+
+    <standard>cubesat</standard>
+
+    <volume​ unit="mm3">10000</volume>
+    <mass unit="g">30</mass>
+    <price unit="euro">500</price>
+
+    <function>Thermal Passive</function>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>KL15509 1U</name>
- 
-<instance_of>Structure</instance_of>
-<part_of>BUS</part_of>
- 
-<standard>cubesat</standard>
- 
-<mass unit="g">200</mass>
-<price unit="euro">2150</price>
- 
-<function>Structure</function>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>KL15509 1U</name>
 
-<min_temperature unit="Celsius">-40</min_temperature>
-<max_temperature unit="Celsius">80</max_temperature>
+    <instance_of>Structure</instance_of>
+    <part_of>BUS</part_of>
 
-<status>OK</status>
+    <standard>cubesat</standard>
+
+    <mass unit="g">200</mass>
+    <price unit="euro">2150</price>
+
+    <function>Structure</function>
+
+    <min_temperature unit="Celsius">-40</min_temperature>
+    <max_temperature unit="Celsius">80</max_temperature>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>SQL40R2</name>
- 
-<instance_of>CDH</instance_of>
-<part_of>spacecraft</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_out>PROP</wire_out>
-<wire_out>COM</wire_out>
-<wire_out>AODCS</wire_out>
- 
-<wire_in>POW</wire_in>
-<wire_in>BPOW</wire_in>
-<wire_in>COM</wire_in>
-<wire_in>AODCS</wire_in>
- 
-<volume​ unit="mm3">86400</volume>
-<mass​ unit="g">50</mass>
-<price​ unit="euro">4750</price>
- 
-<function>Command and data handling</function>
- 
-<media>electricity</media>
- 
-<voltage unit="V">3.3</voltage>
-<min_clock unit="MHz">8</min_clock>
-<max_clock unit="MHz">40</max_clock>
-<RAM unit="MB">2</RAM>
-<data_storage unit="MB">4</data_storage>​
-<data_storage_external unit="GB">2</data_storage_external>
-<min_temperature unit="Celsius">-40</min_temperature>
-<max_temperature unit="Celsius">85</max_temperature>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>SQL40R2</name>
 
-<status>OK</status>
+    <instance_of>CDH</instance_of>
+    <part_of>spacecraft</part_of>
+
+    <standard>cubesat</standard>
+
+    <wire_out>PROP</wire_out>
+    <wire_out>COM</wire_out>
+    <wire_out>AODCS</wire_out>
+
+    <wire_in>POW</wire_in>
+    <wire_in>BPOW</wire_in>
+    <wire_in>COM</wire_in>
+    <wire_in>AODCS</wire_in>
+
+    <volume​ unit="mm3">86400</volume>
+    <mass​ unit="g">50</mass>
+    <price​ unit="euro">4750</price>
+
+    <function>Command and data handling</function>
+
+    <media>electricity</media>
+
+    <voltage unit="V">3.3</voltage>
+    <min_clock unit="MHz">8</min_clock>
+    <max_clock unit="MHz">40</max_clock>
+    <RAM unit="MB">2</RAM>
+    <data_storage unit="MB">4</data_storage>​
+    <data_storage_external unit="GB">2</data_storage_external>
+    <min_temperature unit="Celsius">-40</min_temperature>
+    <max_temperature unit="Celsius">85</max_temperature>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>Mono GVX</name>
- 
-<instance_of>COM</instance_of>
-<part_of>spacecraft</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_in>POW</wire_in>
-<wire_in>CDH</wire_in>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>Mono GVX</name>
 
-<volume unit="mm3">67228</volume>
-<mass unit="g">70</mass>
-<power unit="W">0.02</power>
-<price unit="euro">4500</price>
- 
-<function>Data transmission</function>
- 
-<media>waves</media>
- 
-<min_temperature unit="Celsius">-30</min_temperature>
-<max_temperature unit="Celsius">70</max_temperature>
+    <instance_of>COM</instance_of>
+    <part_of>spacecraft</part_of>
 
-<status>OK</status>
+    <standard>cubesat</standard>
+
+    <wire_in>POW</wire_in>
+    <wire_in>CDH</wire_in>
+
+    <volume unit="mm3">67228</volume>
+    <mass unit="g">70</mass>
+    <power unit="W">0.02</power>
+    <price unit="euro">4500</price>
+
+    <function>Data transmission</function>
+
+    <media>waves</media>
+
+    <min_temperature unit="Celsius">-30</min_temperature>
+    <max_temperature unit="Celsius">70</max_temperature>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>845M</name>
- 
-<instance_of>AODCS</instance_of>
-<part_of>spacecraft</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_in>POW</wire_in>
-<wire_in>CDH</wire_in>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>845M</name>
 
-<volume unit="mm3">17800</volume>
-<mass unit="g">30</mass>
-<power unit="W">0.2</power>
-<price unit="euro">1200</price>
- 
-<function>Attitude control</function>
- 
-<media>Megnetic torque</media>
- 
-<min_temperature unit="Celsius">-35</min_temperature>
-<max_temperature unit="Celsius">75</max_temperature>
+    <instance_of>AODCS</instance_of>
+    <part_of>spacecraft</part_of>
 
-<status>OK</status>
+    <standard>cubesat</standard>
+
+    <wire_in>POW</wire_in>
+    <wire_in>CDH</wire_in>
+
+    <volume unit="mm3">17800</volume>
+    <mass unit="g">30</mass>
+    <power unit="W">0.2</power>
+    <price unit="euro">1200</price>
+
+    <function>Attitude control</function>
+
+    <media>Megnetic torque</media>
+
+    <min_temperature unit="Celsius">-35</min_temperature>
+    <max_temperature unit="Celsius">75</max_temperature>
+
+    <status>OK</status>
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
-<name>PPT608</name>
- 
-<instance_of>PROP</instance_of>
-<part_of>spacecraft</part_of>
- 
-<standard>cubesat</standard>
- 
-<wire_in>POW</wire_in>
-<wire_in>CDH</wire_in>
+    <manufacturer ID="1">Chronos</manufacturer>
+    <name>PPT608</name>
 
-<volume​ unit="mm3">202500</volume>
-<mass​ unit="g">280</mass>
-<power unit="W">0.3</power>
-<price​ unit="euro">15200</price>
- 
-<function>Propulsion</function>
- 
-<specific_impulse unit="s">608</specific_impulse>
+    <instance_of>PROP</instance_of>
+    <part_of>spacecraft</part_of>
 
-<status>OK</status>
+    <standard>cubesat</standard>
+
+    <wire_in>POW</wire_in>
+    <wire_in>CDH</wire_in>
+
+    <volume​ unit="mm3">202500</volume>
+    <mass​ unit="g">280</mass>
+    <power unit="W">0.3</power>
+    <price​ unit="euro">15200</price>
+
+    <function>Propulsion</function>
+
+    <specific_impulse unit="s">608</specific_impulse>
+
+    <status>OK</status>
 </system>
