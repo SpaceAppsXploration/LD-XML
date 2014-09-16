@@ -5,12 +5,12 @@
     <instance_of>Payload</instance_of>
     <part_of>spacecraft</part_of>
 
-    ​<standard>cubesat</standard>
+    <standard>cubesat</standard>
 
-    <adjacent_to>CDH</adjacent_to>
-    ​​<adjacent_to>COM</adjacent_to>​
+    <wire_out>CDH</wire_out>
+    ​​<wire_out>COM</wire_out>​
 
-    <adjacent_from>POW</adjacent_from>
+    <wire_in>POW</wire_in>
 
     <volume​ unit="mm_quad">501120</volume>
     <mass​ unit="">166</mass>
