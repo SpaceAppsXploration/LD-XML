@@ -16,13 +16,11 @@
     "Visible Light sensor": {
         "lambda_min": 380,
         "lambda_max": 750,
-        "concern": [
-            {
+        "concern": {
                 "subject": 35,
                 "term": "cameras",
                 "scope": ""
-            }
-        ],
+        },
         "keywords": [
             {
                 "term": "Bragg cells",
