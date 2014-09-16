@@ -220,7 +220,7 @@
 <manufacturer_name ID="1">Chronos</manufacturer_name>
 <name>PPT608</name>
  
-<instance_of>PROP</instance_of>
+<instance_of>Propulsion</instance_of>
 <part_of>spacecraft</part_of>
  
 <standard>cubesat</standard>
