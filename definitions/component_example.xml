@@ -1,5 +1,5 @@
 <system>
-    <manufacturer_name​ ID="1">GOMspace Aps</manufacturer_name>
+    <manufacturer ID="1">GOMspace Aps</manufacturer>
     <name>NanoCam C1U</name>
 
     <instance_of>Payload</instance_of>
@@ -12,7 +12,7 @@
 
     <adjacent_from>POW</adjacent_from>
 
-    <volume​ unit="mm_quad"> 501120</volume>
+    <volume​ unit="mm_quad">501120</volume>
     <mass​ unit="">166</mass>
     <power unit="">0.66</power>
     <price​ unit="euro">11500</price>
