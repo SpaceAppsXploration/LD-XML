@@ -1,5 +1,4 @@
 <system>
-<<<<<<< HEAD
     <manufacturer ID="1">Chronos</manufacturer>
     <name>OptiCam 7UX</name>
 
@@ -479,5 +478,5 @@
 <specific_impulse unit="s">608</specific_impulse>
 
 <status>OK</status>
->>>>>>> a4533d6a51757ae40e727269aed9257edcdc74f6
+
 </system>
