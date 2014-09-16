@@ -32,7 +32,7 @@
 <manufacturer ID="1">Chronos</manufacturer>
 <name>JH3 Array</name>
  
-<instance_of>Primary Power</instance_of>
+<instance_of>POW</instance_of>
 <part_of>BUS</part_of>
  
 <standard>cubesat</standard>
@@ -53,7 +53,7 @@
 <media>electricity</media>
  
 <voltage unit="V">3</voltage>
-<efficiency unit="%">28</efficiency>
+<efficiency unit="percent">28</efficiency>
  
 <status>OK</status>
 </system>
@@ -62,7 +62,7 @@
 <manufacturer ID="1">Chronos</manufacturer>
 <name>JH3 Compatible Battery</name>
  
-<instance_of>Backup Power</instance_of>
+<instance_of>BPOW</instance_of>
 <part_of>BUS</part_of>
  
 <standard>cubesat</standard>
@@ -90,7 +90,7 @@
 <manufacturer ID="1">Chronos</manufacturer>
 <name>ABL782</name>
  
-<instance_of>Thermal</instance_of>
+<instance_of>THERM</instance_of>
 <part_of>BUS</part_of>
  
 <standard>cubesat</standard>
@@ -99,7 +99,7 @@
 <mass unit="g">30</mass>
 <price unit="euro">500</price>
  
-<function>Thermal Passive</function>
+<function>Thermal</function>
  
 <status>OK</status>
 </system>
@@ -108,7 +108,7 @@
 <manufacturer ID="1">Chronos</manufacturer>
 <name>KL15509 1U</name>
  
-<instance_of>Structure</instance_of>
+<instance_of>STR</instance_of>
 <part_of>BUS</part_of>
  
 <standard>cubesat</standard>
@@ -146,7 +146,7 @@
 <mass​ unit="g">50</mass>
 <price​ unit="euro">4750</price>
  
-<function>Command and data handling</function>
+<function>Command & Data Handling</function>
  
 <media>electricity</media>
  
@@ -179,7 +179,7 @@
 <power unit="W">0.02</power>
 <price unit="euro">4500</price>
  
-<function>Data transmission</function>
+<function>Communication</function>
  
 <media>waves</media>
  
@@ -206,7 +206,7 @@
 <power unit="W">0.2</power>
 <price unit="euro">1200</price>
  
-<function>Attitude control</function>
+<function>Attitude Orbit Determination Control System</function>
  
 <media>Megnetic torque</media>
  
@@ -220,7 +220,7 @@
 <manufacturer ID="1">Chronos</manufacturer>
 <name>PPT608</name>
  
-<instance_of>Propulsion</instance_of>
+<instance_of>PROP</instance_of>
 <part_of>spacecraft</part_of>
  
 <standard>cubesat</standard>
