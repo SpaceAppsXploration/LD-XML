@@ -1,0 +1,35 @@
+<system>
+    <manufacturer_name​ ID="1">GOMspace Aps</manufacturer_name>
+    <name>NanoCam C1U</name>
+
+    <instance_of>Payload</instance_of>
+    <part_of>spacecraft</part_of>
+
+    ​<standard>cubesat</standard>
+
+    <adjacent_to>CDH</adjacent_to>
+    ​​<adjacent_to>COM</adjacent_to>​
+
+    <adjacent_from>POW</adjacent_from>
+
+    <volume​ unit="mm_quad"> 501120</volume>
+    <mass​ unit="">166</mass>
+    <power unit="">0.66</power>
+    <price​ unit="euro">11500</price>
+
+    <function>Visible Light Sensor</function>​
+
+    <media>electricity</media>
+
+
+    <voltage unit="V">...</voltage>
+    <min_ampere unit="mA">...</min_ampere>
+    <max_ampere unit="mA">...</max_ampere>​
+
+    ​<materials>Glass/Polyamide IPC 6012C cl. 3/A*</materials>
+    <product_page>http://gomspace.com/index.php?p=products-c1u</product_page>
+
+
+
+    <status>OK</status>
+</system>

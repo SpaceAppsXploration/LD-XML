@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Keyword infrared telescopes -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/infrared+telescopes">
+
+        <skos:definition></skos:definition>
+
+        <skos:prefLabel xml:lang="en">infrared telescopes</skos:prefLabel>
+
+        <skos:broader rdf:resource="http://mydomain.com/astronomy#"/>
+
+        <skos:related rdf:resource="http://mydomain.com/space_sciences#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Infrared"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

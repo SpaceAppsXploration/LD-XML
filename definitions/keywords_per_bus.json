@@ -1,0 +1,222 @@
+/*
+*List of BUS Systems
+*
+*List of BUS Systems
+*name: extended name
+*set: list of keywords connected to the system
+*keywords: all terms related to the sensor in the NASA-STI's subjects (with the same format as 'concern')
+*term: single term
+*subject: id of the NASA-STI subject category
+*scope: scope of the term, if present between () in NASA-STI scopes and subjects
+*
+*In other files will be mapped NASA subject divisions to subject categories and to terms
+*  (These comments are here only for readability, JSON format doesnt allow comments)
+* */
+
+
+{
+    "C&DH": {
+        "name": "Command & Data Handling",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+    },
+    "COM": {
+        "name": "Communication",
+        "set": [
+             {
+                "subject": "32",
+                "term": "communications equipment",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+    },
+    "AODCS": {
+        "name": "Attitude Orbit Control System",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+        },
+
+    "Backup Power": {
+        "name": "Backup Power",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+        },
+
+    "Primary Power": {
+        "name": "Primary Power",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+        },
+
+    "Propulsion": {
+        "name": "Propulsion",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+        },
+
+    "Structure": {
+        "name": "Structure",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+        },
+
+    "Thermal": {
+        "name": "Thermal",
+        "set": [
+             {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            },
+            {
+                "subject": "<subject>",
+                "term": "<term>",
+                "scope": ""
+            }
+        ]
+
+    }
+
+
+
+}

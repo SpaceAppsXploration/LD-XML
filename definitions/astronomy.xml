@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Astronomy -->
+        
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/astronomy">
+
+        <skos:definition>Includes observations of celestial bodies; astronomical instruments and techniques; radio, gamma-ray, x-ray, ultraviolet, and infrared astronomy; and astrometry.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">Astronomy</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/space+sciences#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Astronomy"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

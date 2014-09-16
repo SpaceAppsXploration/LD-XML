@@ -1,0 +1,492 @@
+/*
+*List of payloads Families
+*
+*definition: english definition for the field studied by the sensor
+*concern: term in the NASA-STI's scopes and subjects that best decribes the analytical activity of the sensor
+*keywords: all terms related to the sensor in the NASA-STI's subjects (with the same format as 'concern')
+*term: single term
+*subject: id of the NASA-STI subject category
+*scope: scope of the term, if present between () in NASA-STI scopes and subjects
+*
+*In other files will be mapped NASA subject divisions to subject categories and to terms
+*  (These comments are here only for readability, JSON format doesnt allow comments)
+* */
+
+{
+    "Visible Light sensor": {
+        "lambda_min": 380,
+        "lambda_max": 750,
+        "concern": [
+            {
+                "subject": 35,
+                "term": "cameras",
+                "scope": ""
+            }
+        ],
+        "keywords": [
+            {
+                "term": "Bragg cells",
+                "subject": 74,
+                "scope": "optical applications"
+            },
+            {
+                "term": "Cassegrain optics",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "coherent light",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "geometrical optics",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "lens theory",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "lenses",
+                "subject": 74,
+                "scope": "optical properties"
+            },
+            {
+                "term": "light absorption",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "light reflection",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "light scattering",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "light transmission",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "mirror interference",
+                "subject": 74,
+                "scope": "(optics)"
+            },
+            {
+                "term": "optical imaging devices",
+                "subject": 74,
+                "scope": "theory"
+            },
+            {
+                "term": "optical properties",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "optics",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "refraction",
+                "subject": 74,
+                "scope": "optics"
+            },
+            {
+                "term": "Schlieren optics",
+                "subject": 74,
+                "scope": ""
+            },
+            {
+                "term": "telescopes",
+                "subject": 74,
+                "scope": "optical properties"
+            },
+            {
+                "term": "wave propagation",
+                "subject": 74,
+                "scope": "optics"
+            },
+            {
+                "term": "charged coupled devices",
+                "subject": "33",
+                "scope": ""
+            },
+            {
+                "term": "Bragg cells",
+                "subject": "35",
+                "scope": "design and techniques"
+            },
+            {
+                "term": "cameras",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "coronagraphs",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "detectors",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "emissivity measurements",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "filters",
+                "subject": "35",
+                "scope": "photographic"
+            },
+            {
+                "term": "instrument design",
+                "subject": "35",
+                "scope": "theory and techniques"
+            },
+            {
+                "term": "instrumentation",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "interferometers",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "lenses",
+                "subject": "35",
+                "scope": "photographic"
+            },
+            {
+                "term": "measuring instruments",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "multispectral sensors",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "nondestructive testing instruments",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "optical imaging devices",
+                "subject": "35",
+                "scope": "design and techniques"
+            },
+            {
+                "term": "optical measuring instruments",
+                "subject": "35",
+                "scope": "design and techniques"
+            },
+            {
+                "term": "photographic processing equipment",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "photography",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "photometry",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "recording devices",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "remote sensors",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "sensors",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "spectral analysis instruments",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "spectrometers",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "spectrophotometers",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "spectroscopes",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "acceptors",
+                "subject": "76",
+                "scope": "solid state"
+            },
+            {
+                "term": "band structure of solids",
+                "subject": "35",
+                "scope": ""
+            },
+            {
+                "term": "condensed matter physics",
+                "subject": "76",
+                "scope": ""
+            },
+            {
+                "term": "donors",
+                "subject": "76",
+                "scope": "solid state"
+            },
+            {
+                "term": "electrical transport properties in solids",
+                "subject": "76",
+                "scope": ""
+            },
+            {
+                "term": "energy gaps in semiconductors",
+                "subject": "76",
+                "scope": ""
+            },
+            {
+                "term": "holes",
+                "subject": "76",
+                "scope": "electron deficiencies"
+            },
+            {
+                "term": "radiation effects in semiconductors",
+                "subject": "76",
+                "scope": " "
+            },
+            {
+                "term": "semiconductor materials",
+                "subject": "76",
+                "scope": ""
+            },
+            {
+                "term": "solid state physics",
+                "subject": "76",
+                "scope": ""
+            }
+        ]
+    },
+    "Infrared sensor": {
+        "lambda_min": 700,
+        "lambda_max": 1000,
+        "concern": {
+            "subject": 89,
+            "term": "infrared astronomy",
+            "scope": ""
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            },
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            },
+            {
+                "tem": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Microwaves sensor": {
+        "definition": "...",
+        "concern": {
+            "subject": 74,
+            "term": "microwave radiation",
+            "scope": "(optical applications)"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            },
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            },
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Particles detector": {
+        "definition": "...",
+        "concern": {
+            "subject": 77,
+            "term": "particle physics"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Radio sensor": {
+        "definition": "...",
+        "concern": {
+            "subject": 89,
+            "term": "radio astronomy"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Plasma analyzer": {
+        "definition": "...",
+        "concern": {
+            "subject": 75,
+            "term": "plasma physics",
+            "scope": ""
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "X-rays sensor": {
+        "definition": "it's the segment of the spectrum...",
+        "concern": {
+            "subject": 89,
+            "term": "x-ray astronomy"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Magnetometer": {
+        "definition": "...",
+        "concern": {
+            "subject": 70,
+            "term": "magnetism",
+            "scope": ""
+        },
+        "keywords": [
+            {
+                "term": "magnetism",
+                "subject": 90,
+                "scope": "extraterrestrial"
+            },
+            {
+                "term": "magnetism",
+                "subject": 46,
+                "scope": "terrestrial"
+            },
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Light polarization sensor": {
+        "definition": "...",
+        "concern": {
+            "subject": 74,
+            "term": "polarization",
+            "scope": " (optics)"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Gravitational wave detector": {
+        "definition": "...",
+        "concern": {
+            "subject": 90,
+            "term": "gravitational waves",
+            "scope": "astrophysics"
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Ultraviolet sensor": {
+        "definition": "it's the segment of the spectrum...",
+        "concern": {
+            "subject": 90,
+            "term": "ultraviolet astronomy",
+            "scope": ""
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    },
+    "Gamma-rays sensor": {
+        "definition": "it's the segment of the spectrum...",
+        "concern": {
+            "subject": 89,
+            "term": "gamma-ray astronomy",
+            "scope": ""
+        },
+        "keywords": [
+            {
+                "term": "<term>",
+                "subject": "<subject>",
+                "scope": ""
+            }
+        ]
+    }
+}
