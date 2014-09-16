@@ -56,7 +56,7 @@
         ]
     },
     "AODCS": {
-        "name": "Attitude Orbit Control System",
+        "name": "Attitude Orbit Determination Control System",
         "set": [
              {
                 "subject": "<subject>",
@@ -190,7 +190,7 @@
 
         },
 
-    "HERM": {
+    "THERM": {
         "name": "Thermal",
         "set": [
              {
