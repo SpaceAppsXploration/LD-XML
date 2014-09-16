@@ -1,0 +1,18 @@
+{
+  "url": "nasasearch.nasa.gov",
+  "elements": {
+      "title": {
+        "selector": "//div[@id='search']/div[@id='results']/div[@class='searchresult']/h2/a",
+        "attribute": "text"
+      },
+      "link": {
+        "selector": "//div[@id='search']/div[@id='results']/div[@class='searchresult']/h2/a",
+        "attribute": "href"
+      },
+      "abstract": {
+        "selector": "//div[@id='search']/div[@id='results']/div[@class='searchresult']/h3[not(@id) and not(@class)]",
+        "attribute": "text"
+      }
+
+  }
+}

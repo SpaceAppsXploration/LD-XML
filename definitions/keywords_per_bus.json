@@ -15,7 +15,7 @@
 
 
 {
-    "C&DH": {
+    "CDH": {
         "name": "Command & Data Handling",
         "set": [
              {
@@ -82,7 +82,7 @@
 
         },
 
-    "Backup Power": {
+    "BPOW": {
         "name": "Backup Power",
         "set": [
              {
@@ -109,7 +109,7 @@
 
         },
 
-    "Primary Power": {
+    "POW": {
         "name": "Primary Power",
         "set": [
              {
@@ -136,7 +136,7 @@
 
         },
 
-    "Propulsion": {
+    "PROP": {
         "name": "Propulsion",
         "set": [
              {
@@ -163,7 +163,7 @@
 
         },
 
-    "Structure": {
+    "STR": {
         "name": "Structure",
         "set": [
              {
@@ -190,7 +190,7 @@
 
         },
 
-    "Thermal": {
+    "HERM": {
         "name": "Thermal",
         "set": [
              {

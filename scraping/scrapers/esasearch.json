@@ -1,0 +1,18 @@
+{
+  "url": "esa.int",
+  "elements": {
+      "title": {
+        "selector": "//div[@class='sr']/h4/a",
+        "attribute": "text"
+      },
+      "link": {
+        "selector": "//div[@class='sr']/h4/a",
+        "attribute": "href"
+      },
+      "abstract": {
+        "selector": "//div[@class='sr']/p",
+        "attribute": "text"
+      }
+
+  }
+}
