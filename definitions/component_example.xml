@@ -1,5 +1,5 @@
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>OptiCam 7UX</name>
  
 <instance_of>Payload</instance_of>
@@ -29,7 +29,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>JH3 Array</name>
  
 <instance_of>Primary Power</instance_of>
@@ -59,7 +59,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>JH3 Compatible Battery</name>
  
 <instance_of>Backup Power</instance_of>
@@ -87,7 +87,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>ABL782</name>
  
 <instance_of>Thermal</instance_of>
@@ -105,7 +105,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>KL15509 1U</name>
  
 <instance_of>Structure</instance_of>
@@ -125,7 +125,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>SQL40R2</name>
  
 <instance_of>CDH</instance_of>
@@ -163,7 +163,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>Mono GVX</name>
  
 <instance_of>COM</instance_of>
@@ -190,7 +190,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>845M</name>
  
 <instance_of>AODCS</instance_of>
@@ -217,7 +217,7 @@
 </system>
 
 <system>
-<manufacturer_name ID="1">Chronos</manufacturer_name>
+<manufacturer ID="1">Chronos</manufacturer>
 <name>PPT608</name>
  
 <instance_of>Propulsion</instance_of>
