@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Nuclear Physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/nuclear+physics">
+
+        <skos:definition>Includes nuclear particles; and reactor theory. For space radiation see 93 Space Radiation. For atomic and molecular physics see 72 Atomic and Molecular Physics. For elementary particle physics see 77 Physics of Elementary Particles and Fields. For nuclear astrophysics see 90 Astrophysics.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">nuclear physics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: The basic theories and formulas of nuclear physics and testing and research equipment to support these developments as they relate to aeronautics, astronautics, and aerospace sciences;
+                  Selective: Those applications of nuclear physics that may be of use to the aerospace program, e.g., propulsion systems and power sources, suitable for aerospace use;
+                  Negative: Large, commercial nuclear reactor applications; ship propulsion reactors.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Nuclear_physics"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

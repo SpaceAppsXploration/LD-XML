@@ -6,15 +6,15 @@
          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
-    <skos:Concept rdf:about="http://mydomain.com/astronomy">
+    <skos:Concept rdf:about="http://mydomain.com/subjects/astronomy">
 
         <skos:definition>Includes observations of celestial bodies; astronomical instruments and techniques; radio, gamma-ray, x-ray, ultraviolet, and infrared astronomy; and astrometry.</skos:definition>
 
-        <skos:prefLabel xml:lang="en">Astronomy</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">astronomy</skos:prefLabel>
 
         <skos:scopeNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:scopeNote>
 
-        <skos:broader rdf:resource="http://mydomain.com/space+sciences#"/>
+        <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Astronomy"/>
 

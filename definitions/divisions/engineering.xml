@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<!-- Definition of division: physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/divisions/engineering">
+
+        <skos:definition>Includes engineering (general); communications and radar; electronics and electrical engineering; fluid mechanics and thermodynamics; instrumentation and photography; lasers and masers; mechanical engineering; quality assurance and reliability; and structural mechanics. For related information see also PHYSICS.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">engineering</skos:prefLabel>
+
+        <skos:narrower rdf:resource="http://mydomain.com/instrumentation+and+photography#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Engineering"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

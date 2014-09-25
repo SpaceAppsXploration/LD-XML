@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Atomic and Molecular Physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/atomic+and+molecular+physics">
+
+        <skos:definition>Includes nuclear particles; and reactor theory. For space radiation see 93 Space Radiation. For atomic and molecular physics see 72 Atomic and Molecular Physics. For elementary particle physics see 77 Physics of Elementary Particles and Fields. For nuclear astrophysics see 90 Astrophysics.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">atomic and molecular physics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: The basic theories and formulas of atomic and molecular physics as they relate to aeronautics, astronautics, and aerospace sciences. Those elements of atomic and molecular physics that have actual or potential application to the aerospace program;
+                  Selective: Those applications of atomic and molecular science that have potential use to the aerospace sciences;
+                  Negative: Basic theories and formulas of atomic and molecular physics that have no application to the aerospace sciences.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Molecular_physics"/>
+        <skos:related rdf:resource="http://dbpedia.org/page/Atomic_physics"/>
+
+
+    </skos:Concept>
+
+</rdf:RDF>

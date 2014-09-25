@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Optics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/optics">
+
+        <skos:definition>Includes light phenomena and the theory of optical devices. Lasers and Masers excluded.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">optics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
+                  Selective: Optics and light phenomena with potential aerospace use;
+                  Negative: Industrial, commercial, and household applications of optics and light phenomena, lenses, and eyeglasses.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Optics"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

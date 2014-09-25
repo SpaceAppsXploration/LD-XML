@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!-- Definition of division: physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/divisions/physics">
+
+        <skos:definition>Includes physics (general); acoustics; atomic and molecular physics; nuclear physics; optics; plasma physics; solid-state physics; and physics of elementary particles and fields.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">physics</skos:prefLabel>
+
+        <skos:narrower rdf:resource="http://mydomain.com/optics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/physics(General)#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/nuclear+physics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/atomic+and+molecular+physics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/plasma+physics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/solid+state+physics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/physics+of+elementary+particles+and+fields#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/nuclear+physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Physics"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

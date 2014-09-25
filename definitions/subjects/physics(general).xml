@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Physics(General) -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/physics(general)">
+
+        <skos:definition>Includes general research topics related to mechanics, kinetics, magnetism, and electrodynamics. For specific areas of physics see categories 71 through 77. For related instrumentation see 35 Instrumentation and Photography; for astrophysics, or solar physics see 90 Astrophysics; or 92 Solar Physics.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">physical</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: The elements of physics as they relate to aeronautics, astronautics, and the aerospace sciences;
+                  Selective: The elements of physics from all fields that might have potential aerospace applications;
+                  Negative: Nuclear physics for weaponry, large-scale commercial electricity generation, and other applications not having aerospace potential.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Physics"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

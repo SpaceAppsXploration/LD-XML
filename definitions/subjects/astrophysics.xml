@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Astrophysics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/astrophysics">
+
+        <skos:definition>Includes cosmology; celestial mechanics; space plasmas; and interstellar and interplanetary gases and dust.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">astrophysics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive Interest : All facets of the physical properties of celestial bodies, interplanetary, interstellar, and intergalactic properties; data analysis and calculations of celestial mechanics.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Astrophysics"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

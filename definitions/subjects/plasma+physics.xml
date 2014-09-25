@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Plasma Physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/plasma+physics">
+
+        <skos:definition>Includes magnetohydrodynamics and plasma fusion. For ionospheric plasmas see 46 Geophysics. For space plasmas see 90 Astrophysics.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">plasma physics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: Theoretical magnetohydrodynamics and plasma fusion; research and test equipment for studies in plasma physics as related to aerospace sciences;
+                  Selective: Applications of magnetohydrodynamics and plasma fusion that may be of interest for propulsion, power sources, and other uses in the aerospace program;
+                  Negative: Heavy industrial and commercial applications; large power reactors.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Plasma_(physics)"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

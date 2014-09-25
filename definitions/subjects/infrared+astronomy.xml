@@ -6,15 +6,15 @@
          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
-    <skos:Concept rdf:about="http://mydomain.com/infrared+astronomy">
+    <skos:Concept rdf:about="http://mydomain.com/subjects/infrared+astronomy">
 
         <skos:definition></skos:definition>
 
         <skos:prefLabel xml:lang="en">infrared astronomy</skos:prefLabel>
 
-        <skos:broader rdf:resource="http://mydomain.com/astronomy#"/>
+        <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
-        <skos:related rdf:resource="http://mydomain.com/space_sciences#"/>
+        <skos:related rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Infrared"/>
 
