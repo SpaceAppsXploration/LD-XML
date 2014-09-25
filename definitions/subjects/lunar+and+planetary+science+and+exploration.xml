@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Lunar and Planetary Science -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/lunar+and+planetary+science+and+exploration.xml">
+
+        <skos:definition>Includes planetology; selenology; meteorites; comets; craters; and manned and unmanned planetary and lunar flights.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">lunar and planetary science</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive": All facets of lunar and planetary sciences, and manned, unmanned, or remote exploration of planets and their structure, including planets within the solar system or elsewhere within the universe.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Selenography"/>
+        <skos:related rdf:resource="http://dbpedia.org/page/Planetary_science"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.selenography"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.planetary_science"/>
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/06wc5d"/> <!-- selenography -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/05xg2"/> <!-- planetary science -->
+
+    </skos:Concept>
+
+</rdf:RDF>

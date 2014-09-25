@@ -19,6 +19,9 @@
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Nuclear_physics"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.nuclear_physics"/>
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/05bjy"/>
 
     </skos:Concept>
 

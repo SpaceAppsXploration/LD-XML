@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Physics of Elementary Particles and Fields -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/physics+of+elementary+particles+and+fields">
+
+        <skos:definition>Includes quantum mechanics; theoretical physics; and statistical mechanics. For related information see also 72 Atomic and Molecular Physics; 73 Nuclear Physics.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">solid state physics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: Aspects of elementary particles, field theory, and statistical physics for those applications that may be of use to the aerospace program.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Particle_physics"/>
+        <skos:related rdf:resource="http://dbpedia.org/page/Elementary_particle"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.particle_physics"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.elementary_particle"/>
+
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/05skl"/> <!-- particle physics -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/02__0"/> <!-- elementary particle -->
+
+    </skos:Concept>
+
+</rdf:RDF>
+

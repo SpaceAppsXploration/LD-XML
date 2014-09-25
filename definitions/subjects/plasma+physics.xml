@@ -19,6 +19,14 @@
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Plasma_(physics)"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.astrophysical_plasma"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.plasma"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.plasma_cosmology"/>
+
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/09jww5"/> <!-- plasma -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/06zj7c"/> <!-- astrophysical plasma -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/01mssk"/> <!-- plasma cosmology -->
 
     </skos:Concept>
 

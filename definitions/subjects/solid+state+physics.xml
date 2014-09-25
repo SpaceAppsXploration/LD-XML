@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Solid State Physics -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/solid-state+physics">
+
+        <skos:definition>Includes condensed matter physics, crystallography, and superconductivity.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">solid state physics</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: All facets of solid-state physics and the solid-state effects in electrical and electronic devices as they relate to aeronautics, astronautics, and aerospace sciences;
+                  Selective: Commercial applications of solid-state physics that might have a potential for use in aerospace applications;
+                  Negative: Solid-state physics with no application to aerospace science.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Solid-state_physics"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.solid-state_physics"/>
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/0pzvq"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

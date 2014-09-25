@@ -14,9 +14,10 @@
 
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
-        <skos:related rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
-
         <skos:related rdf:resource="http://dbpedia.org/page/Infrared"/>
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/03z8m"/> <!-- infrared spectroscopy -->
 
     </skos:Concept>
 

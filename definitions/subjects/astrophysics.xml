@@ -17,6 +17,10 @@
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Astrophysics"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.astrophysics"/>
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/01_j8n"/> <!-- astrophysics -->
+
 
     </skos:Concept>
 

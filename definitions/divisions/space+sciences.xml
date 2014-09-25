@@ -20,6 +20,7 @@
         <skos:narrower rdf:resource="http://mydomain.com/space+radiation#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Outline_of_space_science"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.space_science"/>
 
     </skos:Concept>
 

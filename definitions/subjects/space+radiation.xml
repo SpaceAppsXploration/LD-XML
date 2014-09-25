@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Category Space Radiation -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/subjects/space+radiation">
+
+        <skos:definition>Includes cosmic radiation; and inner and outer Earth radiation belts.</skos:definition>
+
+        <skos:prefLabel xml:lang="en">astronomy</skos:prefLabel>
+
+        <skos:scopeNote>Exhaustive: All facets of space radiation.</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/divisions/space+radiation#"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Health_threat_from_cosmic_rays"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.health+threat+from+cosmic+rays"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.cosmic_ray"/>
+
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/0ctpn"/> <!-- cosmic ray -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/03d2v06"/> <!--  -->
+
+    </skos:Concept>
+
+</rdf:RDF>

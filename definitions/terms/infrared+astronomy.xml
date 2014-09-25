@@ -14,9 +14,9 @@
 
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
-        <skos:related rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
-
         <skos:related rdf:resource="http://dbpedia.org/page/Infrared"/>
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
+        <skos:related rdf:seeAlso="https://www.freebase.com/m/03wbmd"/> <!-- infrared -->
 
     </skos:Concept>
 

@@ -12,9 +12,10 @@
 
         <skos:prefLabel xml:lang="en">engineering</skos:prefLabel>
 
-        <skos:narrower rdf:resource="http://mydomain.com/instrumentation+and+photography#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/subjects/instrumentation+and+photography#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Engineering"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
 
     </skos:Concept>
 

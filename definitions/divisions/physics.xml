@@ -17,11 +17,12 @@
         <skos:narrower rdf:resource="http://mydomain.com/nuclear+physics#"/>
         <skos:narrower rdf:resource="http://mydomain.com/atomic+and+molecular+physics#"/>
         <skos:narrower rdf:resource="http://mydomain.com/plasma+physics#"/>
-        <skos:narrower rdf:resource="http://mydomain.com/solid+state+physics#"/>
+        <skos:narrower rdf:resource="http://mydomain.com/solid-state+physics#"/>
         <skos:narrower rdf:resource="http://mydomain.com/physics+of+elementary+particles+and+fields#"/>
         <skos:narrower rdf:resource="http://mydomain.com/nuclear+physics#"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Physics"/>
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.physics"/>
 
     </skos:Concept>
 
