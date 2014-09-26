@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Nov 2, 2009 ... DTM/TC Ortho *3, High-resolution geographical features are acquired by stereo ... Low-frequency wave spectrum, The subsurface stratification and ... VLBI observation of S and X band radio wave sources aboard these ...", 
+        "link": "http://global.jaxa.jp/press/2009/11/20091102_kaguya_e.html", 
+        "title": "JAXA | Public release of KAGUYA (SELENE) data archives"
+    }, 
+    {
+        "abstract": "... and the VLBI radio source (VRAD satellite) - in collaboration with JAXA and universities ... So you can measure the lunar gravity field by tracking the movement of the orbiter via radio waves. .... The First Global Stereo-Imaging of the Moon", 
+        "link": "http://global.jaxa.jp/article/special/kaguya/sasaki_e.html", 
+        "title": "JAXA | Studying the Gravity and Topography of the Moon"
+    }, 
+    {
+        "abstract": "The speed of radio wave echoes depends on the materials they travel through and on the reflectivity of so-called .... The First Global Stereo-Imaging of the Moon", 
+        "link": "http://global.jaxa.jp/article/special/kaguya/seika02_e.html", 
+        "title": "JAXA｜KAGUYA's Major Scientific Results So Far"
+    }, 
+    {
+        "abstract": "is determined by measuring energy spectra of gamma-rays from the lunar ... (TC), High-resolution geographical features are acquired by the stereo cameras.", 
+        "link": "http://www.kaguya.jaxa.jp/en/about/about_sat_e.htm", 
+        "title": "KAGUYA (SELENE) - Overview - Satellite"
+    }, 
+    {
+        "abstract": "Feb 3, 2010 ... The tower transmits radio waves for 100 kilometers around the .... Panchromatic Remote-Sensing Instrument for Stereo Mapping (PRISM).", 
+        "link": "http://www.eorc.jaxa.jp/en/imgdata/topics/2010/tp100203.html", 
+        "title": "Tokyo's Two Towers | Seen from Space | EORC"
+    }, 
+    {
+        "abstract": "Jan 5, 2011 ... High resolution stereo camera, spatial resolution 10 m ... observation range 5 km, resolution 75 m, Detection of radio waves (10k-30MHz).", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss11/paper/S1-05_20110209170401.pdf", 
+        "title": "Lunar Science by Kaguya"
+    }, 
+    {
+        "abstract": "ploration mission science, specifically for the case of wide-baseline stereo imagery. Here we derive a metric ..... Radio wave based local- ization of a rover for a ...", 
+        "link": "http://www.hayabusa.isas.jaxa.jp/kawalab/astro/pdf/2010C_10.pdf", 
+        "title": "AUTONOMOUS PATH PLANNING FOR MULTI-VEHICLE WIDE ..."
+    }, 
+    {
+        "abstract": "Oct 4, 2007 ... High resolution stereo camera, spatial resolution 10 m ... resolution 75 m, Detection of radio waves (10k-30MHz)from the Sun, the Earth, Jupiter ...", 
+        "link": "http://sprg.isas.jaxa.jp/gaibuhyoka/planet-4.pdf", 
+        "title": "SELENE “Kaguya”"
+    }, 
+    {
+        "abstract": "Nov 21, 2006 ... The radio telescope ASTE (Atacama Submillimeter Telescope ... will have the world's highest performance in the submillimeter wave bands. ... Sensor: Panchromatic Remote-sensing Instrument for Stereo Mapping (PRISM).", 
+        "link": "http://www.eorc.jaxa.jp/en/imgdata/topics/2006/tp061121.html", 
+        "title": "Radio Astronomical Observatories on Atacama Plateau"
+    }, 
+    {
+        "abstract": "Photo: Panchromatic Remote Sensing Instrument for Stereo Mapping (PRISM) ... PALSAR that emits a radio wave and receives the scattering on the ground ...", 
+        "link": "http://global.jaxa.jp/projects/sat/alos/topics.html", 
+        "title": "JAXA | Advanced Land Observing Satellite \"DAICHI\" (ALOS)"
+    }
+]

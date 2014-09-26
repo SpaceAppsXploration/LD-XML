@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Jun 23, 2006 ... Ultra thin electrodes for improved soft X-ray QE (in progress) ... Large Area - GaiaAstrometric CCDs ... Gaia Thermo-mechanical prototype.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/workshop/hea_nextdecade/Download/A.D.Holland_Future_HE_Mission2006.pdf", 
+        "title": "CCDs for X-ray Astronomy"
+    }, 
+    {
+        "abstract": "Nov 25, 2008 ... mm), GAIA (visible) and XEUS/IXO (X-ray) minimization of radiation exposure is an important mission design driver. “fundamental physics” ...", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382002/64382002.pdf", 
+        "title": "Outline - Airex - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "X-Ray spectrometry can be performed with a micro-calorimeter array, which ... MNT Space Projects: GAIA. GAIA: • Replacement for HIPARCOS spacecraft.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/19th/text/107.pdf", 
+        "title": "Laurent.Marchand@esa.int"
+    }, 
+    {
+        "abstract": "DESIRE. Dose Estimation by Simulation of the ISS Radiation Environment .... Space Environments and Effects Section. Herschel. Planck. GAIA. JWST. © NASA ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/13/G4_in_ESA.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "X-rays. Galactic and extra-galactic cosmic rays and gamma rays. Secondary emissions ... GAIA. Herschel. GLAST. ConeXpress. Cassini. INTEGRAL. Kaguya.", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/G4_JAXA_2008_seminar_Nieminen.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "GAIA ー GPS-Aided Inertial Navigation Avionics / GPS補強型慣性航法装置. GAL ー galactic ..... GXV ー galactic very soft X-rays / 銀河超軟X線. Gy ー vibrational ...", 
+        "link": "http://spaceinfo.jaxa.jp/abbr/abbr_g.html", 
+        "title": "SPACE INFORMATION CENTER : 略語一覧 A"
+    }, 
+    {
+        "abstract": "Dose Estimation by Simulation of the ISS Radiation Envir onment http://www ..... re. ▫. For UV and X rays: dust storms ... GAIA Geant4 simulations. 2 MeV.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064304008/64304008.pdf", 
+        "title": "DESIRE General comments ISS Columbus: DESIRE project T ... - Airex"
+    }, 
+    {
+        "abstract": "Balancing Technology of camera Driving System for X㪄ray Doppler Telescope ...... (GAIA). Utilizing the MTSAT Satellite-based Augmentation System. (MSAS) ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064302000/64302000.pdf", 
+        "title": "Spin-Off Cases of Space Technology in Japan - JAXA Repository"
+    }, 
+    {
+        "abstract": "2008年11月25日 ... mm), GAIA (visible) and XEUS/IXO (X-ray) minimization of radiation exposure is an important mission design driver. “fundamental physics” ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382000/64382000.pdf", 
+        "title": "第5回「宇宙環境シンポジウム」 講演論文集"
+    }, 
+    {
+        "abstract": "14:25-14:45（20 分）X 線システムを用いた BGA の非破壊検査手法. 中村 正夫 主任（ 日本 ..... XEUS、JWST、GAIA 各ミシンにおけるイクロナテクロジ. かかりについて、 ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0063741000/63741000.pdf", 
+        "title": "This document is provided by JAXA. - JAXA Repository - 宇宙航空 ..."
+    }
+]

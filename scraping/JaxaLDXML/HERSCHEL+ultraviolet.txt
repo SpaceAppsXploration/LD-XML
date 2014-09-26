@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "... advanced Herschel Space Telescope (launched in 2009) which observed distant ... we believe that ultraviolet from the first-generation stars born in 100 to 300 ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2011/matsuura/03.shtml", 
+        "title": "ISAS | What is Mysterious Far-Infrared Radiation Detected by AKARI ..."
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Disk Radii and Grain Sizes in Herschel-Resolved Debris Disks .... Spectral Energy Distributions from the Ultraviolet to the Mid-infrared", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "2003年4月2日 ... X-Ray-Extreme-Ultraviolet Simultaneous Observations of NGC 5548: ..... New Perspectives for Post-HERSCHEL Far Infrared Astronomy from.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2003/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "scope, Vol.5488, p.561: UV and GammaaRay Space Telescope Systems, SPIE: ..... T. G. Mueller, Herschel Calibration Steering Group, ASTROaF Calibration ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2004/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "Optical, UV and Soft X-ray Transmis- .... meter Galaxy in Early HerMES HERSCHEL/SPIRE* ..... NOAA 10942 with Extreme Ultraviolet Imaging Spec-.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "大型軽量ミラー技術の開拓：「あかり」やHerschelで培われたSiC冷却軽量鏡技術を ...... confirmed possibly due to the lack of ultraviolet photons from the AGB stars.", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Emaruma/spica/old/SPICA_MRD_issueA_draft10.doc", 
+        "title": "4.1. SPICAミッション要求の提示履歴 Presentation Log to ... - ISAS/JAXA"
+    }, 
+    {
+        "abstract": "Symposium 'The Promise of the Herschel Space Observatory': eds. ..... tween X- Ray, ultraviolet, and kilometric radiation in the auroral region: Journal of ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2001/28seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - ISAS"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... of IRAS,ISO, Spitzer, AKARI and Herschel. With its 3.2-meter ..... UV tolerances were examined using ultraviolet light of wavelength 172 nm ...", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Complementary diagnostic measurements in visible, IR, UV, X that will be used to .... relation with ground-based or space-borne observations (ALMA, Herschel).", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/material/JovHP/052_JUPITER_EUROPE_Draft_proposal_V15.pdf", 
+        "title": "b°/ Introduction: a Cosmic Vision of the Jupiter system"
+    }, 
+    {
+        "abstract": "and Instrumentation 2012: Ultraviolet to Gamma Ray : SPIE : 844356 : (2012). K. Ichihara ...... Herschel Observations of the Haya- busa-2 Asteroid 162173 (1999 ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }
+]

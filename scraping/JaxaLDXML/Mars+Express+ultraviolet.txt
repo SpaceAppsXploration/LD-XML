@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The UVI will monitor sulfur gas at the cloud top in ultraviolet. ... in November 2005 , by reusing the parts and designs from Mars Express, which had already taken ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol34/p2_e.html", 
+        "title": "2 - Jaxa"
+    }, 
+    {
+        "abstract": "... swath all at once, using different wavelengths ranging from infrared to ultraviolet. ... Venus Express has the same basic structure as Europe's Mars Express ...", 
+        "link": "http://global.jaxa.jp/article/special/explore/imamura01_e.html", 
+        "title": "JAXA | The World's First Planetary Meteorological Satellite ..."
+    }, 
+    {
+        "abstract": "Tsujimoto, M.：Swift X-ray and Ultraviolet Monitoring of the Classical Nova V458 ...... Sharber, K.C. Hsieh, H. Ander：Mars Express and Venus Express multi-point ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2008/08yoran433_471.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "scope, Vol.5488, p.561: UV and GammaaRay Space Telescope Systems, SPIE: ...... K. Maezawa: Key issues in Mars space environment: First Mars express ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2004/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "IMAGE/EUV（Extreme Ultraviolet Imager）で観測される一部のFluxTubeが周囲 .... Mars Express による火星大気中のメタンの検出を報告した論文「Detection of ...", 
+        "link": "http://www.stp.isas.jaxa.jp/STP/seminar/abst2005.html", 
+        "title": "2005年度概要 - ISAS"
+    }, 
+    {
+        "abstract": "2014年9月14日 ... Development of Dust Imager for Mars Landing Mission .... We applied this technique to Venus Express radio occultation data. ... 概要： Venus' clouds show various dynamical features at ultraviolet wavelengths because of the ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_STP.html", 
+        "title": "2014年度 STPセミナー"
+    }, 
+    {
+        "abstract": "It aimed to observe soft X-ray and ultraviolet radiation from the sun, etc. 1975, October ... 1995, January, M-3SII-8 launched EXPRESS satellite. * Because of ... 1998, July, Mars Orbiter NOZOMI (PLANET-B) was launched by M-V-3. 1999, May ...", 
+        "link": "http://www.isas.jaxa.jp/e/about/history/", 
+        "title": "ISAS | History of ISAS / About ISAS"
+    }, 
+    {
+        "abstract": "Outer planetary aurorae are most often observed in the ultraviolet (UV) and the ...... 火星探査衛星Mars Expressのイオン観測によると、火星夜側1RM高度でO+,O2+ ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2010_STP.html", 
+        "title": "2010年度 宇宙プラズマ研究系セミナー"
+    }, 
+    {
+        "abstract": "kawa, A. Inoue, and Y. Tajiri: The UV (GALEX) and FIR (ASTRO-F) All Sky Surveys ..... mission and its collaboration with Mars-express: European geophysical.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2002/27seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Apr 1, 2014 ... HISAKI will also look at how the atmospheres of Venus and Mars escape into ... ultraviolet rays can only be detected from space, so JAXA expects to acquire new ... We use the term “space vehicle” to express the combination ...", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday008_p.pdf", 
+        "title": "Printed"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The Phobos-2 spacecraft and recently Mars Express spacecraft observed the ... ( 1) The global structure of magnetic field and plasma around Mars, particularly ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/projects/Dthesis/2009/kubota.pdf", 
+        "title": "論文内容の要旨 論文題目 Escape of Atmospheric Ions and Creation ..."
+    }, 
+    {
+        "abstract": "In 2003, the Mars Express Mission will carry a spaceborne radar sounder ... These values are very close to plasma frequencies in the Martian ionosphere. Here ...", 
+        "link": "ftp://ftp.eorc.jaxa.jp/cdroms/EORC-061/data/f_papers/ceos008.pdf", 
+        "title": "ionosphere propagation for low frequency spaceborne radar ..."
+    }, 
+    {
+        "abstract": "plasma charging measurements. • TPMU - Thermal Plasma Measurement Unit .... performance as Mars Express for significantly less mass and power.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/en/22nd/data/15_05.pdf", 
+        "title": "ESA small satellites and associated technologies"
+    }, 
+    {
+        "abstract": "Oct 23, 2012 ... Solar fast plasma areas with ... NASA S/C Mars-Odyssey, equipped with. Russian ... ESA S/C Mars-Express was launched in 2003 with Russian.", 
+        "link": "http://www.jspec.jaxa.jp/symposium/01/1-3_TSNIIMASH_Yakovlev.pdf", 
+        "title": "Future Robotic Mission"
+    }, 
+    {
+        "abstract": "There are two ENA imagers, as parts of the ASPERA (Analyzer of Space Plasma and Energetic Atoms)-3 instrument, onboard ESA's Mars Express mission ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20010124855", 
+        "title": "Neutral Atom Imaging Near Mercury - Airex - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "JIKIKEN: plasma wave in magnetosphere, USA: ISIS satellite,etc. 1979-1980, 5. HAKUCHO: ... ESA: Mars Express, 2000-2003. IMAGE: imaging observation of ...", 
+        "link": "http://www.isas.jaxa.jp/e/about/ic/", 
+        "title": "ISAS | International Cooperation / About ISAS"
+    }, 
+    {
+        "abstract": "Mar 13, 2009 ... The Mars Express camera took high-resolution images of the potential landing ... include atmospheric and dust instruments, plasma physics ...", 
+        "link": "http://www.jspec.jaxa.jp/e/enterprise/data/E1_ISECG%20Annual%20Report%202008_FINALYokohama20090313.pdf", 
+        "title": "The 2008 Annual Report of the International Space Exploration ..."
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... ... multi probes) / Mars Express (Mars observer) / Rosetta (Comet probe). ... [ MPPE - Mercury Plasma Particle Experiment] (7 sub-teams)", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "Seasonal variation of the HDO/H2O ratio in the atmosphere of Mars at the middle of ... of the plasma density distribution in both the horizontal and vertical direction. ... Planetary Fourier Spectrometer (PFS) onboard Mars Express (MEX) has ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_atmosphere.html", 
+        "title": "2014年度 惑星大気・電離圏セミナー"
+    }, 
+    {
+        "abstract": "\"NOZOMI\" carried out its observation of plasma environment surrounding the ... Taking this opportunity, let us express our apology for not joining Mars rush this ...", 
+        "link": "http://www.isas.jaxa.jp/e/enterp/missions/nozomi/status_03.shtml", 
+        "title": "ISAS | What \"NOZOMI\" left with us / For the future planetary ..."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Venus Express' science objectives are to study the atmosphere, the plasma environment, and the surface of Venus. The onboard science instruments are: ...", 
+        "link": "http://www.stp.isas.jaxa.jp/venus/E_vex.html", 
+        "title": "5. Relationship with Venus Express - ISAS"
+    }, 
+    {
+        "abstract": "Venus circulates just inside the earth's revolution orbit, thus it comes closest to ... In recent yeas, the Venus Express launched by the European Space Agency in ... composition and studying the plasma environment spreading around Venus by ...", 
+        "link": "http://global.jaxa.jp/countdown/f17/overview/venus_e.html", 
+        "title": "JAXA | Outline of Venus"
+    }, 
+    {
+        "abstract": "2014年9月14日 ... 概要： Plasma signature around crustal magnetic fields is one of the most .... We applied this technique to Venus Express radio occultation data.", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_STP.html", 
+        "title": "2014年度 STPセミナー"
+    }, 
+    {
+        "abstract": "Venus Express Mission is the first ESA mission to Venus that will be ... trace gases in the greenhouse effect, and the plasma environment and its interaction with ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20040059880", 
+        "title": "Venus Surface Investigation Using VIRTIS Onboard the ESA ... - Airex"
+    }, 
+    {
+        "abstract": "Oct 23, 2012 ... Solar fast plasma areas with temperature 2.107 ... ESA S/C Venus-Express was launched in 2005 with Russian ... New Data about the Venus.", 
+        "link": "http://www.jspec.jaxa.jp/symposium/01/1-3_TSNIIMASH_Yakovlev.pdf", 
+        "title": "Future Robotic Mission"
+    }, 
+    {
+        "abstract": "Upcoming Venus exploration by AKATSUKI/Venus Climate Orbiter .... Venus Express ... Atmospheric chemistry and dynamics, Surface processes, Plasma ...", 
+        "link": "https://ssl.tksc.jaxa.jp/akatsuki/documents/ppt/en/ProjectOverview/Aussois.ppt", 
+        "title": "Aussois.ppt"
+    }, 
+    {
+        "abstract": "Waves Near Earth's Plasmapause : Geophysical. Research ... Between Terrestrial Plasma Sheet Electrons and the ... on venus Express : Journal of Geophysical.", 
+        "link": "http://sprg.isas.jaxa.jp/papers/Paper_2010new.pdf", 
+        "title": "出版論文リスト(2010 年度）[宇宙プラズマ研究チーム] - 太陽系科学研究系"
+    }, 
+    {
+        "abstract": "最新の観測は、VMC/Venus Expressおよび北大ピリカ天文台と同日観測を行って ... of the plasma density distribution in both the horizontal and vertical direction.", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_atmosphere.html", 
+        "title": "2014年度 惑星大気・電離圏セミナー"
+    }, 
+    {
+        "abstract": "A. Fazakerley, H. R`eme, and A. Balogh：Structure of the near-Earth plasma sheet .... determinations from Venus Express ASPERA-4：Planetary and Space ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2008/08yoran433_471.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "Nov 25, 2008 ... Venus, Mars: no magnetosphere;. Mercury: weak ... Rosetta. Venus Express. Commercial ..... SPIS (Spacecraft Plasma Interaction. Software).", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382002/64382002.pdf", 
+        "title": "Outline - Airex - 宇宙航空研究開発機構"
+    }
+]

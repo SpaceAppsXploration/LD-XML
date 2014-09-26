@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The combination of images at UV and IR wavelengths as well as in situ ... such as EXCEED (UV spectra of planetary tori), Niihama (Jupiter IR auroral images), JMO ... Location of Saturn's northern infrared aurora determined from Cassini VIMS ...", 
+        "link": "http://www.isas.jaxa.jp/e/researchers/young-fellowship/fellows/2009_sarah.shtml", 
+        "title": "ISAS | JAXA International Top Young Fellowship / ITY Fellows"
+    }, 
+    {
+        "abstract": "On December 30th 2000, the Cassini-Huygens spacecraft reached the perijove ... CIRS global observations of the mid-infrared spectrum of Jupiter at medium ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20040081289", 
+        "title": "Retrievals of Jovian Tropospheric Phosphine from Cassini/CIRS"
+    }, 
+    {
+        "abstract": "In contrast, the trailing hemisphere is relatively bright and its near-IR spectrum is dominated by water ice. The severe hemispherical brightness dichotomy has ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20050169990", 
+        "title": "Iapetus and Phoebe as Measured by the Cassini UVIS - Airex"
+    }, 
+    {
+        "abstract": "Infrared Spectra, Index of Refraction, and Optical Constants of Nitrile Ices ... relevant to the ongoing modeling of Cassini CIRS observations of Titan's winter pole.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20100031223", 
+        "title": "Infrared Spectra, Index of Refraction, and Optical Constants of Nitrile ..."
+    }, 
+    {
+        "abstract": "Detection of sub-micron radiation from the surface of Venus by Cassini/VIMS. ... Spectral irradiance measurements of simulated lightning in planetary ... cloud morphology as observed by the Galileo near-infrared mapping spectrometer. Planet.", 
+        "link": "http://www.stp.isas.jaxa.jp/venus/E_concluding.html", 
+        "title": "Venus Climate Orbiter mission of Japan"
+    }, 
+    {
+        "abstract": "Probed by AKARI Far-Infrared Spectral Mapping. .... Based on the All-Sky Survey of the Infrared Astro- ..... the Cassini ISS Limb-Darkening Data: I. Continuum.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "(lunar orbit, 1994, spectral mapping), Lunar Prospector (low polar orbit, 1998, looking for water), SMART-1 (low ... p-MOSFETS for the infrared astronomical satellite, ATRO-F ... IR spectrometer data from the Cassini 3-rd flyby NASA/JPL/ GSFC.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/22nd/data/16_05.pdf", 
+        "title": "Electronics Design and Testing Extreme Radiation and Cryo ..."
+    }, 
+    {
+        "abstract": "Feb 13, 2008 ... electron spectrum near the poles is expected to be intense and very hard. We use ... Jovian Infrared Auroral Mapper (JIRAM). II. Magnetic Field ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/15/GEANT4PresentationHaggerty.pdf", 
+        "title": "Juno Bi-Monthly Management Review (BMR)"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... SCI based on wide mid-infrared spectrum of the at- mosphere of ...... cent explorations (e.g., Galileo and Cassini spacecraft) have found direct ...", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "A Full Spectrum of Services to Ensure Mission Success. 5 .... Cassini (Saturn, 1997) was the first NASA deep space mission to use a ..... Infrared thermal imaging.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/26th/data/1_14.pdf", 
+        "title": "Non-Volatile Memory for Space"
+    }
+]

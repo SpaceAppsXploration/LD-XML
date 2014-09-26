@@ -1,0 +1,32 @@
+[
+    {
+        "abstract": "high spatial resolution, and high dynamic range observations at infrared ... The plate scale is about 0.06 arcsec, covering a field-of-view of about 1 arcmin by 1 arcmin ... As the space programs such as the Voyager mission revealed the details ...", 
+        "link": "http://www.isas.jaxa.jp/publications/reportSP/no14/pdf3/mtamura.pdf", 
+        "title": "Exoplanet Photometry and Spectroscopy with HII/L2"
+    }, 
+    {
+        "abstract": "4 Max-Planck Institut f ur Extraterrestrische Physik, Giessenbach Str.1, 85748 Garching, Germany. 5 ISO Science Operation ... The infrared spectrum of Jupiter extends over a very ... trometer of the Voyager spacecrafts between 5 and 50 m.", 
+        "link": "https://www.ir.isas.jaxa.jp/iso/AandA/t_encrenaz.ps", 
+        "title": "Full text"
+    }, 
+    {
+        "abstract": "Galaxy far-infrared spectrum line, USA: Texas, 1991-1993 ... Voyager-2, USA: NASA, 1989, 3 ... UK: Mullard Space Science Laboratory, 1991-2004, 1, 3, 4.", 
+        "link": "http://www.isas.jaxa.jp/e/about/ic/", 
+        "title": "ISAS | International Cooperation / About ISAS"
+    }, 
+    {
+        "abstract": "Publication Date：JAN 1, 1991 ... Observations of Titan made at the NASA Infrared Telescope Facility (IRTF) are analyzed using a radiative transfer ... Three groups of Voyagers IRIS spectra are analyzed, two of the STZ and one of the GRS.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19930004958/en", 
+        "title": "English - Airex"
+    }, 
+    {
+        "abstract": "1. 大学院教育. JAXA の母体の一つである宇宙科学研究所が，大学共同. 利用機関 として国 .... Brown Dwarf Atmospheres Revealed with AKARI Near-Infrared Spectra.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/III-1.pdf", 
+        "title": "1. 大学院教育"
+    }, 
+    {
+        "abstract": "1. 第36回月・惑星シンポジウム Proceedings of the 36th ISAS Lunar and Planetary ... (抄録) The infrared excess in the SEDs (Spectral Energy Distributions) of .... ( 抄録) Voyager and Galileo images demonstrate that most of the major icy satellites ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/sresult-jp?DEF_XSL=04&SUM_NUMBER=20&IS_KIND=Search&IS_SCH=META&IS_STYLE=jpn&DB_ID=G0000001AIREX&GRP_ID=G0000001&IS_DB=G0000001AIREX001&IS_TYPE=meta&IS_START=1&SUM_START=1&IS_TAG_S30=rectype&IS_KEY_S30=JAXA&IS_LGC_S30=AND&PAGE_KIND=advanced&SYS_TYPE=jaxa&IS_MAP_S1=dictionary&IS_TAG_S1=DocumentID&IS_KEY_S1=AA0046650&IS_NUMBER=20", 
+        "title": "第36回月・惑星シンポジウム"
+    }
+]

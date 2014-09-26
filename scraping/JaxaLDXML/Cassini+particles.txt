@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The second example discovery was based on Cassini observations at the edge ... accelerates particles, and allows the solar wind to enter the magnetosphere.", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2013/adam/03.shtml", 
+        "title": "ISAS | The Importance of Space Plasma Science at Saturn with ..."
+    }, 
+    {
+        "abstract": "However, in situ measurements made by numerous spacecraft have conclusively revealed that charged particles (plasma) continually flow away from the Sun, ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2013/adam/", 
+        "title": "The Importance of Space Plasma Science at Saturn with Cassini"
+    }, 
+    {
+        "abstract": "These dust particles have pristine material information and are the clues to understand ... composition of the dust, as onboard HELIOS, STARDUST, CASSINI,.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0063997009/63997009.pdf", 
+        "title": "DEVELOPMENT OF A LIGHT WEIGHT, LARGE AREA IN ... - Airex"
+    }, 
+    {
+        "abstract": "... Rover, and the European public has been excited about Cassini Huygens. ... And, Stardust going through the comet, capturing particles with the clever ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol24/p2_e.html", 
+        "title": "2 - Jaxa"
+    }, 
+    {
+        "abstract": "Recently, Cassini/Huygens explorer was sent to ... mass spectrometers and particle energy analyzers. ... many nano-particles and amorphous-like material are.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0303_plasma_proc/24.pdf", 
+        "title": "Synthesis of carbon clusters by impact reaction of gas gun ... - ISAS"
+    }, 
+    {
+        "abstract": "Titan's haze particles are the principle opacity at solar wavelengths. ... This has implications for the ability of Cassini to image Titan's surface at 1 micron.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20020070284", 
+        "title": "Fractal Particles: Titan's Thermal Structure and IR Opacity"
+    }, 
+    {
+        "abstract": "In addition, I have been working on particle accleration at Saturn's high-Mach number bow ... simulations to compliment the MESSENGER and Cassini data sets.", 
+        "link": "http://www.isas.jaxa.jp/e/researchers/young-fellowship/fellows/2011_adam.shtml", 
+        "title": "ISAS | JAXA International Top Young Fellowship / ITY Fellows"
+    }, 
+    {
+        "abstract": "Mar 13, 2013 ... The Cassini spacecraft, which is a Saturn exploration project conducted ... about how high energy particles were generated in our Galaxy.", 
+        "link": "http://www.isas.jaxa.jp/e/topics/2013/0218.shtml", 
+        "title": "ISAS | Definitive clue to cosmic ray's source / Topics"
+    }, 
+    {
+        "abstract": "Location of Saturn's northern infrared aurora determined from Cassini VIMS ... the nature of the magnetospheric field lines and particles mapping to the aurora.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/results/1102E_badman.html", 
+        "title": "最新研究成果"
+    }, 
+    {
+        "abstract": "Dependence of Surface Contrast on Emission Angle in Cassini ISS 938-nm ... It is shrouded in a thick atmosphere with fine haze particles extending up to 500 ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20050167753", 
+        "title": "Dependence of Surface Contrast on Emission Angle in Cassini ISS ..."
+    }
+]

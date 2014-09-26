@@ -1,0 +1,7 @@
+[
+    {
+        "abstract": "Nearest star - Proxima Centauri is at 4.3 light years =1.3 pc ➠ parallax 0.8\". Smallest ... GAIA MISSION (ESA launch 2010 - lifetime ~ 5 years). • Measure .... Prior to HST, Cepheids only visible out to ~ 5Mpc m − M = ..... b from the optical axis.", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Ecpp/teaching/cosmology/documents/cosmology02-04.pdf", 
+        "title": "Observational Cosmology: 4. Cosmological Distance Scale ..."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "link": "http://www.nasa.gov/multimedia/podcasting/twan_12_26_08.html", 
+        "title": "NASA - NASA TV's This Year @NASA", 
+        "abstract": "... seven-year odyssey. ... Gamma rays are the highest form of energy in the Universe, ... 2001. MARS DAY – HQ The ..."
+    }, 
+    {
+        "link": "http://www.nasa.gov/centers/goddard/news/topstory/2004solar_prt.htm", 
+        "title": "Science Highlights from NASA's Sun-Solar System Connection", 
+        "abstract": "... Mars Odyssey, Ulysses near Jupiter, ... spacecraft watches the Sun in X-rays and gamma rays. ... Launched in Dec. 2001, ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/abstracts.php?id=PIA04254", 
+        "title": "Space Images: Map of Martian Polar Hydrogen - NASA Jet ...", 
+        "abstract": "This gamma ray spectrometer map centered on the north pole of Mars is based on gamma-rays from the element ... 2001 Mars Odyssey Instruments: Gamma ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/releases/2002/release_2002_121.html", 
+        "title": "Odyssey Finds Water Ice in Abundance Under Mars' Surface", 
+        "abstract": "Using instruments on NASA's 2001 Mars Odyssey ... both on the intensity of gamma rays emitted ... in the polar regions of Mars, as the Odyssey team ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/abstracts.php?id=PIA04256", 
+        "title": "Space Images: Map of Martian Silicon at Mid-Latitudes ...", 
+        "abstract": "NASA's Mars Odyssey produced this gamma ray spectrometer map of the mid-latitude region of Mars is based on gamma-rays from ... 2001 Mars Odyssey"
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/abstracts.php?id=PIA04253", 
+        "title": "Space Images: Map of Martian Iron at Mid-Latitudes - NASA ...", 
+        "abstract": "This gamma ray spectrometer map from NASA's Mars Odyssey of the mid-latitude region of Mars is based on gamma-rays from ... 2001 Mars Odyssey ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/search_grid.php?instrument=Gamma+Ray+Spectrometer+Suite", 
+        "title": "Space Images Search - NASA Jet Propulsion Laboratory", 
+        "abstract": "... shown on this NASA Mars Odyssey gamma ray spectrometer map of ... region of Mars is based on gamma-rays from ... aboard NASA's 2001 Mars Odyssey . ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/abstracts.php?id=PIA04255", 
+        "title": "Space Images: Map of Martian Potassium at Mid-Latitudes ...", 
+        "abstract": "... shown on this NASA Mars Odyssey gamma ray ... region of Mars is based on gamma-rays from ... the 2001 Mars Odyssey mission ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/spaceimages/abstracts.php?id=PIA04257", 
+        "title": "Space Images: Map of Martian Thorium at Mid-Latitudes ...", 
+        "abstract": "... shown in red on this gamma ray spectrometer map from NASA's Mars Odyssey, ... of Mars is based on gamma-rays ... the 2001 Mars Odyssey ..."
+    }, 
+    {
+        "link": "http://photojournal.jpl.nasa.gov/catalog/PIA04255", 
+        "title": "Catalog Page for PIA04255 - NASA", 
+        "abstract": "2001 Mars Odyssey: Instrument: Gamma Ray Spectrometer Suite: ... This gamma ray spectrometer map of the mid-latitude region of Mars is based on gamma- ..."
+    }, 
+    {
+        "link": "http://www.nasa.gov/vision/universe/solarsystem/solar_flares_on_steroids.html", 
+        "title": "NASA - Solar Flares on Steroids", 
+        "abstract": "... A solar flare blasts hot gas away from the ... \"It was the strongest burst of cosmic x-rays and gamma rays we've ... The detector on 2001 Mars Ody ..."
+    }, 
+    {
+        "link": "http://solarsystem.jpl.nasa.gov/news/display.cfm?News_ID=13795", 
+        "title": "Solar System Exploration: News & Events: News Archive ...", 
+        "abstract": "Mars Landing 2012. 50th Anniversary of Solar System Exploration. Past Events. ... In fact, the powerful gamma-rays cannot be focused with lenses or ..."
+    }, 
+    {
+        "link": "http://spaceflight.nasa.gov/spacenews/factsheets/pdfs/radiation.pdf", 
+        "title": "NASA Facts: Understanding Space Radiation", 
+        "abstract": "... such as x rays or gamma rays. Space radiation is ... As the Mars Odyssey spacecraft made its way to Mars between April and October 2001, the Mars ..."
+    }, 
+    {
+        "link": "http://www.nasa.gov/centers/ames/pdf/80074main_06_02Astrogram.pdf", 
+        "title": "Communication for the Information Technology Age June 2002 ...", 
+        "abstract": "sity of gamma rays emitted by hydrogen, and ... JPL manages the 2001 Mars Odyssey mission for NASA's Office of Space Science. Investigators at Arizona ..."
+    }, 
+    {
+        "link": "http://www.nasa.gov/audience/formedia/archives/MP_Archive_00.html", 
+        "title": "NASA - 2000 News Release", 
+        "abstract": "+ NASA News Summary for Sept. 28, 2000 + It's \"2001 Mars Odyssey\" for NASA's Next Trip to the Red Planet ... 2000 + Elusive Gamma Rays Beware: GLAST ..."
+    }, 
+    {
+        "link": "http://history.nasa.gov/printFriendly/Defining-chron.htm", 
+        "title": "Defining Events - History Home", 
+        "abstract": "... which is a mission to study solar flares and the gamma rays they emit. ... Feb. 2002 The Mars Odyssey 2001 spacecraft began mapping the Red ..."
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/releases/2002/release_2002_127.html", 
+        "title": "2002 News Releases - Mars Odyssey Mission Status", 
+        "abstract": "Flight controllers for NASA's Mars Odyssey ... It sits at the end of the boom to minimize interference from any gamma rays ... JPL manages the 2001 Ma ..."
+    }, 
+    {
+        "link": "http://apod.nasa.gov/apod///archivepix.html", 
+        "title": "Astronomy Picture of the Day Archive", 
+        "abstract": "astronomy picture of the day dated archive listing. ... Gamma Rays from Galactic Center Dark Matter ... Mars Express Close Up of the Face on Mars"
+    }, 
+    {
+        "link": "http://www.jpl.nasa.gov/releases/2002/release_2002_51.html", 
+        "title": "2002 News Releases - NASA's Mars Odyssey Spacecraft ...", 
+        "abstract": "The detection of hydrogen is based both on the intensity of gamma rays emitted ... The Jet Propulsion Laboratory manages the 2001 Mars Odyssey mission ..."
+    }, 
+    {
+        "link": "http://www.nasa.gov/audience/formedia/archives/2012-all-archives.html", 
+        "title": "NASA - NASA Press Releases", 
+        "abstract": "... to discuss new measurements using gamma rays to investigate ... NASA's Mars Odyssey spacecraft has successfully ... NASA's Mars Reconnaissance ..."
+    }
+]

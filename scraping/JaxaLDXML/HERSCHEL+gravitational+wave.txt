@@ -1,0 +1,42 @@
+[
+    {
+        "abstract": "Nov 25, 2008 ... gravitational waves and to test relativity theory are planned. ..... Herschel. –. PACS photoconductor test beam. COLLIMATOR 2. COLLIMATOR 1.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382002/64382002.pdf", 
+        "title": "Outline - Airex - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "and far infrared domains with the Herschel Space Observatory：（2007） ...... The Japanese Space Gravitational Wave Antenna‐DECIGO：18th International ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2007/yoran421.pdf", 
+        "title": "2 . 所外の学術雑誌などに発表のもの - ISAS"
+    }, 
+    {
+        "abstract": "2003年4月2日 ... ... SPICA: New Perspectives for Post-HERSCHEL Far Infrared Astronomy from .... H. Abe, H. Shibai, and Y. Doi: Wave Analysis for Far-Infrared Sensors: ..... R. Yoshimura, N. Iwagami, T. Imamura and K. Oyama: Gravity wave ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2003/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "A guaranteed time key programme for Herschel, ... Medvedev et al., 2011a: Estimates of gravity wave drag on Mars: Indication of a possible lower thermospheric ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0221_proc/4-4.pdf", 
+        "title": "MELOS 気象オービタが拓く，火星中層大気の大循環と力学"
+    }, 
+    {
+        "abstract": "Sphere collapses from rest equilibrium under self gravity. 1. M = 4π. 3 ..... Matter then falls into DM gravitational wells .... Like waves smoothing footprints on a beach! ..... PSC-z. SWIRE. Herschel. PROBING LARGE SCALE STRUCTURE ...", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Ecpp/teaching/cosmology/documents/cosmology02-03.pdf", 
+        "title": "R"
+    }, 
+    {
+        "abstract": "An Improved Lunar Gravity Model Using .... Extragalactic Universe; Herschel, ALMA, CCAT,. SPICA ...... nese Space Gravitational Wave Observatory Missions : .", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2-c.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "H. Matsuhara, H. Inami : The First Broadband Millimeter-wave Spectroscopic ..... Infrared Astronomy -From Spitzer, Akari to Herschel : 台湾中央大学天文所 : (2009) ...... Lunar Gravity Measurements Executed by Kaguya and its Relay Satellite: ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2009/09yoran487_617.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "2008年11月25日 ... Herschel. –. PACS photoconductor test beam. COLLIMATOR 2. COLLIMATOR 1 ... of gravitational wave detection metrology. • Contamination ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382000/64382000.pdf", 
+        "title": "第5回「宇宙環境シンポジウム」 講演論文集 - JAXA Repository"
+    }
+]

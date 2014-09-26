@@ -1,0 +1,42 @@
+[
+    {
+        "abstract": "Feb 12, 2008 ... G4UIterminal implemented over Motif, Athena and WIN32 widgets. ○ runs on .... 12 Feb, 2008. Gamma Ray Space Telescope (GLAST).", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/IntroductionToGeant4II_Murakami.pdf", 
+        "title": "PDF1"
+    }, 
+    {
+        "abstract": "Fermi LAT Observation of Diffuse Gamma Rays Produced ..... Athena Coustenis, Véronique Dehant, Michele Dougherty, Pierre Drossart, Masaki Fujimoto, ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2009/09yoran456_486.pdf", 
+        "title": "学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "X-Ray and Gamma-Ray Detectors : IEEE : R05-1 : (2012). T. Nakagawa : The ..... trometer Onboard Athena : Space Telescopes and In- strumentation 2012: ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }, 
+    {
+        "abstract": "Jun 25, 2014 ... Bulk motion measurements in clusters of galaxies with ATHENA-like ... X-Ray and Optical Monitoring of a Gamma-Ray-Emitting Radio Galaxy, ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/journals/index.html.en", 
+        "title": "ASTRO-E, E2 Bibliography - Journals - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "May 14, 2007 ... In the diffuse background emission from radio to gamma ray bands, ...... available at http://web.mit.edu/afs/athena/org/s/space/www/wind.html.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/Dthesis_TYoshino.pdf", 
+        "title": "A Study of Soft X-ray Diffuse Background with Suzaku: from the ..."
+    }, 
+    {
+        "abstract": "2011年1月5日 ... ATHENA 計画. 10:50 - 11:05. 國枝秀世ほか ATHENA ワーキンググループ. 休憩 ..... ASTRO-H Soft Gamma-ray Detector (軟ガンマ線検出器).", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss12/image/sss12_prog.pdf", 
+        "title": "プログラムのダウンロード（PDFファイル）"
+    }, 
+    {
+        "abstract": "ず、点源に対しては Athena 衛星等に一桁以上劣ることになる。しかし DIOS .... x-ray Spectroscopy) の手法が一般的である。従来の半導体 ...... Gamma Ray. Edited by ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Emitsuda/labo/index.php?plugin=attach&refer=Thesis&openfile=Nagayoshi_Mthesis.pdf", 
+        "title": "修士論文 検出効率の飛躍的向上を目指したマッシュルーム型 吸収体 ..."
+    }, 
+    {
+        "abstract": "点源に対しては Athena 衛星等に一桁以上劣ることになる。 ...... 分散型 X 線分光 ( EDS; Energy Dispersive x-ray Spectroscopy) の手法が一般的で ...... Gamma Ray.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Emitsuda/labo/index.php?plugin=attach&refer=Thesis&openfile=Sakai_Mthesis.pdf", 
+        "title": "修士論文 X 線マイクロカロリメータ大規模アレイ 実現に向けた SQUID ..."
+    }
+]

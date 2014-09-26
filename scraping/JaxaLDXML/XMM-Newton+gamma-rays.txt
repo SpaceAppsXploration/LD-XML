@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Radio. Optical & infrared. X-ray. Gamma-ray. All-sky survey Gamma-ray satellite. Next-generation Hubble telescopes. Chandra, XMM-Newton. Suzaku. 6 ...", 
+        "link": "http://astro-h.isas.jaxa.jp/wp-content/uploads/2013/03/ASTRO-H_Takahashi.pdf", 
+        "title": "ASTRO-H Mission"
+    }, 
+    {
+        "abstract": "The hard X-ray and gamma-ray bands have long been recognized as ... XMM- Newton and Chandra satellites are revolutionizing our understanding of the ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/SPIE2004-Takahashi-etal-WXI-SGD.pdf", 
+        "title": "Wide band X-ray Imager (WXI) and Soft Gamma-ray Detector (SGD ..."
+    }, 
+    {
+        "abstract": "SoftX-rays. Area for. Hard X-rays. Spectroscopy (for diffuse source). Angular. Resolution. Chandra. XMM. Suzaku .... X-ray. Gamma-ray. All-sky survey Gamma -ray satellite. Chandra, XMM-Newton. Suzaku. HESS/VERITAS/Cangaroo3. CTA/ ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ASTROH_Takahashi_Bologna_2009Sep07-11.pdf", 
+        "title": "ASTRO-H ASTRO-H"
+    }, 
+    {
+        "abstract": "Differentiation from Chandra and XMM-Newton ... observation, and today there is a theory that observation will show that galaxy clusters glow with gamma rays.", 
+        "link": "http://global.jaxa.jp/article/special/xray/p4_2_e.html", 
+        "title": "JAXA | ASTRO-EII Launched into Space - Summer 2005"
+    }, 
+    {
+        "abstract": "EPIC, European Photon Imaging Camera (on XMM-Newton). ESA, European ... INTEGRAL, INTErnational Gamma-Ray Astrophysics Laboratory. JAXA, Japan ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/doc/suzaku_td/node13.html", 
+        "title": "A. Acronyms - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "This source is recently discovered as a fourth gamma-ray binary with HESS and XMM-Newton, and our results obtained in Suzaku AO-3 also confirmed a ...", 
+        "link": "http://darts.isas.jaxa.jp/astro/suzaku/suzakumaster/suzakuMasterSearchCondition.do?lookupDispatchKey=SEARCH&sortSeq=%2B&line=full&searchMenu=HTML&patternChecked=on&obsid=404027010", 
+        "title": "DARTS / ASTRO"
+    }, 
+    {
+        "abstract": "Suzaku View of Powerful Gamma-ray Quasars and TeV Blazars—J. Kataoka. ..... A4: Automated Analysis of Chandra, XMM-Newton and Suzaku Data—A. Ptak.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/society/suzaku_0812.pdf", 
+        "title": "PDF file (260KB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Chandra, XMM-Newton, INTEGRAL, Swift, and in particular, the fascinating Fermi .... Suzaku/WAM and Swift/BAT joint spectral studies of gamma-ray bursts.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064574000/64574000.pdf", 
+        "title": "from Suzaku to ASTRO-H"
+    }, 
+    {
+        "abstract": "The following satellites have X-ray CCDs: Chandra ACIS,5 XMM-Newton EPIC, 26, ... micro-calorimeter (SXS18), a hard X-ray imager (HXI11), a soft gamma-ray ...", 
+        "link": "http://astro-h.isas.jaxa.jp/researchers/SPIE2010/spie2010-sxi.pdf", 
+        "title": "Soft X-ray Imager (SXI) Onboard ASTRO-H"
+    }, 
+    {
+        "abstract": "81, 2008, A&A, 492, 695B, Hadronic versus leptonic origin of the gamma-ray ... 676, 335H, Comparing Suzaku and XMM-Newton Observations of the Soft X-Ray ...", 
+        "link": "https://darts.isas.jaxa.jp/astro/suzaku/papers/sortByYear.html", 
+        "title": "DARTS/Suzaku at ISAS/JAXA - Papers (order by Year)"
+    }
+]

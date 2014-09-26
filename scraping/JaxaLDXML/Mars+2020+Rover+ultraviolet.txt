@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Nov 28, 2013 ... UV irradiation of wavelength 172 nm (36.4 kJ/m2) to some extent, UV irradiation of ...... lives with a rover, Mars 2020, build based on success-.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "B-1 [Invite] The impact of ultraviolet radiation in high temperature space missions ...... the target asteroid 1999 JU3 in 2018, and coming back to the earth 2020. ... been to the moon, and it is said that the next target is Mars. .... Other mission payloads are the sampler and the small rover (MINERVA2) , which were the payloads ...", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-008E.pdf", 
+        "title": "Effect of 250keV Electron Irradiation on"
+    }, 
+    {
+        "abstract": "星磁気圏の本格的探査を、国際協力を視野に入れて 2020 年代に遂行することを 目指す ...... imaging technology that has since been used observe extreme ultraviolet ...... 例えば、NASA の Mars Exploration Rovers 計画では、火星表面で 3 年以上も二.", 
+        "link": "http://www.isas.jaxa.jp/home/rigaku/previous/roadmap/roadmap_report.pdf", 
+        "title": "太陽系探査科学の進むべき方向"
+    }, 
+    {
+        "abstract": "Kohei Kawai, et al. : Optical, UV and Soft X-ray Transmis- ...... M3 2020/2022 Launch : Experimental Astronomy : Vol. 33 (2-3) ...... Mars : Transactions of JSASS Aerospace Technology .... opment of a Multi-Legged Planetary Exploration Rover.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "kawa, A. Inoue, and Y. Tajiri: The UV (GALEX) and FIR (ASTRO-F) All Sky ...... S. Kodama, and Rover Group in Japan: Scientific exploration of lunar surface ..... ionosphere at Mars: Comparative studies of particle fluxes and ion ... Modulated by Atmospheric Gravity Wave, Proceedings of ISTS Symposium, 2020-2023, ( 2002).", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2002/27seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "and Instrumentation 2012: Ultraviolet to Gamma Ray : .... 赤天連シンポジウム「 2020 年に向けてのロードマッ. プ」 : 国立天文台 ..... era for Japanese Mars Meteorological Orbiter : AOGS- ...... mous Navigation for Planetary Exploration Rover, Cu-.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Aug 4, 2003 ... environments with strong ultraviolet radiation, .... 2020 before we realize SST on a large scale. ...... vious rovers on the Moon and Mars.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/NALRP2003000/nalrp2003000.pdf", 
+        "title": "2002∼2003 - Airex"
+    }, 
+    {
+        "abstract": "Mars' Rotation : Asia Oceania Geosciences Society 8th .... 清水敏文ほか : SOLAR -C 搭載 UV/EUV 撮像分光望遠鏡. が目指す ..... 佐々木 晶ほか : 2020 年代の木星系 探査計画 (EJSM) : ...... 鈴木 亮ほか : Inflatable Wheel for Ultra-Light Rover for.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2-c.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "Telescopes and Instrumentation 2010：Ultraviolet to Gamma ...... 査 WG：2020 年代の木星系探査計画：日本地球惑. 星科学連合2010年大会： ..... Yamazaki, and MELOS Mars Atmospheric Escape .... Maneuverability Analysis of Screw Drive Rover.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2010/10yoran300_409.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "2010年5月21日 ... 火星探査計画 MELOS (Mars Exploration with Lander-Orbiter Synergy)の ... これは 2020 年頃に周回機と着陸実証機（若 ...... VEX/VMC-UV を用いた雲追跡 ..... Exploration of Victoria Crater by the Mars Rover Opportunity, Science, ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2012/image/0301_proc/26thTaikikenSympo.pdf", 
+        "title": "+ 我々は失敗したのか？ - Institute of Space and Astronautical Science"
+    }
+]

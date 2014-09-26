@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Nov 12, 2013 ... Induced magnetic fields at Europa, Ganymede and Callisto. 10:10 ... JUICE/ Particle Environment Package (PEP): Global imaging and in-situ.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/symposiumH25/WS2013_Program-7.pdf", 
+        "title": "here."
+    }, 
+    {
+        "abstract": "... but the European contribution reincarnated into the JUICE mission, which will be ... and to measure the magnetic field and its interaction with the solar wind at ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2014/Stefano/02.shtml", 
+        "title": "ISAS | Aiming for a Much Higher Sky / The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "Induced magnetic fields at Europa, Ganymede and Callisto. P. Brandt. JUICE/ Particle Environment Package (PEP): Global imaging and in-situ observations of ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/symposiumH25/WS2013_Program-2.pdf", 
+        "title": "11 Nov (Mon)"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Exploration of Jovian System by ESA-JUICE-Mission: Participation of Japanese ...... magnetic field of Ganymede, and to study subsurface.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Diagram of the WPIA peripheral block of the ERG. FPGA. Plasma detectors(MEP- e/HEP-e/XEP). Plasma waves (PWE). FPGA. Magnetic field(MGF). FPGA.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss13/paper/P2-095.pdf", 
+        "title": "S-WPIA - ISAS"
+    }, 
+    {
+        "abstract": "The situation handled in the previous studies is that the magnetic field line ..... この開発にあたり，JUICE(木星探査)用にパラメーターをとりTOF分析部の設計を行った 。", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2012_STP.html", 
+        "title": "2012年度 STPセミナー"
+    }, 
+    {
+        "abstract": "2014年3月3日 ... When they propagate parallel to the ambient magnetic field they ..... JUICEの科学 目的を達成するためには、J-MAG は精密な磁場計測を行う必要が ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2013_STP.html", 
+        "title": "2013年度 STPセミナー"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Magnetic field dispersion in the neighbourhood of Bok Globules ...... water vapour; VLA survey reveals big hole; AKARI runs out of juice", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "Kronberg, E., S. Kasahara, N. Krupp and J. Woch, \"Field-aligned beams and ... Sun and Earth into the inner magnetosphere during magnetic storms, J. Geophys . .... JUICE/CEPAGE and beyond\"，地球惑星科学連合2013年大会，ポスター発表， ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/CV.html", 
+        "title": "CV"
+    }, 
+    {
+        "abstract": "装置 MAP-PACE （MAgnetic field and Plasma experiment. - Plasma energy Angle and ..... JUICE 提案書の大元となった LAPLACE 提案書の作成. には，日本からの ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/II-2.pdf", 
+        "title": "2. 研究系"
+    }
+]

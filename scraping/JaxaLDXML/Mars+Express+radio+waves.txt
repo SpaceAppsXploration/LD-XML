@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "In 2003, the Mars Express Mission will carry a spaceborne radar sounder equipment .... propagation for a radio wave in a plasma, one finds the radio frequency ...", 
+        "link": "ftp://ftp.eorc.jaxa.jp/cdroms/EORC-061/data/f_papers/ceos008.pdf", 
+        "title": "ionosphere propagation for low frequency spaceborne radar ..."
+    }, 
+    {
+        "abstract": "By analyzing these radio waves, we will be able to investigate the ... Venus Express has the same basic structure as Europe's Mars Express orbiter, which was ...", 
+        "link": "http://global.jaxa.jp/article/special/explore/imamura01_e.html", 
+        "title": "JAXA | The World's First Planetary Meteorological Satellite ..."
+    }, 
+    {
+        "abstract": "Study of the Venus atmospheric waves by the ground infrared observations, and ... Planetary Fourier Spectrometer (PFS) onboard Mars Express (MEX) has ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_atmosphere.html", 
+        "title": "2014年度 惑星大気・電離圏セミナー"
+    }, 
+    {
+        "abstract": "In addition, it is suggested that discharge phenomena occur on Mars, Venus, and ... in Europe celebrating the series of successful missions such as Mars Express, ... lightning-discharge emission and radio-wave radiation are very important as ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2006/takahashi/02.shtml", 
+        "title": "ISAS | Development of Lightning Discharge Observation - From the ..."
+    }, 
+    {
+        "abstract": "Jun 15, 2011 ... in the Venus and Mars Atmosphere ... radio science system, radio waves transmitted from Venus Express were observed at Usuda Deep Space ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar_resume_2011/20110615_ando.pptx", 
+        "title": "gravity waves."
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... infrared radiation from the surface is also large. ... studies electric field, electromagnetic waves, and radio waves from magnetosphere and solar ...", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "Above observation by ISA onboard \"NOZOMI\" suggests that the shock wave on ... of solar corona was done by Radio Wave Science (OLC) using X band (8 MHz). ... Taking this opportunity, let us express our apology for not joining Mars rush ...", 
+        "link": "http://www.isas.jaxa.jp/e/enterp/missions/nozomi/status_03.shtml", 
+        "title": "ISAS | What \"NOZOMI\" left with us / For the future planetary ..."
+    }, 
+    {
+        "abstract": "Universe seen in X-rays, USA: Hawaii, 1971, 72, 74, 76. Atmosphere ... X-rays from the Crab Nebula, USA: Texas, 1974-1978 ... ESA: Mars Express, 2000-2003 .", 
+        "link": "http://www.isas.jaxa.jp/e/about/ic/", 
+        "title": "ISAS | International Cooperation / About ISAS"
+    }, 
+    {
+        "abstract": "tions of auroral plasma and radio wave emissions related to storms and ...... Nozomi/UVS experiment, Proceedings of the Nozo mi/Mars Express 1st Joint Sci- .", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2000/seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Murakami: Evaluation of the Mid-and Near-Infrared Focal Plane Arrays for Japanese ..... quasi-parallel shock waves: Journal of geophysical research, vol. .... the NOZOMI mission and its collaboration with Mars-express: European geophysical.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2002/27seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - Institute of Space and ..."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "In January 1986, the Voyager 2 Ultraviolet Spectrometer (UVS) observed a stellar entrance and exit occultation and a solar occultation by Uranus. Temperatures ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19930004884/en", 
+        "title": "An analysis of the Voyager 2 ultraviolet spectrometer occultation ..."
+    }, 
+    {
+        "abstract": "Feb 28, 1995 ... Substantial evidence suggests that a UV (ultraviolet) Spectrally Absorbing ... various data sets will be used, including Voyager 2 UV and visible ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19950019696/en", 
+        "title": "Distribution and nature of UV absorbers on Trition's surface - Airex"
+    }, 
+    {
+        "abstract": "It was reported that NASA's spacecraft Voyager 1 and 2 launched in 1977 ... (SOT ); X-ray Telescope (XRT); and Extreme-Ultraviolet Imaging Spectrometer (EIS).", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2008/sakao/", 
+        "title": "ISAS | Source of Solar Wind Revealed by HINODE / The Forefront of ..."
+    }, 
+    {
+        "abstract": "... occultation measurements made by the Voyager Ultraviolet Spectrometer (UVS ). ... base obtained by the UVS during the Voyager 2 encounter with Neptune.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19930011543/en", 
+        "title": "Interpretation of Voyager UVS observations of occultations by the ..."
+    }, 
+    {
+        "abstract": "The data collected in this campaign are from GRO, ROSAT, Voyager 2, IUE, HST, CTIO, ... and free-bound and FE2 blends wich contribute to the ultraviolet flux.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19970007038/en", 
+        "title": "A Snapshot of the Continuous Emission of the Active Galactic ... - Airex"
+    }, 
+    {
+        "abstract": "Observations by the Ultraviolet Spectrometer (UVS) onboard the Voyager 2 spacecraft revealed that above the 1 mb level, the mixing ratios of CH4, C2H2, and ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19930005023/en", 
+        "title": "Revelations of a stratospheric circulation: The dynamical transport of ..."
+    }, 
+    {
+        "abstract": "Neptune encounter 1989. 'Grand tour' of Voyager 2 ... GALILEO PROBE SCIENCE INSTRUMENTS (2). •! Helium .... Ultraviolet Imaging Spectrograph. JunoCam.", 
+        "link": "http://ssl.tksc.jaxa.jp/pairg/member/ima/Dec5_Jupiter.pdf", 
+        "title": "12/5 巨大ガス惑星"
+    }, 
+    {
+        "abstract": "2009年7月8日 ... セラミック基板+RuO2）でできた、面抵抗体の位置検出素子 .... Voyager 1（探査機）, 1977, フライバイ観測により水星・金星大気中に含ま ... UV radiation.", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar_resume_2009/20090708_yoshioka.ppt", 
+        "title": "発表資料(ppt)"
+    }, 
+    {
+        "abstract": "2014年3月3日 ... As a result, the absolute sensitivity was ~1-2 cm2 and the spatial resolution was ... observation of extreme ultraviolet (EUV) aurora by Hisaki satellite. ...... これまで にVoyager,EUVE,CASSINIによる極端紫外光領域における分光 ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2013_STP.html", 
+        "title": "2013年度 STPセミナー"
+    }, 
+    {
+        "abstract": "v = 〈v〉+ v. のように平均成分と擾乱成分に分けた時に、北半球では〈v〉が正で〈u v〉が 負であれ ...... 観測や Voyager2 を用いた海王星大気の観測を行ってきた。「のぞみ」 ...", 
+        "link": "http://www.isas.jaxa.jp/home/rigaku/project/PLANET_C/PLANET-C_Proposal.pdf", 
+        "title": "金星探査計画提案書 - ISAS"
+    }
+]

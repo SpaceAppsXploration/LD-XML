@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The planet Mercury: its magnetic field, and the mystery of its origin and evolution ... Q. What kind of spacecraft is the Mercury probe MESSENGER, launched by ...", 
+        "link": "http://global.jaxa.jp/article/special/explore/fujimoto01_e.html", 
+        "title": "JAXA | Japan and Europe Explore the Mysterious World of Mercury"
+    }, 
+    {
+        "abstract": "It will carry science instruments to observe Mercury's magnetic field, ... The BepiColombo and Messenger projects are making ground observations of Mercury ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol38/p2_e.html", 
+        "title": "2 - Jaxa"
+    }, 
+    {
+        "abstract": "Sep 16, 2008 ... Mercury Gravity Field Observations During MESSENGER. Flyby of Jan ... 0900 Science Instrument Tutorials #1 MPO-MAG, MMO-MGF. MPO- ...", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/announce/BC-SWT5-Agenda4.3.pdf", 
+        "title": "BepiColombo SAG Meeting - ISAS"
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... Magnetic field, atmosphere, magnetosphere, and inner interplanetary space will be ... MESSENGER mission: Competition and Collaboration.", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "... each magnetised planet within which the planetary magnetic field is confined, ... I have been using data returned by the MESSENGER spacecraft at Mercury ...", 
+        "link": "http://www.isas.jaxa.jp/e/researchers/young-fellowship/fellows/2011_adam.shtml", 
+        "title": "ISAS | JAXA International Top Young Fellowship / ITY Fellows"
+    }, 
+    {
+        "abstract": "... twice to date, by the U.S's Mariner 10 (1974 to 1975) and MESSENGER (from 2011). ... MMO will carry equipment to measure the electric and magnetic fields, ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2011/ogawa/", 
+        "title": "The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "hard X-rays - “hadronic” messengers? the idea: ... interactions of protons with ambient gas or radiation fields ... no absorption in radiation and magnetic fields. ✓.", 
+        "link": "http://astro-h.isas.jaxa.jp/wp-content/uploads/2013/03/Aharonian.pdf", 
+        "title": "Message from SWG Members #9"
+    }, 
+    {
+        "abstract": "2010年9月29日 ... electric and magnetic field. atmosphere. MSASI. PWI ... 2008年～/MESSENGER（ フライバイ中→来年軌道へ投入）. 主に水星表層の探査を目的 ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar_resume_2010/20100929_Nishimura.pptx", 
+        "title": "PPTX"
+    }, 
+    {
+        "abstract": "Messenger. RHESSI. SOHO. Chandrayaan-1. Chang'e-1. SWIFT .... Local magnetic fields in the southern hemisphere. Issues for Mars: Terby crater as seen by ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/G4_JAXA_2008_seminar_Nieminen.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Feb 15, 2008 ... G Description of electro-magnetic fields. (uniform & non-uniform) .... through UI commands in the provided messenger): G low energy threshold ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/15/Geometry-Tokyo-2008.pdf", 
+        "title": "PDF"
+    }
+]

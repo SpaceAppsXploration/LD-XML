@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The first solar particle events from a Martian orbit are observed with the MARIE ( Martian Radiation Environment Experiment) on the 2001 Mars Odyssey space -I ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20100033767", 
+        "title": "Solar Particle Events Observed at Mars: Dosimetry Measurements ..."
+    }, 
+    {
+        "abstract": "Mars Odyssey has been in its mapping orbit since February, 2002, and the GRS boom, which removes the ... Other data losses are due to simple transmitter data gaps and to intense solar particle events. ... シソーラス, 2001 MARS ODYSSEY.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20040062289", 
+        "title": "The Distribution of Non-Volatile Elements on Mars: Mars Odyssey ..."
+    }, 
+    {
+        "abstract": "Oct 23, 2012 ... transformation in the accelerated particles during solar flares were observed ... Russian device “HEND”, was launched in 2001. Lunar map of ... ESA S/C Mars- Express was launched in 2003 with Russian participation in ...", 
+        "link": "http://www.jspec.jaxa.jp/symposium/01/1-3_TSNIIMASH_Yakovlev.pdf", 
+        "title": "Future Robotic Mission"
+    }, 
+    {
+        "abstract": "Mar 13, 2009 ... orbit are the U.S. Mars Odyssey (launched in 2001), ESA's Mars Express ... Mars Odyssey was the first mission to map the elemental ...... (wave probes LEMI-605); “Coronas-Photon” (sensor of energetic particles STEP) was.", 
+        "link": "http://www.jspec.jaxa.jp/e/enterprise/data/E1_ISECG%20Annual%20Report%202008_FINALYokohama20090313.pdf", 
+        "title": "The 2008 Annual Report of the International Space Exploration ..."
+    }, 
+    {
+        "abstract": "Griffin et al., 2001; Griffin et al., 2003). There would be rare occasion to transport particles upward above the tropopause. However ..... La Duc, M.T., Nicholson, W., Kern, R. and Venkateswaran, K. Microbial characterization of the Mars Odyssey ...", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064301002/64301002.pdf", 
+        "title": "Investigation of cultivable microorganisms in the stratosphere ..."
+    }, 
+    {
+        "abstract": "③放射線帯粒子（Radiation Belt Particle: RBP）. 地球磁場に捕捉 ..... 2001 年 04 月 07 日に打ち上げられた火星探査機、2001 マーズ・オデッセイ(2001 Mars. Odyssey) は、地球から火星への途上、ならびに火星軌道での放射線環境を明らかにするため、.", 
+        "link": "http://edu.jaxa.jp/seeds/pdf/2_radiation.pdf", 
+        "title": "宇宙放射線"
+    }, 
+    {
+        "abstract": "例として，Mars Global Surveyor (MGS)搭載の Mars Orbiter Laser Altimeter (MOLA )による雲エコーの観測. [Ivanov and Muhleman, 2001; Colaplete et al., 2003]がある ．それによると， ..... Kasten, F. (1968), Falling speed of aerosol particles. J. Appl.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2013/image/0228_proc/7-4.pdf", 
+        "title": "火星における CO2 大気の凝結と傾圧不安定波の影響"
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... the movie “2001: A Space Odyssey”) appear in sto- ries set in space. Robots and .... of the sample grains there are even smaller particles present. We believe that such .... to Mars or other destinations. From the experiment to ...", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Complex Organic Molecules in the Interstellar Medium in the Era of ALMA. A. Belloche . ..... Overview of Japan's MELOS1 Mission: Mars Exploration for Life/ Organism Search. T. Satoh, T. ..... can form a stable structure and express a biological function. ..... M. and Pidgeon, R. T. (2001) Nature, 407, 178–181.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Algorithm 1: Retrieval of molecules, temperature, altitude in the middle stratosphere ...... and G. Ibrahim: 2001, Precipitating clouds observed by 1.3-GHz L-band ...... Planetary Fourier Spectrometer (PFS) onboard the European Mars Express ...", 
+        "link": "http://www.isas.jaxa.jp/j//researchers/symp/2010/image/0218_proc/24thTaikikenSympo.pdf", 
+        "title": "超伝導サブミリ波リム放射サウンダ (SMILES) - Institute of Space and ..."
+    }
+]

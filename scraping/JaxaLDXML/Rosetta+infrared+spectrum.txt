@@ -1,0 +1,42 @@
+[
+    {
+        "abstract": "SP: Continuous spectra between 500 ~ 2500 nm (500m/pixel) ... Visible-Near- infrared spectra of lunar minerals. 1.2 um = Fe in ... 小天体=> はやぶさ, Rosetta.", 
+        "link": "http://www.isas.jaxa.jp/docs/PLAINnews/plainSympo22/CSODA2011_nakamura.pdf", 
+        "title": "PDF 資料"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... New discoveries and their IR spectral energy distributions ...... of asteroid (21) Lutetia from Herschel observations around the Rosetta flyby", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "Observations in the mid-infrared wavelength range provide information about .... away from the Earth and the Rosetta nebula is at a distance of 3600 light years.", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Outreach/results/results_e.html", 
+        "title": "AKARI (ASTRO-F) Results"
+    }, 
+    {
+        "abstract": "The HII/L2 Mission (Nakagawa 1998, 2000) is Japan's future infrared ... (e.g. Galileo, NEAR Shoemaker, Deep Space 1, Rosetta, and MUSES-C). ... The wavelength range of the HII/L2 Mission covers the reflected light region and thermal.", 
+        "link": "http://www.isas.jaxa.jp/publications/reportSP/no14/pdf3/shasegawa.pdf", 
+        "title": "pdf file"
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... infrared radiation from the surface is also large. ... (Magnetospheric multi probes) / Mars Express (Mars observer) / Rosetta (Comet probe).", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "Jan 13, 2008 ... [S2-2] Towards Accurate Mass Determination with Laser Altimeter in the Future Small ... [S3-10] Rosetta Target Asteroids: 2867 Steins and 21 Lutetia ..... Since the 1970s, telescopic spectra have been used to detect and study ...", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }, 
+    {
+        "abstract": "The Chandra ACIS spectrum of BD +30 3639 bears an amazingly strong Ne-K ... planetary nebulae represent the final evolutionary stage of low mass stars, ...... The pole-on jet in the symbiotic system MWC 560 serves as a Rosetta Stone for ...", 
+        "link": "http://www.darts.isas.jaxa.jp/astro/tables/SUZAKU_MASTER.txt", 
+        "title": "tab-delimited text - darts"
+    }, 
+    {
+        "abstract": "2008年11月25日 ... Rosetta. Venus Express. Commercial, Applications and. Earth Observation Missions ...... It is well known that he UV/VIS/IR spectrum of the sun.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382000/64382000.pdf", 
+        "title": "第5回「宇宙環境シンポジウム」 講演論文集 - JAXA Repository"
+    }
+]

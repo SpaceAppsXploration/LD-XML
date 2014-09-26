@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "TRMM observation data are received at the NASA ground station via Tracking .... Visible and Infrared Scanner (VIRS) . ..... 2.6.6.2 Observation Range Model.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/document/text/handbook_e.pdf", 
+        "title": "TRMM Data Users Handbook"
+    }, 
+    {
+        "abstract": "TRMM means \"the Tropical Rainfall Measuring Mission\". Here, you can get detailed information and also view it on Google Earth. 1.Satellites Height; 2.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/data/trmmxge/page02_e.html", 
+        "title": "02: What's TRMM? TRMM x Google Earth Lab."
+    }, 
+    {
+        "abstract": "MILLIMETER-WAVE RADAR AND TRMM OBSERVATIONS IN THE ... these two sensors have different spectral re- ... data and GMS-5 infrared TBB data.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/museum/event/2ndTISC/HP/Extended%20Abstract/1P.22_HAMADA_Atsushi.pdf", 
+        "title": "cloud type classification by gms-5 infrared split-window ..."
+    }, 
+    {
+        "abstract": "(PR), visible and infrared radiometer scanner (VIRS) ... In addition, TRMM data can be used for global ... (HH), the Spectral Latent Heating (SLH) and the.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/museum/event/2ndTISC/HP/Extended%20Abstract/7.1_TAO_Wei%20Kuo.pdf", 
+        "title": "Latent Heating Structures Derived from TRMM"
+    }, 
+    {
+        "abstract": "non-uniformity from TRMM/PR range profile data, IEEE Transaction Geoscience and ..... of Precipitation (GSMAP) Project – Integration of Microwave and Infrared.", 
+        "link": "http://sharaku.eorc.jaxa.jp/GSMaP/document/ref_gsmap_e_web.pdf", 
+        "title": "References of the GSMaP (Global Satellite Mapping"
+    }, 
+    {
+        "abstract": "Mar 8, 2013 ... TRMM VIRS (VIS-IR imager) retrieves ... (JGR 2002a, 2002b) for TRMM VIRS- TMI ... 3-D Spectral Bin Microphysical model (SBM) simulation2.", 
+        "link": "http://suzaku.eorc.jaxa.jp/GCOM_W/materials/atrainws_mar2013/6_Nakajima.pdf", 
+        "title": "PDF file: 3.5MB"
+    }, 
+    {
+        "abstract": "Measuring Mission (TRMM) satellite, which is loaded ... which means the visible and infrared radiometer is not capable of .... utilizing Doppler spectra data.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/museum/event/2ndTISC/HP/Extended%20Abstract/1P.23_OKAMOTO_Kenichi_Global%20Satellite.pdf", 
+        "title": "THE GLOBAL SATELLITE MAPPING OF PRECIPITATION (GSMaP ..."
+    }, 
+    {
+        "abstract": "Mar 8, 2013 ... snow surface proper- ties above- ground bio- mass primary produc- tion .... full spectrum ... Global rainfall map merging TRMM, polar orbiting.", 
+        "link": "http://suzaku.eorc.jaxa.jp/GCOM_W/materials/atrainws_mar2013/3_Imaoka.pdf", 
+        "title": "PDF file: 6.0MB"
+    }, 
+    {
+        "abstract": "AMSR. As a result, ADEOS will continue TRMM's global observations of ..... visible –near infrared spectrum data or vegetation effects estimated from land use .", 
+        "link": "http://sharaku.eorc.jaxa.jp/ADEOS2/doc/pdf/refbook_e_ver3.pdf", 
+        "title": "Reference Handbook - trmm, drs, adeos-ii"
+    }, 
+    {
+        "abstract": "熱帯降雨観測衛星TRMMが1997年11月28日に打ち上げられてから、すでに10年が 経過した。TRMMは、日米初の共同衛 ..... (2004) は、TRMM の降雨. レーダ (PR) の 鉛直情報を積極的に活用するSpectral ...... Visible Infrared Scanner. 可視赤外観測 装置.", 
+        "link": "http://www.eorc.jaxa.jp/TRMM/museum/pamphlet/book2/pdf/Rain_as_seen_from_Space_2_s.pdf", 
+        "title": "宇宙から見た雨"
+    }
+]

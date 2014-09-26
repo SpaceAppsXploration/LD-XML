@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "2003年11月17日 ... Radio galaxies (e.g. Cyg A). □ Sgr A (the .... 1800 Herschel discovers IR radiation ... 1931 Karl Jansky shows our galaxy emits radio waves.", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Ecpp/teaching/cosmology/documents/cosmology01-01.pdf", 
+        "title": "Fundamental Cosmology : 1.Introduction"
+    }, 
+    {
+        "abstract": "Millimeter-Wave Space Radio Telescope II; Metal. Mesh Surface for Large .... AKARI and Herschel : Publications of The Korean As- tronomical Society : Vol.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "Sep 12, 2005 ... Far-Infrared Background Radiation and. Distant Infrared ... generation of advanced observatories, for example Herschel, and JWST, and will.", 
+        "link": "https://www.ir.isas.jaxa.jp/AKARI/Observation/Docs/ASTRO-F_LSMP_Abstracts.pdf", 
+        "title": "LS and MP Abstracts"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Disk Radii and Grain Sizes in Herschel-Resolved Debris Disks ...... Title: Near-Infrared Spectroscopy of Diffuse Galactic Radiation with ...", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "and far infrared domains with the Herschel Space Observatory：（2007） ..... Plasma wave investigation team：Plasama/Radio wave observation plans for Mercury ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2007/yoran421.pdf", 
+        "title": "2 . 所外の学術雑誌などに発表のもの - ISAS"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... of IRAS,ISO, Spitzer, AKARI and Herschel. ...... Radio and plasma wave instrument, .... observations (optical/IR and radio waves) toward the.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Radio Sources: isotropic to a few percent. Small scales ... Fluctuations in matter and radiation. (changes in ... Fluctuations in the matter relative to the radiation δm ≡−δγ ρ ...... PSC-z. SWIRE. Herschel. PROBING LARGE SCALE STRUCTURE ...", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Ecpp/teaching/cosmology/documents/cosmology02-03.pdf", 
+        "title": "R"
+    }, 
+    {
+        "abstract": "Telescope system of the Space Infrared Telescope for Cosmology and Astrophysics ... T. G. Mueller, Herschel Calibration Steering Group, ASTROaF Calibration Team: ..... with electrostatic solitary waves:35th Scientific Assembly of COSPAR: ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2004/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "Hard X-rays. Spectroscopy (for diffuse source) .... Herschel. JWST. Fermi. High- resolution interferometer in the millimeter band. Radio. Optical & infrared. X-ray.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ASTROH_Takahashi_Bologna_2009Sep07-11.pdf", 
+        "title": "ASTRO-H ASTRO-H"
+    }, 
+    {
+        "abstract": "2003年4月2日 ... X-rays from galaxies to AGN: Germany: (2003). ... A Cool Mission: SPICA: New Perspectives for Post-HERSCHEL Far Infrared Astronomy from.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2003/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }
+]

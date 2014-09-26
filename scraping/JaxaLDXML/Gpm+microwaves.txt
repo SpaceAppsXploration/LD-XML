@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The GPM mission is composed of a TRMM-like non-sun-synchronous orbit satellite (GPM core satellite) and multiple satellites carrying microwave radiometer ...", 
+        "link": "http://www.eorc.jaxa.jp/GPM/contents/3_e.htm", 
+        "title": "GPM SITE: What's GPM ?"
+    }, 
+    {
+        "abstract": "Advanced combination of microwave radiometer data obtained from multi- satellites will be a challenge for the GPM mission. It had been difficult to produce ...", 
+        "link": "http://www.eorc.jaxa.jp/GPM/contents/4_e.htm", 
+        "title": "GPM SITE: What's GPM ?"
+    }, 
+    {
+        "abstract": "GPM, the Global Precipitation Measurement, is the mission to conduct frequent ... with the Dual-frequency Precipitation Radar (DPR) and the GPM microwave ...", 
+        "link": "http://global.jaxa.jp/article/special/eco/kojima_e.html", 
+        "title": "JAXA | Understanding the Global Water Cycle"
+    }, 
+    {
+        "abstract": "GPM(Global Precipitation Measurement) ... Microwave radiometers, such as the Advanced Microwave Scanning Radiometer for EOS (AMSR-E) developed by ...", 
+        "link": "http://www.eorc.jaxa.jp/GPM/contents/2_e.htm", 
+        "title": "GPM SITE: What's GPM ?"
+    }, 
+    {
+        "abstract": "The data were collected by the GPM Core Observatory's two instruments: JAXA's ... a three-dimensional cross-section of the storm; and, NASA's GPM Microwave ...", 
+        "link": "http://global.jaxa.jp/projects/sat/gpm/", 
+        "title": "GPM/DPR"
+    }, 
+    {
+        "abstract": "The GPM core observatory was jointly developed by Japan and the U.S. Two ... Japan, and the other is the GPM Microwave Imager (GPM) developed by the U.S.", 
+        "link": "http://global.jaxa.jp/countdown/f23/overview/gpm_e.html", 
+        "title": "JAXA | Overview of the GPM Core Observatory"
+    }, 
+    {
+        "abstract": "JAXA has started public data release of DPR on board the GPM Core Observatory and GPM ... The GPM Microwave Imager (GMI) Level 1 data and GPM Partner ...", 
+        "link": "http://www.eorc.jaxa.jp/GPM/index_e.htm", 
+        "title": "GPM SITE"
+    }, 
+    {
+        "abstract": "calibrator, the GPM Project is supporting a Combined Algorithm Team to implement and test the ... The GPM Microwave Imager (GMI) scans conically over an.", 
+        "link": "http://www.eorc.jaxa.jp/GPM/doc/algorithm/GPM2011CombinedL2ATBD.pdf", 
+        "title": "GPM Combined Radar-Radiometer Precipitation Algorithm ..."
+    }, 
+    {
+        "abstract": "The GPM Microwave Imager (GMI) is a companion piece to the DPR aboard the GPM core observatory. This conical-scanning microwave imager with multiple ...", 
+        "link": "http://global.jaxa.jp/countdown/f23/overview/gmi_e.html", 
+        "title": "JAXA | Overview of the GMI"
+    }, 
+    {
+        "abstract": "The data were collected by the GPM Core Observatory's two instruments: JAXA's .... The data obtained by the DPR along with that of the NASA GPM Microwave ...", 
+        "link": "http://global.jaxa.jp/projects/sat/gpm/topics.html", 
+        "title": "JAXA | Global Precipitation Measurement/Dual-frequency ..."
+    }
+]

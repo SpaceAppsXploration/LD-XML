@@ -1,0 +1,22 @@
+[
+    {
+        "abstract": "Large X-Ray Flares of MRK 421 : 11th European VLBI ... for Future X-Ray Satellite Missions : 24th International ..... LOFT: the Large Observatory For X-ray.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }, 
+    {
+        "abstract": "Suzaku. Fermi. MAXI. NuSTAR. Chandra. Newton e-‐ROSITA. GEMS. LOFT ... X- ‐ray Mission Concepts Study. カロリメータ. カロリメータ. ＋回折格子. 軟X線大.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss13/paper/S4-001a.pdf", 
+        "title": "S4-001"
+    }, 
+    {
+        "abstract": "：Cathode Ray Tube. DL ... LOFT（Line Oriented Flight Training）の実施に主眼. が あり，これらを定期 ... LOFTが導入され，CRM訓練の効果を高めようとの努. 力が続け ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0047385000/naltr0001465.pdf", 
+        "title": "目 次"
+    }, 
+    {
+        "abstract": "2012年10月31日 ... よく知られているように、槙野先生は X 線天文衛星「ぎんが」の計画を提案し、衛星の設. 計、観測器の ...... 追記 3：放射線帯嵐観測衛星（Radiation Belt Storm Probes、 RBSP)は、打ち上げ後、 ...... グ観測器（LOFT）の検討を行っている。", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-007.pdf", 
+        "title": "Untitled - JAXA Repository - 宇宙航空研究開発機構"
+    }
+]

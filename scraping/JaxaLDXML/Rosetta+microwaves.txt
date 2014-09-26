@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "These include MIRO (Microwave Instrument for the Rosetta Orbiter), MLS ( Microwave Limb Sounder), and IMAS (Integrated Multispectral Atmospheric Sounder).", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19990019863", 
+        "title": "Microwave Optics Design Tool - Airex - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "MIRO is the Microwave Instrument for the Rosetta Orbiter; this instrument hopes to investigate the origin of the solar system by studying the origin of comets.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20010071181", 
+        "title": "MIRO Calibration Switch Mechanism - Airex - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "This company is still today a technological leader in the field of microwaves. ... the data from our own Rosetta Mission, I'm sure that the Japanese scientists and ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol15/p3_e.html", 
+        "title": "3 - Jaxa"
+    }, 
+    {
+        "abstract": "This software models the gas and dust dynamics of comet coma (the head region of a comet) in order to support the Microwave Instrument for Rosetta Orbiter ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20100028888", 
+        "title": "Comet Gas and Dust Dynamics Modeling"
+    }, 
+    {
+        "abstract": "Readiness of Deep Space Exploration by Microwave Discharge Ion Engines (15) ... Operations for a Minor Body Mission -The ROSETTA Mission to a Comet (20)", 
+        "link": "http://www.jspec.jaxa.jp/okinawa_program.html", 
+        "title": "The First Meeting of IPEWG, Jan.14-16 2008, Okinawa, Japan"
+    }, 
+    {
+        "abstract": "Jan 13, 2008 ... [S3-10] Rosetta Target Asteroids: 2867 Steins and 21 Lutetia ...... successfully developed [1] and operated the microwave discharge ion ...", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }, 
+    {
+        "abstract": "Definition of the CONSERT / ROSETTA Radar Performances ..... (1) Microwaves and Radar Institute, German Aerospace Center (DLR). P.O. Box 1116, D-82230 ...", 
+        "link": "http://www.eorc.jaxa.jp/JERS-1/en/conference/ceos_sar/17Posters.doc", 
+        "title": "Posters"
+    }, 
+    {
+        "abstract": "Rosetta at 5 AU, solar array size 2*32 m2 (Si). - Juno is baselining the use of Rosetta solar cell technology ... (Sub-mm MicroWave Sounder CDF Study).", 
+        "link": "http://www.stp.isas.jaxa.jp/nakamura/lecture/PlanetInquiry2/0118/JovianTRSpresESA_JAXA_CESR_IC.pdf", 
+        "title": "SCI-A Jovian System Studies Jovian Technology Reference Studies"
+    }, 
+    {
+        "abstract": "Jan 13, 2008 ... [Readiness of Deep Space Exploration by Microwave Discharge Ion Engines (15 )]. Hitoshi KUNINAKA ... [Rosetta Mission (20)]. Detlef V.", 
+        "link": "http://www.jspec.jaxa.jp/IPEWG_circular_final-2.pdf", 
+        "title": "The First Meeting of The International Primitive Body Exploration ..."
+    }, 
+    {
+        "abstract": "Jan 30, 2002 ... 2.2 M 87: A SMBH “Rosetta Stone”. Chandra ..... Technologies that require little or no development include: cryo-coolers, microwave low-noise.", 
+        "link": "http://www.vsop.isas.jaxa.jp/docs/iarise_whitepaper.pdf", 
+        "title": "iARISE Zooming in on Black Holes"
+    }
+]

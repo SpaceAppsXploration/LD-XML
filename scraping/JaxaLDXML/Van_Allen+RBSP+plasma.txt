@@ -1,0 +1,7 @@
+[
+    {
+        "abstract": "Leif Scheick, Allan Johnston, Steven McClure, and Philippe Adell ... charged particles, in general known as the 'Van ... large eruptions of plasma from the sun.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-008E.pdf", 
+        "title": "Effect of 250keV Electron Irradiation on"
+    }
+]

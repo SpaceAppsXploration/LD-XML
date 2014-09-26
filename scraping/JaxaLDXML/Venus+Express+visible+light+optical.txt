@@ -1,0 +1,27 @@
+[
+    {
+        "abstract": "will complement the ESA's Venus Express, which also explores the .... ground- based measurements at visible wavelength, and the early .... In order to fabricate observations of the zodiacal light, the camera optics is designed to suppress the.", 
+        "link": "http://www.stp.isas.jaxa.jp/venus/docs/vco.pdf", 
+        "title": "PLANET-C: Venus Climate Orbiter mission of Japan"
+    }, 
+    {
+        "abstract": "Venus has very thick cloud of which optical depth is large enough to obscure the ground in visible light. Hansen and .... of SO2 is also observed by Venus Express orbiter [Marcq et al., 2012], so our results are consistent with the report of the ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/projects/Mthesis/2013/enomoto.pdf", 
+        "title": "宇宙科学特別研究 I 偏光撮像装置 “HOPS” で探る金星上層ヘイズ"
+    }, 
+    {
+        "abstract": "最新の観測は、VMC/Venus Expressおよび北大ピリカ天文台と同日観測を行っており 、 ... of Venus using HOPS (Hida Optical Polarimetry System) in visible wavelength ... The radio occultation experiment is based on the bending of radio waves ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_atmosphere.html", 
+        "title": "2014年度 惑星大気・電離圏セミナー"
+    }, 
+    {
+        "abstract": "2014年9月14日 ... We are, therefore, motivated to develope a light-weight and robust imaging .... The geometrical optics method has long been used for the analysis of radio ... We applied this technique to Venus Express radio occultation data. ... On the other hand, at visible wavelengths, the clouds are almost featureless.", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_STP.html", 
+        "title": "2014年度 STPセミナー"
+    }, 
+    {
+        "abstract": "Jan 13, 2008 ... Light refreshments and food will be served ... [S3-7] Visual Servo Motion Control of an Exploration Vehicle around an ...... concept will be based on existing planetary missions like Venus Express and Smart-1, the trajectory.", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }
+]

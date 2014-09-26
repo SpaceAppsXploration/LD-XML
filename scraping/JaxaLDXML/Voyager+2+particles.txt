@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "During the Voyager 1 and 2 flybys of Saturn, the plasma wave (PWS) instrument recorded impulsive signals that have been attributed to micron-sized dust ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19960018419", 
+        "title": "The properties of micron-sized particles detected at Saturn by ... - Airex"
+    }, 
+    {
+        "abstract": "A study of Saturn's E-ring particles using the Voyager 1 plasma wave instrument ... impacts during the Voyager 2 ring plane crossing) were useful for calibrating ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19940015575", 
+        "title": "A study of Saturn's E-ring particles using the Voyager 1 plasma ..."
+    }, 
+    {
+        "abstract": "In fact, solar wind is a high-speed stream of charged particles such as electrons or ... It was reported that NASA's spacecraft Voyager 1 and 2 launched in 1977 ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2008/sakao/", 
+        "title": "ISAS | Source of Solar Wind Revealed by HINODE / The Forefront of ..."
+    }, 
+    {
+        "abstract": "... planetary missions including Mariner, Viking, Pioneer, Voyager, Mars Global ... First of all, we were supposed to fly by the comet Wild 2 and survive that flyby. ... We now have this tremendous treasure of particles that date back 4.5 billion ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol23/index_e.html", 
+        "title": "JAXA | Tom Duxbury - Treasures Dating Back 4.5 Billion Years -"
+    }, 
+    {
+        "abstract": "High-energy cosmic particle, USA → Canada: Manitoba, 1993-2002. Ozone, Germany → Norway: ... Voyager-2, USA: NASA, 1989, 3. AKEBONO: observation of ...", 
+        "link": "http://www.isas.jaxa.jp/e/about/ic/", 
+        "title": "ISAS | International Cooperation / About ISAS"
+    }, 
+    {
+        "abstract": "Studies using IMP, Voyager and Pioneer cosmic ray data to determine the size ... intensity and radial gradients between Voyager 2 and Pioneer 10 along with new ... is such that cosmic-ray particles are drifting in the heliosphere inward toward ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19960041242", 
+        "title": "Studies using IMP, Voyager and Pioneer cosmic ray data to ... - Airex"
+    }, 
+    {
+        "abstract": "2. HTRB vs. Static Burn-in. No mention of Static burn-in in Table I of Method 5004 . ... lethal belts of charged particles surrounding .... Voyager 1 and 2 are now.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/EN/25th/data/1_4.pdf", 
+        "title": "NASA Perspective on Microelectronic Components for Future Space ..."
+    }, 
+    {
+        "abstract": "1 | 2 | 3 | ... Planetary flybys are no new mechanism in orbital mechanics –the Voyager's Grand Tours of the 70's and 80's ... Io's volcanoes eject charged particles that are accelerated by Jupiter's magnetic field into a giant plasma torus.", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2014/Stefano/", 
+        "title": "ISAS | Aiming for a Much Higher Sky / The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "2012年1月20日 ... 祖父江 真一*1，新井 康平*2，奥村 隼人*3，山本 彩*3，荒木 博志*4，松永 恒雄*5. A Study of the .... 化を行っている．ここでは，ボイジャー (Voyager).", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0065236000/65236000.pdf?IS_STYLE=jpn", 
+        "title": "宇宙航空研究開発機構研究開発報告"
+    }, 
+    {
+        "abstract": "2014年3月3日 ... As a result, the absolute sensitivity was ~1-2 cm2 and the spatial resolution .... can contribute to precipitation loss of particles from the magnetosphere. ...... これ までにVoyager,EUVE,CASSINIによる極端紫外光領域における分光 ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2013_STP.html", 
+        "title": "2013年度 STPセミナー"
+    }
+]

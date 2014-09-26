@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Emission around Plausible γ-Ray Emitting Pulsar Wind. Nebulae in ... Based on the All-Sky Survey of the Infrared Astro- nomical ..... The First Precise Global Gravity and To- .... Waves in the Martian Atmosphere Obtained from Mars. Global ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "Aug 1, 2011 ... Satellite (ALOS) to survey the disaster-affected areas. The. International .... Theme 2 JAXA's Role from a Global Perspective. 2. 3. * This refers ...", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday004.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "and radiation effects, there are many factors to consider when looking for the best ... Mars Global Surveyor (1996 – 2006) used four 750-Mb solid-state recorders.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/26th/data/1_14.pdf", 
+        "title": "Non-Volatile Memory for Space"
+    }, 
+    {
+        "abstract": "K. Sugiyama, et al. : The VLBI Imaging Survey of the 6.7 ... X-Ray and Gamma- Ray Detectors : IEEE : R05-1 : (2012) ... A. Doi : LLAGN : East Asia To Italy: Nearly Global VLBI : ...... plore the Interior of Mars : 44th Lunar and Planetary. Science ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }, 
+    {
+        "abstract": "Oct 14, 2011 ... Cluster II. Mars Pathfinder, Surveyor. VLS ... World-wide growth opportunity. Aerospace ..... Test: Total Ionizing Dose (TID) or Gamma Irradiation.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/MEWS/JP/24th/14-01.pdf", 
+        "title": "Microsemi: Focused on Space"
+    }, 
+    {
+        "abstract": "Gamma-Ray Imaging : Biological and Medical Sensor .... The AKARI NEP-Deep Survey : a ...... ta-Handling Unit (SHU) for Global Lightning and Sprite.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "X-ray and gamma-ray imagers using CdTe diode devices：IEEE Transactions on ...... Sharber, K.C. Hsieh, H. Ander：Mars Express and Venus Express multi-point ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2008/08yoran433_471.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "Coordinated observations of the infrared (IR) aurora by Gemini will reveal the ...... そこで本研究では、金星探査機Venus Expressと火星探査機Mars Global ..... Secondary particles (electrons and gamma rays) also cause a significant background.", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2012_STP.html", 
+        "title": "2012年度 STPセミナー - 太陽系科学研究系 - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "Venus Express に搭載されている分光撮像装置（Visible-Infrared Thermal Imaging ..... study of magnetars and new technique of astrophysical gamma-ray observation ..... 私はこれまでの研究で、火星探査機 Mars Global Surveyor の赤外 干渉分光計 ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2008_STP.html", 
+        "title": "2008年度 宇宙プラズマ研究系セミナー"
+    }, 
+    {
+        "abstract": "2013年12月5日 ... バーチャルオーロラツールは，AVS Express が対応している Windows と Linux の主要 なディストリビューションで動 ...... gamma-rays in 10 GeV – 10 TeV and protons and nuclei in several ...... of Mars global surveyor observations.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/25FY/RR-13-010.pdf", 
+        "title": "Untitled - JAXA Repository - 宇宙航空研究開発機構"
+    }
+]

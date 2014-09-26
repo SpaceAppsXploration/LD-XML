@@ -1,0 +1,17 @@
+[
+    {
+        "abstract": "測による限られた localtime における温度場[Smith et al., 2001; Kleinböhl et al., ... 1 Mars Express 搭載 Spectroscopy for Investigation of Characteristics of the Atmosphere .... Kuroda and Hartogh, 2007: Comparison of microwave observations of ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0221_proc/4-4.pdf", 
+        "title": "MELOS 気象オービタが拓く，火星中層大気の大循環と力学"
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... environmental issues. C4. Deployment of the Advanced Microwave Scanning Radiometer 2 (AMSR2) .... the movie “2001: A Space Odyssey”) appear in sto- ries set in space. ..... in future missions to Mars or other destinations.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "and G. Ibrahim: 2001, Precipitating clouds observed by 1.3-GHz L-band boundary ..... Aura Microwave Limb Sounder tracers, J. Geophys. Res. ...... Planetary Fourier Spectrometer (PFS) onboard the European Mars Express mission, Planet.", 
+        "link": "http://www.isas.jaxa.jp/j//researchers/symp/2010/image/0218_proc/24thTaikikenSympo.pdf", 
+        "title": "超伝導サブミリ波リム放射サウンダ (SMILES) - Institute of Space and ..."
+    }
+]

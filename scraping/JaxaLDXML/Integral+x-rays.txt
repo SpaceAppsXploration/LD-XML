@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Original contains color illustrations. Meeting Information: Astrophysics with All- Sky X-Ray observations: 3rd International MAXI Workshop (RIKEN, 10-12 June ...", 
+        "link": "http://repository.tksc.jaxa.jp/pl/dr/AA0064306055", 
+        "title": "Hard X-Ray sources observed by INTEGRAL/IBIS and their science"
+    }, 
+    {
+        "abstract": "1. June 2006. From INTEGRAL to. SIMBOL-X. F. Lebrun. CEA-Saclay. SAp/APC. June 2006. 2. INTEGRAL: a European gamma-ray observatory. SPI – The ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/workshop/hea_nextdecade/Download/F.Lebrun_Future_HE_Mission2006.ppt", 
+        "title": "From INTEGRAL to SIMBOL-X - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "5, 2006, JPhCS, 54, 95K, New X-ray views of the Galactic Center observed with ... flare: Suzaku, XMM-Newton and INTEGRAL observations, Esposito,P. et al.", 
+        "link": "http://www.darts.isas.jaxa.jp/astro/suzaku/papers/sortByYear.html", 
+        "title": "DARTS/Suzaku at ISAS/JAXA - Papers (order by Year)"
+    }, 
+    {
+        "abstract": "According to a simultaneous observation of Crab with other X-ray missions, RXTE, INTEGRAL, and Swift on 2007 March 20-21, the absolute timing of the main ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/process/caveats/caveats_hxd07.html", 
+        "title": "HXD: Timing accuracy"
+    }, 
+    {
+        "abstract": "Astro-E2/Swift/Glast. Astro-E2/Glast. Astro-E2/Swift. Synergy between X-ray and Gamma-ray Observation present and future. GLAST. 2006. INTEGRAL. 2002.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ICRR2003-Takahashi.pdf", 
+        "title": "Gamma-ray Observation in Space"
+    }, 
+    {
+        "abstract": "The new Japanese X-ray Astronomy satellite, ASTRO-H will carry two identical ... been selected as an integral part of the ASTRO-H mission by JAXA in 2008.", 
+        "link": "http://astro-h.isas.jaxa.jp/researchers/SPIE2010/spie2010-hxt.pdf", 
+        "title": "Hard X-ray Telescope to be onboard ASTRO-H"
+    }, 
+    {
+        "abstract": "We report on the results of Suzaku and RXTE X-ray observations of XSS J12270 –4859, one of the hard. X-ray sources in the INTEGRAL catalogue. From optical ...", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064574084/64574084.pdf", 
+        "title": "Suzaku observation of the enigmatic hard X-ray source XSS ... - Airex"
+    }, 
+    {
+        "abstract": "Jun 21, 2006 ... Hard X-ray (10-600 keV) sky not yet surveyed to ROSAT sensitivity. EXIST would be ~20X more sensitive than Swift or INTEGRAL and cover full ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/workshop/hea_nextdecade/Download/J.Grindlay_Future_HE_Mission2006.ppt", 
+        "title": "EXIST Concept - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Spatial Distribution of the Galactic Diffuse X-rays and the Spectral/Timing Study ...... B39: SPI/INTEGRAL Measurement of the Galactic High Energy Emission—L.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/society/suzaku_0812.pdf", 
+        "title": "PDF file (260KB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "... We propose to observe 3 INTEGRAL-discovered High Mass X-ray Binaries ( IGR HMXBs) to search for X-ray pulsations and to study their broadband spectra.", 
+        "link": "http://darts.isas.jaxa.jp/astro/suzaku/suzakumaster/suzakuMasterSearchCondition.do?lookupDispatchKey=SEARCH&sortSeq=%2B&line=full&searchMenu=HTML&patternChecked=on&obsid=402064010", 
+        "title": "DARTS / ASTRO"
+    }
+]

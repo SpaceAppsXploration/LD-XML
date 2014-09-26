@@ -1,0 +1,32 @@
+[
+    {
+        "abstract": "GAIA ー GPS-Aided Inertial Navigation Avionics / GPS補強型慣性航法装置. GAL ー galactic light / 銀河光. GAO ー Government Accounting Office / 主計局.", 
+        "link": "http://spaceinfo.jaxa.jp/abbr/abbr_g.html", 
+        "title": "SPACE INFORMATION CENTER : 略語一覧 A"
+    }, 
+    {
+        "abstract": "XEUS、JWST、GAIA 各ミシンにおけるイクロナテクロジ. かかりについて、簡単に ...... space environment (space radiation, ultraviolet rays, atomic oxygen) for space ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0063741000/63741000.pdf", 
+        "title": "This document is provided by JAXA. - JAXA Repository - 宇宙航空 ..."
+    }, 
+    {
+        "abstract": "Aug 4, 2003 ... environments with strong ultraviolet radiation, temperature swing, etc. ...... al performance by MSAS-GAIA was confirmed for all flight phases.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/NALRP2003000/nalrp2003000.pdf", 
+        "title": "2002∼2003 - Airex"
+    }, 
+    {
+        "abstract": "Ray Evolving Universe Spectroscopy mission, Vol.5488, p.388: UV and GammaaRay Space Telescope Systems, ...... GAIA, Miyazaki: 日本航空宇宙学会: ( ２００４).", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2004/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの - Institute of ..."
+    }, 
+    {
+        "abstract": "2011年1月2日 ... モデル“GAIA”を構築し、宇宙からの影響に加え地上付近の大気変動による影響を 受ける ...... includes high vacuum, thermal cycling, ultraviolet and.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-017.pdf", 
+        "title": "V - JAXA Repository - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "2008年11月25日 ... Planck GAIA. HST. ISO ...... spectra of ultraviolet, which could affect the surface .... It is well known that he UV/VIS/IR spectrum of the sun.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382000/64382000.pdf", 
+        "title": "第5回「宇宙環境シンポジウム」 講演論文集 - JAXA Repository"
+    }
+]

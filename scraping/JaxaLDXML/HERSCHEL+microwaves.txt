@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The Herschel Space Observatory launched in May 2009 to an orbit around the L2 ... Herschel is expected to revolutionize many .... Microwave. Background.", 
+        "link": "http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/SPICA_pamphlet_English.pdf", 
+        "title": "SPICA Pamphlet (PDF)"
+    }, 
+    {
+        "abstract": "Herschel SPIRE HERMES Survey,. >27000 galaxies ... by broad-band imaging surveys with Herschel. BLISS overview ... MKID（Microwave Kinetic Inductance）,.", 
+        "link": "http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/Science_WS_2010/proceedings/Poster_I5_Matsuura.pdf", 
+        "title": "US proposed Instrument(s)"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Disk Radii and Grain Sizes in Herschel-Resolved Debris Disks ...... Title: Searching for the Culprit of Anomalous Microwave Emission: An ...", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "2009年10月16日 ... Clusters in Microwaves. II. Evolution ... のL, M, Z. ‣ microwave→CMBスペクトルの 揺らぎ ... Charles Messier (1784), William Herschel (1785)らが.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Emitsuda/labo/index.php?plugin=attach&refer=StudyCamp&openfile=zemi-ronshou-presen.pdf", 
+        "title": "M"
+    }, 
+    {
+        "abstract": "... Microwave Anisotropy Probe)が最初のミッションである。太陽-地球系のL2点は、 その位置の特性から天文衛星に適した場所であり、今後もHerschel(ESA, 2007年 ...", 
+        "link": "http://repository.tksc.jaxa.jp/pl/dr/AA0049043000", 
+        "title": "太陽-地球系L2点周りのハロー基準軌道の設計"
+    }, 
+    {
+        "abstract": "physical temperature of astronomical sources, such as Cosmic Microwave. Background Radiation with an accuracy of ∆T/T~10-6. Inflation universe might.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss13/paper/P5-017.pdf", 
+        "title": "GaAs JFETを用いた極低温電子回路の開発進捗状況と 構築中の ... - ISAS"
+    }, 
+    {
+        "abstract": "Feb 6, 2006 ... MAP (Microwave Anisotropy Probe), June 30, 2001, NASA/GSFC ... Herschel ( FIRST; The Far Infra-Red and Submillimetre Telescope), ~2007 ...", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Emasa/ir-sat.html", 
+        "title": "Infrared Space Telescopes - LIRA / ISAS"
+    }, 
+    {
+        "abstract": "T. G. Mueller, Herschel Calibration Steering Group, ASTROaF Calibration ..... T. Mitani:Experimental equipments for microwave power transmission in Kyoto.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2004/4-2-1.pdf", 
+        "title": "単行本、学術誌、論文集および国際会議で発表のもの"
+    }, 
+    {
+        "abstract": "Wilkinson Microwave Anisotropy Probe (2001 at L2); Probe the CMB fluctuation Spectrum below the horizon scale : q ~ 900 - 0.2 ... Herschel launched !!! 14 May ...", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Emaruma/kougi/sec7_120712.pptx", 
+        "title": "PPTX"
+    }, 
+    {
+        "abstract": "2003年11月17日 ... 100,000th Hubble 90億光年QSO microwave Sub-mm 赤外 visible .... 1800 Herschel discovers IR radiation. • 1801 Johann Ritter discovers UV ...", 
+        "link": "http://www.ir.isas.jaxa.jp/%7Ecpp/teaching/cosmology/documents/cosmology01-01.pdf", 
+        "title": "Fundamental Cosmology : 1.Introduction"
+    }
+]

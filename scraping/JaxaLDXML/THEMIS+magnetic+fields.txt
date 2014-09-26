@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Apr 24, 2014 ... We propose to exploit the excellent spectro-polarimetric capabilities of THEMIS for measurements of the magnetic field vector in prominences, ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0255", 
+        "title": "HOP 0255"
+    }, 
+    {
+        "abstract": "Jun 23, 2011 ... Comparing vector magnetic fields and other physical quantities ... To obtain similar relationships as given in 1 and 2 between THEMIS, ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0194", 
+        "title": "HOP 0194 - ISAS"
+    }, 
+    {
+        "abstract": "HOP 0004 was run 1 time. Coordinated Campaign Observation with THEMIS - a. Filament/prominence study, b. Evolving 3D Magnetic Field in Active Regions.", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop_list.php?view=old", 
+        "title": "HOP list"
+    }, 
+    {
+        "abstract": "Dec 21, 2006 ... Coordinated Campaign Observation with THEMIS - a. Filament/prominence study , b. Evolving 3D Magnetic Field in Active Regions ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0004", 
+        "title": "HOP 0004 - ISAS"
+    }, 
+    {
+        "abstract": "Apr 18, 2012 ... hemisphere for northward IMF: THEMIS multi-point observations”, .... expansions for quasi-radial interplanetary magnetic field: THEMIS and ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/CV/CVhase120418.pdf", 
+        "title": "CV"
+    }, 
+    {
+        "abstract": "Jun 20, 2007 ... THEMIS. At the VTT will use the spectropolarimeter TIP and POLIS to ... measure the photospheric magnetic field with the line pair at 630.2 nm.", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0025", 
+        "title": "HOP 0025 - ISAS"
+    }, 
+    {
+        "abstract": "May 16, 2007 ... telescopes in Canary Islands (SST, VTT, THEMIS, and DOT) will allow us ... Quiet Sun magnetic fields: high cadence observation covering SOT ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0014", 
+        "title": "HOP 0014"
+    }, 
+    {
+        "abstract": "May 19, 2010 ... Due to magnetic latitude dependence of the solar wind ... Evidence for FTEs resulting from multiple X-line reconnection: THEMIS observations. X ... new X-line first has to consume already open field lines to reconnect closed ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar_resume_2010/20100519_Hasegawa.ppt", 
+        "title": "y"
+    }, 
+    {
+        "abstract": "and Y. Khotyaintsev, “Reconstruction of a bipolar magnetic signature in an .... expansions for quasi-radial interplanetary magnetic field: THEMIS and Geotail.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/CV/CVhase110628.pdf", 
+        "title": "Curriculum Vitae"
+    }, 
+    {
+        "abstract": "Oct 22, 2009 ... ... used in order to determine the photospheric magnetic field. .... ground-based telescope THEMIS, using the non-magnetic 557.6 nm Fe i line ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0143", 
+        "title": "HOP 0143"
+    }
+]

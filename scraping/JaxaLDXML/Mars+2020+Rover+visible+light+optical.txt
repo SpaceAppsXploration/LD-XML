@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Jan 13, 2008 ... [S2-9] Using Very Small Rovers to Explore the Surface of Primitive Bodies (15) ... 18:45 Session-3: Poster and Visual Presentation Session. * Light refreshments and food will be served ..... Exploration Working Group) and IMEWG ( International Mars Exploration .... PHOs larger than 140 meters by 2020.", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Bioimaging by X-Ray Laser Diffraction at SACLA. Y. Bessho . ...... observations ( optical/IR and radio waves) toward the exo-solar Earth-like planets. ...... lives with a rover, Mars 2020, build based on success- ful (in engineering ...", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "B-2 Impacts of Proton Irradiation on Optical and Electrical Properties ... B-3 On- orbit Performance Analysis on Solar Array Paddle of X-ray ...... December 2020 ... Other mission payloads are the sampler and the small rover (MINERVA2) , which ... it is orbiting from just inside the orbit of the earth to just outside the orbit of Mars .", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-008E.pdf", 
+        "title": "Effect of 250keV Electron Irradiation on - JAXA Repository"
+    }, 
+    {
+        "abstract": "Kohei Kawai, et al. : Optical, UV and Soft X-ray Transmis- sion of Optical Blocking Layer for the X-ray CCD : AIP ...... M3 2020/2022 Launch : Experimental Astronomy : Vol. 33 (2-3), pp.365-401 ...... Mars : Transactions of JSASS Aerospace Technology. Japan : Vol. .... opment of a Multi-Legged Planetary Exploration Rover.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "Large X-Ray Flares of MRK 421 : 11th European VLBI ... Development of Dielectric X-ray Micro- .... Instrumentation 2012: Optical, Infrared, and Millimeter .... 赤天連シンポジウム「2020 年に向けてのロードマッ ..... era for Japanese Mars Meteorological Orbiter : AOGS- ...... mous Navigation for Planetary Exploration Rover, Cu-.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Aug 4, 2003 ... Investigation of Optical Flow Field Measurement Methods for Application in ..... can be seen that the angle of attack sweeps be- tween 14 and 2 degrees ..... 2020 before we realize SST on a large scale. ...... scattered light from the laser sheet was observed through the ...... vious rovers on the Moon and Mars.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/NALRP2003000/nalrp2003000.pdf", 
+        "title": "2002∼2003 - Airex"
+    }, 
+    {
+        "abstract": "V-disparity Based Visual Navigation for Planetary Exploration Rovers」. ＊大津 恭平 ..... 発し，2020 年代前半にこれを火星において実証することを目指し，ミッションの 概念検討 ... We are planning the Mars Surface Exploration Demonstrator mission to realize entry, ... composed of small and light structure, while the thrust is small.", 
+        "link": "http://www.hayabusa.isas.jaxa.jp/kawalab/astro/2014/%E3%82%A2%E3%83%96%E3%82%B9%E3%83%88_0722.pdf", 
+        "title": "A 会場"
+    }, 
+    {
+        "abstract": "high-resolution MEMS X-ray optics : Optical MEMS and Nanophotonics 2009 : IEEE ...... SELENE2/Rover 搭載の元素分析装置 GNS : 第 10 回宇宙科学 シンポジウム ...... Opportunities for Mars Exploring Mission in 2015-2020 : 27th International ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2009/09yoran487_617.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "Baryons at the Edge of the X-ray. Brightest Galaxy Cluster : 第 12 ..... olution MEMS X-Ray Optics for Space Astronomy : 16th International ... Mars' Rotation : Asia Oceania Geosciences Society 8th ..... 佐々木 晶ほか : 2020 年代の木星系 探査計画 (EJSM) : 日本地球惑星 ...... 鈴木 亮ほか : Inflatable Wheel for Ultra-Light Rover for.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2-c.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "Kazuhisa Mitsuda：The Soft X-ray Diffuse Background and Hot Gas in and ..... Optical, Infrared, and Millimeter Wave：SPIE：. （2010）：Proceedings of ..... 査 WG： 2020年代の木星系探査計画：日本地球惑. 星科学連合2010年 ..... Yamazaki, and MELOS Mars Atmospheric Escape .... Maneuverability Analysis of Screw Drive Rover.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2010/10yoran300_409.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }
+]

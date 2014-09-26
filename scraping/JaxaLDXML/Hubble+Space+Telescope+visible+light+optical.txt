@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Space Experiments Expand Possibilities for the Future - Results from the Japanese ... a radio astronomy group in the United Kingdom, and the optical telescope in ... data from the Hubble Space Telescope and the Chandra X-ray Observatory.", 
+        "link": "http://global.jaxa.jp/article/special/experiment/matsuoka02_e.html", 
+        "title": "JAXA | The X-ray Observatory to Make the Violent Universe Visible"
+    }, 
+    {
+        "abstract": "Telescopes with visible-light collecting mirrors as large as 10 metres in ... Telescopes orbiting the Earth in space provide images of exquisite quality, since they .... the Hubble Deep Field-North, which has been well-studied many many optical, ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Epgandhi/nakshatra/nakshatra.html", 
+        "title": "Super Massive Black Holes"
+    }, 
+    {
+        "abstract": "Fig.1 Basic principle of refracting telescopes Light is collected by the objective lens to ... to make larger telescopes for research, such as the optical infrared telescope ... A well-known example is the Hubble Space Telescope, launched by the ...", 
+        "link": "http://www.aero.jaxa.jp/eng/publication/magazine/sora/2010_no38/ss2010no38_03.html", 
+        "title": "Telescopes-Equipment to learn more about space | PR brochure ..."
+    }, 
+    {
+        "abstract": "Apr 19, 2013 ... The Monitor of All-sky X-ray Image (MAXI), one of the Exposed Facility payloads of ... For these reasons, the Hubble Space Telescope is used to conduct precise observation. ... Right: Layered optical light photo and X-ray data.", 
+        "link": "http://iss.jaxa.jp/en/kiboexp/news/130222_maxi.html", 
+        "title": "MAXI detects a hypernova remnant - the world's first discovery in the ..."
+    }, 
+    {
+        "abstract": "This photograph, taken by the Hubble Space Telescope, shows the spiral galaxy ... This is a composite picture, in x-ray, visible light, and infrared light, of the galaxy .... X-rays from Chandra (colored purple), optical and ultraviolet (UV) data from ...", 
+        "link": "http://iss.jaxa.jp/utiliz/renshi/space2007/about_bg_e.html", 
+        "title": "About background images of the Space Poem Chain GallerySpace ..."
+    }, 
+    {
+        "abstract": "a successor to the Hubble Space Telescope. ... It will study infrared light ... of view than anticipated from ground-based telescopes using adaptive optics. ... distant galaxies, whose light is shifted into the infrared portion of the spectrum, we will ...", 
+        "link": "http://www.isas.jaxa.jp/publications/reportSP/no14/pdf3/ngst_mather.pdf", 
+        "title": "The Next Generation Space Telescope - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "This snapshot was made by the Hubble Space Telescope on 10 August 2008, ... The colorful rays of light are an optical phenomenon produced by the light of stars .... Here and there young-looking blue straggler stars are visible shining bluely ...", 
+        "link": "http://iss.jaxa.jp/utiliz/renshi/about_bg_e.html", 
+        "title": "About background images of the Space Poem Chain GallerySpace ..."
+    }, 
+    {
+        "abstract": "a successor to the Hubble Space Telescope. ... It will study infrared light. because ... of view than anticipated from ground-basedtelescopesusing adaptive optics.", 
+        "link": "http://www.isas.jaxa.jp/publications/reportSP/no14/ps/ngst_mather.ps", 
+        "title": "The Next Generation Space Telescope - ISAS"
+    }, 
+    {
+        "abstract": "A larger aperture can gather more light and increase the \"resolution\" allowing faint ... The primary mirrors of optical telescopes have been made of glass with low ... the primary mirror for the Hubble Space Telescope (USA), launched in 1990, has a ... like that in the infrared imaging satellite Akari (Japan), launched in 2006.", 
+        "link": "http://www.aero.jaxa.jp/eng/publication/magazine/sora/2010_no38/ss2010no38_02.html", 
+        "title": "Looking for a tool to see space in detail | PR brochure \"Sora to Sora ..."
+    }, 
+    {
+        "abstract": "It has been traced by a combination of deep Hubble Space Telescope (HST) ... Ultradeep optical images (e.g. Hubble Deep Field) reveal many galaxies too faint .... heat sufficiently to be detected in the mid-infrared and scatter enough light to.", 
+        "link": "http://www.isas.jaxa.jp/publications/reportSP/no14/pdf3/grieke.pdf", 
+        "title": "Science with a Large, Far-Infrared Telescope"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "abstract": "Aug 25, 2014 ... New discoveries and their IR spectral energy distributions ...... Michael; Mushotzky, Richard; Veilleux, Sylvain; Winter, Lisa M.; Baumgartner, ...", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "Mar 31, 2007 ... Holes: From Stars to Galaxies - Across the Range of Masses, ..... Ebisawa Ken, Kubota Aya, Miyamoto Masao, Winter Lisa M., Ueda ..... probed by infrared spectroscopy: Mapping the Galaxy and Nearby Galaxies: (2006).", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2006/yoran_16.pdf", 
+        "title": "２．所外の学術雑誌などに発表のもの 高エネルギー天文学研究系"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "abstract": "Aug 1, 2012 ... of binoculars can participate in this optical com- munication ... the movie “2001: A Space Odyssey”) appear in sto- ries set in ... LED-based visible light communication experiment. Institution: .... to Mars or other destinations.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Bioimaging by X-Ray Laser Diffraction at SACLA ..... Overview of Japan's MELOS1 Mission: Mars Exploration for Life/Organism Search ..... can form a stable structure and express a biological ..... M. and Pidgeon, R. T. (2001) Nature, 407, 178–181. ...... dust sampling because of its light weight and optical.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }
+]

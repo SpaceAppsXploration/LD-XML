@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "2010年4月12日 ... GLAST, Swift, Fermi. ... GLAST衛星完成予想図（NASA & SLAC）。日本からは広島 大学、 ... Gamma-ray Observation in Space (宇宙線研究会 2003).", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/Missions/GLAST/glast.html", 
+        "title": "Fermi 衛星"
+    }, 
+    {
+        "abstract": "2008年10月21日 ... 今年6月に打ち上げられたフェルミガンマ線天文衛星（旧GLAST）が、 ... Fermi Telescope Discovers First Gamma-Ray-Only Pulsar（NASA，英語） ...", 
+        "link": "http://www.isas.jaxa.jp/j/topics/topics/2008/1021.shtml", 
+        "title": "ISAS | フェルミ衛星がガンマ線で輝く新しいパルサーを発見、米 ..."
+    }, 
+    {
+        "abstract": "2009年3月18日 ... 2009-01-29 1919 Fermi-LAT detection of increased gamma-ray ... 2008-08-08 1650 GLAST LAT detection of a possible new gamma-ray flaring blazar: PKS 1502+106 ... http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/ ...", 
+        "link": "http://heapa.astro.isas.jaxa.jp/activity/2008/heapaws9/090318/katagiri.pdf", 
+        "title": "Fermi衛星による超新星残骸、AGN"
+    }, 
+    {
+        "abstract": "NASAと共同で進めてきた、世界で初めての太陽の硬X線望遠鏡を用いた撮像観測 ... 本研究室の卒業生の田中孝明さん（現在スタンフォード大学）が「Fermi衛星による .... 本 研究室が提案時から参加している、国際ガンマ線天文衛星GLAST(Gamma-ray ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/News/News.html", 
+        "title": "X線天文衛星技術を応用した超広角コンプトンカメラの研究"
+    }, 
+    {
+        "abstract": "Pulsars at the Highest Energies: Questions for AGILE, Fermi (GLAST) and Atmospheric Cherenkov Telescopes ... Observational studies of gamma-ray pulsars languished in recent years, while theoretical studies ... レコードタイプ, NASA文献 ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20080045435", 
+        "title": "Pulsars at the Highest Energies: Questions for AGILE, Fermi (GLAST)"
+    }, 
+    {
+        "abstract": "Neil Gehrels (NASA/GSFC) ... David Thompson (NASA/GSFC) ... observations with contemporary missions such as INTEGRAL, Swift, Fermi. (formerly GLAST) and ground-based optical/NIR/radio and UHE gamma-ray observatories, as well as.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064306000/64306000.pdf", 
+        "title": "Astrophysics with All-Sky X-Ray Observations"
+    }, 
+    {
+        "abstract": "Aug 6, 2008 ... 1 NASA/MSFC, Huntsville, AL 35812, USA ... Fermi Gamma Ray Space Telescope was launched. ..... 2007, The First GLAST Symposium,.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064306060/64306060.pdf", 
+        "title": "All Sky Observations with BATSE and GBM - Airex"
+    }, 
+    {
+        "abstract": "Fermi GLAST s 5-year mission objectives: a) Explore the most extreme environments in the Universe. b) ... crack the mysteries of gamma-ray bursts. e) Answer long-standing questions across a broad range of topics, ... レコードタイプ, NASA文献 ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20080042294", 
+        "title": "Processing GPS Receiver Data for Improved Fermi GLAST Navigation"
+    }, 
+    {
+        "abstract": "A Compton camera is the most promising detector for gamma-ray astronomy in the energy band ..... Fermi［3］and other near-future missions. However ...... years lead to the launch of COMPTEL［4，5，6，7，8］onboard NASA's Compton Gamma . Ray ... a sensitivity which is comparable to that achieved by GLAST sensitivity.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/Takeda_dthesis.pdf", 
+        "title": "Experimental Study of a Si/CdTe Semiconductor Compton Camera ..."
+    }, 
+    {
+        "abstract": "The Fermi Gamma-ray Space Telescope is an international and multi-agency space ... 3See http://www.nasa.gov/mission pages/GLAST/main/ for details.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/Dai.Takei_doctor.pdf", 
+        "title": "PDF file (26.7MB) - X-ray Astronomy Group at ISAS"
+    }
+]

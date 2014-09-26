@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Jan 13, 2008 ... [S2-9] Using Very Small Rovers to Explore the Surface of Primitive .... Only Group X will continue the meeting from the 1st Round .... Exploration Working Group) and IMEWG (International Mars .... PHOs larger than 140 meters by 2020. ..... dynamic pressure, and the radiation so on, the importance of the real ...", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Bioimaging by X-Ray Laser Diffraction at SACLA. Y. Bessho . ...... for signs of \" past\" lives with a rover, Mars 2020, build based on success-.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "This is very far away - none of us can be sure what will happen in 2020. ... Yes, I do believe the Moon is a step to Mars, but not to build a rocket on the Moon. ... Astronauts traveling on a lunar rover aided by their robotic explorer ... and some of the missions that have been so successful in X-ray astronomy of the sun, for ...", 
+        "link": "http://global.jaxa.jp/article/special/lunar/mendell_e.html", 
+        "title": "JAXA | \"Learning to Live and Work in Space\""
+    }, 
+    {
+        "abstract": "Research of new instrumentations for next-generation X-ray and gamma-ray observations and their .... Currently we are engaged in the development of a tiny rover system (named MINERVA-II) to explore over ..... Operation of the ISS has been extended until 2020. ... such in space station, Moon base and Mars base. In order ...", 
+        "link": "http://global.jaxa.jp/about/employ/pdf/2013project_theme_e.pdf", 
+        "title": "Download"
+    }, 
+    {
+        "abstract": "Jul 2020. Feb 2021. 1.2t. 2.1t. Nov 2021. Jan 2024. 1.3t. 2.2t. Sep 2022. Aug 2023 ... question “Why (and how) is Mars different from the Earth?”, missions ... Solar-wind monitor, Solar-radiation monitor. “Remote ... well-equiped rover. C did t it f.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss11/paper/S3-18_20110214054007.pdf", 
+        "title": "MELOS: Japan's M E l ti Pl Mars Exploration Plan"
+    }, 
+    {
+        "abstract": "... like a miniature camera, and we also have a spectrometer, which measures X- rays. ... landers, rovers, even a robotic village on the surface of the Moon, and later a human base. ... And going to the Moon is the first step towards Mars exploration. ... on the Moon, such as a global robotic village, and a human base by 2020.", 
+        "link": "http://global.jaxa.jp/article/special/lunar/foing_e.html", 
+        "title": "JAXA | \"Our 8th Continent, the Moon\""
+    }, 
+    {
+        "abstract": "Oct 23, 2012 ... ESA S/C Mars-Express was launched in 2003 with Russian ... Investigation of cosmic rays with extremely high energies up to ... The Project is in Phase A. Planned date of launch – 2020. Project is ... functioning Indian rover.", 
+        "link": "http://www.jspec.jaxa.jp/symposium/01/1-3_TSNIIMASH_Yakovlev.pdf", 
+        "title": "Future Robotic Mission"
+    }, 
+    {
+        "abstract": "Mar 13, 2009 ... two US rovers (Spirit and Opportunity) have been roving on Mars. .... transport human crews to the Moon no later than 2020, and will be part of ..... of India's Chandrayaan-1 spacecraft carried the UK's Chandrayaan-1 X-ray.", 
+        "link": "http://www.jspec.jaxa.jp/e/enterprise/data/E1_ISECG%20Annual%20Report%202008_FINALYokohama20090313.pdf", 
+        "title": "The 2008 Annual Report of the International Space Exploration ..."
+    }, 
+    {
+        "abstract": "A-3 Analysis of Radiation Damage in On-orbit Solar Array of Venus Explorer AKATSUKI. Hiroyuki ... B-3 On-orbit Performance Analysis on Solar Array Paddle of X-ray ...... the target asteroid 1999 JU3 in 2018, and coming back to the earth 2020. 1. ... been to the moon, and it is said that the next target is Mars. .... Small Rover.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-008E.pdf", 
+        "title": "Effect of 250keV Electron Irradiation on"
+    }, 
+    {
+        "abstract": "Shibata: An X-ray calibration facility with a dynamical pencil beam for the ...... S. Kodama, and Rover Group in Japan: Scientific exploration of lunar surface ..... ionosphere at Mars: Comparative studies of particle fluxes and ion ... Modulated by Atmospheric Gravity Wave, Proceedings of ISTS Symposium, 2020-2023, ( 2002).", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2002/27seika2.pdf", 
+        "title": "2．所外の学術雑誌などに発表のもの - Institute of Space and ..."
+    }
+]

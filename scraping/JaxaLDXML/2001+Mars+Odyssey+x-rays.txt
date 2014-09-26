@@ -1,0 +1,47 @@
+[
+    {
+        "abstract": "Mar 13, 2009 ... orbit are the U.S. Mars Odyssey (launched in 2001), ESA's Mars Express ..... Chandrayaan-1 spacecraft carried the UK's Chandrayaan-1 X-ray.", 
+        "link": "http://www.jspec.jaxa.jp/e/enterprise/data/E1_ISECG%20Annual%20Report%202008_FINALYokohama20090313.pdf", 
+        "title": "The 2008 Annual Report of the International Space Exploration ..."
+    }, 
+    {
+        "abstract": "Oct 23, 2012 ... NASA S/C Mars-Odyssey, equipped with. Russian device “HEND”, was launched in 2001. Lunar map of epy-thermal neutrons radiation.", 
+        "link": "http://www.jspec.jaxa.jp/symposium/01/1-3_TSNIIMASH_Yakovlev.pdf", 
+        "title": "Future Robotic Mission"
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... the movie “2001: A Space Odyssey”) appear in sto- ..... to Mars or other destinations. .... X-ray astronomy satellites and infrared observatories.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Bioimaging by X-Ray Laser Diffraction at SACLA. Y. Bessho . ..... Overview of Japan's MELOS1 Mission: Mars Exploration for Life/Organism Search. T. Satoh, T . Kubota, ..... can form a stable structure and express a biological function. ..... M. and Pidgeon, R. T. (2001) Nature, 407, 178–181. [4] Hamano, Y.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "専門的に詳述すれば、宇宙放射線は宇宙環境に存在する電離放射線☆であり、X 線や ガンマ. 線等の ... ①銀河宇宙線（Galactic Cosmic Ray : GCR） ..... 2001 年 04 月 07 日に打ち上げられた火星探査機、2001 マーズ・オデッセイ(2001 Mars. Odyssey)は、 地球から火星への途上、ならびに火星軌道での放射線環境を明らかにするため、.", 
+        "link": "http://edu.jaxa.jp/seeds/pdf/2_radiation.pdf", 
+        "title": "宇宙放射線"
+    }, 
+    {
+        "abstract": "Griffin et al., 2001; Griffin et al., 2003). ..... radiation resistance. ... R. and Venkateswaran, K. Microbial characterization of the Mars Odyssey spacecraft and its.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064301002/64301002.pdf", 
+        "title": "Investigation of cultivable microorganisms in the stratosphere ..."
+    }, 
+    {
+        "abstract": "例として，Mars Global Surveyor (MGS)搭載の Mars Orbiter Laser Altimeter (MOLA )による雲エコーの観測. [Ivanov and Muhleman, 2001; Colaplete et al., 2003]がある ． ... 本研究に用いた火星大気大循環モデル DRAMATIC (Dynamics, RAdiation, ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2013/image/0228_proc/7-4.pdf", 
+        "title": "火星における CO2 大気の凝結と傾圧不安定波の影響"
+    }, 
+    {
+        "abstract": "測による限られた localtime における温度場[Smith et al., 2001; Kleinböhl et al., 2009 ... 5 DRAMATIC = Dynamics, RAdiation, MAterial Transport and InteraCtions ... 世紀末より地上サブミリ波望遠鏡や Mars Pathfinder による大気温度観測から示唆 ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0221_proc/4-4.pdf", 
+        "title": "MELOS 気象オービタが拓く，火星中層大気の大循環と力学"
+    }, 
+    {
+        "abstract": "2012年10月31日 ... よく知られているように、槙野先生は X 線天文衛星「ぎんが」の計画を ...... 装置の総 重量は 1,500 kg、消費電力は 350 W である。2000 年～2001 年および ...... 追記 3： 放射線帯嵐観測衛星（Radiation Belt Storm Probes、RBSP)は、打ち上げ後、 ...... the High Energy Neutron Detector, Mars Odyssey, Science 297, No.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-007.pdf", 
+        "title": "Untitled - JAXA Repository - 宇宙航空研究開発機構"
+    }
+]

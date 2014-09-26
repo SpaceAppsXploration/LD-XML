@@ -1,0 +1,27 @@
+[
+    {
+        "abstract": "Volcanic eruptions loft gases and ash particles into the atmosphere and produce effects that are both short term (aircraft hazards, interference with satellite ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19990025338/en", 
+        "title": "Effect of Particle Non-Sphericity on Satellite Monitoring of Drifting ..."
+    }, 
+    {
+        "abstract": "Advanced Particle-Based. Flow Diagnostics a) View .... DPIV - Digital Particle Image Velocimetry. Multiple camera .... designed to loft the Orion Crew Exploration.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064721006/64721006.pdf", 
+        "title": "Unified Data Visualization Using the Virtual ... - JAXA Repository"
+    }, 
+    {
+        "abstract": "ence on Particle and Fundamental Physics in Space ... Clusters : International Symposium on Small Particles .... LOFT: the Large Observatory For X-ray.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }, 
+    {
+        "abstract": "“CFD process” from lofts, grid generation, solver, post-processing, etc. must be ...... Application of Particle Filter (PF) is rare. pp. ( ) ..... 100,000,000 particles (1億) .", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064501000/64501000.pdf", 
+        "title": "X - JAXA Repository - 宇宙航空研究開発機構"
+    }, 
+    {
+        "abstract": "2012年10月31日 ... グ観測器（LOFT）の検討を行っている。大面積 Si ドリフト ...... (42) T. T. von Rosenvinge, L. M. Barbier, et al., The Energetic Particles: Acceleration,.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/SP-12-007.pdf", 
+        "title": "Untitled - JAXA Repository - 宇宙航空研究開発機構"
+    }
+]

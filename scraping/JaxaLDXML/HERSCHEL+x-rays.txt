@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Herschel Space Observatory (Courtesy of ESA/AOES Medialab) ... In X-rays, the big satellite in preparation, called IXO, will be a collaboration between NASA, ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol46/p2_e.html", 
+        "title": "JAXA | Catherine Cesarsky, International Year of Astronomy 2009 ..."
+    }, 
+    {
+        "abstract": "There is a world-wide devoid of future X-ray missions around 2013. An X-ray ... Herschel. JWST. GLAST. High-resolution interferometer in the millimeter band.", 
+        "link": "http://astro-h.isas.jaxa.jp/wp-content/uploads/2013/03/ASTRO-H_Takahashi.pdf", 
+        "title": "ASTRO-H Mission"
+    }, 
+    {
+        "abstract": "SPICA → Cooled Herschel: ... Herschel, overlaid on redshifted (z=1-5) M82 SED +line fits; Right ... population responsible for the 30keV peak in the x-ray.", 
+        "link": "http://www.ir.isas.jaxa.jp/SPICA/WS/200906/doc/P2-26.pdf", 
+        "title": "Far-infrared instruments (SAFARI)"
+    }, 
+    {
+        "abstract": "Herschel and Suzaku—W. Latter . ... Spatial Distribution of the Galactic Diffuse X- rays and the Spectral/Timing Study of the 6.4-keV. Clumps—K. Koyama.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/society/suzaku_0812.pdf", 
+        "title": "PDF file (260KB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "SPICA (< 6 K) → Cooled Herschel: ... population responsible for the 30keV peak in the x-ray ... IR and submm facilities (ALMA, Herschel, Spitzer and JWST).", 
+        "link": "http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/Science_WS_2010/proceedings/Poster_I4_Doi.pdf", 
+        "title": "Technical challenges and solutions: Instrument specification: Why ..."
+    }, 
+    {
+        "abstract": "Field of view of 2' x 2' ... Unresolved lines 5σ-1hr: few x 10-19 W/m2. Photometry 5σ-1hr : < ... 2 orders of magnitude higher sensitivity than Herschel/PACS to detect and ... population responsible for the 30keV peak in the x-ray background.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss13/paper/P2-047.pdf", 
+        "title": "spica - ISAS"
+    }, 
+    {
+        "abstract": "2002 and 2008, we have observed the Cygnus Loop in X-ray with two observatories,. XMM-Newton ...... 5, September, 1774 by William Herschel. The region he ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/uchida_doctor_thesis.pdf", 
+        "title": "PDF file (20.8MB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "3. XRT for Calorimeter. XRT for CCD. Hard XRT. Hard XRT. XRTs. Hard Xray .... Herschel. JWST. Fermi. High-resolution interferometer in the millimeter band.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ASTROH_Takahashi_Bologna_2009Sep07-11.pdf", 
+        "title": "ASTRO-H ASTRO-H"
+    }, 
+    {
+        "abstract": "B：Suzaku X-ray (Fe, Si). G：CO （CGPS）. B：AKARI 90um (dust). R：PAH ... What will remain after Herschel and JWST? Cas A. Rho et al. 2008. Uniqueness: cold ...", 
+        "link": "http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/Science_WS_2010/proceedings/16_3_4_Kaneda.pdf", 
+        "title": "ISM in our Galaxy and nearby galaxies with SPICA"
+    }, 
+    {
+        "abstract": "Space Environments and Effects Section. ESA Standard Radiation Environment Monitor (SREM). INTEGRAL. ROSETTA. PROBA-1. HERSCHEL. GIOVE-B.", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/13/G4_in_ESA.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }
+]

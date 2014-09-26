@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "May 14, 2007 ... In this thesis, we present the X-ray observations with Suzaku for 16 ...... available at http://web.mit.edu/afs/athena/org/s/space/www/wind.html.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/Dthesis_TYoshino.pdf", 
+        "title": "A Study of Soft X-ray Diffuse Background with Suzaku: from the ..."
+    }, 
+    {
+        "abstract": "小型衛星による挑戦. FFAST, Hiz-‐Gundam, DIOS, CAST, Polaris, WF-‐MAXI. 国際 大型X線天文台. 日米欧の国際協力. Interna onal X-‐ray Observatory/ATHENA.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss13/paper/S4-001a.pdf", 
+        "title": "S4-001"
+    }, 
+    {
+        "abstract": "Jul 17, 2014 ... After reviewing the X-ray evidence of massive, high-velocity outflows in ... near- future (Astro-H) and future (Athena) high-energy observatories.", 
+        "link": "http://www.isas.jaxa.jp/home/astro_colloq/20140717_abst.txt", 
+        "title": "Ultra Fast Outflows (aka UFOs) in AGNs and their impact to ... - ISAS"
+    }, 
+    {
+        "abstract": "ダークバリオン探査衛星 DIOS. の開発の現状. 大橋隆哉 (首都大) & DIOSワーキング グループ. ○ サイエンス. ○ DIOSの概要. ○ 衛星の検討と開発状況.", 
+        "link": "http://www.isas.jaxa.jp/home/rikou/kogata_eisei/symposium/3rd/koto/06.pdf", 
+        "title": "X-ray study of large to small scale structures in the Universe"
+    }, 
+    {
+        "abstract": "Large X-Ray Flares of MRK 421 : 11th European VLBI. Network Symposium ..... trometer Onboard Athena : Space Telescopes and In- strumentation 2012: ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの"
+    }, 
+    {
+        "abstract": "The script will, by default, choose the cosmic x-ray background rates based on observation ... BUGS Please report problems to xtehelp\\@athena.gsfc.nasa.gov.", 
+        "link": "http://darts.isas.jaxa.jp/pub/legacy.gsfc.nasa.gov/software/lheasoft/lheasoft6.8/linux_pc/xte/heasoft-6.8/i686-pc-linux-gnu-libc2.3.4/bin/pca_bs", 
+        "title": "/bin/sh # This is the LHEA perl script: /data/saah9/irby/heasoft-6.8 ..."
+    }, 
+    {
+        "abstract": "Feb 12, 2008 ... G4UIterminal implemented over Motif, Athena and WIN32 widgets. ○ runs on ..... Simple model of x-ray telescope to study proton damage.", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/IntroductionToGeant4II_Murakami.pdf", 
+        "title": "PDF1"
+    }, 
+    {
+        "abstract": "X-ray CCDs are now regarded as the standard focal plane detectors of X-ray telescopes ... their first use in the X-ray astronomy satellite ASCA launched in 1993.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Eccd/m_thesis/kondo_mron_2013.pdf", 
+        "title": "Performance Improvement of X-ray CCDs by applying a Magnetic ..."
+    }, 
+    {
+        "abstract": "Jun 25, 2014 ... Temporal variations and spectral properties of the Be/X-ray pulsar GRO ..... Bulk motion measurements in clusters of galaxies with ATHENA-like ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/journals/index.html.en", 
+        "title": "ASTRO-E, E2 Bibliography - Journals - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "properties of the hard X-ray cataclysmic variables IGR J00234+6141 and 1RXS ..... Athena Coustenis, Véronique Dehant, Michele Dougherty, Pierre Drossart, ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2009/09yoran456_486.pdf", 
+        "title": "学術誌等で発表のもの"
+    }
+]

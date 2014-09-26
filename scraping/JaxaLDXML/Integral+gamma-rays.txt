@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Astro-E2/Swift/Glast. Astro-E2/Glast. Astro-E2/Swift. Synergy between X-ray and Gamma-ray Observation present and future. GLAST. 2006. INTEGRAL. 2002.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ICRR2003-Takahashi.pdf", 
+        "title": "Gamma-ray Observation in Space"
+    }, 
+    {
+        "abstract": "1. June 2006. From INTEGRAL to. SIMBOL-X. F. Lebrun. CEA-Saclay. SAp/APC. June 2006. 2. INTEGRAL: a European gamma-ray observatory. SPI – The ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/workshop/hea_nextdecade/Download/F.Lebrun_Future_HE_Mission2006.ppt", 
+        "title": "From INTEGRAL to SIMBOL-X - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "\"Suzaku/WAM and Swift/BAT joint spectral studies of gamma-ray bursts\"; Endo, A. ... Workshop on High Energy Astrophysics Using Suzaku and INTEGRAL\", Apr.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/results/conference.html", 
+        "title": "International Conference Return to - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "While NASA's Compton Gamma-ray Observatory (CGRO) enabled us to explore the Gamma-ray universe, ESA's INTEGRAL mission, launched in 2002, ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20060013027", 
+        "title": "INTEGRAL Observations of the Galactic 511 keV Emission and MeV ..."
+    }, 
+    {
+        "abstract": "HEXTE, High Energy X-ray Timing Experiment (on RXTE). HPD, Half-Power ... INTEGRAL, INTErnational Gamma-Ray Astrophysics Laboratory. JAXA, Japan ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/proposal/ao7/suzaku_td/node13.html", 
+        "title": "A. Acronyms - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "5 INTEGRAL Science Data Centre, Chemin d'Écogia 16, 1290 Versoix, ... the INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL) in the last years .", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064574102/64574102.pdf", 
+        "title": "Suzaku Observation of IGR J16318−4848"
+    }, 
+    {
+        "abstract": "Abstract: After more than 5.5 years of in flight lifetime, the ESA space observatory INTEGRAL is depicting a new scenario in the soft gamma Ray domain. With the ...", 
+        "link": "http://repository.tksc.jaxa.jp/pl/dr/AA0064306055", 
+        "title": "Hard X-Ray sources observed by INTEGRAL/IBIS and their science"
+    }, 
+    {
+        "abstract": "presented for gamma-ray emission from a cluster of galaxies at a detectable level with modern imaging ..... 2σ upper limits on the gamma-ray integral fluxes from.", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064306065/64306065.pdf", 
+        "title": "CANGAROO-III Search for TeV Gamma-rays from Two ... - Airex"
+    }, 
+    {
+        "abstract": "the most attention as X-ray and gamma-ray detectors among the ... (INTEGRAL) satellite and Swift Gamma-ray Burst Explorer are the first missions that make use ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/Proc2003-Sato-SPIE-Paper.pdf", 
+        "title": "PDF 0.95 MB"
+    }, 
+    {
+        "abstract": "A Compton camera is the most promising detector for gamma-ray astronomy in ..... We can expect a further revolution brought by the INTEGRAL［1］, Suzaku［2］,.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/Takeda_dthesis.pdf", 
+        "title": "Experimental Study of a Si/CdTe Semiconductor Compton Camera ..."
+    }
+]

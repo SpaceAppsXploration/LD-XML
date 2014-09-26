@@ -1,0 +1,17 @@
+[
+    {
+        "abstract": "測による限られた localtime における温度場[Smith et al., 2001; Kleinböhl et al., ... 世紀末より地上サブミリ波望遠鏡や Mars Pathfinder による大気温度観測から示唆 され ..... Medvedev et al., 2011a: Estimates of gravity wave drag on Mars: Indication of ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0221_proc/4-4.pdf", 
+        "title": "MELOS 気象オービタが拓く，火星中層大気の大循環と力学"
+    }, 
+    {
+        "abstract": "and G. Ibrahim: 2001, Precipitating clouds observed by 1.3-GHz L-band ...... radar of a KH instability triggered by an inertia-gravity wave in the upper part of a ...... Planetary Fourier Spectrometer (PFS) onboard the European Mars Express ...", 
+        "link": "http://www.isas.jaxa.jp/j//researchers/symp/2010/image/0218_proc/24thTaikikenSympo.pdf", 
+        "title": "超伝導サブミリ波リム放射サウンダ (SMILES) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... the movie “2001: A Space Odyssey”) appear in sto- ries set in space. ..... plant response to gravity and growth control, and are related to ... to Mars or other destinations. From the ..... between turbulence and shock waves, and.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }
+]

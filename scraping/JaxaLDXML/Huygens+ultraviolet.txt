@@ -1,0 +1,37 @@
+[
+    {
+        "abstract": "... where it is broken down to hydrogen and oxygen by ultraviolet rays. ... Meanwhile, observations by the European/U.S. Huygens Lander in 2004 of Titan, one of ...", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2007/imamura/02.shtml", 
+        "title": "ISAS | Wind on Earth, Wind on Venus / The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "... charged particle and energetic neutral atom populations, and ultraviolet (UV) .... The dynamics of Saturn's magnetosphere, in Saturn from Cassini-Huygens, ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/results/1210_badman_e.html", 
+        "title": "最新研究成果"
+    }, 
+    {
+        "abstract": "F. P. Helmich 6, A. M. Heras 5 , R. Huygen 7, D. J. M. Kester 1, D. Kunze 4, F. Lahuis 5, K. J. Leech 5, ... when subject to energetic processing such as ultraviolet.", 
+        "link": "https://www.ir.isas.jaxa.jp/iso/AandA/t_degraauw.ps", 
+        "title": "Full text"
+    }, 
+    {
+        "abstract": "Complementary diagnostic measurements in visible, IR, UV, X that will be used ..... Huygens type VLBI network support might be necessary to meet the scientific ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/material/JovHP/052_JUPITER_EUROPE_Draft_proposal_V15.pdf", 
+        "title": "b°/ Introduction: a Cosmic Vision of the Jupiter system"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: The UV window on counter rotating ETGs: insight from SPH ...... Henning, Th.; Hogerheijde, M. R.; Holland, W. S.; Huygen, R.; Ivison, R. J.; ...", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "2010年5月21日 ... つき」に搭載された紫外イメージャ (UVI: Ultraviolet. Imager) の ...... 高度 160 km 以下 では Huygens はパラシュートにより降下しており、その際気温と圧.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2012/image/0301_proc/26thTaikikenSympo.pdf", 
+        "title": "+ 我々は失敗したのか？ - Institute of Space and Astronautical Science"
+    }, 
+    {
+        "abstract": "the Cassini-Huygens mission leaves off. That is, it would ..... imaging technology that has since been used observe extreme ultraviolet regions of the spectrum.", 
+        "link": "http://www.isas.jaxa.jp/home/rigaku/previous/roadmap/roadmap_report.pdf", 
+        "title": "太陽系探査科学の進むべき方向"
+    }
+]

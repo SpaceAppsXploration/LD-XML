@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The Mars Global Surveyor spacecraft has completed two Mars years in nearly circular polar orbit at a nominal altitude of 400 km. The Mars crust is at least an ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20040062160", 
+        "title": "An Extraordinary Magnetic Field Map of Mars - Airex - 宇宙航空研究 ..."
+    }, 
+    {
+        "abstract": "What's more, neither magnetic field nor radiation belts were detected, and the ... When the US Mars Global Surveyor (MGS) went into orbit in September 1997 ...", 
+        "link": "http://www.isas.jaxa.jp/ISASnews/No.211/mars.html", 
+        "title": "火星探査入門 1998.10 No.211"
+    }, 
+    {
+        "abstract": "The goal of that project was to examine certain details about the dayside electron environment at Mars as seen by the Mars Global Surveyor (MGS) ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20040129706", 
+        "title": "MGS MAG/ER Data Analysis Using a Time and Magnetic Field ..."
+    }, 
+    {
+        "abstract": "Mars Global Surveyor (1996 – 2006) used four 750-Mb solid-state .... current is passed through a pair of write lines, a magnetic field is induced between then in ...", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/26th/data/1_14.pdf", 
+        "title": "Non-Volatile Memory for Space"
+    }, 
+    {
+        "abstract": "Mars Volatile and Climate History: Relevance to Life ... climate and water, emphasizing recent Mars Global Surveyor and martian meteorite analyses, ... the turn-off of the intrinsic magnetic field and \"erasure\" of some local magnetic anomalies, ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20020002116", 
+        "title": "Mars Volatile and Climate History: Relevance to Life - Airex"
+    }, 
+    {
+        "abstract": "Magnetic Field-Assisted Finishing of .... in the Current Sheet and Sec- ondary Magnetic Flux Ropes during Guide Field Mag- ... Waves in the Martian Atmosphere Obtained from Mars. Global Surveyor Radio Occultation Data : Journal of the.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "Q. Could you talk about the lunar missions in preparation around the world? ... The U.S. wants the Moon to be a relay base for human Mars exploration. ... Also, many countries are interested in surveying lunar resources, because it'll be .... I think SELENE will enhance our knowledge of lunar magnetic fields, which will be ...", 
+        "link": "http://global.jaxa.jp/article/special/lunar/mizutani2_e.html", 
+        "title": "JAXA | \"The Quest for New Adventure\""
+    }, 
+    {
+        "abstract": "The situation handled in the previous studies is that the magnetic field line ...... 金星探査機Venus Expressと火星探査機Mars Global Surveyor の電波掩蔽観測で得 ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2012_STP.html", 
+        "title": "2012年度 STPセミナー"
+    }, 
+    {
+        "abstract": "... the magnetosphere of Mercury in order to predict values of the magnetic field to be .... Mars Express による火星大気中のメタンの検出を報告した論文「Detection of ...", 
+        "link": "http://www.stp.isas.jaxa.jp/STP/seminar/abst2005.html", 
+        "title": "2005年度概要 - ISAS"
+    }, 
+    {
+        "abstract": "Venus Expressの電波掩蔽によって得られた金星大気の温度の高度プロファイ ルから 、 ..... Measurement of the magnetic field of Mercury: Mariner 10, Messenger, and ..... 本研究では、火星探査機 Mars Global Surveyor 搭載の赤外分光計 Thermal ...", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2011_STP.html", 
+        "title": "2011年度 宇宙プラズマ研究系セミナー"
+    }
+]

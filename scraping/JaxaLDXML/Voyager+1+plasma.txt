@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "The flyby of Voyager 1 at Saturn resulted in the detection of a large variety of plasma waves, e.g., chorus, hiss, and electron cyclotron harmonics. Just before the ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19940015575", 
+        "title": "A study of Saturn's E-ring particles using the Voyager 1 plasma ..."
+    }, 
+    {
+        "abstract": "During the Voyager 1 and 2 flybys of Saturn, the plasma wave (PWS) instrument recorded impulsive signals that have been attributed to micron-sized dust ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19960018419", 
+        "title": "The properties of micron-sized particles detected at Saturn by ... - Airex"
+    }, 
+    {
+        "abstract": "Wideband waveform data obtained by the plasma wave instruments onboard the Voyager 1 and 2 spacecraft have been used to study micron-sized dust ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19970027484", 
+        "title": "Micron-Sized Particles Detected in the Vicinity of Jupiter by ... - Airex"
+    }, 
+    {
+        "abstract": "During the Voyager 1 and 2 flybys of the outer planets it has been demonstrated that the plasma wave instrument can detect small dust particles striking the ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19980018164", 
+        "title": "Micron-Sized Dust Particles Detected in the Outer Solar System by ..."
+    }, 
+    {
+        "abstract": "SPRINT-A/EXCEEDへの応⽤. The spectral diagnosis of the Io plasma torus ... Voyager-1 and Galileo spacecrafts detected the hot electron components around ...", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/sss11/paper/P2-020_20110209171712.pdf", 
+        "title": "Microsoft PowerPoint - 2011\\224N1\\214\\216\\211F\\222\\210\\211 - ISAS"
+    }, 
+    {
+        "abstract": "The study uses available plasma and magnetic field data from Voyagers over a ... If the magnitude of the interstellar magnetic field B(sub int) is given, one can ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19960021506", 
+        "title": "Locations of termination shock and heliopause based on Voyager ..."
+    }, 
+    {
+        "abstract": "Jan 22, 2009 ... ... by various spacecrafts (such as Ulysses, Voyager 1 & 2, Helios, etc. ... the Lyman-alpha line intensity (indicative of plasma density) show in ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0103", 
+        "title": "HOP 0103"
+    }, 
+    {
+        "abstract": "It was reported that NASA's spacecraft Voyager 1 and 2 launched in 1977 ... gas in the corona (N.B. gas becomes plasma due to high-temperature environment).", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2008/sakao/", 
+        "title": "ISAS | Source of Solar Wind Revealed by HINODE / The Forefront of ..."
+    }, 
+    {
+        "abstract": "... the Planetary Radio Astronomy (PRA) spectrometers on the Voyager 1 and 2 ... the terrestrial ionospheric plasma frequency and its unprecedented proximity ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19940019855", 
+        "title": "Voyager planetary radio astronomy studies - Airex - 宇宙航空研究 ..."
+    }, 
+    {
+        "abstract": "Intensity of radio emissions at 2 to 3 kHz detected by the Voyager plasma wave ... These waves may be observed in situ by Voyager 1 and 2 in the near future.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/19960021495", 
+        "title": "Mechanism for generation of 2-3 kHz radiation in the outer heliosphere"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "X-rays. Galactic and extra-galactic cosmic rays and gamma rays. Secondary ... Cassini. INTEGRAL. Kaguya. Messenger. RHESSI. SOHO. Chandrayaan-1.", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/G4_JAXA_2008_seminar_Nieminen.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Developed and operated by international cooperation, the Fermi Gamma-ray Space ... The Importance of Space Plasma Science at Saturn with Cassini.", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2013.shtml", 
+        "title": "ISAS | 2013 / The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... sent back by the Cassini orbiter, I am ... recent gamma-ray data from the binary ... X-ray astronomy satellites and infrared observatories.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "Gamma-Ray Imaging : Biological and Medical Sensor .... tions of Two Gamma- Ray Emission Components from ..... Simultaneous Cassini VIMS and UVIS Ob-.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2.pdf", 
+        "title": "単行本で発表のもの 学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "Dec 6, 2004 ... Shields Templeton & Holly Ray, Murfreesboro Schools ...... Cassini. Leave this session with easy-to-use templates, information about .... guide, Invisible Universe: The EM Spectrum from Radio Waves to Gamma Rays, (2) the.", 
+        "link": "http://www.jaxa.jp/press/2004/12/20041206_11a-seec-p.pdf", 
+        "title": "（参考）"
+    }, 
+    {
+        "abstract": "Jun 15, 1990 ... CASSINI. COSMIC BACKGROUND EXPLORER (COBE). HUBBLE SPACE TELESCOPE (HST) ... GAMMA RAY OBSERVATORY (GRO).", 
+        "link": "http://stage.tksc.jaxa.jp/spacelaw/kokusai_utyu/tusyou/us_japan_90saction.pdf", 
+        "title": "Agreement on Satellite Procurement (June 15, 1990 ..."
+    }, 
+    {
+        "abstract": "of Cosmic Rays and the Interstellar Medium in nearby. Molecular ... Gamma-Ray Observations of the ..... the Cassini ISS Limb-Darkening Data: I. Continuum.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "and radiation effects, there are many factors to consider when looking for the best solution, ... Cassini (Saturn, 1997) was the first NASA deep space mission to use a ..... Fourier transform infrared (FTIR) spectrometry and other organic analysis.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/mews/jp/26th/data/1_14.pdf", 
+        "title": "Non-Volatile Memory for Space"
+    }, 
+    {
+        "abstract": "Oct 14, 2011 ... Orion 2. Midcourse Space Exp. Int'l Space Station. Cassini. KompSa. NPP / NPOESS ..... Test: Total Ionizing Dose (TID) or Gamma Irradiation.", 
+        "link": "https://eeepitnl.tksc.jaxa.jp/MEWS/JP/24th/14-01.pdf", 
+        "title": "Microsemi: Focused on Space"
+    }, 
+    {
+        "abstract": "CASSINI COSMIC BACKGROUND EXPLORER (COBE) HUBBLE SPACE TELESCOPE (HST) ADVANCED COMMUNICATIONS TECHNOLOGY SATELLITE ...", 
+        "link": "http://www.jaxa.jp/library/space_law/chapter_4/4-1-2-1_e.html", 
+        "title": "4-1-2-1 The Procurement Procedure of Non R&D Satellites"
+    }
+]

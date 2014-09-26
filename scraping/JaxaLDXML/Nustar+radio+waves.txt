@@ -1,0 +1,32 @@
+[
+    {
+        "abstract": "2.5 Polarized X-rays from accretion powered pulsars . ...... poSAX satellite (dal Fiume et al., 1998) and the Suzaku and NuSTAR satellites (Fürst et al.,. 2013) ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/phD_thesis_asamif2.pdf", 
+        "title": "PDF file (6.3MB)"
+    }, 
+    {
+        "abstract": "Our scope also includes NuStar and Simbol-X, and further extends to the truly global .... Soft and Hard X-rays observations of Anomalous X-ray Pulsars and Soft ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064574000/64574000.pdf", 
+        "title": "from Suzaku to ASTRO-H"
+    }, 
+    {
+        "abstract": "ASTRO-H Features... Energy. Coverage. Area for. SoftX-rays. Area for. Hard X- rays. Spectroscopy (for diffuse source). Angular. Resolution. Chandra. XMM.", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/DownLoad/ASTROH_Takahashi_Bologna_2009Sep07-11.pdf", 
+        "title": "ASTRO-H ASTRO-H"
+    }, 
+    {
+        "abstract": "electromagnetic spectrum from radio through gamma-rays, thus called active galactic ... X-rays via synchrotron emission. ...... 1http://www.nustar.caltech.edu/ ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Eccd/d_thesis/matsuta_dron_2013.pdf", 
+        "title": "A Systematic Study of Local Active Galactic Nuclei with Infrared and ..."
+    }, 
+    {
+        "abstract": "mean free path of gamma-rays from 1014 ev to 1019 eV less than 1 Mpc ..... hard X-rays produced by secondary electrons - ASTRO-H (NuSTAR, SIMBOL X).", 
+        "link": "http://astro-h.isas.jaxa.jp/wp-content/uploads/2013/03/Aharonian.pdf", 
+        "title": "Message from SWG Members #9"
+    }, 
+    {
+        "abstract": "Blazar 3C454.3 at the gamma rays flare in November 2008 . ...... future, NuSTAR, sensitive in the hard X-ray (∼ 10 − 80. keV) band, slated to be launched in ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064306000/64306000.pdf", 
+        "title": "Astrophysics with All-Sky X-Ray Observations - JAXA Repository"
+    }
+]

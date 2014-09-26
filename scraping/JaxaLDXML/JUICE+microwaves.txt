@@ -1,0 +1,22 @@
+[
+    {
+        "abstract": "Microwave radiometer. Jovian Infrared Auroral Mapper. Magnetometer ... Jupiter Icy Moon Explorer (JUICE). •! An ESA spacecraft to visit the Jovian system, ...", 
+        "link": "http://ssl.tksc.jaxa.jp/pairg/member/ima/Dec5_Jupiter.pdf", 
+        "title": "12/5 巨大ガス惑星"
+    }, 
+    {
+        "abstract": "The microwave discharge µ10 ion engines have provided the safe return of the ...... Activity of ISAS on JUICE project and next Mars mission should also be.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/review/image/isas_report_2012_e.pdf", 
+        "title": "Report of the External Evaluation Committee for Institute of Space ..."
+    }, 
+    {
+        "abstract": "化し，この枠組みが継続されることはなく，ESA が JUICE. という，木星 ... なお，JUICE が選定される. かどうか ...... microwave integrated circuits）の試作，評価を行った．", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/II-2.pdf", 
+        "title": "2. 研究系"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Searching for the Culprit of Anomalous Microwave Emission: An ...... water vapour; VLA survey reveals big hole; AKARI runs out of juice", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }
+]

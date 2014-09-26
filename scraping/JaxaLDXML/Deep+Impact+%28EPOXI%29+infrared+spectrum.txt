@@ -1,0 +1,27 @@
+[
+    {
+        "abstract": "Jan 13, 2008 ... [S2-2] Towards Accurate Mass Determination with Laser Altimeter in the ..... NEAR-Shoemaker, Hayabusa, Stardust, Deep Impact, Rosetta,Dawn, EPOXI and NEXT as well as .... approved the use of its older Deep Impact (DI) and Stardust .... Since the 1970s, telescopic spectra have been used to detect and ...", 
+        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
+        "title": "Final Program and Book of Abstracts"
+    }, 
+    {
+        "abstract": "Tamagawa : X-Ray Spectroscopy of the Core of the Perseus Cluster with Suzaku: ..... of Infrared Luminosity functions of Galaxies in the AKARI NEP-Deep field: ..... Chicxulub impact due to the indirect greenhouse effect of carbon monoxide ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2009/09yoran456_486.pdf", 
+        "title": "学術誌等で発表のもの"
+    }, 
+    {
+        "abstract": "Deep Field : Astronomy and Astrophysics : Vol. 541,. A50 : (2012) ... Probed by AKARI Far-Infrared Spectral Mapping. De- tection of a Dust Feature .... Viscoelastic Deformation of Lunar Impact ..... Comparison of glass-epoxy Interface. Strengths ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-2.pdf", 
+        "title": "2. 外部の学術雑誌等に発表のもの"
+    }, 
+    {
+        "abstract": "Energy spectrum from the halo region obtained by Suzaku . ... have a major impact on not only dynamical throughout a mass loading (e.g. Suchkov .... 100 pc scale outflow using deep optical narrow-band Hα(+[N II]) data and sugges- ..... Each reflector consists of a substrate also made of aluminum and an epoxy layer that ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/D-thesis_mitsuishi_main_isas.pdf", 
+        "title": "PDF file (24.9MB)"
+    }, 
+    {
+        "abstract": "aerogel. However, their depth/crater diameter ratios are larger than those facing to the RAM direction. .... or micro Raman spectroscopy) were firstly applied and then destructive ... epoxy resin and ultramicrotomed into 70-nm ultrathin sections by using ... craters were formed by low speed impacts of liquid droplets. Fig. 4 BSE ...", 
+        "link": "http://airex.tksc.jaxa.jp/dr/prc/japan/contents/AA0064307008/64307008.pdf", 
+        "title": "INITIAL INVESTIGATION OF SILICA AEROGEL EQUIPPED ON SM ..."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "As you know, the Huygens probe was transported to Titan by the Cassini orbiter. ... At this stage, the probe was completely enveloped by plasma, which does not ...", 
+        "link": "http://global.jaxa.jp/article/interview/vol15/p2_e.html", 
+        "title": "JAXA | Marcello Coradini - Huygens: Reaching for an Unknown ..."
+    }, 
+    {
+        "abstract": "Recently, Cassini/Huygens explorer was sent to .... This study was supported by ISAS/JAXA as a collaborative program of the Space Plasma Experiment.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2011/image/0303_plasma_proc/24.pdf", 
+        "title": "Synthesis of carbon clusters by impact reaction of gas gun ... - ISAS"
+    }, 
+    {
+        "abstract": "The spacecraft Galileo (NASA) and Cassini/Huygens (NASA/ESA/ASI) implemented ... that are accelerated by Jupiter's magnetic field into a giant plasma torus.", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2014/Stefano/", 
+        "title": "ISAS | Aiming for a Much Higher Sky / The Forefront of Space Science"
+    }, 
+    {
+        "abstract": "Cassini/Huygens探査 (2004–) ... ③液体の湖の発見. ②南極・巨大雲の発生. ④氷の 砂丘. ①河川地形. Huygens. 着陸地点. ・水氷の高地( ... Cold plasma. (D2 → 2D).", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/mission/Laplace/material/sekine.ppt", 
+        "title": "タイタン探査の魅力 ータイタンはなぜオレンジか？－"
+    }, 
+    {
+        "abstract": "supported by ISAS/JAXA as a collaborative program of the Space Plasma Experiment. References ... Titan from Cassini-Huygens (Springer, Dordrecht, 2009).", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2013/image/0226_plasma_proc/24.pdf", 
+        "title": "Synthesis of carbon clusters by impact of a projectile onto a target ..."
+    }, 
+    {
+        "abstract": "[1] R. Jaumann et al., Titan from Cassini-Huygens (Springer, Dordrecht, 2009). [2] T. Mieno, S. ... Space Plasma Meeting (2011, Sagamihara) No. 24 (2010) pp.", 
+        "link": "http://www.isas.jaxa.jp/j/researchers/symp/2012/image/0227_plasma_proc/31.pdf", 
+        "title": "Synthesis of carbon clusters by impact of a projectile onto a target ..."
+    }, 
+    {
+        "abstract": "In panel (g) of Figure 2, Cassini Radio and Plasma Wave Science (RPWS) ... ( 2009), The dynamics of Saturn's magnetosphere, in Saturn from Cassini- Huygens, ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/results/1210_badman_e.html", 
+        "title": "最新研究成果"
+    }, 
+    {
+        "abstract": "I am involved in the Cassini-Huygens mission to Saturn and Titan as a member of ... plasma analyser that flew as a student sounding rocket experiment in 2013.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff.html", 
+        "title": "メンバー紹介 - スタッフ"
+    }, 
+    {
+        "abstract": "in situ remote sensing of the plasma, fields, energetic particles gas and dust ...... Huygens type VLBI network support might be necessary to meet the scientific ...", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/material/JovHP/052_JUPITER_EUROPE_Draft_proposal_V15.pdf", 
+        "title": "b°/ Introduction: a Cosmic Vision of the Jupiter system"
+    }, 
+    {
+        "abstract": "number of plasma structures in the earth's magnetosphere. However, par ...... FAST 衛星，Cassini-Huygens 等をはじめとする数多くの衛星に搭載されている [ Möbius.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/mthesis.pdf", 
+        "title": "磁気圏探査に向けた 中間エネルギーイオン分析器の開発"
+    }
+]

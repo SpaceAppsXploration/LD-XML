@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Energetic electron populations and plasma flows at and above the looptop will be discussed ... Solar Orbiter Extreme-Ultraviolet Imager and Solar Wind Analyser ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/solarPlasma/seminar_2013.html", 
+        "title": "Seminar Log"
+    }, 
+    {
+        "abstract": "MMO (Mercury Magnetospheric Orbiter) : Objectives ... This is 1) the rejection of solar reflection light into the upper / lower surface of the ... plasma wave,", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_mmo.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] MMO: Mercury ..."
+    }, 
+    {
+        "abstract": "astronomical, solar and solar- ... Collaboration with Solar Orbiter, Sun observations, Cross-Scale mission, etc. ... heliospheric plasma science DB is required.", 
+        "link": "http://www.c-soda.isas.jaxa.jp/bibliography/old/pm05-ebisawa.pdf", 
+        "title": "Scientific Satellite Data Archives at JAXA - C-SODA"
+    }, 
+    {
+        "abstract": "Research aimed at revealing how space plasmas in the Solar System work is ... from the Sun than Earth, making Cassini the furthest planetary orbiter to date.", 
+        "link": "http://www.isas.jaxa.jp/e/forefront/2013/adam/", 
+        "title": "ISAS | The Importance of Space Plasma Science at Saturn with ..."
+    }, 
+    {
+        "abstract": "To observe strong shock waves near the Sun that are not seen around the ... Orbit, Altitude, Perihermion 400 km, Apohermion 12,000 km ... studies plasma & neutral particles from the planet, magnetosphere, and interplanetary solar wind.", 
+        "link": "http://www.isas.jaxa.jp/e/enterp/missions/mmo/", 
+        "title": "ISAS | Mercury Exploration MMO (BepiColombo) / Missions"
+    }, 
+    {
+        "abstract": "Mar 25, 2011 ... It is currently known that solar irradiance variations in timescales of the order ... and preparation of the PHI instrument on-board the Solar Orbiter satellite, one of ... The Sun frequently ejects magnetic field and plasma into the ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0185", 
+        "title": "HOP 0185"
+    }, 
+    {
+        "abstract": "NOZOMI became an artificial planet that flies forever in orbit around the Sun near ... Plasma Wave and Sounder (PWS); Low Frequency Plasma Wave Analyzer ...", 
+        "link": "http://www.isas.jaxa.jp/e/enterp/missions/nozomi/", 
+        "title": "ISAS | Mars Exploration NOZOMI (PLANET-B) / Missions"
+    }, 
+    {
+        "abstract": "Four way Doppler measurements by Relay satellite and Main Orbiter ... There are several kinds of plasmas that are originated from the Solar wind, Earth's ...", 
+        "link": "http://wms.selene.darts.isas.jaxa.jp/selene_viewer/en/observation_mission/pace/pace_000.html", 
+        "title": "kaguya image gallery | First report -The solar wind-"
+    }, 
+    {
+        "abstract": "[MMO (Mercury Magnetospheric Orbiter] ... Space Plasma G: Earth, Planet, and Solar System [related Link] ... Major Institutions for Solar System Studies", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/link.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] Latest News"
+    }, 
+    {
+        "abstract": "May 19, 2011 ... Information on the small-scale structures of plasma near the sun is ... 2010 was not successuful and the space craft is now in solar orbit at ...", 
+        "link": "http://www.isas.jaxa.jp/home/solar/hinode_op/hop.php?hop=0189", 
+        "title": "HOP 0189 - ISAS"
+    }
+]

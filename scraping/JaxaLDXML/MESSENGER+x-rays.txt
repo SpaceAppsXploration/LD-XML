@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Sep 21, 2005 ... The enhancement of C and Ne observed in X-rays from these planetary nebulae agree ..... A PN is regarded as an important messenger.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/phd2006_mmurashima.pdf", 
+        "title": "PDF file (17.2MB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "... Surface, Space ENvironment, GEochemistry, Ranging (MESSENGER) Mission ... composition measurements from the MESSENGER Gamma Ray and X-Ray ...", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20010124867", 
+        "title": "The Mercury Atmospheric and Surface Composition Spectrometer ..."
+    }, 
+    {
+        "abstract": "Sep 8, 2014 ... Miniaturised X –ray instrument development. Y. Ezoe. 15:00 Other ... 17:15 What did we learn from MESSENGER. MESENGER Status –.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/symposiumH26/img/SWT11-%20agenda_8sept2014-draft-mf.pdf", 
+        "title": "Program (final version, updated on 8th Sept)"
+    }, 
+    {
+        "abstract": "Herschel. GLAST. ConeXpress. Cassini. INTEGRAL. Kaguya. Messenger. RHESSI. SOHO. Chandrayaan-1. Chang'e-1. SWIFT. Gravity Probe B. XMM- Newton ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/12/G4_JAXA_2008_seminar_Nieminen.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Earth's outer radiation belt electrons: New perspectives from multi-satellite observations ... MESSENGER Observations of Upstream Waves at Mercury. 1120 -1300 Lunch break. 1300 S. ... in X-rays : Past, present and future. 1520 M. Oka.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/Symposium_PDF/7-P%28Oral%29.pdf", 
+        "title": "Geotail-20 Workshop Program - ISAS"
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... MESSENGER mission: Competition and Collaboration. As other Mercury ... SIMBIO-SYS [IR] MERTIS-TIS [Gamma and neutron] MGNS [X-ray]", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "Feb 14, 2011 ... Grid, Planar array of equally-spaced, X-ray-opaque slats separated by ... RHESSI spectra and imagecube, MESSENGER, SOXS, and XSM data ...", 
+        "link": "https://darts.isas.jaxa.jp/pub/solar/ssw/hessi/doc/glossary.htm", 
+        "title": "RHESSI Glossary - darts"
+    }, 
+    {
+        "abstract": "Joint research on X-ray astronomy, Japanese and US scientists cooperate to ... Discuss partnership and cooperation between Messenger, NASA's Mercury ...", 
+        "link": "http://www.isas.jaxa.jp/e/about/ic/ic.shtml", 
+        "title": "ISAS | Space Science between US and Japan / International ..."
+    }, 
+    {
+        "abstract": "GAMMA RAYS GAMMA-RAY GAMMA-RAY MODELING GAMMA-RAYS ... SW HANSTEEN/WIKSTøL DATA ANALYSIS SW HARA HARD X-RAY HEADER HEADER ... MECHANISMS MEMVIS MENU MESSENGER METCALF METEROLOGY.", 
+        "link": "http://www.darts.isas.jaxa.jp/pub/solar/ssw/gen/setup/ssw_map_uniqcat.dat", 
+        "title": "ssw_map_uniqcat.dat - darts"
+    }, 
+    {
+        "abstract": "Individual samples were X-rayed using synchrotron radiation to have powder X- ray diffraction patterns for identification of constituent minerals. The relative ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0063920000/63920000.pdf", 
+        "title": "This document is provided by JAXA."
+    }
+]

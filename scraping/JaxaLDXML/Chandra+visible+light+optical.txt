@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Jul 2, 2010 ... Suzaku, Chandra, etc ... the optical blocking layer for x-ray CCD camera ... Optical and ultra-violet light as well as soft X-ray, we have used an ...", 
+        "link": "http://astro-h.isas.jaxa.jp/researchers/SPIE2010/poster/SPIE2010-7732-119.pdf", 
+        "title": "poster"
+    }, 
+    {
+        "abstract": "It is very important to make simultaneous observations not only with X-ray ... a radio astronomy group in the United Kingdom, and the optical telescope in Hawaii as ... data from the Hubble Space Telescope and the Chandra X-ray Observatory.", 
+        "link": "http://global.jaxa.jp/article/special/experiment/matsuoka02_e.html", 
+        "title": "JAXA | The X-ray Observatory to Make the Violent Universe Visible"
+    }, 
+    {
+        "abstract": "Telescopes with visible-light collecting mirrors as large as 10 metres in ... Whereas optical observations can be dominated by light from stars in a galaxy, X- rays are ... Two of these are currently operational: the Chandra X-ray Observatory and ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Epgandhi/nakshatra/nakshatra.html", 
+        "title": "Super Massive Black Holes"
+    }, 
+    {
+        "abstract": "ASTRO-H is an international X-ray observatory, which is the 6th in the series of .... conical approximation of Wolter-I type optics is used. ..... Suzaku XIS, Chandra.", 
+        "link": "http://astro-h.isas.jaxa.jp/doc/ahqr.pdf", 
+        "title": "ASTRO-H Quick Reference"
+    }, 
+    {
+        "abstract": "Dec 24, 2010 ... testbed (VNT) for visible light nulling. ... interests in instrumentation for astronomy/ astrophysics, optics, control systems, .... Abstract: We will make use of the deepest Chandra and HST images of galaxies in the distant universe ...", 
+        "link": "https://edu.jaxa.jp/news/20110113_1/2069.pdf", 
+        "title": "2011 NASA/Goddard Projects for International Student Consideration"
+    }, 
+    {
+        "abstract": "with optics, they have good spatial resolution and moderate energy resolution. ... The following satellites have X-ray CCDs: Chandra ACIS,5 XMM-Newton EPIC ...", 
+        "link": "http://astro-h.isas.jaxa.jp/researchers/SPIE2010/spie2010-sxi.pdf", 
+        "title": "Soft X-ray Imager (SXI) Onboard ASTRO-H"
+    }, 
+    {
+        "abstract": "The Chandra and XMM-Newton satellites promoted the study in further details, ... quite variable in X-ray and optical frequencies, on time scales of hours, days, ...", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/titoh_dron_print080220.pdf", 
+        "title": "Suzaku Studies of Time Variable X-ray Spectra of Edge-On Active ..."
+    }, 
+    {
+        "abstract": "This is a composite picture, in x-ray, visible light, and infrared light, of the ... an x- ray photograph colored in blue taken by the Chandra X-ray Observatory, and an .... X-rays from Chandra (colored purple), optical and ultraviolet (UV) data from ...", 
+        "link": "http://iss.jaxa.jp/utiliz/renshi/space2007/about_bg_e.html", 
+        "title": "story"
+    }, 
+    {
+        "abstract": "Jan 17, 2011 ... background and target optical light paths differ significantly; and 2) the ..... lowing the software 'threads' from the Chandra X-ray Center. (CXC)4 ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Epgandhi/pgandhi_m82.pdf", 
+        "title": "Diffraction-limited Subaru imaging of M82: sharp mid-infrared view ..."
+    }, 
+    {
+        "abstract": "Dec 17, 2008 ... 4.4 Chandra X-ray 1-dimensional brightness profile of AX ..... were defined by the absence/presence of the hydrogen lines in the optical band.", 
+        "link": "http://www.astro.isas.jaxa.jp/suzaku/bibliography/phd/Danada_090304.pdf", 
+        "title": "An X-Ray Study of the Pulsar Wind Nebulae Discovered in the Very ..."
+    }
+]

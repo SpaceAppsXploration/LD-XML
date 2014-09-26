@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Nov 20, 2004 ... Applying telescopes to observe ultraviolet and X-rays that are also ... in New Horizon of the Gamma-Ray Burst Astronomy, Wako, Japan, 2004 ...", 
+        "link": "http://www.astro.isas.jaxa.jp/%7Etakahasi/English-Version/swift-e.html", 
+        "title": "Swift mission"
+    }, 
+    {
+        "abstract": "Ulysses, Cassini and New Horizons fly-by's) and on the anticipated ..... Complementary diagnostic measurements in visible, IR, UV, X that will be used to .", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/material/JovHP/052_JUPITER_EUROPE_Draft_proposal_V15.pdf", 
+        "title": "b°/ Introduction: a Cosmic Vision of the Jupiter system"
+    }, 
+    {
+        "abstract": "Apr 1, 2014 ... on the development of a new main rocket, as well as an array of satellite missions that will serve ... we look at a 50-year horizon for space development, ... ultraviolet rays can only be detected from space, so JAXA expects.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday008_p.pdf", 
+        "title": "Printed"
+    }, 
+    {
+        "abstract": "and Instrumentation 2012: Ultraviolet to Gamma Ray : SPIE : 844356 : (2012) ...... including the New Horizons Forum and Aerospace. This document is provided ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
+        "title": "4．外部の国内，国際会議等に発表のもの - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "New Horizons - Pluto .... ƒ Lower Weight and Smaller Size for same (or new) ...... applications are improvement of UV resistance of polymers, ATOX resistance ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0063741000/63741000.pdf", 
+        "title": "This document is provided by JAXA. - JAXA Repository - 宇宙航空 ..."
+    }, 
+    {
+        "abstract": "Especially, we discovered a new feature of ionization state, “overionized”, ...... the EPIC and RGS, and extends the spectral coverage into the ultraviolet and optical ...... superior energy resolution to ASCA, will bring us new horizons on SNR ...", 
+        "link": "http://www.astro.isas.jaxa.jp/asca/bibliography/phd_thesis/Kawasaki_Masahiro/kawasaki.pdf", 
+        "title": "PDF file (10MB) - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Aug 1, 2012 ... A New Serial, for JAXA TODAY (No.1) .... hard work to develop these kinds of new technology, ...... An image of Jupiter's northern ultraviolet .... The horizon angle of the tracking and control antenna is less than one degree.", 
+        "link": "http://global.jaxa.jp/activity/pr/jaxas/pdf/jaxatoday006.pdf", 
+        "title": "for web browsing"
+    }, 
+    {
+        "abstract": "2009年9月11日 ... radiation, atomic oxygen and UV, will be evaluated. ...... Meeting Including The New Horizons Forum and Aerospace Exposition, 5 8 -anuary ...", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064542000/64542000.pdf", 
+        "title": "第6回「宇宙環境シンポジウム」 講演論文集 - JAXA Repository"
+    }, 
+    {
+        "abstract": "Telescopes and Instrumentation 2010：Ultraviolet ..... of a New Mid-infrared Instrument for the TAO ...... Meeting Including the New Horizons Forum and.", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2010/10yoran300_409.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }, 
+    {
+        "abstract": "Takao Nakagawa : New Technologies for Future Space In- frared Missions : 62nd ..... 清水敏文ほか : SOLAR-C 搭載 UV/EUV 撮像分光望遠鏡. が目指す科学目的・ 性能 ...... Meeting including the New Horizons Forum and Aer- ospace Exposition ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2011/IV-2-c.pdf", 
+        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
+    }
+]

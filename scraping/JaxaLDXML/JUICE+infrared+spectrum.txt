@@ -1,0 +1,17 @@
+[
+    {
+        "abstract": "Aug 25, 2014 ... Effect of Elemental Abundances to Near-Infrared Spectra between 1.0 and 5.0 {\\ mu}m ... New discoveries and their IR spectral energy distributions ...... spots water vapour; VLA survey reveals big hole; AKARI runs out of juice", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "Nov 28, 2013 ... Exploration of Jovian System by ESA-JUICE-Mission: Participation of Japanese Teams ...... SCI based on wide mid-infrared spectrum of the at-.", 
+        "link": "http://www.isas.jaxa.jp/home/labam/IAW2013-Program-LPI-CombinedD.pdf", 
+        "title": "Abstract Book(as of 2013/11/15) - Institute of Space and ..."
+    }, 
+    {
+        "abstract": "EXCEED spectral imaging of ion emission lines will reveal temporal and ... Coordinated observations of the infrared (IR) aurora by Gemini will reveal the .... この開発にあたり，JUICE(木星探査)用にパラメーターをとりTOF分析部の設計を行った 。", 
+        "link": "http://sprg.isas.jaxa.jp/seminar_old/seminar2012_STP.html", 
+        "title": "2012年度 STPセミナー"
+    }
+]

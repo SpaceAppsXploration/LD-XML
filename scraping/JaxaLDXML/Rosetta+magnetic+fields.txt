@@ -1,0 +1,52 @@
+[
+    {
+        "abstract": "Magnetic force microscopy studies are performed to investigate magnetic minerals in CI- ... topographic images and additionally to detect the magnetic field patterns of the minerals. ... NASA Minor Index Term - Controlled, ROSETTA MISSION.", 
+        "link": "http://airex.tksc.jaxa.jp/pl/dr/20000081011/en", 
+        "title": "The Investigation of Magnetic Properties of Ferromagnetic Minerals ..."
+    }, 
+    {
+        "abstract": "ROSETTA. PROBA-1. HERSCHEL ... Local magnetic fields in the southern hemisphere ... Magnetic shielding on Mars at -47.8 N, 174 E. Courtesy Laurent ...", 
+        "link": "http://www.astro.isas.jaxa.jp/conference/g4space5/slide/13/G4_in_ESA.pdf", 
+        "title": "Recent ESA developments - X-ray Astronomy Group at ISAS"
+    }, 
+    {
+        "abstract": "Oct 30, 2012 ... Magnetic field, atmosphere, magnetosphere, and inner interplanetary ... multi probes) / Mars Express (Mars observer) / Rosetta (Comet probe).", 
+        "link": "http://www.stp.isas.jaxa.jp/mercury/p_bepi.html", 
+        "title": "Mercury project: BepiColombo [ISAS/JAXA] BepiColombo mission ..."
+    }, 
+    {
+        "abstract": "Jan 30, 2002 ... 2.2 M 87: A SMBH “Rosetta Stone” ... 2. the magnetic field generated in the inner disk/torus and threading toward the SMBH which are likely ...", 
+        "link": "http://www.vsop.isas.jaxa.jp/docs/iarise_whitepaper.pdf", 
+        "title": "iARISE Zooming in on Black Holes"
+    }, 
+    {
+        "abstract": "the other satellites (gravity, magnetic field, geodesy and surface topography), ...... be similar to the approach developed and used in the case of the Rosetta-RPC.", 
+        "link": "http://sprg.isas.jaxa.jp/researchTeam/spacePlasma/staff/kshr/material/JovHP/052_JUPITER_EUROPE_Draft_proposal_V15.pdf", 
+        "title": "b°/ Introduction: a Cosmic Vision of the Jupiter system"
+    }, 
+    {
+        "abstract": "and the magnetic field direction with respect to the rocket spin axis. ..... al., 1999] や ROSETTA(2003 年打上げ)[Glassmeier et al., 2007; Auster et al., 2007]等の人.", 
+        "link": "http://repository.tksc.jaxa.jp/help/pdf/RR-12-008.pdf", 
+        "title": "1"
+    }, 
+    {
+        "abstract": "for metallic magnetic microcalorimeters：Low Temperature Detector ...... a dipole magnetic field：Journal of Geophysical Research：Vol.112, ...... M. Yoshikawa, A. Fujiwara, J. Kawaguchi：Hayabusa Mission to Asteroid Itokawa：ROSETTA ...", 
+        "link": "http://www.isas.jaxa.jp/publications/annalreport/2007/yoran421.pdf", 
+        "title": "2 . 所外の学術雑誌などに発表のもの - ISAS"
+    }, 
+    {
+        "abstract": "It allows us a direct measurement of a magnetic field intensity. The second ...... The pole-on jet in the symbiotic system MWC 560 serves as a Rosetta Stone for ...", 
+        "link": "http://www.darts.isas.jaxa.jp/astro/tables/SUZAKU_MASTER.txt", 
+        "title": "tab-delimited text - darts"
+    }, 
+    {
+        "abstract": "Aug 25, 2014 ... Title: Magnetic field dispersion in the neighbourhood of Bok Globules ...... (21) Lutetia from Herschel observations around the Rosetta flyby", 
+        "link": "http://www.ir.isas.jaxa.jp/AKARI/Publications/akari_journal.html", 
+        "title": "AKARI Publications"
+    }, 
+    {
+        "abstract": "2008年11月25日 ... When and where will large magnetic field disturbances g g occur? .... Mars Express. Rosetta. Venus Express. Commercial, Applications and.", 
+        "link": "http://repository.tksc.jaxa.jp/dr/prc/japan/contents/AA0064382000/64382000.pdf", 
+        "title": "第5回「宇宙環境シンポジウム」 講演論文集 - JAXA Repository"
+    }
+]
