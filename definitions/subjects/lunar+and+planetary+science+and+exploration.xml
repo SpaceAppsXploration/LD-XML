@@ -11,6 +11,9 @@
         <skos:definition>Includes planetology; selenology; meteorites; comets; craters; and manned and unmanned planetary and lunar flights.</skos:definition>
 
         <skos:prefLabel xml:lang="en">lunar and planetary science</skos:prefLabel>
+        <skos:altLabel xml:lang="en">Moon</skos:altLabel>
+        <skos:altLabel xml:lang="en">planet</skos:altLabel>
+        <skos:altLabel xml:lang="en">exoplanet</skos:altLabel>
 
         <skos:scopeNote>Exhaustive": All facets of lunar and planetary sciences, and manned, unmanned, or remote exploration of planets and their structure, including planets within the solar system or elsewhere within the universe.</skos:scopeNote>
 

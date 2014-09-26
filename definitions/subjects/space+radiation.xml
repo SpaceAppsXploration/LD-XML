@@ -10,7 +10,9 @@
 
         <skos:definition>Includes cosmic radiation; and inner and outer Earth radiation belts.</skos:definition>
 
-        <skos:prefLabel xml:lang="en">astronomy</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">space radiation</skos:prefLabel>
+        <skos:altLabel xml:lang="en">cosmic rays</skos:altLabel>
+        <skos:altLabel xml:lang="en">cosmic radiation</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: All facets of space radiation.</skos:scopeNote>
 

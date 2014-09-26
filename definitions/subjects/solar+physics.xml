@@ -11,6 +11,7 @@
         <skos:definition>Includes solar activity, solar flares, solar radiation and sunspots. For related information see 93 Space Radiation.</skos:definition>
 
         <skos:prefLabel xml:lang="en">solar physics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">Sun</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: All facets of solar physics.</skos:scopeNote>
 

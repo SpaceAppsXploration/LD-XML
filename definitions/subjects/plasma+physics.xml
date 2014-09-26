@@ -11,6 +11,8 @@
         <skos:definition>Includes magnetohydrodynamics and plasma fusion. For ionospheric plasmas see 46 Geophysics. For space plasmas see 90 Astrophysics.</skos:definition>
 
         <skos:prefLabel xml:lang="en">plasma physics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">astrophysical plasma</skos:altLabel>
+        <skos:altLabel xml:lang="en">plasma</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: Theoretical magnetohydrodynamics and plasma fusion; research and test equipment for studies in plasma physics as related to aerospace sciences;
                   Selective: Applications of magnetohydrodynamics and plasma fusion that may be of interest for propulsion, power sources, and other uses in the aerospace program;

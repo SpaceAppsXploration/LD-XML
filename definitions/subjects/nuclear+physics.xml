@@ -11,6 +11,8 @@
         <skos:definition>Includes nuclear particles; and reactor theory. For space radiation see 93 Space Radiation. For atomic and molecular physics see 72 Atomic and Molecular Physics. For elementary particle physics see 77 Physics of Elementary Particles and Fields. For nuclear astrophysics see 90 Astrophysics.</skos:definition>
 
         <skos:prefLabel xml:lang="en">nuclear physics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">atom</skos:altLabel>
+        <skos:altLabel xml:lang="en">nucleus</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: The basic theories and formulas of nuclear physics and testing and research equipment to support these developments as they relate to aeronautics, astronautics, and aerospace sciences;
                   Selective: Those applications of nuclear physics that may be of use to the aerospace program, e.g., propulsion systems and power sources, suitable for aerospace use;

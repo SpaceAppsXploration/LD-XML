@@ -11,6 +11,7 @@
         <skos:definition>Includes light phenomena and the theory of optical devices. Lasers and Masers excluded.</skos:definition>
 
         <skos:prefLabel xml:lang="en">optics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">optical</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
                   Selective: Optics and light phenomena with potential aerospace use;

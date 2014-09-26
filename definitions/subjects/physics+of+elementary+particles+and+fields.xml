@@ -11,6 +11,7 @@
         <skos:definition>Includes quantum mechanics; theoretical physics; and statistical mechanics. For related information see also 72 Atomic and Molecular Physics; 73 Nuclear Physics.</skos:definition>
 
         <skos:prefLabel xml:lang="en">solid state physics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">solid-state</skos:altLabel>
 
         <skos:scopeNote>Exhaustive: Aspects of elementary particles, field theory, and statistical physics for those applications that may be of use to the aerospace program.</skos:scopeNote>
 
