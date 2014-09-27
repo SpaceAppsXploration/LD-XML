@@ -1,0 +1,164 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/STS-70",
+        "abstract": "STS-70 was the 21st flight of the Space Shuttle Discovery, and the last of 7 shuttle missions to carry a Tracking and Data Relay Satellite (TDRS). This was the first shuttle mission controlled from the new mission control center room at the Johnson Space Center in Houston. STS-70 was also the first flight of the new Block 1 orbiter main engine, designed to improve both engine performance and safety. The mission was launched from Kennedy Space Center in Florida on 13 July 1995, only six days after the landing of sister ship Atlantis, marking the fastest turnaround between flights in the history of the program.",
+        "json-uri": "http://dbpedia.org/data/STS-70.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Space_Flyer_Unit",
+        "abstract": "The Space Flyer Unit (宇宙実験・観測フリーフライヤ, Uchū Jikken-Kansoku Free Flyer) was a spacecraft which was launched by Japan on Mar. 18, 1995.",
+        "json-uri": "http://dbpedia.org/data/Space_Flyer_Unit.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-7",
+        "abstract": "TDRS-7, known before launch as TDRS-G, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by TRW as a replacement for TDRS-B, which had been lost in the Challenger accident, and was the last first-generation TDRS satellite to be launched.",
+        "json-uri": "http://dbpedia.org/data/TDRS-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-73",
+        "abstract": "STS-73 was a Space Shuttle program mission, during October–November 1995. The mission was the second mission for the United States Microgravity Laboratory. The crew, who spent 16 days in space, were broken up into 2 teams, the red team and the blue team. The mission also included several Detailed Test Objectives or DTO's.",
+        "json-uri": "http://dbpedia.org/data/STS-73.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-21",
+        "abstract": "Soyuz TM-21 was Soyuz mission, a human spaceflight mission transporting personnel to the Russian space station Mir. Part of the US/Russian Shuttle-Mir Program, the mission launched from Baikonur Cosmodrome, atop a Soyuz-U2 carrier rocket, at 06:11:34 UTC on March 14, 1995. It is of note because its launch marked the presence, for the first time ever, of thirteen humans in space simultaneously - three aboard the Soyuz, three aboard Mir and seven aboard Space Shuttle Endeavour, flying STS-67.The spacecraft carried expedition EO-18 to the space station, including the first American astronaut to launch on a Soyuz spacecraft and board Mir, Norman Thagard, for the American Thagard Increment aboard the station, the first Increment of the Shuttle-Mir program. The three crew members it launched were relieved by Space Shuttle Atlantis during STS-71, when they were replaced by expedition EO-19, who returned to earth aboard Soyuz TM-21 on September 11, 1995.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-21.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Infrared_Space_Observatory",
+        "abstract": "The Infrared Space Observatory (ISO) was a space telescope for infrared light designed and operated by the European Space Agency (ESA), in cooperation with ISAS (part of JAXA as of 2003) and NASA. The ISO was designed to study infrared light at wavelengths of 2.5 to 240 micrometres.The Euro 480.1 million ISO was launched on 17 November 1995 from the ELA-2 launch pad at the Guiana Space Centre near Kourou in French Guiana. The launch vehicle, an Ariane 44P rocket, placed ISO successfully into a highly elliptical geocentric orbit, completing one revolution around the Earth every 24 hours. The primary mirror of its Ritchey-Chrétien telescope measured 60 cm in diameter and was cooled to 1.7 Kelvin by means of superfluid helium. The ISO satellite contained four instruments that allowed for imaging and photometry from 2.5 to 240 micrometres and spectroscopy from 2.5 to 196.8 micrometers.Currently, ESA and IPAC continue efforts to improve the data pipelines and specialized software analysis tools to yield the best quality calibration and data reduction methods from the mission. IPAC supports ISO observers and data archive users through in-house visits and workshops.",
+        "json-uri": "http://dbpedia.org/data/Infrared_Space_Observatory.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Wake_Shield_Facility",
+        "abstract": "Wake Shield Facility is an experimental science platform that was placed in low Earth orbit by the Space Shuttle. It is a 3.7 meter (12 ft) diameter, free-flying stainless steel disk.The WSF was deployed in the wake of the Space Shuttle at an orbital altitude of over 300 kilometers (186 mi), within the thermosphere, where the atmosphere is exceedingly tenuous. The forward edge of the WSF disk redirected atmospheric and other particles around the sides, leaving an \"ultra-vacuum\" in its wake. The resulting vacuum was used to study epitaxial film growth.The WSF has flown into space three times, on board shuttle flights STS-60, STS-69 and STS-80. During STS-60, some hardware issues were experienced, and, as a result, the WSF was only deployed at the end of the shuttle's robotic arm. During the later missions, the WSF was deployed as a free-flying platform in the wake of the shuttle.These flights proved the vacuum wake concept, and realized the space epitaxy concept by growing the first-ever crystalline semiconductor thin films in the vacuum of space. These included gallium arsenide (GaAs) and aluminum gallium arsenide (AlGaAs) depositions. These experiments have been used to develop better photocells and thin films. Among the potential resulting applications are artificial retinas made from tiny ceramic detectors.Pre-flight calculations suggested that the pressure on the wake side could be decreased by some 6 orders of magnitude over the ambient pressure in low Earth orbit (from 10−8 to 10−14 Torr). Analysis of the pressure and temperature data gathered from the two flights concluded that the decrease was some 2 orders of magnitude (4 orders of magnitude less than expected).The Wake Shield is sponsored by the Space Processing Division in NASA's Office of Life and Microgravity Sciences and Applications. Wake Shield was designed, built and is operated by the Center for Advanced Materials (formerly Space Vacuum Epitaxy Center) at the University of Houston—a NASA Commercial Space Center—in conjunction with its industrial partner, Space Industries, Inc., also in Houston.",
+        "json-uri": "http://dbpedia.org/data/Wake_Shield_Facility.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Spektr",
+        "abstract": "For the experimental black metal/black ambient band, see Spektr (band).Spektr (Russian: Спектр; English: Spectrum) (TKM-O, 77KSO, 11F77O) was the fifth module of the Mir Space Station. The module was designed for remote observation of Earth's environment containing atmospheric and surface research equipment. Spektr also had four solar arrays which generated about half of the station's electrical power.",
+        "json-uri": "http://dbpedia.org/data/Spektr.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Rossi_X-ray_Timing_Explorer",
+        "abstract": "The Rossi X-ray Timing Explorer (RXTE) is a satellite that observed the time structure of astronomical X-ray sources, named after Bruno Rossi. The RXTE has three instruments—the Proportional Counter Array, the High-Energy X-ray Timing Experiment (HEXTE), and the All Sky Monitor. The RXTE observed X-rays from black holes, neutron stars, X-ray pulsars and X-ray bursts. It was funded as part of the Explorer program, and is sometimes also called Explorer 69.RXTE was launched from Cape Canaveral on 30 December 1995 on a Delta rocket, has an International Designator of 1995-074A and a mass of 3200 kg.Observations from the Rossi X-ray Timing Explorer have been used as evidence for the existence of the frame-dragging effect predicted by the theory of general relativity. RXTE results have, as of late 2007, been used in more than 1400 scientific papers.In January 2006, it was announced that Rossi had been used to locate a candidate intermediate-mass black hole named M82 X-1. In February 2006, data from RXTE was used to prove that the diffuse background X-ray glow in our galaxy comes from innumerable, previously undetected white dwarfs and from other stars' coronae. In April 2008, RXTE data was used to infer the size of the smallest known black hole.RXTE ceased science operations on 3 January 2012.NASA scientists said that the decommissioned RXTE would re-enter the Earth's atmosphere \"between 2014 and 2023\".",
+        "json-uri": "http://dbpedia.org/data/Rossi_X-ray_Timing_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1E",
+        "abstract": "Astra 1E is one of the Astra communications satellites in geostationary orbit owned and operated by SES. It was launched in 1995 to the Astra 19.2°E orbital slot initially to provide digital television and radio for DTH across Europe.Astra 1E was the first Astra satellite to be dedicated to digital TV broadcasting and it carried many of the first digital TV channels from networks broadcasting to France, Germany, and other European countries in the 1990s.[citation needed]The satellite originally provided two broadcast beams, of horizontal and vertical polarisation, for FSS (10.70-10.95 GHz) and for BSS (11.70-12.10 GHz) frequency bands. The FSS beams provide footprints that cover essentially the same area of Europe – northern, central and eastern Europe, including Spain and northern Italy – while the BSS horizontal beam excludes Spain and extends further east, and the BSS vertical beam includes Spain and more of southern Italy but does not extend so far east. Within the footprints, TV signals are usually received with a 60–80 cm dish.In October 2007, following the successful deployment of Astra 1L at 19.2°E, Astra 1E was moved to Astra’s new DTH orbital position, 23.5°E where it provided capacity for the transmission of new services including the ASTRA2Connect two-way satellite broadband Internet service which provides high speed internet access and VOIP without landline connection at up to 2 Mbit/s download speeds and 128 kbit/s upload using four Ku band transponders for both forward and return paths from the user’s remote terminal.In May 2010 Astra 3B was launched to the 23.5° east position, coming into service in June 2010, at which time the services using Astra 1E were transferred to the new craft. In August 2010, Astra 1E left the 23.5° east position moving westwards, to the Astra 5°E position to provide backup for Astra 4A pending the launch of Astra 4B to that position in 2011. At 5° east, Astra 1E carried very little TV traffic. Following the launch of Astra 4B (renamed to SES-4) in February 2012, Astra 1E was moved to 108.2°E, in inclined orbit and with no traffic, and then to 31.5°E in Summer 2013, where, as of November 2013, it remains.",
+        "json-uri": "http://dbpedia.org/data/Astra_1E.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cerise_(satellite)",
+        "abstract": "Cerise was a French military reconnaissance satellite. Its main purpose was to intercept HF radio signals for French intelligence services. With a mass of 50 kg, it was launched by an Ariane rocket from Kourou in French Guiana at 17:23 UT, 7 July 1995. Cerise's initial orbital parameters were period 98.1 min, apogee 675 km, perigee 666 km, and inclination 98.0 deg.It was hit by a catalogued space debris object from an Ariane rocket in 1996, making it the first verified case of an accidental collision between two artificial objects in space.The collision tore off a 2.8-2.9 metre (9.2-9.5 foot) portion of Cerise's gravity-gradient stabilization boom, which left the satellite severely damaged.",
+        "json-uri": "http://dbpedia.org/data/Cerise_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-74",
+        "abstract": "STS-74 was a Space Shuttle Atlantis mission to the Mir space station. It was the fourth mission of the US/Russian Shuttle-Mir Program, and it carried out the second docking of a space shuttle to Mir. Atlantis lifted off for the mission on 12 November 1995 from Kennedy Space Center launch pad 39A, and landed back at Kennedy 8 days later. The mission delivered the Russian-built Mir Docking Module to the station along with a pair of solar arrays, and was the second in a series of seven straight missions to the station flown by Atlantis.During the three-day docking, the Russian, Canadian and American astronauts transferred various supplies from Atlantis to Mir, moved several long-term experiments, pieces of equipment and manufactured products from Mir to the Atlantis, and made use of various new pieces of equipment to upgrade Mir, most notably attaching the Docking Module to Mir's Kristall module for use by all of the following docked missions in the Shuttle-Mir Program.",
+        "json-uri": "http://dbpedia.org/data/STS-74.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-67",
+        "abstract": "STS-67 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on 2 March 1995.",
+        "json-uri": "http://dbpedia.org/data/STS-67.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AsiaSat_2",
+        "abstract": "AsiaSat 2 is a Chinese communications satellite, which is owned, and was initially operated, by the Hong Kong based Asia Satellite Telecommunications Company. It is currently positioned in geostationary orbit at a longitude of 17° East of the Greenwich Meridian, on lease to Spacecom. It spent most of its operational life at 100.5° East, from where it was used to provide fixed satellite services, including broadcasting, audio and data transmission, to Asia and the Pacific Ocean.",
+        "json-uri": "http://dbpedia.org/data/AsiaSat_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/FASat-Alfa",
+        "abstract": "FASat-Alfa was to become the first Chilean satellite, and was constructed under a Technology Transfer Program between the Chilean Air Force (FACH) and Surrey Satellite Technology Ltd (SSTL) of the United Kingdom. The primary goal of the Program was to obtain for Chile the basic scientific and technological experience required to continue with more advanced steps. The purposes of the FASat-Alfa mission are to create a group of engineers with aerospace experience, to have the first Chilean satellite in orbit, and to install and operate the Mission Control Station (ECM-Santiago) in Chile.There were two satellites: FASat-Alfa and FASat-Bravo. The Alfa satellite was launched on 31 August 1995 on TSYCLON from Plesetsk. Its orbit was intended to be 682 x 651 km, inclined at 82.53 degrees; however, the spacecraft failed to separate from the failed Ukrainian satellite it was attached to.The Bravo satellite was launched on 10 July 1998, on TSYCLON from Baikonur. Its intended orbit was 682 x 651 km, inclined at 82.53 degrees. It was to operate 13,000 orbits until 2002.",
+        "json-uri": "http://dbpedia.org/data/FASat-Alfa.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-22",
+        "abstract": "Soyuz TM-22 was the 23rd manned spacecraft mission to visit the Soviet Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-22.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mir_Docking_Module",
+        "abstract": "The Stykovochnyy Otsek (Russian: стыковочный отсек, English: Docking compartment), GRAU index 316GK, otherwise known as the Mir docking module or SO, was the sixth module of the Russian space station Mir, launched in November 1995 aboard the Space Shuttle Atlantis. The module, built by RKK Energia, was designed to help simplify space shuttle dockings to Mir during the Shuttle-Mir programme, preventing the need for the periodic relocation of the Kristall module necessary for dockings prior to the compartment's arrival. The module was also used to transport two new photovoltaic arrays to the station, as a mounting point for external experiments, and as a storage module when not in use for dockings.",
+        "json-uri": "http://dbpedia.org/data/Mir_Docking_Module.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_9",
+        "abstract": "GOES 9, known as GOES-J before becoming operational, was an American weather satellite, which formed part of the U.S. National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. It was launched in 1995, and operated until 2007 when it was retired and boosted to a graveyard orbit. At launch, the satellite had a mass of 2,105 kilograms (4,641 lb), and an expected operational lifespan of three years. It was built by Space Systems/Loral, based on the LS-1300 satellite bus, and was the second of five GOES-I series satellites to be launched.",
+        "json-uri": "http://dbpedia.org/data/GOES_9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-69",
+        "abstract": "STS-69 was a Space Shuttle Endeavour mission, and the second flight of the Wake Shield Facility (WSF). The mission launched from Kennedy Space Center, Florida on 7 September 1995.",
+        "json-uri": "http://dbpedia.org/data/STS-69.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-71",
+        "abstract": "STS-71 was the third mission of the US/Russian Shuttle-Mir Program, which carried out the first Space Shuttle docking to Mir, a Russian space station. The mission used Space Shuttle Atlantis, which lifted off from launch pad 39A on 27 June 1995 from Kennedy Space Center, Florida. The mission delivered a relief crew of two cosmonauts, Anatoly Solovyev and Nikolai Budarin, to the station, along with recovering American Increment astronaut Norman Thagard, and was the first in a series of seven straight missions to the station flown by Atlantis.The five-day docking marked the creation of the largest spacecraft ever placed into orbit at that time in history, the first ever on-orbit changeout of Shuttle crew members, and the 100th manned space launch by the United States. During the docked operations, the crews of the shuttle & station carried out various on-orbit joint US/Russian life sciences investigations aboard Spacelab/Mir and a logistical resupply of the Mir, along with the Shuttle Amateur Radio Experiment-II (SAREX-II) experiment.",
+        "json-uri": "http://dbpedia.org/data/STS-71.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sich-1",
+        "abstract": "Sich-1 is first Ukrainian Earth observation satellite launched on 31 August 1995 at 06:49:59 UTC by Ukrainian Tsyklon-3 rocket from Plesetsk Cosmodrome in Russia.",
+        "json-uri": "http://dbpedia.org/data/Sich-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Radarsat-1",
+        "abstract": "Radarsat-1 is Canada's first commercial Earth observation satellite.",
+        "json-uri": "http://dbpedia.org/data/Radarsat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Solar_and_Heliospheric_Observatory",
+        "abstract": "The Solar and Heliospheric Observatory (SOHO) is a spacecraft built by a European industrial consortium led by Matra Marconi Space (now Astrium) that was launched on a Lockheed Martin Atlas IIAS launch vehicle on December 2, 1995 to study the Sun, and has discovered over 2700 comets. It began normal operations in May 1996. It is a joint project of international cooperation between the European Space Agency (ESA) and NASA. Originally planned as a two-year mission, SOHO continues to operate after over 18 years in space. In June 2013, a mission extension lasting until December 2016 was approved.In addition to its scientific mission, it is the main source of near-real-time solar data for space weather prediction. Along with the GGS Wind and Advanced Composition Explorer (ACE), SOHO is one of three spacecraft in the vicinity of the Earth–Sun L1 point, a point of gravitational balance located approximately 0.99 astronomical unit (AU)s from the Sun and 0.01 AU from the Earth. In addition to its scientific contributions, SOHO is distinguished by being the first three-axis-stabilized spacecraft to use its reaction wheels as a kind of virtual gyroscope; the technique was adopted after an on-board emergency in 1998 that nearly resulted in the loss of the spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Solar_and_Heliospheric_Observatory.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2312",
+        "abstract": "Kosmos 2312 (Russian: Космос 2312 meaning Cosmos 2312) is a Russian US-K missile early warning satellite which was launched in 1995 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2312 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 20:10 UTC on 24 May 1995. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1995-026A. The United States Space Command assigned it the Satellite Catalog Number 23584.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2312.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-1C",
+        "abstract": "IRS-1C was the fourth remote sensing Indian satellite built, and designed by Indian Space Research Organization.",
+        "json-uri": "http://dbpedia.org/data/IRS-1C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-63",
+        "abstract": "STS-63 was the second mission of the US/Russian Shuttle-Mir Program, which carried out the first rendezvous of the American Space Shuttle with Russia's space station Mir. Known as the 'Near-Mir' mission, the flight used Space Shuttle Discovery, which lifted off from launch pad 39B on 3 February 1995 from Kennedy Space Center, Florida. A night launch and the 20th mission for Discovery, it marked the first time a Space Shuttle mission had a female pilot, Eileen Collins, and carried out the successful deployment and retrieval of the Spartan-204 platform, along with the scheduled rendezvous and flyaround of Mir, in preparation for STS-71, the first mission to dock with Mir.",
+        "json-uri": "http://dbpedia.org/data/STS-63.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Apstar_II",
+        "abstract": "APSTAR II was a communications satellite based on the Hughes HS-601 spacecraft design, built by Hughes Space and Communications Company, now a subsidiary of Boeing, designed to provide video radio data and telephone services for about 2/3 of the world's population. It was launched on Jan. 26, 1995 by a Long March 2E launcher from Xichang Satellite Launch Center in China, but was destroyed shortly after liftoff by an explosion.It was commissioned by APT Satellite Company, a Hong-Kong based, Chinese government-sponsored competitor to Asiasat",
+        "json-uri": "http://dbpedia.org/data/Apstar_II.jsond",
+        "instrumentation": []
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_16B",
+        "abstract": "Eutelsat 16B, formerly known as Hot Bird 4, Atlantic Bird 4, Nilesat 103 and Eurobird 16, is a communications satellite owned and operated by Eutelsat. The satellite is currently operational at 16° East.Launched in 1998 as Hot Bird 2, under Eutelsat's Hot Bird brand, the satellite was positioned in geostationary orbit at a longitude of 13 degrees east, colocated with the rest of the Hot Bird constellation. Following the launches of Hot Bird 7A and Hot Bird 8 in 2006, the satellite was moved to 7 degrees west under the Atlantic Bird brand, and renamed Atlantic Bird 4. During this time, some of the satellite's capacity was leased to Egyptian operator Nilesat, who marketed the satellite as Nilesat 103.Nilesat used the satellite, alongside Nilesat 101 and Nilesat 102 which were located in the same orbital slot, to provide direct-to-home digital TV channels, data transmission, turbo internet and multicasting applications to more than 15 million viewers in the North African and Middle East region.In April 2009 the spacecraft was repositioned to 16° East and renamed Eurobird 16 as part of Eutelsat's Eurobird brand; it was replaced at 7 degrees west by Atlantic Bird 4A. In March 2012 the satellite was renamed Eutelsat 16B when the company unified its brand name.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_16B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STEX",
+        "abstract": "Space Technology Experiments, or STEX, also known as NRO Launch 8 or NROL-8, was an experimental NRO satellite built by Lockheed Martin. It was launched on October 3, 1998. One of the experiments was ATEx (Advanced Tether Experiment), which was deployed on 22. January 1999, and subsequently jettisoned.",
+        "json-uri": "http://dbpedia.org/data/STEX.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Lunar_Prospector",
+        "abstract": "Lunar Prospector is the third mission selected by NASA for full development and construction as part of the Discovery Program. At a cost of $62.8 million, the 19-month mission was designed for a low polar orbit investigation of the Moon, including mapping of surface composition and possible polar ice deposits, measurements of magnetic and gravity fields, and study of lunar outgassing events. The mission ended July 31, 1999, when the orbiter was deliberately crashed into a crater near the lunar south pole after the presence of water ice was successfully detected.Data from the mission allowed the construction of a detailed map of the surface composition of the Moon, and helped to improve understanding of the origin, evolution, current state, and resources of the Moon. Several articles on the scientific results were published in the journal Science.Lunar Prospector was managed out of NASA Ames Research Center with the prime contractor Lockheed Martin. The Principal Investigator for the mission was Dr. Alan Binder. His personal account of the mission, Lunar Prospector: Against all Odds, is highly critical of the bureaucracy of NASA overall, and of its contractors.",
+        "json-uri": "http://dbpedia.org/data/Lunar_Prospector.jsond",
+        "instrumentation": [
+            "Doppler gravity experiment",
+            "Magnetometer",
+            "Gamma ray spectrometer",
+            "Lunar prospector neutron spectrometer",
+            "Alpha particle spectrometer",
+            "Electron reflectometer"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/NOAA-15",
+        "abstract": "NOAA-15 (designated NOAA-K before launch) is one of the NASA-provided TIROS series of weather forecasting satellite run by NOAA. It was launched on 13 May 1998, and is currently operational, in a sun-synchronous orbit, 807 km above the Earth, orbiting every 101 minutes. It hosts the AMSU-A and AMSU-B instruments, the AVHRR and High Resolution Infrared Radiation Sounder (HIRS/3) instruments, as well as a Space Environment Monitor (SEM/2).APT transmission frequency is 137.62 MHz. Due to problems with the S-band transmitter high-gain antennas, NOAA-15 has been configured for High Resolution Picture Transmission using the S-Band Transmitter #2 (1702.5 MHz) omnidirectional antenna.",
+        "json-uri": "http://dbpedia.org/data/NOAA-15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-89",
+        "abstract": "STS-89 was a space shuttle mission to the Mir space station flown by Space Shuttle Endeavour, and launched from Kennedy Space Center, Florida on 22 January 1998.",
+        "json-uri": "http://dbpedia.org/data/STS-89.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Zarya",
+        "abstract": "Zarya (Russian: Заря́; lit. dawn), also known as the Functional Cargo Block or FGB (from the Russian \"Функционально-грузовой блок\", Funktsionalno-gruzovoy blok or ФГБ), was the first module of the International Space Station to be launched. The FGB provided electrical power, storage, propulsion, and guidance to the ISS during the initial stage of assembly. With the launch and assembly in orbit of other modules with more specialized functionality, Zarya is now primarily used for storage, both inside the pressurized section and in the externally mounted fuel tanks. The Zarya is a descendant of the TKS spacecraft designed for the Russian Salyut program. The name Zarya, which means sunrise, was given to the FGB because it signified the dawn of a new era of international cooperation in space. Although it was built by a Russian company, it is owned by the United States.",
+        "json-uri": "http://dbpedia.org/data/Zarya.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Iridium_77",
+        "abstract": "Iridium 77 is a communications Satellite which is part of a satellite constellation known as Iridium, named after the 77th chemical element of the periodic table, iridium. It was launched in 1998 and as of 2014, operational. It is owned and funded by Iridium, a communications company.",
+        "json-uri": "http://dbpedia.org/data/Iridium_77.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-90",
+        "abstract": "STS-90 was a 1998 Space Shuttle mission flown by the Space Shuttle Columbia. The 16-day mission marked the last flight of the European Space Agency's Spacelab laboratory module, which had first flown on Columbia on STS-9, and was also the last daytime landing for Columbia.",
+        "json-uri": "http://dbpedia.org/data/STS-90.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nozomi_(spacecraft)",
+        "abstract": "Nozomi (のぞみ) (Japanese for \"Wish\" or \"Hope,\" and known before launch as Planet-B) was planned as a Mars-orbiting aeronomy probe, but was unable to achieve Mars orbit due to electrical failures. Operation was terminated on December 31, 2003.It was constructed by the Institute of Space and Astronautical Science, University of Tokyo and launched on July 4, 1998 at 03:12 JST (18:12 UTC) with an on-orbit dry mass of 258 kg and 282 kg of propellant.Nozomi was designed to study the upper Martian atmosphere and its interaction with the solar wind and to develop technologies for use in future planetary missions. Specifically, instruments on the spacecraft were to measure the structure, composition and dynamics of the ionosphere, aeronomy effects of the solar wind, the escape of atmospheric constituents, the intrinsic magnetic field, the penetration of the solar-wind magnetic field, the structure of the magnetosphere, and dust in the upper atmosphere and in orbit around Mars. The mission would have also returned images of Mars' surface.",
+        "json-uri": "http://dbpedia.org/data/Nozomi_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Deep_Space_1",
+        "abstract": "Deep Space 1 (DS1) is a spacecraft of the NASA New Millennium Program dedicated to testing a payload of advanced, high risk technologies.Launched on 24 October 1998, the Deep Space mission carried out a flyby of asteroid 9969 Braille, which was selected as the mission's science target. Its mission was extended twice to include an encounter with Comet Borrelly and further engineering testing. Problems during its initial stages and with its star tracker led to repeated changes in mission configuration. While the flyby of the asteroid was a partial success, the encounter with the comet retrieved valuable information. Three of twelve technologies on board had to work within a few minutes of separation from the carrier rocket for the mission to continue.The Deep Space series was continued by the Deep Space 2 probes, which were launched in January 1999 on Mars Polar Lander and were intended to strike the surface of Mars. Deep Space 1 was the first NASA spacecraft to use ion powered rocketry, in contrast to the traditional chemical powered rockets.",
+        "json-uri": "http://dbpedia.org/data/Deep_Space_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-28",
+        "abstract": "TM-28 was a Soyuz mission to the Mir space station.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-28.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/International_Space_Station",
+        "abstract": "The International Space Station (ISS) is a space station, or a habitable artificial satellite in low Earth orbit. It is a modular structure whose first component was launched in 1998. Now the largest artificial body in orbit, it can often be seen at the appropriate time with the naked eye from Earth. The ISS consists of pressurised modules, external trusses, solar arrays and other components. ISS components have been launched by American Space Shuttles as well as Russian Proton and Soyuz rockets. In 1984 the ESA was invited to participate in Space Station Freedom. After the USSR dissolved, the United States and Russia merged Mir-2 and Freedom together in 1993.The ISS serves as a microgravity and space environment research laboratory in which crew members conduct experiments in biology, human biology, physics, astronomy, meteorology and other fields. The station is suited for the testing of spacecraft systems and equipment required for missions to the Moon and Mars.Since the arrival of Expedition 1 on 2 November 2000, the station has been continuously occupied for 700113000000000000013 years and 7002270000000000000270 days, the longest continuous human presence in space. (In 2010, the station surpassed the previous record of almost 10 years (or 3,634 days) held by Mir.) The station is serviced by a variety of visiting spacecraft: Soyuz, Progress, the Automated Transfer Vehicle, the H-II Transfer Vehicle, Dragon, and Cygnus. It has been visited by astronauts and cosmonauts from 15 different nations.After the U.S. Space Shuttle program ended in 2011, Soyuz rockets became the only provider of transport for astronauts at the International Space Station, while Dragon became the only provider of cargo-return-to-Earth services.The ISS programme is a joint project among five participating space agencies: NASA, Roskosmos, JAXA, ESA, and CSA. The ownership and use of the space station is established by intergovernmental treaties and agreements. The station is divided into two sections, the Russian Orbital Segment (ROS) and the United States Orbital Segment (USOS), which is shared by many nations. The ISS maintains an orbit with an altitude of between 330 km (205 mi) and 435 km (270 mi) by means of reboost manoeuvres using the engines of the Zvezda module or visiting spacecraft. It completes 15.410 orbits per day. The ISS is funded until 2024, and may operate until 2028. The Russian Federal Space Agency, Roskosmos (RKA) has proposed using the ISS to commission modules for a new space station, called OPSEK, before the remainder of the ISS is deorbited. ISS is the ninth space station to be inhabited by crews, following the Soviet and later Russian Salyut, Almaz, and Mir stations, and Skylab from the US.",
+        "json-uri": "http://dbpedia.org/data/International_Space_Station.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nilesat_101",
+        "abstract": "Nilesat 101 was an Egyptian owned geosynchronous communications satellite.Launched by an Ariane 4 rocket from Kourou, French Guiana on 28 April 1998 at 22:53:00 UTC by Arianespace, it was manufactured by the European company Matra Marconi Space (Astrium), and started official broadcasting on 31 May 1998 with an Expected Life Time of 15 years. At launch the spacecraft had a gross mass of 1,840 kg.It was parked at the geostationary orbital position of 7° West together with its sister Satellite Nilesat 102 and carries 12 Ku band 100 W high power wide beam transponders of 33 MHz bandwidth to provide digital communications and terrestrial Direct to Home ((DTH)) TV, Radio Broadcasting, Multimedia and Data services for countries in North Africa, South Europe and Middle East. The two satellites carry approximately 280 TV channels covering all the Middle East countries; north from Southern Europe to Central Africa, south, and east from Iran to the Atlantic Ocean, west.Nilesat 101 was operated by The Egyptian satellite Co. Nilesat that was established in 1996 with the purpose of operating Egyptian satellites and their associated ground control station and uplinking facilities.Nilesat and Eutelsat have agreed in September 2005 to lease capacity on Eutelsat’s Hot Bird 4 satellite after relocating it to 7° West and renaming it to Nilesat 103, the satellite is scheduled to be repositioned to this location in second quarter 2006 after the launch and entry into service of Eutelsat’s Hot Bird 7A and Hot Bird 8 satellites.In February 2013 the satellite was decommissioned and raised into a graveyard orbit, permanently ending its service.",
+        "json-uri": "http://dbpedia.org/data/Nilesat_101.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2351",
+        "abstract": "Kosmos 2351 (Russian: Космос 2351 meaning Cosmos 2351) is a Russian US-K missile early warning satellite which was launched in 1998 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2351 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 08:53 UTC on 7 May 1998. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1998-027A. The United States Space Command assigned it the Satellite Catalog Number 25327.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2351.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kwangmy%C5%8Fngs%C5%8Fng-1",
+        "abstract": "Kwangmyŏngsŏng-1 or Gwangmyeongseong-1 (Chosungul: 광명성 1호, Hanja: 光明星 1號, meaning Bright Star 1) was a satellite launched by North Korea on 31 August 1998. While the North Korean government claimed that the launch was successful, no objects were ever tracked in orbit from the launch, and outside North Korea it is considered to have been a failure.It was the first satellite to be launched as part of the Kwangmyŏngsŏng program, and the first satellite that North Korea attempted to launch.It was launched from Musudan-ri using a Paektusan rocket, at 03:07 GMT on 31 August 1998, a few days before the 50th anniversary of North Korea's independence from Japan. On 4 September, the Korean Central News Agency announced that the satellite had successfully been placed into low Earth orbit.The China National Space Administration was involved in the development of Kwangmyŏngsŏng-1, which had a 72-faced tetrahedral shape, similar to Dong Fang Hong I, the first Chinese satellite. The mass of the satellite is unclear, with estimates ranging from 6 kilograms (13 lb) to 170 kilograms (370 lb).",
+        "json-uri": "http://dbpedia.org/data/Kwangmy%C5%8Fngs%C5%8Fng-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_8",
+        "abstract": "Intelsat 8 (formerly PAS-8) is a communications satellite owned by Intelsat located at 166° E longitude, serving the Pacific market.On 13 August 2012 it was replaced with Intelsat 19. During September, it was co-located to the same position as Intelsat 5 at 169º East from 166º East to continue its service life as Intelsat 5's replacement later in the year.On 19 October 2012 at around 2300 UTC, Intelsat 8 took over broadcasting Intelsat 5's television channels which include Australia Network and regular feeds of Entertainment Tonight and The Wall Street Journal Report available via a two meter dish at 4.1 GHz horizontal 26.48 MBd QPSK 3/4.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tubsat-N",
+        "abstract": "Tubsat-N was a German miniaturized satellite for communication designed by the University of Berlin. The satellite was launched on July 7, 1998 by the Russian submarine K-407 Novomoskovsk in Barents Sea using a Shtil' rocket.Tubsat-N had a mass of 8,0 kg (17,60 lb) and measured 32 × 32 × 10.4 cm. The orbit of this satellite had a perigee of 400 km (240 mi) and an apogee of 776 km (482 mi).",
+        "json-uri": "http://dbpedia.org/data/Tubsat-N.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TRACE",
+        "abstract": "TRACE (Transition Region And Coronal Explorer) was a NASA space telescope designed to investigate the connections between fine-scale magnetic fields and the associated plasma structures on the Sun by providing high resolution images and observation of the solar photosphere and transition region to the corona. A main focus of the TRACE instrument is the fine structure of coronal loops low in the solar atmosphere. TRACE is a SMEX or SMall EXplorer mission, launched in 1998 and obtaining its last science image in 2010.The satellite was built by NASA's Goddard Space Flight Center. Its telescope was constructed by a consortium led by Lockheed Martin's Advanced Technology Center. The optics were designed and built to a state-of-the-art surface finish for the period, by the Smithsonian Astrophysical Observatory (SAO) in Cambridge MA. TRACE was launched in April 1998 on a Pegasus rocket, has a 30 cm aperture and 1024 x 1024 CCD detector giving an 8.5 arc minute field of view. The telescope is designed to take correlated images in a range of wavelengths from visible light, through the Lyman alpha line to far ultraviolet. The different wavelength passbands correspond to plasma emission temperatures from 4,000 to 4,000,000 K. The optics use a special multilayer technique to focus the difficult-to-reflect EUV light; the technique was first used for solar imaging in the late 1980s and 1990s, notably by the MSSTA and NIXT sounding rocket payloads.",
+        "json-uri": "http://dbpedia.org/data/TRACE.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ST-1",
+        "abstract": "ST-1 is a communications satellite owned by Singapore Telecom and Taiwan's Chunghwa Telecom Company, Ltd. It was placed launched on 25 August 1998, by an Ariane 4 rocket. The two companies jointly operate the spacecraft from control centres located in Seletar, Singapore and Taipei, Taiwan, respectively.ST-1 carries 16 high-power Ku band transponders and 14 medium-power C-band transponders. Weighing over 3,000 kg (6,600 lb.) at launch, ST-1 generates more than 6,500 Watts of electrical power. The satellite’s broad C-band coverage beam extends from the Middle East to Japan, including all of Southeast Asia.ST-1 also features two Ku-band spot beams: a \"K1\" beam that stretches from Taiwan to Singapore and from Indonesia to Malaysia and a \"K2\" beam centred over the Indian subcontinent. The ST-1 satellite currently delivers telephony, digital DTH broadcasting, VSAT and other business services throughout the region.Singapore Telecom and Taiwan's Chunghwa Telecom Company are in now discussions for a new follow-on satellite that could be launched in 2010.",
+        "json-uri": "http://dbpedia.org/data/ST-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Thor_3",
+        "abstract": "Thor 3 was a satellite used by Canal Digital in the Nordic areas for DTH services. Thor 3 is part of the Thor satellite series. It had 14 Ku band transponders, and was situated at 1 degree west. Thor 3 was launched in June 1998, with an expected lifetime at 12 years. It was replaced by Thor 6 which was launched 29 October 2009.Thor 6 now serves the Nordic region as well as the Central and Eastern European regions.",
+        "json-uri": "http://dbpedia.org/data/Thor_3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2350",
+        "abstract": "Kosmos 2350 (Russian: Космос 2350 meaning Cosmos 2350) is a Russian US-KMO missile early warning satellite which was launched in 1998 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2350 was launched from Site 200/39 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 04:36 UTC on 29 April 1998. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1998-025A. The United States Space Command assigned it the Satellite Catalog Number 25315.This satellite only worked for 2 months before failing.The US National Space Science Data Center describe this as a Potok military communications satellite instead of an early warning satellite.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2350.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-88",
+        "abstract": "STS-88 was the first Space Shuttle mission to the International Space Station (ISS). It was flown by Space Shuttle Endeavour, and took the first American module, the Unity node, to the station.The seven-day mission was highlighted by the mating of the U.S.-built Unity node to the Functional Cargo Block (Zarya module) already in orbit, and three spacewalks to connect power and data transmission cables between the Node and the FGB. Zarya, built by Boeing and the Russian Space Agency, was launched on a Russian Proton rocket from the Baikonur Cosmodrome in Kazakhstan in November 1998.Other payloads on the STS-88 mission included the IMAX Cargo Bay Camera (ICBC), the Argentine Scientific Applications Satellite-S (SAC-A), the MightySat 1 Hitchhiker payload, the Space Experiment Module (SEM-07) and Getaway Special G-093 sponsored by the University of Michigan.",
+        "json-uri": "http://dbpedia.org/data/STS-88.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_2A",
+        "abstract": "Astra 2A is one of the Astra communications satellites owned by SES. Launched in 1998 into the 28.2E orbital position, half its expected end-of-life capacity of 28 transponders were pre-booked by BSkyB, who utilised it to launch their new Sky Digital service. As of 2006, 21 transponders were active, including two active but unused; as of September 2013, 22 transponders are active.",
+        "json-uri": "http://dbpedia.org/data/Astra_2A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Submillimeter_Wave_Astronomy_Satellite",
+        "abstract": "The Submillimeter Wave Astronomy Satellite (SWAS) was an astronomical observatory launched on December 5, 1998 as part of the Small Explorer program within NASA. Investigators at Smithsonian Astrophysical Observatory and Goddard Space Flight Center designed the telescope and the spacecraft, respectively.The satellite examined microwaves from 487–556 GHz that originated in water molecules, molecular oxygen, atomic carbon, and carbon monoxide in space. This corresponds to wavelengths of about 0.54 to 0.61 millimeters (540 to 610 μm).SWAS made observations until July 21, 2004. In June 2005, the spacecraft was reactivated for a 3-month period (after a year of stand-by operation) in order to observe the effects of the Deep Impact probe's collision with comet P/Tempel 1.The main optic of SWAS is a 55 cm x 71 cm elliptical off-axis Cassegrain telescope, sending light into a pair of Schottky diode receivers.SWAS observed a unique area of the spectrum alternately described as submillimeter (for the wavelength of light seen), microwave, radio, and/or far infrared.",
+        "json-uri": "http://dbpedia.org/data/Submillimeter_Wave_Astronomy_Satellite.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sputnik_41",
+        "abstract": "Sputnik 41 (Russian: Спутник 41, French: Spoutnik 41), also known as Sputnik Jr 2 and Radio Sputnik 18 (RS-18), was a Franco-Russian amateur radio satellite which was launched in 1998 to commemorate the hundredth anniversary of the Aéro-Club de France, and the forty-first anniversary of the launch of Sputnik 1, the world's first artificial satellite. A 4-kilogram (8.8 lb) one-third scale model of Sputnik 1, Sputnik 41 was deployed from the Mir space station on 10 November 1998.Sputnik 41 was launched aboard Progress M-40 at 04:14 UTC on 25 October 1998, along with supplies for Mir and the Znamya-2.5 reflector experiment. A Soyuz-U carrier rocket placed the spacecraft into orbit, flying from Site 1/5 at the Baikonur Cosmodrome in Kazakhstan: the same launch pad used by Sputnik 1. Progress M-40 docked to Mir on 27 October, and the satellite was transferred to the space station. At about 19:30 UTC on 10 November, during an extra-vehicular activity, Sputnik 41 was deployed by cosmonauts Gennady Padalka and Sergei Avdeyev.On 24 November, a fortnight after deployment, Sputnik 41 was in a low Earth orbit with a perigee of 339 kilometres (211 mi), an apogee of 352 kilometres (219 mi), an inclination of 51.6 degrees, and a period of 91.44 minutes. The satellite was given the International Designator 1998-062C, and was catalogued by the United States Space Command as 25533. Having ceased operations on 11 December 1998 after its batteries expired, Sputnik 41 decayed from orbit on 11 January 1999.Sputnik 41 was originally intended to be built aboard Mir, based around a satellite launched in October 1997 as a backup for Sputnik 40. That spacecraft had been stored aboard the space station for a year after the successful deployment of Sputnik 40, and it was intended that it would be fitted with upgraded electronics and deployed. By the time of launch, the project had grown to involve a complete satellite, and the Sputnik 40 backup was never deployed.",
+        "json-uri": "http://dbpedia.org/data/Sputnik_41.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-91",
+        "abstract": "STS-91 was the final Space Shuttle mission to the Mir space station. It was flown by Space Shuttle Discovery, and launched from Kennedy Space Center, Florida, on 2 June 1998.",
+        "json-uri": "http://dbpedia.org/data/STS-91.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-5",
+        "abstract": "AMC-5 is a geosynchronous satellite used for communications, located at 79 degrees west. It is a Ku band satellite operated by SES Americom. It is currently used by a variety of television customers, including being home to the CBS Newspath.",
+        "json-uri": "http://dbpedia.org/data/AMC-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MightySat-1",
+        "abstract": "MightSat-1 was a small spacecraft developed by the U.S. Air Force's Phillips Laboratory (now part of the Air Force Research Laboratory Space Vehicles Directorate) to test technology for small satellites, including advanced dual-junction solar cells, a composite structure, a micrometeorite and debris detector, low-power electronics and a low-shock release device. The 140-pound satellite was launched from the Space Shuttle Endeavour in December 1998, during the 12th day of the STS-88 mission and performed robustly in orbit, with no spacecraft anomalies during its mission. Lt. Barbara Braun of the AFRL was the program manager for the satellite.MightySat-1's mission ended when it re-entered the atmosphere at 17:11 UTC on November 21, 1999.",
+        "json-uri": "http://dbpedia.org/data/MightySat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Unity_(ISS_module)",
+        "abstract": "The Unity connecting module was the first U.S.-built component of the International Space Station. It is cylindrical in shape, with six berthing locations (forward, aft, port, starboard, zenith, and nadir) facilitating connections to other modules. Unity measures 4.57 metres (15.0 ft) in diameter, is 5.47 metres (17.9 ft) long, and was built for NASA by Boeing in a manufacturing facility at the Marshall Space Flight Center in Huntsville, Alabama. Sometimes referred to as Node 1, Unity was the first of the three connecting modules; the other two are Harmony and Tranquility.",
+        "json-uri": "http://dbpedia.org/data/Unity_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mars_Climate_Orbiter",
+        "abstract": "The Mars Climate Orbiter (formerly the Mars Surveyor '98 Orbiter) was a 338 kilogram (750 lb) robotic space probe launched by NASA on December 11, 1998 to study the Martian climate, atmosphere, surface changes and to act as the communications relay in the Mars Surveyor '98 program, for Mars Polar Lander. However, on September 23, 1999, communication with the spacecraft was lost as the spacecraft went into orbital insertion, due to ground-based computer software which produced output in non-SI units of pound-seconds (lbf×s) instead of the metric units of newton-seconds (N×s) specified in the contract between NASA and Lockheed. The spacecraft encountered Mars on a trajectory that brought it too close to the planet, causing it to pass through the upper atmosphere and disintegrate.",
+        "json-uri": "http://dbpedia.org/data/Mars_Climate_Orbiter.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-95",
+        "abstract": "STS-95 was a Space Shuttle mission launched from Kennedy Space Center, Florida on 29 October 1998, using the orbiter Discovery. It was the 25th flight of Discovery and the 92nd mission flown since the start of the Space Shuttle program in April 1981. It was a highly publicized mission due to former Project Mercury astronaut and United States Senator John H. Glenn, Jr.'s return to space for his second space flight. At age 77, Glenn became the oldest person, to date, to go into space. This mission is also noted for inaugurating ATSC HDTV broadcasting in the U.S., with live coast-to-coast coverage of the launch. In another first, Spain's Pedro Duque became the first Spaniard in space.The mission's objectives involved investigating life-sciences experiments, using the SpaceHab module to perform these experiments on Senator Glenn. Scientific objectives on this mission were not limited to furthering an understanding of the human body, but also to increase astronomical understanding with regards to the Sun, and how it affects life on Earth. The Spartan 201 spacecraft was released by the crew, flying free from the Shuttle, studying the acceleration of the solar wind that originates in the sun's solar corona. The mission lasted just under nine days, with Discovery completing its voyage by landing at the Kennedy Space Center's Shuttle Landing Facility.The launch was rare in that the official launch weather forecast provided by the 45th Weather Squadron was 100 percent for favorable weather for launch as well as the Shuttle Landing Facility.Bill Clinton became the second incumbent American president to witness a rocket launch, joined by his wife Hillary on the roof of the Vehicle Assembly Building; and the only one to attend a Shuttle launch (President Richard Nixon witnessed the launch of Apollo 12).",
+        "json-uri": "http://dbpedia.org/data/STS-95.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-27",
+        "abstract": "Soyuz TM-27 is a Russian spacecraft that ferried cosmonauts and supplies to the Mir, the Russian space station. It was the 33rd expedition to Mir. It was launched by a Soyuz-U rocket from Baikonur Cosmodrome on January 29, 1998. The main mission was to exchange one crew member, carry out French mission PEGASE, and conduct routine science experiments.TM-27 docked with Mir. The crew repaired the Spektr solar panel and installed a new VDU station orientation system.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-27.jsond",
+        "instrumentation": []
+    }
+]

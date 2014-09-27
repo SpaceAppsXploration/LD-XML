@@ -1,47 +1,44 @@
-from importio import *
-import logging, json, io
+from bs4 import BeautifulSoup
+import json, io, requests
 
-# To use an API key for authentication, use the following code:
-client = importio.importio(user_id="2f655b7b-e35e-478a-abb6-d190a99335ac", api_key="JjzCdj7jXY5L8cpgemKkR8ICAFy2kx3abpWWCXH8MKDdLX5BpTDGvLkNOCCMkScQPHh2yCWh0z7W2eeOXaaJGw==", host="https://query.import.io")
+def retrieve(url):
+    return requests.get(url).text
 
-# Once we have started the client and authenticated, we need to connect it to the server:
-client.connect()
+def parse(html):
+    soup = BeautifulSoup(html)
 
-# Because import.io queries are asynchronous, for this simple script we will use a "latch"
-# to stop the script from exiting before all of our queries are returned
-# For more information on the latch class, see the latch.py file included in this client library
-queryLatch = latch.latch(1)
+    keys = ["title", "link", "abstract"]
+    titles = []
+    links = []
+    abstracts = []
 
-# Define here a global variable that we can put all our results in to when they come back from
-# the server, so we can use the data later on in the script
-dataRows = []
+    elements = []
 
-# In order to receive the data from the queries we issue, we need to define a callback method
-# This method will receive each message that comes back from the queries, and we can take that
-# data and store it for use in our app
-def callback(query, message):
-  global dataRows
-  
-  # Disconnect messages happen if we disconnect the client library while a query is in progress
-  if message["type"] == "DISCONNECT":
-    print "Query in progress when library disconnected"
-    print json.dumps(message["data"], indent = 4)
+    dataRows = []
 
-  # Check the message we receive actually has some data in it
-  if message["type"] == "MESSAGE":
-    if "errorType" in message["data"]:
-      # In this case, we received a message, but it was an error from the external service
-      print "Got an error!" 
-      print json.dumps(message["data"], indent = 4)
-    else:
-      # We got a message and it was not an error, so we can process the data
-      print "Got data!"
-      # print json.dumps(message["data"], indent = 4)
-      # Save the data we got in our dataRows variable for later
-      dataRows.extend(message["data"]["results"])
-  
-  # When the query is finished, countdown the latch so the program can continue when everything is done
-  if query.finished(): queryLatch.countdown()
+    results = soup.find_all("div", class_="searchresult")
+
+    for result in results:
+        link = result.find("a")
+        titles.append(link.text)
+        links.append(link['href'])
+
+        for h3 in result.find_all("h3"):
+            try:
+                h3["class"]
+            except KeyError:
+                abstracts.append(h3.text)
+
+    for i in range(0, len(titles)):
+        elements.append([titles[i], links[i], abstracts[i]])
+
+    for element in elements:
+        dataRows.append(dict(zip(keys, element)))
+
+    with io.open(url[55:-14] + ".txt","w", encoding='utf-8') as out_file:
+        out_file.write(unicode(json.dumps(dataRows, ensure_ascii=False, indent=4)))
+    out_file.close()
+
 
 urls = ["http://nasasearch.nasa.gov/search?affiliate=nasa&query=2001+Mars+Odyssey+gamma-rays&commit=Search",
         "http://nasasearch.nasa.gov/search?affiliate=nasa&query=2001+Mars+Odyssey+gravitational+wave&commit=Search",
@@ -197,37 +194,5 @@ urls = ["http://nasasearch.nasa.gov/search?affiliate=nasa&query=2001+Mars+Odysse
         "http://nasasearch.nasa.gov/search?affiliate=nasa&query=XMM-Newton+x-rays&commit=Search"]
 
 for url in urls:
-
-  # Issue queries to your data sources and with your inputs
-  # You can modify the inputs and connectorGuids so as to query your own sources
-  # Query for tile Esa LD-XML
-  client.query({
-    "connectorGuids": [
-      "82bb077d-ad3e-491b-95e5-6915cfd78fed"
-    ],
-    "input": {
-      "webpage/url": url
-    }
-  }, callback)
-
-  print "Queries dispatched, now waiting for results"
-
-  # Now we have issued all of the queries, we can "await" on the latch so that we know when it is all done
-  queryLatch.await()
-
-  print "Latch has completed, all results returned"
-
-  # It is best practice to disconnect when you are finished sending queries and getting data - it allows us to
-  # clean up resources on the client and the server
-  client.disconnect()
-
-  # Now we can print out the data we got
-  print "All data received"
-  #print json.dumps(dataRows, indent = 4)
-
-  #out_file = open(url[55:-14] + ".txt","w")
-  #out_file.write(json.dumps(dataRows, indent = 4).replace("link/_text", "title").replace("detail", "abstract"))
-  #out_file.close()
-  with io.open(url[55:-14] + ".txt","w", encoding='utf-8') as out_file:
-    out_file.write(unicode(json.dumps(dataRows, ensure_ascii=False, indent = 4)).replace("link/_text", "title").replace("detail", "abstract"))
-  out_file.close()
+    html = retrieve(url)
+    parse(html)

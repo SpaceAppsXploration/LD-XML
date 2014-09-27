@@ -1,0 +1,236 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-15",
+        "abstract": "Progress M-15 was a Russian unmanned cargo spacecraft which was launched in 1992 to resupply the Mir space station. The thirty-third of sixty-four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 215. It carried supplies including food, water and oxygen for the EO-12 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It also transported the Mak 2 satellite, which was deployed from Mir on 20 November.Progress M-15 was launched at 17:19:41 GMT on 27 October 1992, atop a Soyuz-U2 carrier rocket flying from Site 31/6 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the aft port of the Kvant-1 module at 17:19:41 GMT on 29 October.During the 97 days for which Progress M-15 was docked, Mir was in an orbit of around 396 by 399 kilometres (214 by 215 nmi), inclined at 51.6 degrees. Progress M-15 undocked from Mir at 00:44:53 GMT on 4 February 1993, however it remained in orbit to conduct the Znamya 2 experiment, and research into autonomous flight. It was deorbited on 7 February, and burned up during reentry over the Pacific Ocean at around 08:03:35 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/European_Retrievable_Carrier",
+        "abstract": "The European Retrievable Carrier (EURECA) was an unmanned 4.5 tonne satellite with 15 experiments. It was an ESA mission and the acronym was derived from Archimedes' bathtub revelation; Eureka!.It was built by the German MBB-ERNO and had automatic material science cells as well as small telescopes for Solar observation (including x-ray).It was launched 31 July 1992 by STS-46 - Atlantis, and put into an orbit at an altitude of 508 km. EURECA was retrieved on 1 July 1993 by STS-57- Endeavour and returned to Earth. It was designed to fly five times with different experiments but the following flights were cancelled.EURECA is one of the few unmanned space vehicles that have been returned to the Earth unharmed. EURECA has been on display at the Swiss Transport Museum in Lucerne since 2000.",
+        "json-uri": "http://dbpedia.org/data/European_Retrievable_Carrier.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-52",
+        "abstract": "STS-52 was a Space Transportation System (NASA Space Shuttle) mission using orbiter Columbia, and launched 22 October 1992.",
+        "json-uri": "http://dbpedia.org/data/STS-52.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-79",
+        "abstract": "USA-79, also known as GPS IIA-3, GPS II-12 and GPS SVN-25, was an American navigation satellite which formed part of the Global Positioning System. It was the third of nineteen Block IIA GPS satellites to be launched.USA-79 was launched at 22:29:00 UTC on 23 February 1992, atop a Delta II carrier rocket, flight number D207, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-79 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 27 March 1992, USA-79 was in an orbit with a perigee of 20,018 kilometres (12,439 mi), an apogee of 20,343 kilometres (12,641 mi), a period of 717.9 minutes, and 54.7 degrees of inclination to the equator. It had PRN 25, and operated in slot 2 of plane A of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and ceased operations on 18 December 2009.",
+        "json-uri": "http://dbpedia.org/data/USA-79.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-10",
+        "abstract": "Progress M-10 was a Soviet and subsequently Russian unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-eighth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 211. It carried supplies including food, water and oxygen for the EO-10 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It carried the fourth VBK-Raduga capsule, which was used to return experiment results and equipment to Earth when the Progress was deorbited.Progress M-10 was launched at 00:05:25 GMT on 17 October 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following four days of free flight, it docked with the Forward port of the core module on the second attempt, at 03:40:50 GMT on 21 October. The first attempt had been aborted by the Progress' onboard computer when the spacecraft was 150 metres (490 ft) away from the station.During the 91 days for which Progress M-10 was docked, Mir was in an orbit of around 376 by 377 kilometres (203 by 204 nmi), inclined at 51.6 degrees. It was launched by the Soviet Union, which was dissolved in December 1991, and along with most aspects of the Soviet space programme, Progress M-10 was inherited by Russia. It undocked from Mir at 07:13:44 GMT on 20 January 1992, and was deorbited few hours later to a destructive reentry over the Pacific Ocean. The Raduga capsule landed at 12:03:30 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2209",
+        "abstract": "Kosmos 2209 (Russian: Космос 2209 meaning Cosmos 2209) is a Russian US-KS missile early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2209 was launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 18:01 UTC on 10 September 1992. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1992-059A. The United States Space Command assigned it the Satellite Catalog Number 22112.It was operational for about 4 years.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2209.jsond",
+        "instrumentation": [
+            "Smaller telescopes",
+            "Optical telescope with  aperture",
+            "Infrared sensor/s"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-2DT",
+        "abstract": "INSAT-2DT, previously Arabsat-1C and also known as INSAT-2R, was a Saudi Arabian and subsequently Indian communications satellite which was operated initially by Arabsat, and then by the Indian Space Research Organisation.",
+        "json-uri": "http://dbpedia.org/data/INSAT-2DT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-85",
+        "abstract": "USA-85, also known as GPS IIA-7, GPS II-16 and GPS SVN-32, was an American navigation satellite which formed part of the Global Positioning System. It was the seventh of nineteen Block IIA GPS satellites to be launched.USA-85 was launched at 23:54:00 UTC on 22 November 1992, atop a Delta II carrier rocket, flight number D216, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-85 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 23 December 1992, USA-85 was in an orbit with a perigee of 20,074 kilometres (12,473 mi), an apogee of 20,290 kilometres (12,610 mi), a period of 717.96 minutes, and 54.8 degrees of inclination to the equator. It was intended to broadcast signal PRN 32, but this was changed to PRN 01 on 28 January 1993 after it was discovered that receivers could not track the PRN 32 signal. The spacecraft was operated in slot 4 of plane F of the GPS constellation, and had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and was retired from service on 17 March 2008. It is unclear whether it has been retained as a backup satellite.",
+        "json-uri": "http://dbpedia.org/data/USA-85.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-42",
+        "abstract": "STS-42 was a Space Shuttle Discovery mission with the Spacelab module. Liftoff which was originally scheduled for 8:45 EST (13:45 UTC) 22 January 1992, but the launch was delayed due to weather constraints. Discovery successfully lifted off an hour later at 9:52 EST (14:52 UTC). The main goal of the mission was to study the effects of microgravity on a variety of organisms. The shuttle landed at 8:07 PST (16:07 UTC) on 30 January 1992 on Runway 22, Edwards Air Force Base, California.STS-42 was the first of two flights in 1992 of Discovery, the second of which occurred during STS-53, which launched on 2 December 1992. The mission was also the last mission of the Space Shuttle Discovery to have a seven-member crew until STS-82, which was launched on 11 February 1997.",
+        "json-uri": "http://dbpedia.org/data/STS-42.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kitsat-1",
+        "abstract": "Kitsat-1 or Kitsat A is the first satellite to be launched by the Republic of Korea.Placed into orbit on August 11, 1992, and launched from Guiana Space Centre, its launch weight was 48.5 kg, and it measured 35.2 X 35.6 X 67 cm. The console of the University of Surrey UoSAT-5 satellite was used.South Korea became the 22nd country to operate a satellite.",
+        "json-uri": "http://dbpedia.org/data/Kitsat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-14",
+        "abstract": "Soyuz TM-14 was the 14th expedition to the Mir space station. It included an astronaut from Germany, and was the First Russian Soyuz mission after the collapse of the Soviet Union.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-14.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-13",
+        "abstract": "Progress M-13 was a Russian unmanned cargo spacecraft which was launched in 1992 to resupply the Mir space station. The thirty-first of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 214. It carried supplies including food, water and oxygen for the EO-11 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-13 was launched at 16:43:13 GMT on 30 June 1992, atop a Soyuz-U2 carrier rocket flying from Site 31/6 at the Baikonur Cosmodrome. Following four days of free flight, it docked with the Forward port of Mir's core module at 12:38 GMT on 4 July. An earlier docking attempt on 2 July had been unsuccessful. During the 19 days for which Progress M-13 was docked, Mir was in an orbit of around 387 by 410 kilometres (209 by 221 nmi), inclined at 51.6 degrees. Progress M-13 undocked from Mir at 04:14:00 GMT on 24 July to make way for Soyuz TM-15, and was deorbited few hours later, to a destructive reentry over the Pacific Ocean at around 08:03:35.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-13.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-49",
+        "abstract": "STS-49 was the maiden flight of the Space Shuttle Endeavour. The primary goal of its nine-day mission was to retrieve an Intelsat VI satellite (Intelsat 603, which failed to leave low earth orbit two years before), attach it to a new upper stage, and relaunch it to its intended geosynchronous orbit. After several attempts, the capture was completed with a three-person extra-vehicular activity (EVA). This was the first time that three people from the same spacecraft walked in space at the same time, and as of 2014 it was the only such EVA. It would also stand until STS-102 in 2001 as the longest EVA ever undertaken.",
+        "json-uri": "http://dbpedia.org/data/STS-49.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TOPEX/Poseidon",
+        "abstract": "Launched on August 10, 1992, TOPEX/Poseidon was a joint satellite mission between NASA, the U.S. space agency, and CNES, the French space agency, to map ocean surface topography. The first major oceanographic research vessel to sail into space, TOPEX/Poseidon helped revolutionize oceanography by proving the value of satellite ocean observations. The distinguished oceanographer Walter Munk described TOPEX/Poseidon as \"the most successful ocean experiment of all time.\" A malfunction ended normal satellite operations January 2006.",
+        "json-uri": "http://dbpedia.org/data/TOPEX/Poseidon.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mars_Observer",
+        "abstract": "The Mars Observer spacecraft, also known as the Mars Geoscience/Climatology Orbiter, was a 1,018-kilogram (2,244 lb) robotic space probe launched by NASA on September 25, 1992 to study the Martian surface, atmosphere, climate and magnetic field. During the interplanetary cruise phase, communication with the spacecraft was lost on August 21, 1993, 3 days prior to orbital insertion. Attempts to re-establish communication with the spacecraft were unsuccessful.",
+        "json-uri": "http://dbpedia.org/data/Mars_Observer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-84",
+        "abstract": "USA-84, also known as GPS IIA-6, GPS II-15 and GPS SVN-27, is an American navigation satellite which forms part of the Global Positioning System. It was the sixth of nineteen Block IIA GPS satellites to be launched.USA-84 was launched at 08:57:00 UTC on 9 September 1992, atop a Delta II carrier rocket, flight number D214, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-84 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 11 October 1992, USA-84 was in an orbit with a perigee of 19,914 kilometres (12,374 mi), an apogee of 20,451 kilometres (12,708 mi), a period of 717.98 minutes, and 54.7 degrees of inclination to the equator. It had PRN 27, and operated in slot 4 of plane A of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, but was in service for twenty years, until its retirement in October 2012.",
+        "json-uri": "http://dbpedia.org/data/USA-84.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-80",
+        "abstract": "USA-80, also known as GPS IIA-4, GPS II-13 and GPS SVN-28, was an American navigation satellite which formed part of the Global Positioning System. It was the fourth of nineteen Block IIA GPS satellites to be launched.USA-80 was launched at 03:20:00 UTC on 10 April 1992, atop a Delta II carrier rocket, flight number D208, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-80 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 12 May 1992, USA-80 was in an orbit with a perigee of 19,979 kilometres (12,414 mi), an apogee of 20,384 kilometres (12,666 mi), a period of 717.94 minutes, and 55.1 degrees of inclination to the equator. It had PRN 28, and operated in slot 2 of plane C of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however it was retired early, on 15 August 1997. It was replaced by USA-117.",
+        "json-uri": "http://dbpedia.org/data/USA-80.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-87",
+        "abstract": "USA-87, also known as GPS IIA-8, GPS II-17 and GPS SVN-29, was an American navigation satellite which formed part of the Global Positioning System. It was the eighth of nineteen Block IIA GPS satellites to be launched.USA-87 was launched at 22:16:00 UTC on 18 December 1992, atop a Delta II carrier rocket, flight number D217, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-87 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 25 January 1993, USA-87 was in an orbit with a perigee of 20,037 kilometres (12,450 mi), an apogee of 20,326 kilometres (12,630 mi), a period of 717.94 minutes, and 54.7 degrees of inclination to the equator. It had PRN 29, and operated in slot 5 of plane F of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and ceased operations on 23 October 2007.",
+        "json-uri": "http://dbpedia.org/data/USA-87.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-12",
+        "abstract": "Progress M-12 was a Russian unmanned cargo spacecraft which was launched in 1992 to resupply the Mir space station. The thirtieth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 213. It carried supplies including food, water and oxygen for the EO-11 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-12 was launched at 21:29:25 GMT on 19 April 1992, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the Forward port of the core module of Mir at 23:21:59 GMT on 21 April. During the 67 days for which Progress M-12 was docked, Mir was in an orbit of around 371 by 415 kilometres (200 by 224 nmi), inclined at 51.6 degrees. Progress M-12 undocked from Mir at 21:34:44 GMT on 27 June, and was deorbited few hours later, to a destructive reentry over the Pacific Ocean at around 00:02:51 the next day.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-45",
+        "abstract": "STS-45 was a 1992 Space Shuttle mission using the Space Shuttle Atlantis. Its almost nine day scientific mission was with a non-deployable payload of instruments. It was the 46th Space Shuttle mission and the 11th for Atlantis.",
+        "json-uri": "http://dbpedia.org/data/STS-45.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2196",
+        "abstract": "Kosmos 2196 (Russian: Космос 2196 meaning Cosmos 2196) is a Russian US-K missile early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2196 was launched from Site 43/3 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 09:53 UTC on 8 July 1992. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1992-040A. The United States Space Command assigned it the Satellite Catalog Number 22189.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2196.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Freja_(satellite)",
+        "abstract": "FREJA was a Swedish satellite developed by the Swedish Space Corporation on behalf of the Swedish National Space Board. It was piggyback launched on a Long March 2C launch vehicle from Jiuquan Satellite Launch Center in China on October 6, 1992. The satellite total cost was 19 million U.S. dollars, excluding the costs for experiments.It was funded with Swedish tax money through the Swedish National Space Board, donations from the Wallenberg Foundation and approximately 25% from the German Ministry for Science and Technology.",
+        "json-uri": "http://dbpedia.org/data/Freja_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-46",
+        "abstract": "STS-46 was a NASA space shuttle mission using Space Shuttle Atlantis and launched on 31 July 1992 at 9:56:48 am EDT.",
+        "json-uri": "http://dbpedia.org/data/STS-46.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2176",
+        "abstract": "Kosmos 2176 (Russian: Космос 2176 meaning Cosmos 2176) was a Russian US-K early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2176 was launched from Site 43/3 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 01:18 UTC on 24 January 1992. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1992-003A. The United States Space Command assigned it the Satellite Catalog Number 21847.It re-entered the Earth's atmosphere on January 17, 2012.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2176.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2224",
+        "abstract": "Kosmos 2224 (Russian: Космос 2224 meaning Cosmos 2224) is a Russian US-KMO missile early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2224 was launched from Site 200/39 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 12:45 UTC on 17 December 1992. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1992-088A. The United States Space Command assigned it the Satellite Catalog Number 22269.It was operational for 77 months, which was the longest of the US-KMO series until Kosmos 2379.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2224.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2222",
+        "abstract": "Kosmos 2222 (Russian: Космос 2222 meaning Cosmos 2222) is a Russian US-K missile early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2222 was launched from Site 43/3 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 12:18 UTC on 25 November 1992. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1992-081A. The United States Space Command assigned it the Satellite Catalog Number 22238.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2222.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Solar_Anomalous_and_Magnetospheric_Particle_Explorer",
+        "abstract": "The Solar Anomalous and Magnetospheric Particle Explorer (SAMPEX) satellite was launched in July 1992 into a low earth orbit at an altitude of 520 by 670 km and 82 degrees inclination. The satellite far exceeded its expected three-year lifetime. It has primarily operated in a three-axis stabilized mode but has also been spun for limited periods. The satellite carries four instruments designed to measure the radiation environment of the Earth's magnetosphere.SAMPEX was an international collaboration between NASA of the United States and Germany. It was part of the Small Explorer program started in 1989SAMPEX science mission ended on June 30, 2004. It re-entered Earth's atmosphere on November 13, 2012.It was also operated as an educational tool by Bowie State University, with additional data collections. SAMPEX's research area was continued by the Van Allen Probes (RBSP).",
+        "json-uri": "http://dbpedia.org/data/Solar_Anomalous_and_Magnetospheric_Particle_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-11",
+        "abstract": "Progress M-11 was a Russian unmanned cargo spacecraft which was launched in 1992 to resupply the Mir space station. The twenty-ninth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 212. It carried supplies including food, water and oxygen for the EO-10 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It was the first spacecraft to visit Mir following the dissolution of the Soviet Union.Progress M-11 was launched at 07:50:16 GMT on 25 January 1992, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the Forward port of Mir's core module at 09:30:43 GMT on 27 January.During the 46 days for which Progress M-11 was docked, Mir was in an orbit of around 375 by 393 kilometres (202 by 212 nmi), inclined at 51.6 degrees. Progress M-11 undocked from Mir at 08:43:40 GMT on 13 March, and was deorbited few hours later, to a destructive reentry over the Pacific Ocean at around 15:47.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-15",
+        "abstract": "Soyuz TM-15 was the 15th expedition to the Mir space station. It included astronaut Michel Tognini from France.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-50",
+        "abstract": "STS-50 (U.S. Microgravity Laboratory 1) was a United States Space Shuttle mission, the 12th mission of the Columbia orbiter. Columbia landed at Kennedy Space Center for the first time ever due to bad weather at Edwards caused by the remnants of Hurricane Darby.",
+        "json-uri": "http://dbpedia.org/data/STS-50.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-53",
+        "abstract": "STS-53 was a Space Shuttle Discovery mission in support of the United States Department of Defense. The mission was launched on 2 December 1992 from Kennedy Space Center, Florida.",
+        "json-uri": "http://dbpedia.org/data/STS-53.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-83",
+        "abstract": "USA-83, also known as GPS IIA-5, GPS II-14 and GPS SVN-26, is an American navigation satellite which forms part of the Global Positioning System. It was the fifth of nineteen Block IIA GPS satellites to be launched.USA-83 was launched at 09:20:01 UTC on 7 July 1992, atop a Delta II carrier rocket, flight number D211, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-83 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 6 August 1992, USA-83 was in an orbit with a perigee of 19,959 kilometres (12,402 mi), an apogee of 20,403 kilometres (12,678 mi), a period of 717.92 minutes, and 55 degrees of inclination to the equator. It has PRN 26, and operates in slot 2 of plane F of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however it is still operational.",
+        "json-uri": "http://dbpedia.org/data/USA-83.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2217",
+        "abstract": "Kosmos 2217 (Russian: Космос 2217 meaning Cosmos 2217) is a Russian US-K missile early warning satellite which was launched in 1992 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2217 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 10:21 UTC on 21 October 1992. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1992-069A. The United States Space Command assigned it the Satellite Catalog Number 22189.It re-entered the Earth's atmosphere on 6 November 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2217.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2175",
+        "abstract": "Kosmos 2175 (Russian: Космос-2175 meaning Cosmos 2175) was a Russian Yantar-4K2 photo reconnaissance satellite. It was the first satellite to be launched by the Russian Federation, following the breakup of the Soviet Union. It was launched by a Soyuz-U carrier rocket, flying from the Plesetsk Cosmodrome, on 21 January 1992.It was the 63rd Yantar-4K2 satellite. Yantar-4K2 spacecraft are also designated Kobal't. Kosmos 2175 was deorbited, and recovered after atmospheric re-entry, on 20 March 1992, following a successful mission. Prior to this, two capsules had been returned with imagery aboard.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2175.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2229",
+        "abstract": "Bion 10 (Cosmos 2229), a C.I.S. spacecraft, was launched by a Soyuz-U rocket from the Plesetsk Cosmodrome. It was part of the Bion program.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2229.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Geotail",
+        "abstract": "Geotail is a satellite observing the Earth's magnetosphere. It was developed by Japan's ISAS in association with the United States' NASA, and was launched by a Delta II rocket on July 24, 1992.From the Geotail website (listed below): \"The Geotail satellite was launched on July 24, 1992, by a Delta II launch vehicle from Cape Canaveral Air Force Station, Florida, United States. The primary purpose of this mission is to study the structure and dynamics of the tail region of the magnetosphere with a comprehensive set of scientific instruments. For this purpose, the orbit has been designed to cover the magnetotail over a wide range of distances: 8 Re to 210 Re from the earth. This orbit also allows us to study the boundary region of the magnetosphere as it skims the magnetopause at perigees. In the first two years the double lunar swing-by technique was used to keep apogees in the distant magnetotail. The apogee was lowered down to 50 Re in mid November 1994 and then to 30 Re in February 1995 in order to study substorm processes in the near-Earth tail region. The present orbit is 9 Re x 30 Re with inclination of -7° to the ecliptic plane.\"Geotail instruments studied electric fields, magnetic fields, plasmas, energetic particles, and plasma waves.Geotail is an active mission as of 2012. Geotail, Wind, Polar, SOHO, and Cluster were all part of the International Solar-Terrestrial Physics (ISTP) project.",
+        "json-uri": "http://dbpedia.org/data/Geotail.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-47",
+        "abstract": "STS-47 was the 50th Space Shuttle mission of the program, as well as the second mission of Space Shuttle Endeavour. The mission mainly involved conducting experiments in life and material sciences.",
+        "json-uri": "http://dbpedia.org/data/STS-47.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Extreme_Ultraviolet_Explorer",
+        "abstract": "The Extreme Ultraviolet Explorer (EUVE) was a space telescope for ultraviolet (UV) astronomy, launched on June 7, 1992. With instruments for UV radiation between wavelengths of 7 and 76 nm, the EUVE was the first satellite mission especially for the short-wave ultraviolet range. The satellite compiled an all-sky survey of 801 astronomical targets before being decommissioned on January 31, 2001. It re-entered the atmosphere on January 30, 2002.",
+        "json-uri": "http://dbpedia.org/data/Extreme_Ultraviolet_Explorer.jsond",
+        "instrumentation": []
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/KickSat",
+        "instrumentation": [],
+        "abstract": "KickSat is a small satellite (femtosatellite) project inaugurated in early October, 2011, to launch a large number of very small satellites from a CubeSat. The satellites have been characterized as being the size of a large postage stamp.and also as \"cracker size.\"The mission launch was originally scheduled for late 2013 and was launched April 18, 2014.",
+        "json-uri": "http://dbpedia.org/data/KickSat.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cygnus_CRS_Orb-1",
+        "instrumentation": [],
+        "abstract": "Cygnus CRS Orb-1, also known as Orbital-1, is the second flight of the Orbital Sciences Cygnus unmanned resupply spacecraft, its second flight to the International Space Station and the third launch of the company's Antares launch vehicle.",
+        "json-uri": "http://dbpedia.org/data/Cygnus_CRS_Orb-1.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Thaicom_6",
+        "instrumentation": [],
+        "abstract": "Thaicom 6 is a Thai television satellite of the Thaicom series, to be operated by Thaicom Public Company Limited (formerly Shin Satellite Public Company Limited), a subsidiary of Shin Corporation headquartered in Bangkok, Thailand. Thaicom 6 will be colocated with Thaicom 5 at 78.5 degrees East, (\"Hot Bird\" position), in geostationary orbit. The total cost for the satellite is US$160 million.",
+        "json-uri": "http://dbpedia.org/data/Thaicom_6.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/KSAT2",
+        "instrumentation": [],
+        "abstract": "KSAT-2 (Hayato-2) is a re-make and impovent of original KSAT satellite. The satellite is build by Kagoshima University (Japan) It has a size of 100x100x100mm (without extendible antenna boom) and build around a standard 1U cubesat bus. The primary satellite payload is radio-frequency water vapor detector for climatology research.",
+        "json-uri": "http://dbpedia.org/data/KSAT2.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/OPUSAT",
+        "instrumentation": [],
+        "abstract": "OPUSAT is a tecnology demonstration cubesat. The satellite is build by Osaka Prefecture University (Japan) It has a size of 100x100x100mm (without antennas and solar paddles) and build around a standard 1U cubesat bus. The primary satellite purpose is the space testing of the power system based on Lithium-ion capacitor. The tests were largerly successfull, and satellite remain operational as of 14th of April, 2014. The OPUSAT is a development successor to UNITEC-1 spacecraft lost in 2010.",
+        "json-uri": "http://dbpedia.org/data/OPUSAT.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ginrei",
+        "instrumentation": [],
+        "abstract": "Ginrei or ShindaiSat is a 400x400x450mm cube-like microsatellite intended to text experimental visible light communication. The satellite is made in Shinshu University (Japan). The ground station was completed by 18 March 2014 and attempts to communicate with satellite have started the same day. 2-way optical communication with ground station is planned. Also, advanced attitude control using visible light communication is planned as well.",
+        "json-uri": "http://dbpedia.org/data/Ginrei.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/EgyptSat_2",
+        "instrumentation": [],
+        "abstract": "EgyptSat 2 also called (MisrSat 2) is Egypt's second remote sensing Earth observation satellite built by the Russian RSC Energia and the Egyptian NARSS while the incorporated cameras and payload was developed by OAO Peleng and NIRUP Geoinformatsionnye Sistemy in Belarus.EgyptSat 2 was launched on board a Soyuz-U rocket on 16 April 2014 from the Baikonur Cosmodromewhich was a milestone toward establishing the Egyptian Space Agency.",
+        "json-uri": "http://dbpedia.org/data/EgyptSat_2.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Lituanica_SAT-1",
+        "instrumentation": [],
+        "abstract": "LituanicaSAT-1 is one of the two first Lithuanian satellites. It was launched along with the second Cygnus spacecraft and 28 Flock-1 CubeSats aboard an Antares 120 carrier rocket flying from Pad 0B at the Mid-Atlantic Regional Spaceport on Wallops Island to the International Space Station. The launch was scheduled to occur on December 2013, but later was rescheduled to 9 January 2014. The satellite will broadcast greetings of lithuanian president, Mrs. Dalia Grybauskaitė. The satellite was launched from the International Space Station to space on February 28, 2014 by JAXA astronaut Koichi Wakata. All LituanicaSAT-1 subsystems have been turned on, tested and proved to be working properly. The mission is considered a complete success by it's team of engineers.",
+        "json-uri": "http://dbpedia.org/data/Lituanica_SAT-1.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/TeikyoSat-3",
+        "instrumentation": [],
+        "abstract": "TeikyoSat-3 is a technology demonstrator and microbiology microsatellite intended to research the slime mold life cycle in space. Specifically, the effects of ionizing radiation (20-30 Gy/year) are or special concern. The primary mission is expected to be finished in 10–20 days with completion of first life cycle of slime mold in space, but mission can be extended to study evolutionary adaptations for a maximum of 1 year. Also, a novel thermal control system capable to keep a stable (10°C to 28°C) temperature in small (20 kg) microsatellite bus is being tested. The satellite is made in Teikyo University (Japan) and has a size of 320x320x370mm. The microsatellite microbiology experimental platform is intended to address issues with cost and uncertain future of experiments based on International Space Station.TeikyoSat-3 also transmit its telemetry uncoded at 473.45 MHz, and any amateur radio operator is welcome to share downlink data.",
+        "json-uri": "http://dbpedia.org/data/TeikyoSat-3.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2491",
+        "instrumentation": [],
+        "abstract": "Kosmos 2491 (Russian: Космос 2491 meaning Space 2491) is a Russian military satellite launched in 2014 as part of the GLONASS satellite navigation system.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 754.Kosmos 2491 was launched from Site 43/4 at Plesetsk Cosmodrome in northern Russia. A Soyuz-2-1b carrier rocket with a Fregat upper stage was used to perform the launch which took place at 22:54 UTC on 23 March 2014. The launch successfully placed the satellite into a Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2014-012A. The United States Space Command assigned it the Satellite Catalog Number 39620.The satellite is in orbital plane 3, in orbital slot 18. As of April 2014 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2491.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-L",
+        "instrumentation": [],
+        "abstract": "TDRS-L, to be renamed TDRS-12 upon entry into service, is an American communications satellite operated by NASA as part of the Tracking and Data Relay Satellite System. The twelfth Tracking and Data Relay Satellite, it is the second third-generation spacecraft to be launched, following TDRS-11 in 2013.",
+        "json-uri": "http://dbpedia.org/data/TDRS-L.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-248",
+        "instrumentation": [],
+        "abstract": "USA-248, also known as GPS IIF-5, GPS SVN-64 and NAVSTAR 69, is an American navigation satellite which forms part of the Global Positioning System. It was the fifth of twelve Block IIF satellites to be launched.",
+        "json-uri": "http://dbpedia.org/data/USA-248.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/SpaceX_CRS-3",
+        "instrumentation": [],
+        "abstract": "SpaceX CRS-3, also known as SpX-3, is a cargo resupply mission to the International Space Station, contracted to NASA, which was launched on 18 April 2014. It was the fifth flight for SpaceX's uncrewed Dragon cargo spacecraft and the third SpaceX operational mission contracted to NASA under a Commercial Resupply Services contract.This was the first launch of a Dragon capsule on the Falcon 9 v1.1 launch vehicle, as previous launches used the much smaller v1.0 configuration. It was also the first time the F9 v1.1 has flown without a payload fairing, and the first experimental flight test of an ocean recovery of the first stage on a NASA/Dragon mission.The Falcon 9 with CRS-3 on board launched on time at 7:25 p.m. UTC on 18 April 2014, and was grappled on 20 April at 11:14 a.m. UTC by Expedition 39 commander Koichi Wakata. The spacecraft has been berthed to the ISS since 14:06 a.m. UTC on that day.",
+        "json-uri": "http://dbpedia.org/data/SpaceX_CRS-3.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/SkyCube",
+        "instrumentation": [],
+        "abstract": "SkyCube is an American, crowdsourced CubeSat. It was first announced on KickStarter on 14 July 2012 and successfully funded on 12 September 2012, meeting its US$82,500 goal with a total of $116,890. It was developed and built in 2012–2013, completed flight integration at NanoRacks in late 2013, and finally launched aboard the Cygnus CRS Orb-1 flight at the Mid-Atlantic Regional Spaceport on Wallops Island, VA.. As of 1 February 2014, SkyCube is on board the International Space Station and awaiting deployment.",
+        "json-uri": "http://dbpedia.org/data/SkyCube.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/LitSat-1",
+        "instrumentation": [],
+        "abstract": "LitSat-1 is one of the two first Lithuanian satellites. It was launched aboard the second Cygnus spacecraft along with 28 Flock-1 CubeSats aboard an Antares 120 carrier rocket flying from Pad 0B at the Mid-Atlantic Regional Spaceport on Wallops Island. The launch was scheduled to occur on December 2013, but later was rescheduled to 9 January 2014. Three Lithuanian words will be broadcast from space \"Lietuva myli laisvę\" (Lithuania loves freedom). Launch of satellites Lituanica SAT-1 and LitSat-1 was broadcast live in Lithuania.On 6 March 2014 the satellite radio station of Kaunas University of Technology (KTU) established a two-way connection with LitSat-1 for the first time.",
+        "json-uri": "http://dbpedia.org/data/LitSat-1.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-14",
+        "instrumentation": [],
+        "abstract": "GSAT-14 is an Indian communications satellite launched in January 2014. It is expected to replace the GSAT-3 satellite, which was launched in 2004. GSAT-14 was launched by a Geosynchronous Satellite Launch Vehicle Mk.II, which incorporated an Indian-built cryogenic engine on the third stage.",
+        "json-uri": "http://dbpedia.org/data/GSAT-14.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ofek-10",
+        "instrumentation": [],
+        "abstract": "Ofek-10, also known as Ofeq 10, is part of the Ofeq family of reconnaissance satellites designed and built by Israel Aerospace Industries (IAI) for the Israeli Ministry of Defense. Ofek-10 is an upgraded variant of Ofek-8, which employes a high-resolution synthetic aperture radar that is capable of observation at night and through clouds.Ofeq-10 was launched on April 9, 2014 from Palmachim Airbase in Israel, four years after Ofek-9 launch. It was delivered using the Shavit launcher.Satellite price was $300 million. The satellite weighs 400 kg. Ofeq-10 was launched westward in a retrograde orbit.",
+        "json-uri": "http://dbpedia.org/data/Ofek-10.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRNSS-1B",
+        "instrumentation": [],
+        "abstract": "IRNSS-1B is the second out of seven in the Indian Regional Navigational Satellite System (IRNSS) series of satellites after IRNSS-1A. The IRNSS constellation of satellites is slated to be launched to provide navigational services to the region. It was placed in geosynchronous orbit on 4 April 2014.",
+        "json-uri": "http://dbpedia.org/data/IRNSS-1B.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_4A",
+        "instrumentation": [],
+        "abstract": "Türksat 4A is a Turkish communications satellite, operated by Turksat. It was constructed by Mitsubishi Electric (MELCO) of Japan, based on the Spacebus MELCO DS2000 satellite bus, and was launched by the American-Russian joint-venture company International Launch Services (ILS) atop a Russian Proton-M space launch vehicle on February 14, 2014 at 21:09:03 from Site 81/24 of the Baikonur Cosmodrome in Kazakhstan.The in-orbit delivery contract for the satellite was signed in March 2011. In the scope of the contract, Turkish engineers were trained in the facilities of MELCO in Japan. During the official visit of Prime Minister Recep Tayyip Erdoğan to Japan, the satellite was handed over by the Mitsubishi Electric to the Turkish officials in a ceremony on January 8, 2014.The initially planned launch date of Türksat 4A in November 2013 was postponed to February 2014 due to the suspension of the Proton-M launches because of problems, which arose on December 8, 2012.Türksat 4A is part of the Turksat series of satellites, and was placed in a temporary geosynchronous orbit at 50°E, where it will remain around three months. During this period, orbital and subsystem tests will be conducted. Thenafter, the satellite will be transferred to 42°E to provide telecommunication and direct TV broadcasting services over a wide geographic region between west of China and east of England spanning Turkey, as well as Europe, Central Asia, the Middle East and Africa.Right after the satelite reached orbit, mission control and operational support was taken over by Gölbaşı Ground Station in Ankara, which will condact performance tests around month long. The first signal from the satellite is expected to arrive 9 hours and 13 minutes after the launch.Türksat 4A has a mass of approximately 4,910 kg (10,820 lb) and an expected on-orbit life time of 15 years. It will consist of 28 Ku band, two Ka band and an undisclosed number of C band transponders. The use of Ka band will allow higher bandwidth communication, and thus reaching the southern regions of the Sahara in Africa that was not possible with former Türksat satellites. Türksat 4A will enable to cut cost of internet access, and will be also available for military-purpose broadcasting. It is expected that Türksat 4A will increase the communications capacity of Turkey three-fold.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_4A.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-12M",
+        "instrumentation": [],
+        "abstract": "Soyuz TMA-12M is a 2014 flight to the International Space Station. It transported three members of the Expedition 39 crew to the International Space Station. TMA-12M is the 121st flight of a Soyuz spacecraft since the first in 1967 and the 38th Soyuz mission to the ISS. The Soyuz is to remain docked to the space station to serve as an emergency escape vehicle until TMA-12M's scheduled return to Earth in September 2014.After a successful launch on 25 March 2014, docking was scheduled to occur on 26 March via the relatively new six-hour duration orbital trajectory. In the event, one of the orbital burns scheduled to refine the trajectory did not occur as planned, due to an attitude control problem in which the spacecraft was incorrectly oriented. The rendezvous phase was subsequently replanned to the formerly-used two-day trajectory. Accordingly, TMA-12M arrived at the ISS on 27 March.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-12M.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/ITF-1",
+        "instrumentation": [],
+        "abstract": "ITF-1 is a amateur radio cubesat. The satellite is build by Tsukuba University (Japan) It has a size of 100x100x100mm (without antenna) and build around a standard 1U cubesat bus. The primary satellite purpose is the raising awareness of space by providing easily decoded signal to amateur radio receivers. As of 5th March, 2014 the signal from the spacecraft was not received.",
+        "json-uri": "http://dbpedia.org/data/ITF-1.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Global_Precipitation_Measurement",
+        "instrumentation": [],
+        "abstract": "Global Precipitation Measurement (GPM) is a joint mission between JAXA and NASA as well as other international space agencies to make frequent (every 2-3 hours) observations of Earth’s precipitation. It is part of NASA's Earth Systematic Missions program and will work with a constellation of satellites to provide full global coverage. The project will provide global precipitation maps to assist researchers in studying global climate, improving the forecasting of extreme events, and adding to current capabilities for using such satellite data to benefit society. GPM builds on the notable successes of the Tropical Rainfall Measuring Mission (TRMM), which is also a joint NASA-JAXA activity. The project is managed by NASA's Goddard Space Flight Center, and consists of a GPM Core Observatory satellite assisted by a constellation of spacecraft from other agencies and missions. The Core Observatory satellite will measure the two- and three-dimensional structure of Earth’s precipitation patterns and provide a new calibration standard for the rest of the satellite constellation. The GPM Core Observatory was assembled and tested at Goddard Space Flight Center, and launched from Tanegashima Space Center, Japan, on a Mitsubishi Heavy Industries H-IIA rocket. The launch occurred on February 28, 2014 at 3:37am JST on the first attempt. Agencies in the U.S., Japan, India and Europe operate the remaining satellites in the constellation for agency-specific goals, but also cooperatively provide data for GPM.",
+        "json-uri": "http://dbpedia.org/data/Global_Precipitation_Measurement.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/STARS-II",
+        "instrumentation": [],
+        "abstract": "STARS-II (Stars-2) is a two-parts microsatellite intended to text the electrodynamic tether. The satellite is made in Kagawa University (Japan).The planned experiments are the taking a video during tether deployment and controlled deorbiting by means of 300-m long bare tether connecting base station (5kg, 16x160x253mm) and tether-tip handset (4kg,160x160x158mm)",
+        "json-uri": "http://dbpedia.org/data/STARS-II.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/KazSat-3",
+        "instrumentation": [],
+        "abstract": "KazSat-3 (Kazakh: ҚазСат-3) is a telecommunications satellite which was launched 28 April 2014 at 10:25 GMT Astana Time from Cosmodrome Baikonur in Kazakhstan. with a Proton-M carrier rocket. KazSat-3 is designed for services of telecommunications, television broadcasting and high-speed Internet access in Kazakhstan and neighboring countries. The spacecraft is developed and produced under the contract with the Kazakh Space Communications Republican Center within the project of creating a republican national telecommunications and broadcasting space system.",
+        "json-uri": "http://dbpedia.org/data/KazSat-3.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_5B",
+        "instrumentation": [],
+        "abstract": "Astra 5B is one of the Astra communications satellites owned and operated by SES. It was launched as SES' 56th satellite in March 2014, to the newest of the Astra orbital positions for direct to home (DTH) satellite TV, at 31.5°E for DTH, DTT and cable use in Eastern Europe,. It is the third satellite to be launched of four ordered together by SES from Astrium in 2009. The similar Astra 2F and Astra 2E were launched to Astra 28.2°E in 2012 and 2013, respectively; The fourth, Astra 2G, is due to join them at 28.2°E in 2014.The satellite will replace the Astra 1G satellite currently at 31.5°E, which is itself filling in at that position after the loss of the Astra 5A satellite (originally called Sirius 2) in 2009 Astra 2C was first used at 31.5°E to replace Astra 5A, with Astra 1G positioned there in 2010.",
+        "json-uri": "http://dbpedia.org/data/Astra_5B.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-23M",
+        "instrumentation": [],
+        "abstract": "Progress M-23M (Russian: Прогресс М-23М), identified by NASA as Progress 55 or 55P, is a Progress spacecraft used by Roskosmos to resupply the International Space Station (ISS) during 2014. Progress M-23M was launched on a 6-hours rendezvous profile towards the ISS. The 23rd Progress-M 11F615A60 spacecraft to be launched, it had the serial number 427 and was built by RKK Energia.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-23M.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/INVADER",
+        "instrumentation": [],
+        "abstract": "Artsat-1 (Invader) is an artistic experiment in space. The satellite is build by Tokyo University (Japan) with collaboration of Tama Art University. It has a size of 100x100x100mm (without antennas) and build around a standard 1U cubesat bus. The primary satellite payload is FM voice transmitter. Also, it includes low-resolution CMOS camera and thermochromic panels for artistic purposes.",
+        "json-uri": "http://dbpedia.org/data/INVADER.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Athena-Fidus",
+        "instrumentation": [],
+        "abstract": "Athéna-Fidus (Access on theatres for European allied forces nations-French Italian dual use satellite) is a French-Italian telecommunication satellite providing high-throughput secure communications to both nation's armed forces and their emergency services. It was manufactured by Thales Alenia Space under the supervision of CNES, the DGA and the Italian Space Agency. It complements the lower-throughtput but more secure Syracuse 3 satellites. The satellite has a wet mass of 3 tonnes and was placed on Geostationary orbit in 2014. Its expected lifetime is 15 years.",
+        "json-uri": "http://dbpedia.org/data/Athena-Fidus.jsond"
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-22M",
+        "instrumentation": [],
+        "abstract": "Progress M-22M (Russian: Прогресс М-22М), identified by NASA as Progress 54 or 54P, is a Progress spacecraft used by Roskosmos to resupply the International Space Station (ISS) during 2014. Progress M-22M was built by RKK Energia. Progress M-22M was launched on a 6-hours rendezvous profile towards the ISS. The 22nd Progress-M 11F615A60 spacecraft to be launched, it had the serial number 422 and was built by RKK Energia.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-22M.jsond"
+    }
+]

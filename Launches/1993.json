@@ -1,0 +1,176 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-16",
+        "abstract": "The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi- meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.Soyuz TM-16 was the sixteenth expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-P1",
+        "abstract": "IRS-P1 or IRS-1E was an experimental earth observation mission undertaken by ISRO. The objectives of the mission was to develop the earth imagery using the instruments carried on board. Unfortunately, due to malfunctioned last stage of the rocket, the satellite deviated from its path and plunged into the sea.",
+        "json-uri": "http://dbpedia.org/data/IRS-P1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2261",
+        "abstract": "Kosmos 2261 (Russian: Космос 2261 meaning Cosmos 2261) is a Russian US-K missile early warning satellite which was launched in 1993 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors. It was estimated in the west that it stopped functioning in March 1998, and reentered destructively on December 31, 2012. (the early morning of January 1, 2013 in some time zones)Kosmos 2261 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 14:53 UTC on 10 August 1993. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1993-051A. The United States Space Command assigned it the Satellite Catalog Number 22741.Its predicted re-entry time was December 31, 2012 at 11:29 UTC ± 2 hours.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2261.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2232",
+        "abstract": "Kosmos 2232 (Russian: Космос 2232 meaning Cosmos 2232) is a Russian US-K missile early warning satellite which was launched in 1993 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2232 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 15:55 UTC on 26 January 1993. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1993-006A. The United States Space Command assigned it the Satellite Catalog Number 22321.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2232.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PoSAT-1",
+        "abstract": "PoSAT-1, the first Portuguese satellite, was launched into orbit on September 26, 1993, on the 59th flight of the Ariane 4 rocket. The launch took place in the Kourou Space Centre, French Guiana. About 20 minutes and 35 seconds after launch, at an altitude of 807 km, PoSAT-1 separated itself from the rocket.The PoSAT-1 weighs about 50 kg and belongs to the class of microsatellites, which are between 10 and 100 kg. The entire project was developed by a consortium of universities and companies in Portugal and was built at the University of Surrey, UK. The total cost was around €5 Million, about €3 Million paid by the Portuguese Government and €2 Million by the Portuguese companies involved (Po-SAT consortium: INETI, EFACEC, ALCATEL, MARCONI, OGMA, IST, UBI e CEDINTEC). The responsible for the project was Fernando Carvalho Rodrigues, known as the father of the first Portuguese satellite.",
+        "json-uri": "http://dbpedia.org/data/PoSAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-61",
+        "abstract": "STS-61 was the first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on 2 December 1993 from Kennedy Space Center in Florida. The mission restored the spaceborne observatory's vision, marred by spherical aberration, with the installation of a new main camera and a corrective optics package. The flight also brought instrument upgrades and new solar arrays to the telescope. With its very heavy workload, the STS-61 mission was one of the most complex in the Shuttle's history. It lasted almost 11 days, and crew members made five spacewalks, an all-time record. Even the retrieval of Intelsat VI on STS-49 in May 1992 required only four. The flight plan allowed for two additional EVAs, which could have raised the total number to seven. The final two contingency EVAs were not made. In order to complete the mission without too much fatigue, the five extravehicular working sessions were shared between two alternating shifts of two astronauts.",
+        "json-uri": "http://dbpedia.org/data/STS-61.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-88",
+        "abstract": "USA-88, also known as GPS IIA-9, GPS II-18 and GPS SVN-22, was an American navigation satellite which formed part of the Global Positioning System. It was the ninth of nineteen Block IIA GPS satellites to be launched.USA-88 was launched at 02:55:00 UTC on 3 February 1993, atop a Delta II carrier rocket, flight number D218, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-88 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 5 March 1993, USA-88 was in an orbit with a perigee of 20,007 kilometres (12,432 mi), an apogee of 20,354 kilometres (12,647 mi), a period of 717.9 minutes, and 54.8 degrees of inclination to the equator. It broadcast PRN 22, and operated in slot 1 of plane B of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and ceased operations on 6 August 2003.",
+        "json-uri": "http://dbpedia.org/data/USA-88.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-16",
+        "abstract": "Progress M-16 was a Russian unmanned cargo spacecraft which was launched in 1993 to resupply the Mir space station. The thirty-fourth of sixty-four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 216. It carried supplies including food, water and oxygen for the EO-13 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-16 was launched at 18:32:32 GMT on 21 February 1993, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the aft port of the Kvant-1 module at 20:17:57 GMT on 23 February.Progress M-16 remained docked with Mir for 30 days, during which time it was in an orbit of around 387 by 390 kilometres (209 by 211 nmi), inclined at 51.6 degrees. It undocked from Mir at 06:50:00 GMT on 26 March, before redocking with the same port at 07:06:03 to test its docking systems. It undocked for the final time at 04:21:00 GMT on 27 March, and was deorbited few hours later at 10:25:00, to a destructive reentry over the Pacific Ocean.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2241",
+        "abstract": "Kosmos 2241 (Russian: Космос 2241 meaning Cosmos 2241) is a Russian US-K missile early warning satellite which was launched in 1993 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2241 was launched from Site 43/4 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:07 UTC on 6 April 1993. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1993-051A. The United States Space Command assigned it the Satellite Catalog Number 22594.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2241.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1C",
+        "abstract": "Astra 1C was a geostationary communications satellites launched in 1993 by the Société Européenne des Satellites (SES), now SES Astra. The commsat remained in service until 2011 and is now derelict.Astra 1C was the third communications satellite placed in orbit by SES, and was originally deployed at the Astra 19.2°E orbital position.The satellite was intended to be replaced in 2002, along with Astra 1B, by Astra 1K but this satellite failed to reach its intended orbit. It was eventually relieved of its remaining television/radio payloads by Astra 1KR in 2006.In November 2006, prior to the launch of Astra 1L to the 19.2°E position, Astra 1C was placed in an inclined orbit and moved first to 2.0°E for tests, and then in February 2007 to 4.6°E, notionally part of the Astra 5°E cluster of satellites but largely unused.After November 2008, the satellite operated back at 2.0°E where, as of June 2013, it remains, in inclined orbit. On November 2, 2011 the satellite was taken out of use as Eutelsat, the rightholder for the 3° allocation, came on air with Eutelsat 3A and current rules ask for a minimum of 2° separation.",
+        "json-uri": "http://dbpedia.org/data/Astra_1C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-57",
+        "abstract": "STS-57 was a Shuttle-Spacehab mission of Space Shuttle Endeavour that launched 21 June 1993 from Kennedy Space Center, Florida.",
+        "json-uri": "http://dbpedia.org/data/STS-57.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-18",
+        "abstract": "Progress M-18 was a Russian unmanned cargo spacecraft which was launched in 1993 to resupply the Mir space station. The thirty-sixth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 218. It carried supplies including food, water and oxygen for the EO-13 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-18 was launched at 06:41:47 GMT on 22 May 1993, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It was the last Progress spacecraft to be launched on a Soyuz-U2. Following two days of free flight, it docked with the Forward port of Mir's core module at 08:24:44 GMT on 24 May.During the 40 days for which Progress M-18 was docked, Mir was in an orbit of around 388 by 390 kilometres (210 by 211 nmi), inclined at 51.6 degrees. Progress M-18 undocked from Mir at 15:58:16 GMT on 3 July; less than half an hour before Soyuz TM-17 docked with the port which it had vacated. It was deorbited around a day later, to a destructive reentry over the Pacific Ocean. Before undocking, a VBK-Raduga capsule launched aboard Progress M-17 had been installed on Progress M-18, and this separated once the deorbit burn was complete. The capsule landed successfully at 17:13 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-18.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Array_of_Low_Energy_X-ray_Imaging_Sensors",
+        "abstract": "The Array of Low Energy X-ray Imaging Sensors (ALEXIS) X-ray telescopes feature curved mirrors whose multilayer coatings reflect and focus low-energy X-rays or extreme ultraviolet light the way optical telescopes focus visible light. The satellite and payloads were funded by the United States Department of Energy and built by Los Alamos National Laboratory in collaboration with Sandia National Laboratories and the University of California-Space Sciences Lab. The satellite bus was built by AeroAstro, Inc. of Herndon, VA. The Launch was provided by the United States Air Force Space Test Program on a Pegasus Booster on April 25, 1993. The mission is entirely controlled from a small groundstation at LANL.",
+        "json-uri": "http://dbpedia.org/data/Array_of_Low_Energy_X-ray_Imaging_Sensors.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-6",
+        "abstract": "TDRS-6, known before launch as TDRS-F, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by TRW, and is based on a custom satellite bus which was used for all seven first generation TDRS satellites.",
+        "json-uri": "http://dbpedia.org/data/TDRS-6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-17",
+        "abstract": "Soyuz TM-17 was a Russian mission to the space station Mir, launched on July 1, 1993. It lasted 196 days and 17 hours, making more than 3,000 orbits of the planet Earth.The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi - meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-17.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-56",
+        "abstract": "STS-56 was a Space Shuttle Discovery mission to perform special experiments. The mission launched from Kennedy Space Center, Florida, on 8 April 1993.",
+        "json-uri": "http://dbpedia.org/data/STS-56.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-90",
+        "abstract": "USA-90, also known as GPS IIA-10, GPS II-19 and GPS SVN-31, was an American navigation satellite which formed part of the Global Positioning System. It was the tenth of nineteen Block IIA GPS satellites to be launched.USA-90 was launched at 03:09:00 UTC on 30 March 1993, atop a Delta II carrier rocket, flight number D219, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-90 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 2 May 1993, USA-90 was in an orbit with a perigee of 20,076 kilometres (12,475 mi), an apogee of 20,287 kilometres (12,606 mi), a period of 717.96 minutes, and 54.9 degrees of inclination to the equator. It broadcast PRN 31, and operated in slot 3 of plane C of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and ceased operations on 24 October 2005.",
+        "json-uri": "http://dbpedia.org/data/USA-90.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-17",
+        "abstract": "Progress M-17 was a Russian unmanned cargo spacecraft which was launched in 1993 to resupply the Mir space station. The thirty-fifth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 217. In addition to delivering cargo, Progress M-17 was also used to demonstrate extended duration Progress missions; remaining in orbit for almost a year with a docked phase lasting 132 days.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-17.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2251",
+        "abstract": "Kosmos-2251, (Russian: Космос-2251 meaning Cosmos 2251), was a Russian Strela-2M communications satellite. It was launched into Low Earth orbit from Site 132/1 at the Plesetsk Cosmodrome at 04:17 UTC on 16 June 1993, by a Kosmos-3M carrier rocket.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2251.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-96",
+        "abstract": "USA-96, also known as GPS IIA-14, GPS II-23 and GPS SVN-34, is an American navigation satellite which forms part of the Global Positioning System. It was the fourteenth of nineteen Block IIA GPS satellites to be launched.USA-96 was launched at 17:04:00 UTC on 26 October 1993, atop a Delta II carrier rocket, flight number D223, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-96 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 25 November 1993, USA-96 was in an orbit with a perigee of 20,104 kilometres (12,492 mi), an apogee of 20,260 kilometres (12,590 mi), a period of 717.96 minutes, and 55 degrees of inclination to the equator. It broadcasts the PRN 04 signal, and operates in slot 4 of plane D of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-96.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-91",
+        "abstract": "USA-91, also known as GPS IIA-11, GPS II-20 and GPS SVN-37, was an American navigation satellite which formed part of the Global Positioning System. It was the eleventh of nineteen Block IIA GPS satellites to be launched.USA-91 was launched at 00:07:00 UTC on 13 May 1993, atop a Delta II carrier rocket, flight number D220, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-91 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 14 June 1993, USA-91 was in an orbit with a perigee of 20,033 kilometres (12,448 mi), an apogee of 20,327 kilometres (12,631 mi), a period of 717.88 minutes, and 54.9 degrees of inclination to the equator. It broadcast signal PRN 07, and operated in slot 4 of plane C of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and ceased operations on 20 December 2007.",
+        "json-uri": "http://dbpedia.org/data/USA-91.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-94",
+        "abstract": "USA-94, also known as GPS IIA-13, GPS II-22 and GPS SVN-35, was an American navigation satellite which formed part of the Global Positioning System. It was the thirteenth of nineteen Block IIA GPS satellites to be launched.USA-94 was launched at 12:38:00 UTC on 30 August 1993, atop a Delta II carrier rocket, flight number D222, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-94 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 1 October 1993, USA-94 was in an orbit with a perigee of 20,109 kilometres (12,495 mi), an apogee of 20,257 kilometres (12,587 mi), a period of 718 minutes, and 54.8 degrees of inclination to the equator. It broadcast the PRN 30 signal, and operated in slot 4, and later 5, of plane B of the GPS constellation. The satellite had a mass of 1,816 kilograms (4,004 lb) and a design life of 7.5 years. It was decommissioned on 1 May 2013, after almost 20 years in orbit.",
+        "json-uri": "http://dbpedia.org/data/USA-94.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-58",
+        "abstract": "STS-58 was a mission flown by Space Shuttle Columbia launched from Kennedy Space Center, Florida, on 18 October 1993. It was also the last time Columbia would land at Edwards Air Force Base.",
+        "json-uri": "http://dbpedia.org/data/STS-58.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51",
+        "abstract": "STS-51 was a Space Shuttle Discovery mission that launched the Advanced Communications Technology Satellite ACTS in September 1993. The flight also featured the deployment and retrieval of the SPAS-ORFEUS satellite and its IMAX camera, which captured spectacular footage of Discovery in space. A spacewalk was also performed during the mission to evaluate tools and techniques for the STS-61 Hubble Space Telescope servicing mission later that year. STS-51 was the first shuttle mission to fly a GPS receiver, a Trimble TANS Quadrex. It was mounted in an overhead window where limited field of view and signal attenuation from the glass severely impacted receiver performance. (Full triple-redundant 3-string GPS would not happen until 14 years later with STS-118.)",
+        "json-uri": "http://dbpedia.org/data/STS-51.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Telstar_401",
+        "abstract": "Telstar 401 is a communications satellite owned by AT&T Corporation, which was launched in 1993 to replace Telstar 301. It was rendered inoperable by a magnetic storm in 1997.At the time of its loss it served as the home base for TV networks such as Fox Broadcasting, CBS, PBS, ABC, and UPN.The satellite is now space debris, remaining in geosynchronous orbit, and is a hazard to other objects in space.",
+        "json-uri": "http://dbpedia.org/data/Telstar_401.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-92",
+        "abstract": "USA-92, also known as GPS IIA-12, GPS II-21 and GPS SVN-39, is an American navigation satellite which forms part of the Global Positioning System. It was the twelfth of nineteen Block IIA GPS satellites to be launched.USA-92 was launched at 13:27:00 UTC on 26 June 1993, atop a Delta II carrier rocket, flight number D221, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-92 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 27 July 1993, USA-92 was in an orbit with a perigee of 20,120 kilometres (12,500 mi), an apogee of 20,244 kilometres (12,579 mi), a period of 717.96 minutes, and 54.7 degrees of inclination to the equator. It broadcasts the PRN 09 signal, and operates in slot 1 of plane A of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service. It is expected to be replaced by the GPS IIF-3 satellite, scheduled for launch in October 2012.",
+        "json-uri": "http://dbpedia.org/data/USA-92.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-54",
+        "abstract": "STS-54 was a Space Transportation System (NASA Space Shuttle) mission using orbiter Endeavour. This was the third flight for Endeavour, and launched 13 January 1993.",
+        "json-uri": "http://dbpedia.org/data/STS-54.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-55",
+        "abstract": "STS-55 (Space Transportation System 55), or D-2 was the 55th overall flight of the US Space Shuttle and the 14th flight of Shuttle Columbia. This flight was a multinational Spacelab flight involving 88 experiments from eleven different nations. The experiments ranged from biology sciences to simple earth observations.",
+        "json-uri": "http://dbpedia.org/data/STS-55.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Landsat_6",
+        "abstract": "Landsat 6, equipped with upgraded versions of the instruments on its predecessor, was designed to continue the Landsat program. It was launched on October 5, 1993 using a Titan II launch vehicle, but failed to reach orbit. As a consequence, Landsat 4 and Landsat 5 were used well beyond their designed lifespan. Landsat 6 omitted the Multi-Spectral Scanner found on its predecessors, but carried an Enhanced Thematic Mapper, which improved on the previous Thematic Mapper by adding a 15m-resolution panchromatic band.",
+        "json-uri": "http://dbpedia.org/data/Landsat_6.jsond",
+        "instrumentation": []
+    }
+]

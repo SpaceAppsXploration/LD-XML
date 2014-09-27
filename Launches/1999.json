@@ -1,0 +1,227 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/SUNSAT",
+        "abstract": "The Stellenbosch UNiversity SATellite is the first miniaturized satellite designed and manufactured in South Africa. It was launched aboard a Delta II rocket from the Vandenberg Air Force Base on 23 February 1999. Sunsat was built by post-graduate engineering students at the University of Stellenbosch. Its AMSAT designation was SO-35 (Sunsat Oscar 35).",
+        "json-uri": "http://dbpedia.org/data/SUNSAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-4",
+        "abstract": "AMC-4 or AMERICOM-4, formerly GE-4, is a Dutch, previously American, commercial communications satellite.AMC-4 was launched in 1999 as GE-4, GE Americom's fourth A2100 hybrid C-band and Ku-band satellite.[citation needed] The C-band payload was home to national television networks broadcasting to thousands of cable television headends. AMC-4's Ku-band transponders served the direct-to-home, VSAT, business television and broadband Internet market segments. These Ku-band transponders are designed to be switchable between North and South American coverages. It was renamed AMC-4 after GE Americom was bought by SES and re-branded SES Americom. In 2009, SES Americom merged with SES New Skies to form SES World Skies. AMC-4 has been replaced by SES-1 in 2010. AMC-4 has been moved to 67° W, and currently has no FTA signals.",
+        "json-uri": "http://dbpedia.org/data/AMC-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UoSAT-12",
+        "abstract": "UoSAT-12 is a British satellite in Low Earth Orbit. It is the twelfth satellite in the University of Surrey series and was designed and built by Surrey Satellite Technology Ltd. (SSTL). It was launched into orbit in April 1999 on board a Dnepr-1 rocket from Baikonur.",
+        "json-uri": "http://dbpedia.org/data/UoSAT-12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/%C3%98rsted_(satellite)",
+        "abstract": "Ørsted is Denmark's first satellite, named after Hans Christian Ørsted (1777–1851) a Danish physicist and professor at the University of Copenhagen. It is in an almost sun synchronous Low Earth orbit.After more than ten years in orbit, the Ørsted satellite is still operational, and continues to downlink accurate measurements of the Earth's magnetic field. Ørsted was constructed by a team of Danish space companies, of which CRI was prime contractor. CRI was acquired by Terma A/S before Ørsted was launched, and the daily operations are being run as a teamwork between Terma A/S and the Danish Meteorological Institute.In 2010, Ørsted passed within 500 meters of debris from the 2009 satellite collision but suffered no damage.Ørsted was the first in a planned sequence of microsatellites to be flown under the now discontinued Danish Small Satellite Programme.",
+        "json-uri": "http://dbpedia.org/data/%C3%98rsted_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Oceansat-1",
+        "abstract": "OceanSat-1 or IRS-P4 is the first Indian satellite built specifically for Ocean applications. It is a part of the Indian Remote Sensing satellite series. The satellite carried Ocean Colour Monitor (OCM) and a Multi-frequency Scanning Microwave Radiometer (MSMR) for oceanographic studies.",
+        "json-uri": "http://dbpedia.org/data/Oceansat-1.jsond",
+        "instrumentation": [
+            "MSMR",
+            "Ocean_Colour_Monitor"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Wide_Field_Infrared_Explorer",
+        "abstract": "The Wide Field Infrared Explorer (WIRE) was a satellite launched on 5 March 1999 on the Pegasus XL rocket into a polar orbit between 409 km and 426 km above the Earth's surface. WIRE was intended to be a four-month infrared survey of the entire sky at 21-27 micrometres and 9-15 micrometres, specifically focusing on starburst galaxies and luminous protogalaxies.The science team was based at the Infrared Processing and Analysis Center in Pasadena, California. Flight operations, integration, and testing were from Goddard Space Flight Center in Maryland. The telescope was built by Space Dynamics Laboratories in Utah.Premature ejection of the spacecraft aperture cover led to depletion of the solid hydrogen cryogen shortly after launch, ending the primary science mission. The onboard star tracker remained functional, and has been used for long-term precision photometric monitoring of bright stars in support of an asteroseismology program.On May 10, 2011 (around 07:00 GMT) WIRE reentered Earth's atmosphere, according to the mission website.",
+        "json-uri": "http://dbpedia.org/data/Wide_Field_Infrared_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_11",
+        "abstract": "Galaxy 11 is an American geostationary communications satellite which is operated by Intelsat. It is located in geostationary orbit at a longitude of 32.8 degrees east, where it serves as a backup to the Intelsat 802 spacecraft. It was originally operated at 99° West and later spent most of its operational life at 91° West, from where it was used to provide communications services to Brazil and North America.Galaxy 11 was built for PanAmSat by Hughes Space and Communications, and is based around the HS-702 satellite bus. It was the first HS-702 to be launched, and the first satellite to be equipped with an XIPS propulsion system. It carries 24 G/H band and 40 J band (IEEE C and Ku bands respectively) transponders, and at launch it had a mass of 4,477 kilograms (9,870 lb), with an expected operational lifespan of around 15 years.As the first HS-702 to fly, Galaxy 11 was one of the six which were launched before a design flaw in the type's solar arrays was discovered. Solar concentrators, used to increase the amount of sunlight falling on the arrays, were fogging up due to vapours emitted by the satellite. This reduces the output of the solar arrays, and is expected to result in a reduced operational lifespan. Following the discovery of the fault, US$130 million insurance was claimed on the satellite. The satellite was transferred to Intelsat when it merged with PanAmSat in 2006.The launch of Galaxy 11 was conducted by Arianespace, using an Ariane 44L carrier rocket flying from ELA-2 at the Guiana Space Centre. The launch occurred at 00:50 GMT on 22 December 1999. It successfully placed Galaxy 11 into a geosynchronous transfer orbit, from which it raised itself to geostationary orbit by means of an onboard R-4D apogee motor. Its insertion into geosynchronous orbit occurred at 16:30 on 2 January 2000. The satellite was originally scheduled to be launched by Sea Launch, on the maiden flight of the Zenit-3SL, however the contract was transferred to Arianespace, and Sea Launch replaced Galaxy 11 with a DemoSat for their maiden flight.It currently operates at 55.5° West.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Landsat_7",
+        "abstract": "Landsat 7, launched on April 15, 1999, is the seventh satellite of the Landsat program. Landsat 7's primary goal is to refresh the global archive of satellite photos, providing up-to-date and cloud-free images. The Landsat Program is managed and operated by the USGS, and data from Landsat 7 is collected and distributed by the USGS. The NASA World Wind project allows 3D images from Landsat 7 and other sources to be freely navigated and viewed from any angle. The satellite's companion, Earth Observing-1, trails by one minute and follows the same orbital characteristics. Landsat 7 was built by Lockheed Martin Space Systems Company.",
+        "json-uri": "http://dbpedia.org/data/Landsat_7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-2E",
+        "abstract": "INSAT-2E is an Indian geostationary communications and weather satellite which is operated by the Indian Space Research Organisation as part of the Indian National Satellite System. It is positioned in geostationary orbit at a longitude of 83° East, from where it is used to provide communications services to Asia and Australia. It also carries two meteorological instruments; the Very High Resolution Radiometer, and a CCD camera capable of returning images with a resolution of one kilometre.The communications payload aboard INSAT-2E consists of seventeen G/H band (IEEE C band) transponders. At launch the satellite had a mass of 2,550 kilograms (5,620 lb), with an expected operational lifespan of 12 years. Some of its transponders are leased to Intelsat, who operate them under the designation Intelsat APR-2.INSAT-2E was launched by Arianespace, using an Ariane 42P carrier rocket flying from ELA-2 at the Guiana Space Centre. The launch occurred at 22:03 GMT on 2 April 1999. Following launch, it raised itself into geostationary orbit using liquid-fuelled apogee motor. Its final insertion burn occurred at 07:38 GMT on 8 April. Following insertion, it was positioned at a longitude of 83° East.",
+        "json-uri": "http://dbpedia.org/data/INSAT-2E.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Telstar_12",
+        "abstract": "Telstar 12, previously known as Orion 2, is a Canadian communications satellite which is operated by Telesat. It was originally built for Orion Network Systems, which merged with Loral Skynet shortly before the satellite was launched. It was subsequently transferred to Telesat when it merged with Loral Skynet in 2007.Telstar 12 is a Ku band satellite with coverage of North America as far West as Cleveland, Ohio, the majority of South America and Europe. Telstar 12 also has the capability to provide intercontinental connectivity including trans-Atlantic to the Mid-East. Eutelsat uses four transponders on the satellite for services between Europe and the Americas.",
+        "json-uri": "http://dbpedia.org/data/Telstar_12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/QuikSCAT",
+        "abstract": "The NASA QuikSCAT (Quick Scatterometer) is an Earth observation satellite carrying the SeaWinds scatterometer. Its primary mission is to measure the surface wind speed and direction over the ice-free global oceans. Observations from QuikSCAT have a wide array of applications, and have contributed to climatological studies, weather forecasting, meteorology, oceanographic research, marine safety, commercial fishing, tracking large icebergs, and studies of land and sea ice, among others. This SeaWinds scatterometer is referred to as the QuikSCAT scatterometer to distinguish it from the nearly identical SeaWinds scatterometer flown on the ADEOS-2 satellite.",
+        "json-uri": "http://dbpedia.org/data/QuikSCAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-103",
+        "abstract": "STS-103 was a Hubble Space Telescope servicing mission by Space Shuttle Discovery. The mission launched from Kennedy Space Center, Florida, on 19 December 1999 and returned on 27 December 1999.",
+        "json-uri": "http://dbpedia.org/data/STS-103.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Arirang-1",
+        "abstract": "Arirang-1 or Arirang I is an unmanned artificial satellite created by the Korea Aerospace Research Institute and launched by a US rocket on December 21, 1999. This was the first satellite built primarily by South Korean engineers, although previous foreign-built satellites had been launched by Korean companies. It carries a surveillance camera able to distinguish objects with a diameter of 6.6 meters. It takes its name from the popular Korean folk song Arirang.The satellite was launched from Vandenberg Air Force Base in California on a Taurus rocket. It had been built in Daedeok Science Town in Daejeon, South Korea. The parts were shipped in three stages from Korea to California by First Express International, a Korean shipping firm.The Arirang-1 was succeeded by the Arirang-2 in 2006. Additional satellites in the series are planned.On January 6, 2008, the Korea Aerospace Research Institute reported that they had lost contact with the satellite. It is suspected to have had a malfunction that has affected power generation.",
+        "json-uri": "http://dbpedia.org/data/Arirang-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/JCSAT-4A",
+        "abstract": "JCSAT-4A, previously designated JCSAT-6, is a Japanese geostationary communications satellite which is operated by JSAT Corporation. It is positioned in geostationary orbit at a longitude of 124° East, from where it is used to provide broadcasting and corporate network communications to Japan.JCSAT-6 was constructed by Hughes, based on the HS-601 satellite bus. It is equipped with 32 J band (IEEE Ku band) transponders, and at launch it had a mass of 2,900 kilograms (6,400 lb), with an expected operational lifespan of fourteen and a half yearsIt was launched atop an Atlas IIAS carrier rocket flying from Space Launch Complex 36A at the Cape Canaveral Air Force Station. The launch occurred at 01:45:26 GMT on 16 February 1999, and successfully placed JCSAT-6 into a geostationary transfer orbit. From this orbit, the satellite raised itself into a geostationary orbit using an R-4D apogee motor. The final burn to complete its insertion into geosynchronous orbit occurred on 1 March 1999.",
+        "json-uri": "http://dbpedia.org/data/JCSAT-4A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-93",
+        "abstract": "STS-93 marked the 95th launch of the Space Shuttle, the 26th launch of Columbia, and the 21st night launch of a Space Shuttle. Eileen Collins became the first female shuttle Commander on this flight. Its primary payload was the Chandra X-ray Observatory. It would also be the last mission of Columbia until March 2002. During the interim, Columbia would be out of service for upgrading, and would not fly again until STS-109. The launch was originally scheduled for 20 July but the launch was aborted at T-7 seconds. The successful launch of the flight occurred three days later.",
+        "json-uri": "http://dbpedia.org/data/STS-93.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ARGOS_(satellite)",
+        "abstract": "The Advanced Research and Global Observation Satellite (ARGOS) was launched on 23 Feb 1999 from SLC-2W, Vandenberg AFB, CA, atop a Boeing Delta II (7920-10) (List of Delta II launches). Construction of the spacecraft bus and integration of the satellite's nine payloads was accomplished by Boeing at their Seal Beach, CA facility. The program was funded and led by the DoD's Space Test Program as mission P91-1 (the first mission contract let in 1991). The nine payloads were research and development missions by nine separate researchers. The $220M mission was operated by Air Force Space Command's Space and Missile Systems Center's Test and Evaluation Directorate (now Space Test and Development Wing) from their RDT&E Support Complex (RSC) at Kirtland AFB, NM. ARGOS was the first mission operated 100% from the new state-of-the-art, commercial-off-the-shelf Kirtland facility; all previous SMC satellite missions had been operated in total or at least in part from the preceding center at Onizuka AFS, CA.",
+        "json-uri": "http://dbpedia.org/data/ARGOS_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-96",
+        "abstract": "STS-96 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Discovery, and the first shuttle flight to dock with the International Space Station. The shuttle carried the Spacehab module in the payload, filled with cargo for station outfitting. STS-96 launched from Kennedy Space Center, Florida, on 27 May 1999 at 06:49 EDT",
+        "json-uri": "http://dbpedia.org/data/STS-96.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CBERS-1",
+        "abstract": "China–Brazil Earth Resources Satellite 1 (CBERS-1), also known as Ziyuan I-01 or Ziyuan 1A, is a remote sensing satellite which was operated as part of the China–Brazil Earth Resources Satellite programme between the China Centre for Resources Satellite Data and Application and Brazil's National Institute for Space Research. The first CBERS satellite to fly, it was launched by China in 1999.CBERS-1 was a 1,450-kilogram (3,200 lb) spacecraft built by the China Academy of Space Technology and based on the Phoenix-Eye 1 satellite bus. The spacecraft was powered by a single solar array, providing 1,100 watts of electricity for the satellite's systems. The instrument suite aboard the CBERS-1 spacecraft consisted of three systems: the Wide Field Imager (WFI) produced visible-light to near-infrared images with a resolution of 260 metres (850 ft) and a swath width of 890 kilometres (550 mi); a high-resolution CCD camera was used for multispectral imaging at a resolution of 20 metres (66 ft) with a swath width of 113 kilometres (70 mi); the third instrument, the Infrared Multispectral Scanner (IMS), had a resolution of 80 metres (260 ft) and a swath width of 120 kilometres (75 mi).A Chang Zheng 4B carrier rocket, operated by the China Academy of Launch Vehicle Technology, was used to launch CBERS-1. The launch took place at 03:15 UTC on 14 October 1999, using Launch Complex 7 at the Taiyuan Satellite Launch Centre. The satellite was successfully placed into a sun-synchronous orbit.CBERS-1 was decommissioned in September 2003, almost four years after launch. The derelict satellite remains in orbit; as of 30 November 2013 it is in an orbit with a perigee of 779 kilometres (484 mi), an apogee of 785 kilometres (488 mi), 98.34 degrees inclination and a period of 100.35 minutes. The orbit has a semimajor axis of 7,153.45 kilometres (4,444.95 mi), and eccentricity of 0.0004025.",
+        "json-uri": "http://dbpedia.org/data/CBERS-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SACI-2",
+        "abstract": "The SACI-2 was a Brazilian experimental satellite, designed and built by the Brazilian Institute for Space Research (INPE). It was launched on 11 December 1999 from the INPE base in Alcântara, Maranhão, by the Brazilian VLS-1 V02 rocket. Due to failure of its second stage, the rocket veered off course and had to be destroyed 3 minutes and 20 seconds after launch.The name was officially an acronym of Satélite de Aplicações CIentíficas (\"Scientific Applications Satellite\"), but was obviously taken from the Saci character of Brazilian folklore.",
+        "json-uri": "http://dbpedia.org/data/SACI-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-29",
+        "abstract": "Soyuz TM-29 was a Russian manned spacecraft launched from the Baikonur Cosmodrome aboard a Soyuz 11A511U rocket. It docked with Mir on February 22 at 05:36 GMT with Cosmonauts Viktor Afanasyev of Russia, Jean-Pierre Haigneré of France, and Ivan Bella of Slovakia aboard. Since two crew seats had been sold (to Slovakia and France), Afanasyev was the only Russian cosmonaut aboard. This meant that Russian engineer Avdeyev already aboard Mir would have to accept a double-length assignment. After the February 27 departure of EO-26 crew commander Padalka and cosmonaut Bella aboard Soyuz TM-28, the new EO-27 Mir crew consisted of Afanasyev as Commander, Avdeyev as Engineer and French cosmonaut Haigneré.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-29.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Formosat-1",
+        "abstract": "FORMOSAT-1 (福爾摩沙衛星一號, formerly known as ROCSAT-1) is an Earth observation satellite operated by the National Space Organization (NSPO) of the Republic of China (Taiwan) to conduct observations of the ionosphere and oceans. The spacecraft and its instrumentation were developed jointly by NSPO and TRW using TRW's Lightsat bus, and was launched from Cape Canaveral Air Force Station, USA by Lockheed Martin on January 27, 1999.FORMOSAT-1 is still active as of July 2005.",
+        "json-uri": "http://dbpedia.org/data/Formosat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Terra_(satellite)",
+        "abstract": "Terra (EOS AM-1) is a multi-national NASA scientific research satellite in a Sun-synchronous orbit around the Earth. It is the flagship of the Earth Observing System (EOS). The name \"Terra\" comes from the Latin word for Earth.",
+        "json-uri": "http://dbpedia.org/data/Terra_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Chandra_X-ray_Observatory",
+        "abstract": "The Chandra X-ray Observatory, previously known as the Advanced X-ray Astrophysics Facility (AXAF), is a space telescope launched on STS-93 by NASA on July 23, 1999. Chandra is sensitive to X-ray sources 100 times fainter than any previous X-ray telescope, enabled by the high angular resolution of its mirrors. Since the Earth's atmosphere absorbs the vast majority of X-rays, they are not detectable from Earth-based telescopes; therefore space-based telescopes are required to make these observations. Chandra is an Earth satellite in a 64-hour orbit, and its mission is ongoing as of 2014.Chandra is one of the Great Observatories, along with the Hubble Space Telescope, Compton Gamma Ray Observatory (1991–2000), and the Spitzer Space Telescope. Chandra has been described as being as revolutionary to astronomy as Galileo's first telescope. The telescope is named after Subrahmanyan Chandrasekhar.",
+        "json-uri": "http://dbpedia.org/data/Chandra_X-ray_Observatory.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Far_Ultraviolet_Spectroscopic_Explorer",
+        "abstract": "The Far Ultraviolet Spectroscopic Explorer (FUSE) is a space-based telescope operated by the Johns Hopkins University Applied Physics Laboratory. FUSE was launched on a Delta II rocket on June 24, 1999, as a part of NASA's Origins program. FUSE detected light in the far ultraviolet portion of the electromagnetic spectrum, between 90.5-119.5 nanometres, which is mostly unobservable by other telescopes. Its primary mission was to characterize universal deuterium in an effort to learn about the stellar processing times of deuterium left over from the Big Bang.FUSE resides in a low Earth orbit, approximately 760 km (410 nmi) in altitude, with an inclination of 25 degrees and just less than a 100 minute orbital period. Its Explorer designation is Explorer 77.On July 12, 2007, FUSE's final reaction wheel, which is required for accurately pointing a spacecraft, failed and efforts to restart it were unsuccessful. An announcement was made on September 6 that because the fine control needed to perform its mission had been lost, the FUSE mission would be terminated.",
+        "json-uri": "http://dbpedia.org/data/Far_Ultraviolet_Spectroscopic_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_26",
+        "abstract": "Galaxy 26 is a communications satellite owned by Intelsat. It was built by Space Systems/Loral, as part of its FS-1300 line. Galaxy 26 was formerly known as Intelsat Americas 6 and Telstar 6. It was launched aboard a Proton-K/DM3 from Baykonur LC81.It spent most of its operational life at the 93° W longitude orbital slot, serving the North American market. Clients included ABC, CBS, CNN and FOX.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_26.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-145",
+        "abstract": "USA-145, also known as GPS IIR-3 and GPS SVN-46, is an American navigation satellite which forms part of the Global Positioning System. It was the third Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-145 was launched at 12:51:01 UTC on 7 October 1999, atop a Delta II carrier rocket, flight number D275, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-145 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 10 November 1999, USA-145 was in an orbit with a perigee of 20,096 kilometres (12,487 mi), an apogee of 20,267 kilometres (12,593 mi), a period of 717.96 minutes, and 53 degrees of inclination to the equator. It is used to broadcast the PRN 11 signal, and operated in slot 2 of plane D of the GPS constellation, however it had been moved to slot 5 by 2011, with USA-71 covering slot 2. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.GPS IIR-3 was originally intended to use satellite SVN-50, however it was damaged during launch preparations in May 1999 after rainwater leaked into the cleanroom atop SLC-17A where the satellite was being attached to its rocket. SVN-50 was repaired and launched as GPS IIR-21, becoming the last IIR to fly.",
+        "json-uri": "http://dbpedia.org/data/USA-145.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Stardust_(spacecraft)",
+        "abstract": "Stardust was a 300-kilogram robotic space probe launched by NASA on February 7, 1999. Its primary mission was to collect dust samples from the coma of comet Wild 2, as well as samples of cosmic dust, and return these to Earth for analysis. It was the first sample return mission of its kind. En route to Comet Wild 2, the craft also flew by and studied the asteroid 5535 Annefrank. The primary mission was successfully completed on January 15, 2006, when the sample return capsule returned to Earth.A mission extension codenamed NExT culminated in February 2011 with Stardust intercepting comet Tempel 1, a small Solar System body previously visited by Deep Impact in 2005. Stardust ceased operations in March 2011.",
+        "json-uri": "http://dbpedia.org/data/Stardust_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_1",
+        "abstract": "Shenzhou 1 (simplified Chinese: 神舟一号; traditional Chinese: 神舟一號; pinyin: Shénzhōu Yīhào) launched on November 19, 1999, was the first unmanned launch of the Shenzhou spacecraft. The spacecraft used was not equipped with a life support system or an emergency escape system. After orbiting the Earth 14 times, the command for retrofire was sent by the Yuanwang 3 tracking ship off the coast of Namibia at 18:49 UTC. After a successful reentry it landed about 415 km east of its launch pad and 110 km north-west of Wuhai, Inner Mongolia.The first Shenzhou spacecraft was different from those later used. Instead of featuring unfolding solar panels, Shenzhou 1 was equipped with fixed solar cells. During this first flight there were also no orbit changes. According to Qi Faren the chief designer of the spacecraft, only 8 of the 13 sub-systems on board the spacecraft were operational. Shenzhou 1 was designed primarily to test the Long March 2F rocket. The only systems and capabilities tested on the spacecraft were the separation of the modules, attitude control, lifting body reentry, the heat shield, and ground recovery.The spacecraft is thought to have carried 100 kg of seeds to investigate the effects on them of the space environment. It is also thought that the front of the Orbital Module was equipped with a dummy ELINT package, with Shenzhou 2 onwards equipped with fully functional models.It was announced in June 1999 that the flight would take place in October of that year. At about the same time images were released on a Chinese military internet forum of the Long March 2F launcher and the Vehicle Assembly Building that would be used. After a reported propellant explosion at the Jiuquan Satellite Launch Center (though the explosion was denied by Chinese officials) the launch was pushed back.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ACRIMSAT",
+        "abstract": "The Active Cavity Radiometer Irradiance Monitor Satellite, or ACRIMSAT is a dedicated satellite and instrument that is one of the 21 primary observational components of NASA's Earth Observing System program. ACRIMSAT was launched on 20 December 1999 from Vandenberg Air Force Base as the secondary payload on a Taurus rocket along with KOMPSAT and placed into a high inclination, 700 km. sun-synchronous orbit from which the ACRIM3 instrument monitors the total solar irradiance (TSI).The ACRIM3 instrument has made state of the art measurements of the TSI since the start of its Science Mission in April 2000. It extends the TSI measurement database begun by earlier ACRIM instruments on the NASA Solar Maximum Mission (ACRIM1: 1980-1989) and Upper Atmosphere Research Satellite (ACRIM2: 1991-2001).[citation needed]Richard C. Willson is the principal investigator for the experiment and leads the ACRIM3 Science Team. Willson designed the active cavity radiometer type of sensor used by self-calibrating satellite TSI monitoring experiments today. The implementation of the ACRIM3 instrument was a collaboration between Willson, the original JPL/ACRIMSAT Project Manager Ronald Zenone and ACRIM3 Instrument Scientist Roger Helizon. The Mission is controlled using the ACRIMSAT tracking station at the JPL Table Mountain Observatory in Southern California. Co-Investigators are: Nicola Scafetta (climate impact of solar variability), Hugh Hudson (solar physics)and Alexander Mordvinov (solar physics).ACRIMSAT (international designator 1999-070B) is a spin-stabilized, single-purpose satellite constructed by Orbital Sciences Corporation. The end-to-end cost of the ACRIMSAT satellite, the ACRIM3 instrument, launch, ground station, operations and the science team activities during its 11 year mission to date has been less than $30 million - a good example of the efficacy of NASA's 'Better, Faster, Cheaper' initiative and ample evidence that inexpensive instrumentation and small dedicated satellites are the cost-effective approach for providing state-of-the-art TSI monitoring.[citation needed]ACRIMSAT/ACRIM3 tracked the TSI during a 2004 transit of Venus, and measured the 0.1% reduction in the solar intensity caused by the shadow of the planet. It also recorded data for the 2012 Transit of Venus.At 09:43 and at 11:21 on 5th of April 2014 ACRIMSAT was rated as having a high risk of collision (<20m) with the newly launched Sentinel-1A. A 39 second burn of Sentinel-1A during LEOP succesfully avoided the collision.",
+        "json-uri": "http://dbpedia.org/data/ACRIMSAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Orion_3",
+        "abstract": "Orion 3 was an American spacecraft which was intended for use by Loral Space & Communications, as a geostationary communications satellite. It was to have been positioned in geostationary orbit at a longitude of 139° East, from where it was to have provided communications services to Asia and Oceania. Due to a malfunction during launch, it was instead delivered to a useless low Earth orbit.Orion 3 was constructed by Hughes Space and Communications, based around a HS-601HP satellite bus. It was equipped with 10 G/H band (IEEE C band) and 33 J band (IEEE Ku band) transponders, and at launch it had a mass of 4,300 kilograms (9,500 lb). The satellite was expected to remain operational for around fifteen years It was originally ordered for Orion Network Systems, who merged with Loral in 1998.",
+        "json-uri": "http://dbpedia.org/data/Orion_3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MUBLCOM",
+        "abstract": "The Multiple Paths, Beyond-Line-of-Sight Communications (MUBLCOM) satellite, built for the Pentagon's Defense Advanced Research Projects Agency, was launched in May 1999 by a Pegasus rocket. Its mission was to demonstrate a capability to provide space-based digital voice and data communications to combat forces or commercial users that were previously considered out of range of standard radio communications systems.On April 15, 2005, the Demonstration of Autonomous Rendezvous Technology (DART) spacecraft collided with the MUBLCOM satellite while attempting to rendezvous with it. NORAD ID: 25736 Dry mass: 50 kg",
+        "json-uri": "http://dbpedia.org/data/MUBLCOM.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/H%C3%A9lios_1B",
+        "abstract": "The Hélios 1B was a French military photo-reconnaissance satellite in which Italy and Spain also participated. It was launched from the Guiana Space Centre, French Guiana on 3 December 1999 at 16:22:00 UTC. The spacecraft rode aboard an Ariane 4 rocket which also carried the French military reconnaissance satellite Clementine. Due to power supply failures, it had to be left to disintegrate in 2005.It has been replaced by Hélios 2A, launched on December 2004 on an Ariane 5 rocket.",
+        "json-uri": "http://dbpedia.org/data/H%C3%A9lios_1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cl%C3%A9mentine_(satellite)",
+        "abstract": "Clémentine is a small satellite built by Alcatel Space (now Thales) for the French DGA, ostensibly \"to study the Earth's radio-electrical environment from space.\"It is a successor to the Cerise satellite.",
+        "json-uri": "http://dbpedia.org/data/Cl%C3%A9mentine_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/XMM-Newton",
+        "abstract": "The XMM-Newton (X-ray Multi-Mirror Mission - Newton) is an orbiting X-ray observatory launched by ESA in December 1999 on an Ariane 5 rocket. It is named in honor of Sir Isaac Newton.Originally known as the High Throughput X-ray Spectroscopy Mission it was placed in a very eccentric 48 hour elliptical orbit at 40°; at its apogee it is nearly 114,000 kilometres (71,000 mi) from Earth, while the perigee is only 7,000 kilometres (4,300 mi)The satellite weighs 3,800 kilograms (8,400 lb), is 10 metres (33 ft) long and 16 metres (52 ft) in span with its solar arrays deployed. It holds three X-ray telescopes, developed by Media Lario of Italy, each of which contains 58 Wolter-type concentric mirrors. The combined collecting area is 4,300 cm². The three European Photon Imaging Cameras (EPIC) are sensitive over the energy range 0.2 keV to 12 keV. Other instruments onboard are two reflection grating spectrometers which are sensitive below ~2 keV, and a 30 centimetres (12 in) diameter Ritchey-Chretien optical/UV telescope.The mission was proposed in 1984 and approved in 1985; a project team was formed in 1993 and development work began in 1996. The satellite was constructed and tested from March 1997 to September 1999. Launched in Dec 1999, in-orbit commissioning started Jan 2000, and the first images were published Feb 2000. The original mission lifetime was two years, but it has now been extended for further observations until at least 2010, and again until 2012, and technically the observatory could operate until beyond 2018.Observations are managed and archived at the European Space Astronomy Centre (formerly known as VILSPA) at Villafranca, Spain. Until March 2012 the scientific data placed into the archive and distributed to observers were processed by the XMM-Newton Survey Science Centre led by the University of Leicester, England. After this date, responsibility for data processing transferred to the Science Operations Centre at ESAC.The European satellite XMM-Newton (X-ray Multi Mirror), built under contract to ESA by a consortium of 35 European companies with Astrium as prime contractor, by far excels its predecessor, the Astrium-built ROSAT satellite.",
+        "json-uri": "http://dbpedia.org/data/XMM-Newton.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2368",
+        "abstract": "Kosmos 2368 (Russian: Космос 2368 meaning Cosmos 2368) is a Russian US-K missile early warning satellite which was launched in 1999 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2368 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:12 UTC on 27 December 1999. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1999-073A. The United States Space Command assigned it the Satellite Catalog Number 26042.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2368.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mars_Polar_Lander",
+        "abstract": "The Mars Polar Lander, also known as the Mars Surveyor '98 Lander, was a 290-kilogram robotic spacecraft lander launched by NASA on January 3, 1999 to study the soil and climate of Planum Australe, a region near the south pole on Mars. It formed part of the Mars Surveyor '98 mission. On December 3, 1999, however, after the descent phase was expected to be complete, the lander failed to reestablish communication with Earth. It was determined that the most likely cause of the mishap was premature termination of the engine firing prior to the lander touching the surface, causing it to strike the planet at a high velocity.",
+        "json-uri": "http://dbpedia.org/data/Mars_Polar_Lander.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_27",
+        "abstract": "Galaxy 27 is a communications satellite owned by Intelsat. It was at first located at 129° W longitude, serving most of the North American market. It was built by Space Systems/Loral, as part of its FS-1300 line. Galaxy 27 was formerly known as Intelsat Americas 7 and Telstar 7.Current clients for Galaxy 27 include StarBand and Talkstar Radio Network.This satellite experienced a several-day power failure in 2004 and returned to service with reduced capacity.In May 2011, Galaxy 27 was redeployed to 45.1° E longitude in order to expand Intelsat's services in Middle East and West Asia.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_27.jsond",
+        "instrumentation": []
+    }
+]

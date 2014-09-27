@@ -1,0 +1,156 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/STS-41-G",
+        "abstract": "STS-41-G was the 13th flight of NASA's Space Shuttle program and the sixth flight of Space Shuttle Challenger. Challenger launched on October 5, 1984, and conducted the second shuttle landing at Kennedy Space Center on October 13. It was the first shuttle mission to carry a crew of seven, including the first crew with two women (Sally Ride and Kathryn Sullivan), the first American EVA involving a woman (Sullivan), and the first Canadian astronaut (Marc Garneau).STS-41-G was the third shuttle mission to carry an IMAX camera on board to document the flight. Film footage from the mission (including Sullivan and David Leestma's EVA) appeared in the IMAX movie The Dream is Alive.",
+        "json-uri": "http://dbpedia.org/data/STS-41-G.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-41-C",
+        "abstract": "STS-41-C was NASA's 11th Space Shuttle mission, and the fifth mission of Space Shuttle Challenger. The launch, which took place on April 6, 1984, marked the first direct ascent trajectory for a shuttle mission. During the mission, Challenger's crew captured and repaired the malfunctioning Solar Maximum Mission (\"Solar Max\") satellite, and deployed the Long Duration Exposure Facility (LDEF) experimental apparatus. STS-41-C was extended one day due to problems capturing the Solar Max satellite, and the landing on April 13 took place at Edwards Air Force Base, instead of at Kennedy Space Center as had been planned. The flight was originally numbered STS-13.",
+        "json-uri": "http://dbpedia.org/data/STS-41-C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UoSAT-2",
+        "abstract": "UoSAT-2, which is also known as UO-11 and OSCAR-11, is a British satellite orbiting in Low Earth Orbit. The satellite functions as an amateur radio transmitter (known as an OSCAR) and was built at the University of Surrey. It launched into orbit in March 1984 and remains orbital and active, though unstable with irregular periods of transmission. The satellite was still heard transmitting telemetry in December 2010, more than twenty-six years after launch.It was operated by Surrey Satellite Technology Ltd (SSTL).",
+        "json-uri": "http://dbpedia.org/data/UoSAT-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1581",
+        "abstract": "Kosmos 1581 (Russian: Космос 1581 meaning Cosmos 1581) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1581 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 21:31 UTC on 3 July 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-071A. The United States Space Command assigned it the Satellite Catalog Number 15095.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1581.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1596",
+        "abstract": "Kosmos 1596 (Russian: Космос 1596 meaning Cosmos 1596) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1596 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:13 UTC on 7 September 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-096A. The United States Space Command assigned it the Satellite Catalog Number 15267.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1596.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1586",
+        "abstract": "Kosmos 1586 (Russian: Космос 1586 meaning Cosmos 1586) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1586 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 08:38 UTC on 2 August 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-079A. The United States Space Command assigned it the Satellite Catalog Number 15147.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1586.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1547",
+        "abstract": "Kosmos 1547 (Russian: Космос 1547 meaning Cosmos 1547) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1547 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 01:40 UTC on 4 April 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-033A. The United States Space Command assigned it the Satellite Catalog Number 14884.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1547.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-A",
+        "abstract": "STS-51-A was the 14th flight of NASA's Space Shuttle program, and the second flight of Space Shuttle Discovery. The mission launched from Kennedy Space Center on November 8, 1984, and landed just under eight days later on November 16.STS-51-A marked the first time a shuttle deployed two communications satellites, and retrieved from orbit two other communications satellites. The Canadian Anik D2 and Syncom IV-1 satellites were both successfully deployed by the crew of Discovery. Palapa B2 and Westar 6, meanwhile, had been deployed during the STS-41-B mission earlier in the year, but had been placed into improper orbits due to the malfunctioning of their kick motors; they were both safely recovered and returned to Earth during STS-51-A.",
+        "json-uri": "http://dbpedia.org/data/STS-51-A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Long_Duration_Exposure_Facility",
+        "abstract": "NASA's Long Duration Exposure Facility, or LDEF, was a school bus-sized cylindrical facility designed to provide long-term experimental data on the outer space environment and its effects on space systems, materials, operations and selected spore's survival. It was placed in low-Earth orbit by the space shuttle Challenger in April 1984, and retrieved by the space shuttle Columbia in January 1990.It successfully carried science and technology experiments for about 5.7 years, that have revealed a broad and detailed collection of space environmental data. LDEF's 69 months in space provided scientific data on the long-term effects of space exposure on materials, components and systems that has benefited NASA spacecraft designers to this day.",
+        "json-uri": "http://dbpedia.org/data/Long_Duration_Exposure_Facility.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Vega_2",
+        "abstract": "Vega 2 (along with Vega 1) is a Soviet space probe part of the Vega program. The spacecraft was a development of the earlier Venera craft. They were designed by Babakin Space Centre and constructed as 5VK by Lavochkin at Khimki. The craft was powered by twin large solar panels and instruments included an antenna dish, cameras, spectrometer, infrared sounder, magnetometers (MISCHA), and plasma probes. The 4,920 kg craft was launched by a Proton 8K82K rocket from Baikonur Cosmodrome, Tyuratam, Kazakh SSR. Both Vega 1 and 2 were three-axis stabilized spacecraft. The spacecraft were equipped with a dual bumper shield for dust protection from Halley's Comet.",
+        "json-uri": "http://dbpedia.org/data/Vega_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Vega_1",
+        "abstract": "Vega 1 (along with its twin Vega 2) is a Soviet space probe part of the Vega program. The spacecraft was a development of the earlier Venera craft. They were designed by Babakin Space Centre and constructed as 5VK by Lavochkin at Khimki.The craft was powered by twin large solar panels and instruments included an antenna dish, cameras, spectrometer, infrared sounder, magnetometers (MISCHA), and plasma probes. The 4,920 kg craft was launched by a Proton 8K82K rocket from Baikonur Cosmodrome, Tyuratam, Kazakh SSR. Both Vega 1 and 2 were three-axis stabilized spacecraft. The spacecraft were equipped with a dual bumper shield for dust protection from Halley's comet.",
+        "json-uri": "http://dbpedia.org/data/Vega_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1569",
+        "abstract": "Kosmos 1569 (Russian: Космос 1569 meaning Cosmos 1569) was a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1569 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 15:34 UTC on 6 June 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-055A. The United States Space Command assigned it the Satellite Catalog Number 15027.It re-entered the Earth's atmosphere on 7 May 2001.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1569.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-11",
+        "abstract": "Soyuz T-11 was the 6th expedition to Salyut 7, and carried the first Indian cosmonaut to the Salyut 7 station.Salyut 7 was unmanned after the undocking of Soyuz T-11 in October 1984 until Soyuz T-13 docked with the station in June 1985. Salyut 7 developed problems during the unmanned time, which meant that the crew of Soyuz T-13 had to perform a manual docking and do repairs to the station.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-10",
+        "abstract": "Fifth expedition to Salyut 7 entering darkened station because of loss of Soyuz T-10-1. Visited by 6th and 7th expeditions.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-5",
+        "abstract": "USA-5, also known as Navstar 10, GPS I-10 and GPS SVN-10, was an American navigation satellite launched in 1984 as part of the Global Positioning System development programme. It was the tenth of eleven Block I GPS satellites to be launched.USA-5 was launched at 21:41 UTC on 8 September 1984, atop an Atlas E/F carrier rocket with an SGS-2 upper stage. The Atlas used had the serial number 14E, and was originally built as an Atlas E. The launch took place from Space Launch Complex 3W at Vandenberg Air Force Base, and placed USA-5 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-27 apogee motor.By 8 October 1984, USA-5 had been raised to an orbit with a perigee of 19,961 kilometres (12,403 mi), an apogee of 20,404 kilometres (12,678 mi), a period of 717.98 minutes, and 63.2 degrees of inclination to the equator. The satellite had a design life of 5 years and a mass of 758 kilograms (1,671 lb). It broadcast the PRN 12 signal in the GPS demonstration constellation, and was retired from service on 26 March 1996. It was the last Block I satellite to be decommissioned.",
+        "json-uri": "http://dbpedia.org/data/USA-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/BOR-5",
+        "abstract": "The BOR-5 (БОР-5 Russian: Беспилотный Орбитальный Ракетоплан 5, Bespilotnyi Orbital'nyi Raketoplan 5, \"Unpiloted Orbital Rocketplane 5\") is a 1:8 test flight vehicle, used to study the main aerodynamic, thermal, acoustic and stability characteristics of the Buran. It follows upon the BOR-4 reentry test vehicle.It was put into a suborbital trajectory by a K65M-RB5 rocket launched from Kapustin Yar, near Volga, towards Lake Balkhash.One of the BOR-5 models was recently put up for sale in Florida for US$155,000.",
+        "json-uri": "http://dbpedia.org/data/BOR-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1604",
+        "abstract": "Kosmos 1604 (Russian: Космос 1604 meaning Cosmos 1604) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1604 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:49 UTC on 4 October 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-107A. The United States Space Command assigned it the Satellite Catalog Number 15350.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1604.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1546",
+        "abstract": "Kosmos 1546 (Russian: Космос 1546 meaning Cosmos 1546) is a Soviet US-KS missile early warning satellite which was launched in 1984 as part of the Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1546 was launched from Site 200/40 at Baikonur Cosmodrome in the Kazakh SSR. A Proton-K carrier rocket with a DM upper stage was used to perform the launch, which took place at 05:53 UTC on 29 March 1984. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1984-031A. The United States Space Command assigned it the Satellite Catalog Number 14884.It was operational for about 30 months.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1546.jsond",
+        "instrumentation": [
+            "Optical telescope with  aperture",
+            "Infrared sensor/s",
+            "Smaller telescopes"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-12",
+        "abstract": "Soyuz T-12 (also known as Salyut 7 EP-4) was the seventh manned spaceflight to the Soviet space station Salyut 7. The name \"Soyuz T-12\" is also the name of the spacecraft used to launch and land the mission's three person crew. The mission occurred in July 1984, during the long-duration expedition Salyut 7 EO-3. During the mission, crew member Svetlana Savitskaya became the first woman to ever perform a spacewalk, and the potential Buran Space shuttle pilot, Igor Volk, was given spaceflight experience. Unlike many Soyuz visiting missions, the Soyuz lifeboats were not swapped, and the crew returned to Earth in the same spacecraft in which they launched.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-1_(satellite)",
+        "abstract": "USA-1, also known as Navstar 9, GPS I-9 and GPS SVN-9, was an American navigation satellite launched in 1984 as part of the Global Positioning System development programme. It was the ninth of eleven Block I GPS satellites to be launched, and the first satellite to receive a USA designation.USA-1 was launched at 11:37 UTC on 13 June 1984, atop an Atlas E/F carrier rocket with an SGS-2 upper stage. The Atlas used had the serial number 42E, and was originally built as an Atlas E. The launch took place from Space Launch Complex 3W at Vandenberg Air Force Base, and placed USA-1 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-27 apogee motor.By 14 July 1984, USA-1 had been raised to an orbit with a perigee of 20,009 kilometres (12,433 mi), an apogee of 20,354 kilometres (12,647 mi), a period of 717.94 minutes, and 62.5 degrees of inclination to the equator. The satellite had a design life of 5 years and a mass of 758 kilograms (1,671 lb). It broadcast the PRN 13 signal in the GPS demonstration constellation, and was retired from service on 20 June 1994.",
+        "json-uri": "http://dbpedia.org/data/USA-1_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-41-B",
+        "abstract": "STS-41-B was the tenth NASA Space Shuttle mission and the fourth flight of the Space Shuttle Challenger. It launched on February 3, 1984, and landed on February 11 after deploying two communications satellites. It was also notable for including the first untethered spacewalk.Following STS-9, the flight numbering system for the Space Shuttle program was changed. Thus, the next flight, instead of being designated STS-11, became STS-41-B; the original successor to STS-9, STS-10, was cancelled due to payload delays.",
+        "json-uri": "http://dbpedia.org/data/STS-41-B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1541",
+        "abstract": "Kosmos 1541 (Russian: Космос 1541 meaning Cosmos 1541) is a Soviet US-K missile early warning satellite which was launched in 1984 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1541 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 17:10 UTC on 6 March 1984. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1984-024A. The United States Space Command assigned it the Satellite Catalog Number 14790.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1541.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Earth_Radiation_Budget_Satellite",
+        "abstract": "The Earth Radiation Budget Satellite (ERBS) was a NASA scientific research satellite launched on October 5, 1984 to study the Earth's radiation budget and stratospheric aerosol and gases. It was carried into low earth orbit and deployed by the Space Shuttle Challenger, during the STS-41-G mission. The spacecraft was expected to have a two-year operation life, but ultimately, the mission provided scientific data about the Earth's ozone layer for more than two decades.Data on the ozone layer provided by ERBS was key in the international community's decision-making process during the Montreal Protocol Agreement, which has resulted in a near elimination of CFCs in industrialized countries.ERBS was one of three satellites in the Earth Radiation Budget Experiment and carried two instruments as part of that endeavor: the ERBE scanner (three detectors that study longwave radiation, shortwave radiation and total energy radiating from the Earth along a line of the satellite's path) and the ERBE non-scanner (five detectors measuring the total energy from the Sun, and the shortwave and total energy from the entire Earth disk and the area beneath the satellite). The second ERBE Instrument was aboard the NOAA-9 satellite when it was launched in January 1985, and the third was aboard the NOAA-10 satellite when it was launched in October 1986.In addition, it carried the Stratospheric Aerosol Gas Experiment (SAGE II).It was retired for budgetary reasons on October 14, 2005 as one of the longest-running spacecraft missions to date.",
+        "json-uri": "http://dbpedia.org/data/Earth_Radiation_Budget_Satellite.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Landsat_5",
+        "abstract": "Landsat 5 was a low Earth orbit satellite launched on March 1, 1984 to collect imagery of the surface of Earth. A continuation of the Landsat Program, Landsat 5 was jointly managed by the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA). Data from Landsat 5 was collected and distributed from the USGS's Center for Earth Resources Observation and Science (EROS).After 29 years in space, Landsat 5 was officially decommissioned on June 5, 2013. Near the end of its mission, Landsat 5's use was hampered by equipment failures, and it was largely superseded by Landsat 7 and Landsat 8. Mission scientists anticipated the satellite will re-enter Earth's atmosphere and disintegrate around 2034.Recognized by the Guinness Book of Records as the longest-operating Earth-observing satellite mission in history, Landsat 5 orbited the planet more than 150,000 times while transmitting over 2.5 million images of land surface conditions around the world, greatly outliving its original three-year design life.",
+        "json-uri": "http://dbpedia.org/data/Landsat_5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-41-D",
+        "abstract": "STS-41-D was the 12th flight of NASA's Space Shuttle program, and the first mission of Space Shuttle Discovery. It was launched from Kennedy Space Center, Florida, on August 30, 1984, and landed at Edwards Air Force Base, California, on September 5. Three commercial communications satellites were deployed into orbit during the six-day mission, and a number of scientific experiments were conducted.The mission was delayed by more than two months from its original planned launch date, having experienced the Space Shuttle program's first launch abort at T-6 seconds on June 26, 1984.",
+        "json-uri": "http://dbpedia.org/data/STS-41-D.jsond",
+        "instrumentation": []
+    }
+]

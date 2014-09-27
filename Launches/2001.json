@@ -1,0 +1,232 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Destiny_(ISS_module)",
+        "abstract": "The Destiny module is the primary operating facility for U.S. research payloads aboard the International Space Station (ISS). It was berthed to the Unity module and activated over a period of five days in February, 2001. Destiny is NASA's first permanent operating orbital research station since Skylab was vacated in February 1974.The Boeing Company began construction of the 16 ton (14.5 tonne), state-of-the art research laboratory in 1995 at the Marshall Space Flight Center in Huntsville, Alabama. Destiny was shipped to the Kennedy Space Center in Florida in 1998, and was turned over to NASA for pre-launch preparations in August 2000. It launched on February 7, 2001 aboard the Space Shuttle Atlantis on STS-98.Astronauts work inside the pressurized facility to conduct research in numerous scientific fields. Scientists throughout the world will use the results to enhance their studies in medicine, engineering, biotechnology, physics, materials science, and Earth science.",
+        "json-uri": "http://dbpedia.org/data/Destiny_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PROBA",
+        "abstract": "PROBA (Project for On-Board Autonomy) is a satellite launched by ISRO in 2001 as part of the ESA's MicroSat program. This small (40×60×80 cm; 95 kg) boxlike system, with solar panel collectors on its surface, has remarkable image-making qualities. It hosts two Earth Observation instruments dubbed CHRIS and HRC. It is a hyperspectral system (200 narrow bands) that image at 30 m, plus three in the visible that have 15 m resolution.The second satellite in the Proba-series, Proba-2 was launched on November 2, 2009, together with the SMOS mission. Proba 2 is a 0.6 × 0.6 × 0.8 meter, box-shaped structure weighing 130 kg with two deployable solar panels. It has a total of four instruments; two complementary solar observation instruments dubbed SWAP and LYRA, and two plasma measurement instruments dubbed TPMU and DSLP.Further planned satellites in the Proba series are the formation flight Proba-3 and Proba-V (Proba Vegetation). They are on-going developments without defined launch dates.",
+        "json-uri": "http://dbpedia.org/data/PROBA.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_2A",
+        "abstract": "Türksat 2A, aka Eurasiasat 1, is a Turkish communications satellite as part of a project to form an instant network with two geosynchronous satellites that is supervised by the companies Türksat A.Ş. in Turkey and Eurasiasat SAM in Monaco.Türksat 2A was launched by Arianespace atop an Ariane-44P H10-3 launch vehicle on January 10, 2001 at 21:39 UTC from ELA-2 at the Guiana Space Centre in Kourou, French Guiana. The spacecraft was successfully placed into geostationary transfer orbit and then shifted to 42°E position, co-locating with Türksat 1C, which was launched in 1996. Its broadcast traffic entered service on February 1, 2001.Turksat 2A was designed for covering Europe, Turkey on west spot and Turkey and Central Asia including Middle East and Russia on east spot so as to serve simultaneously within that region, and to provide direct connection between Europe and Central Asia. It is based on the Alcatel Spacebus 3000B3 series having an on-orbit mass of 3,530 kg (7,780 lb) with 9,200 W power. The communications payload consists of 36 Ku band transponders consisting of 22 pieces of 33 MHz fixed beam transponders and 10 transponders of 36 MHz bandwidth with two additional steerable beams.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_2A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2380",
+        "abstract": "Kosmos 2380 (Russian: Космос 2380 meaning Cosmos 2380) is one of a set of three Russian military satellites launched in 2001 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2381 and Kosmos 2382.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 790.Kosmos 2380/1/2 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 18:04 UTC on 1 December 2001. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2001-053C. The United States Space Command assigned it the Satellite Catalog Number 26989.It was in the first orbital plane in orbital slot 6. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2380.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Artemis_(satellite)",
+        "abstract": "Artemis is a geostationary earth orbit satellite (GEOS) for telecommunications, built for and owned by ESA. The Artemis satellite operates at the 21.5E orbital position.The mission was planned for many years, with launch initially intended for 1995 and slipping; it was intended for launch on Ariane 5 but at one point there were suggestions that a Japanese H-II rocket might be used.Launched by an Ariane 5 rocket on 12 July 2001, it originally reached an orbit much lower than planned (590 km x 17487 km). It was remotely reconfigured to reach its intended station by means of a novel procedure. First, over the course of about a week, most of its chemical fuel was used to put it in a 31,000 km circular orbit (by raising first the apogee then the perigee, going via a 590 km x 31000 km orbit). Then, its electric-ion motor — originally intended for station keeping and for firing a few minutes at a time — was instead kept running for most of 18 months, pushing the spacecraft into an outward spiral trajectory. It gained altitude at the rate of about 15 km per day, until it reached the intended geostationary orbit.",
+        "json-uri": "http://dbpedia.org/data/Artemis_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TIMED",
+        "abstract": "The TIMED (Thermosphere Ionosphere Mesosphere Energetics and Dynamics) is an orbiter mission dedicated to study the dynamics of the Mesosphere and Lower Thermosphere (MLT) portion of the Earth's atmosphere. The mission was launched from Vandenberg Air Force Base in California on December 7, 2001 aboard a Delta II rocket launch vehicle. The project is sponsored and managed by NASA, while the spacecraft was designed and assembled by the Applied Physics Laboratory at Johns Hopkins University. The mission has been extended several times, and has now collected data over an entire solar cycle, which helps in its goal to differentiate the Sun's effects on the atmosphere from other effects.",
+        "json-uri": "http://dbpedia.org/data/TIMED.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-104",
+        "abstract": "STS-104 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. Its primary objectives were to install the Quest Joint Airlock and help perform maintenance on the International Space Station. It was successful and returned to Earth without incident, after a successful docking, equipment installation and three spacewalks.",
+        "json-uri": "http://dbpedia.org/data/STS-104.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Odin_(satellite)",
+        "abstract": "Odin is a Swedish satellite working in two disciplines; astrophysics and aeronomy, and it was named after god Odin. Within the field of astrophysics, Odin is used in the study of star formation. When used for aeronomical observations, it is the ozone layer depletion and effects of global warming that are explored. One of the instruments on board is the OSIRIS (Optical Spectrograph and InfraRed Imager System).Odin was developed by the Space Systems Division of Swedish Space Corporation (now OHB Sweden) as part of an international project involving the space agencies of Finland (funded by TEKES), Canada (CSA) and France (CNES). Odin was launched on a START-1 rocket on February 20, 2001 from Svobodny, Russia.In April 2007, astronomers announced that Odin had discovered the existence of interstellar clouds of molecular oxygen for the first time. Odin was still operating and returning scientific data as of February 2013.",
+        "json-uri": "http://dbpedia.org/data/Odin_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_901",
+        "abstract": "Intelsat 901 (IS-901) was the first of 9 new Intelsat satellites launched in June 2001 at 342°E, providing Ku-band spot beam coverage for Europe, as well as C-band coverage for the Atlantic Ocean region, and provides features such as selectable split uplink for SNG, tailored for increased communications demands such as DTH and Internet.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_901.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Technology_Experiment_Satellite",
+        "abstract": "Technology Experiment Satellite or (TES) is an experimental satellite to demonstrate and validate, in orbit, technologies that could be used in the future satellites of Indian Space Research Organization (ISRO). TES weighs 1108 kg and was successfully placed in 568 km sun synchronous orbit on October 22, 2001 using the PSLV-C3 version of Polar Satellite Launch Vehicle. PSLV-C3 also injected two more satellites: PROBA, a Belgian satellite and BIRD, a German satellite.The technologies demonstrated in TES are attitude and orbit control system, high torque reaction wheels, new reaction control system with optimized thrusters and a single propellant tank, light weight spacecraft structure, solid state recorder, X-band phased array antenna, improved satellite positioning system, miniaturized TTC and power system and, two-mirror-on-axis camera optics.The Technology Experiment Satellite (TES) has a pan chromatic camera for remote sensing. The camera is which is capable of producing images of 1 meter resolution. 1 m resolution means the camera is able to distinguish between two objects which are separated at least a meter.The launch of TES made India the second country in the world after the United States that can commercially offer images with one meter resolution. It is used for remote sensing of civilian areas, mapping industry and geographical information services.TES, which was launched in 2001, helped the US army with high-resolution images during the 9/11 counter-terrorism offensive against theTaliban.",
+        "json-uri": "http://dbpedia.org/data/Technology_Experiment_Satellite.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-108",
+        "abstract": "STS-108 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. Its primary objective was to deliver supplies to and help maintain the ISS.STS-108 was the 12th shuttle flight to visit the International Space Station and the first since the installation of the Russian airlock called Pirs on the station. Endeavour delivered the Expedition 4 crew to the orbital outpost. The Expedition 3 crew returned to Earth on Endeavour.While at the station, the crew conducted one spacewalk and attached the Raffaello Multi-Purpose Logistics Module to the station so that about 2.7 metric tons (3 tons) of equipment and supplies could be unloaded. The crew later returned Raffaello to Endeavour's payload bay for the trip home.",
+        "json-uri": "http://dbpedia.org/data/STS-108.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-98",
+        "abstract": "STS-98 was a 2001 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. STS-98 delivered to the station the Destiny Laboratory Module. All mission objectives were completed and the shuttle reentered and landed safely at Edwards Air Force Base on 20 February 2001, after twelve days in space, six of which were spent docked to the ISS.",
+        "json-uri": "http://dbpedia.org/data/STS-98.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2382",
+        "abstract": "Kosmos 2382 (Russian: Космос 2382 meaning Cosmos 2382) is one of a set of three Russian military satellites launched in 2001 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2380 and Kosmos 2381. It was the prototype GLONASS-M satellite.This satellite is a GLONASS-M satellite, also known as Uragan, and is numbered Uragan No. 711.Kosmos 2380/1/2 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 18:04 UTC on 1 December 2001. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2001-053A. The United States Space Command assigned it the Satellite Catalog Number 26987.It was in the first orbital plane in orbital slot 5. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2382.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-6",
+        "abstract": "Progress M1-6, identified by NASA as Progress 4 or 4P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 255.Progress M1-6 was launched on the maiden flight of the Soyuz-FG carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 22:32:40 GMT on 20 May 2001. The spacecraft docked with the Aft port of the Zvezda module at 00:23:57 GMT on 23 May. It remained docked for three months before undocking at 06:02 GMT on 22 August to make way for Progress M-45. It was deorbited at 09:00 GMT on the same day, burning up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 09:50 GMT.Progress M1-6 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-5",
+        "abstract": "Progress M1-5 was the Progress spacecraft which was launched by Russia in 2001 to deorbit the fifteen-year old Mir space station before it naturally fell from orbit, potentially landing in a populated area. The Russian Aviation and Space Agency, Rosaviakosmos, was responsible for the mission.Launched in January 2001 after a short delay due to a problem with Mir, on 27 January Progress M1-5 became the last spacecraft to dock with the station. It spent two months attached to the Kvant-1 module before deorbiting the station on 23 March 2001. Mir re-entered the atmosphere with Progress M1-5 still docked, disintegrating over the Pacific Ocean, with debris falling into the ocean at around 06:00 GMT. During the early stages of the unmanned Progress M1-5 mission, a manned Soyuz was placed on standby to launch in order to complete the mission if a problem occurred. The decision to deorbit Mir attracted both praise and criticism for Rosaviakosmos, while several campaigns to save the station were conducted.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Jason-1",
+        "abstract": "Jason-1 is a satellite oceanography mission to monitor global ocean circulation, study the ties between the ocean and the atmosphere, improve global climate forecasts and predictions, and monitor events such as El Niño and ocean eddies.It is the successor to the TOPEX/Poseidon mission, which measured ocean surface topography from 1992 through 2005. Like its predecessor, Jason-1 is a joint project between the NASA (United States) and CNES (France) space agencies. Jason-1's successor, the Ocean Surface Topography Mission on the Jason-2 satellite, was launched in June 2008. These satellites provide a unique global view of the oceans that is impossible to acquire using traditional ship-based sampling.Jason-1 was built by Thales Alenia Space using a Proteus platform, under a contract from CNES, as well as the main Jason-1 instrument, the Poseidon-2 altimeter (successor to the Poseidon altimeter on-board TOPEX/Poseidon)Jason-1 was designed to measure climate change through very precise millimeter-per-year measurements of global sea level changes. As did TOPEX/Poseidon, Jason-1 uses an altimeter to measure the hills and valleys of the ocean's surface. These measurements of sea surface topography allow scientists to calculate the speed and direction of ocean currents and monitor global ocean circulation. The global ocean is Earth's primary storehouse of solar energy. Jason-1's measurements of sea surface height reveal where this heat is stored, how it moves around Earth by ocean currents, and how these processes affect weather and climate.Jason-1 was launched on December 7, 2001 from California's Vandenberg Air Force Base aboard a Delta II rocket. During the first months Jason-1 shared an almost identical orbit to TOPEX/Poseidon, which allowed for cross calibration. At the end of this period, the older satellite was moved to a new orbit midway between each Jason ground track. Jason has a repeat cycle of 10 days.Orbit maneuvers in 2009 put the Jason-1 satellite on the opposite side of Earth from the Jason-2 satellite, which is operated by the U.S. and French weather agencies. Jason-1 now flies over the same region of the ocean that Jason-2 flew over five days earlier. Its ground tracks fall mid-way between those of Jason-2, which are about 315 kilometers (196 mi) apart at the equator.This interleaved tandem mission provides twice the number of measurements of the ocean's surface, bringing smaller features such as ocean eddies into view. The tandem mission also helps pave the way for a future ocean altimeter mission that would collect much more detailed data with its single instrument than the two Jason satellites now do together.The program is named after the Greek mythological hero Jason.",
+        "json-uri": "http://dbpedia.org/data/Jason-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_2",
+        "abstract": "Shenzhou 2 (Chinese: 神舟二号) launched on January 9, 2001, was the second unmanned launch of the Shenzhou spacecraft. Inside the reentry capsule were a monkey, a dog and a rabbit in a test of the spaceship's life support systems. The reentry module separated from the rest of the spacecraft after just over seven days in orbit, with the orbital module staying in orbit for another 220 days.Shenzhou 2 tested the spacecraft much more rigorously than its predecessor Shenzhou 1. After being launched into a 196.5 by 333.8 km orbit, 20.5 hours after launch it circularised its orbit to 327.7 by 332.7 km. Around 1220 UTC on January 12 it once again changed its orbit to 329.3 by 339.4 km. A third orbit change came on January 15 328.7 by 345.4 km.As well as the animal cargo, there were 64 different scientific payloads. 15 were carried in the reentry module, 12 in the orbital module and 37 on the forward external pallet. These included a microgravity crystallography experiment; animal species including six mice, and small aquatic and terrestrial organisms; cosmic ray and particle detectors and a gamma ray burst detectors. To test the radio transmitting systems taped messages were broadcast from the spacecraft.The signal for retrofire was sent at about 1015 UTC on January 16 as the spacecraft passed over the South Atlantic Ocean off the coast of South Africa. It landed in Inner Mongolia at 11:22 UTC. No photos were released of the landing capsule leading to some speculation that the reentry was not completely successful, though this was denied by Chinese officials. The Swedish Space Center news site reported that an unnamed source said one of the connections from the capsule to the single parachute failed leading to a hard landing.The mission of the orbital module continued until it was commanded to fire its rockets to initiate reentry on August 24. It reentered over the western Pacific Ocean between Easter Island and Chile.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2381",
+        "abstract": "Kosmos 2381 (Russian: Космос 2381 meaning Cosmos 2381) is one of a set of three Russian military satellites launched in 2001 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2380 and Kosmos 2382.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 789.Kosmos 2380/1/2 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 18:04 UTC on 1 December 2001. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2001-053B. The United States Space Command assigned it the Satellite Catalog Number 26988.It was in the first orbital plane in orbital slot 3. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2381.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-105",
+        "abstract": "STS-105 was a mission of the Space Shuttle Discovery to the International Space Station, launched from Kennedy Space Center, Florida, 10 August 2001. This mission was Discovery's final mission until STS-114, because Discovery was grounded for a refit, and then all Shuttles were grounded in the wake of the Columbia disaster. The refit included an update of the flight deck to the glass cockpit layout, which was already installed on Atlantis and Columbia.",
+        "json-uri": "http://dbpedia.org/data/STS-105.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Badr-B",
+        "abstract": "The Badr-B (Urdu: بدر-۲‎; also known as Badr-II, meaning New Moon-2) is the second spacecraft and the first earth observation satellite launched into Earth orbit on December 10, 2001 at 0915 hrs by the SUPARCO — Pakistan's national space agency. Badr-B is a microsatellite, with a mass of ~70 kg, and contained the supercomputerized system to conduct the studies on the gravity gradient. Badr-B is a research satellite to explore the upper atmosphere and the near space, and carried a large array of instruments for geophysical research.The Badr-B payload was equipped with several CCD cameras, compact dosimeter, a telemetry system, charge detector and a temperature control unit. It is intended to complete and update the Islamabad Mission Control Center (IMCC), and to test the remote sensing CCD instruments.",
+        "json-uri": "http://dbpedia.org/data/Badr-B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/BIRD_(satellite)",
+        "abstract": "BIRD (Bispectral and Infrared Remote Detection) is a satellite launched by ISRO in 2001 for DLR. This small (92 kg) boxlike system, with solar panel two collectors on stub wings, has remarkable fire-detection qualities. It hosts a two-channel infrared sensor system in combination with a Wide-Angle Optoelectronic Stereo Scanner (WAOSS). It also features a neuronal network classificator in orbit to reduce downlink bandwidth and cost.The unique combination of a stereo camera and two infrared cameras gives the opportunity to acquire: More precise information about leaf mass and photosynthesis for the early diagnosis of vegetation condition and changes Real time discrimination between smoke and water cloudsThe attitude&control system of the BIRD satellite was reused in the TET-1 satellite.",
+        "json-uri": "http://dbpedia.org/data/BIRD_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_28A",
+        "abstract": "Eutelsat 28A (formerly Eurobird 1) is a Eutelsat operated Eurobird satellite, used primarily for digital television. It is located at 28.5° east in the Clarke Belt, just within the range of most satellite dishes pointed at SES' Astra 1N, 2A, 2B and 2D at 28.2° east. It was launched in March 2001, and after a short period testing at 33°E, joined Eutelsat 2F4 at 28.5°E. Its name changed on 1 March 2012 from Eurobird 1 to Eutelsat 28A.The satellite has three beams. A fixed beam covers almost all of Europe as well as north-western Africa, although it carries channels targeted only at Ireland and the United Kingdom. There are also two steerable beams - the first, \"S1\", co-focused with the fixed beam but with a Europe-only footprint, and a second, \"S2\", aimed to central Europe. This beam features many transponders with low symbol rates, used for satellite news gathering.Once stationed at 28.5°E, the satellite was promoted as providing satellite coverage for all of Europe, and featured both analogue and digital television and radio services serving Austria, the Czech Republic, Slovakia and other countries. Many of the services it carried had previously been on Kopernikus 2 which had operated at 28.5°E since 1990. These stations slowly started to leave, mostly due to viewers/listeners in those target audiences moving to more traditional orbital positions - 19.2°E for Austria, and the relatively new 23.5°E for the Czech and Slovak Republics. Additional demand for bandwidth at 28°E, to carry HDTV signals, is likely to lead to S2 having its frequency plan re-arranged so as to allow Sky Digibox receivers to see its transponders.It features 24 active transponders and 12 backup transponders, all Ku band. 12 of its transponders are significantly wider (72 MHz bandwidth) than traditional broadcast satellites, and are reconfigurable into multiple \"virtual\" transponders. Each transponder is fixed only in its polarity, and many are carrying at least two, and up to 6 virtual transponders.In August 2012 it was confirmed that, after some loss of power events on Eutelsat 28A, Eutelsat 48B would be redeployed to the orbital position of 28.5 degrees East to ensure continuity of service.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_28A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_2C",
+        "abstract": "Astra 2C is one of the Astra communications satellites owned and operated by SES. Designed to join Astra 2A and Astra 2B at the Astra 28.2°E orbital slot providing digital television and radio broadcast services to the UK and Republic of Ireland, the satellite was first used at 19.2°E for pan-European coverage.The satellite provides one broadcast beam with horizontal and vertical polarisation, across a single footprint covering the areas of Central and Eastern Europe, Scandinavia, the Iberian peninsula and Canary Islands.TV signals can be received with a 50 cm dish across the majority of the British Isles with a 60 cm dish required in the extreme north and west.Astra 2C can also provide backup capacity, substituting for one or more transponders across the 10.70 GHz-12.20 GHz broadcast range used by Astra satellites in the Astra 19.2°E and Astra 28.2°E orbital positions, and was first deployed after launch in 2001 at 19.2°E.The satellite was moved to 28.2°E in August 2007, transmitting digital TV and interactive services for Sky Digital and Freesat. Only two transponders were active during this time.",
+        "json-uri": "http://dbpedia.org/data/Astra_2C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2379",
+        "abstract": "Kosmos 2379 (Russian: Космос 2379 meaning Cosmos 2379) is a Russian US-KMO missile early warning satellite which was launched in 2001 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2379 was launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 20:39 UTC on 24 August 2001. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 2001-037A. The United States Space Command assigned it the Satellite Catalog Number 26892.This satellite was located at 24W until August/September 2007 when it moved to 12E. It had an 8 year operational life and failed late 2009/early 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2379.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-102",
+        "abstract": "STS-102 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Discovery and launched from Kennedy Space Center, Florida. STS-102 flew in March 2001; its primary objectives were resupplying the ISS and rotating the Expedition 1 and Expedition 2 crews.",
+        "json-uri": "http://dbpedia.org/data/STS-102.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-SO1",
+        "abstract": "Progress M-SO1 was a modified Progress spacecraft used to deliver the Pirs module to the International Space Station. It was based on the Progress-M 11F615A55 spacecraft, with the pressurised cargo module removed to accommodate Pirs, and had the serial number 301.Progress M-SO1 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 23:34:55 GMT on 14 September 2001. The spacecraft docked with the Nadir port of the Zvezda module at 01:05 GMT on 17 September. It remained docked for nine and a half days before it was jettisonned from Pirs at 15:36 GMT on 26 September. It was deorbited at 23:30 GMT on the same day, and burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 00:01 GMT on 27 September.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-SO1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-1",
+        "abstract": "GSAT-1 was an experimental communications satellite launched aboard the maiden flight of the GSLV rocket. The spacecraft was equipped with instrumentation to test Pulse Code Modulation (PCM) transmitting on S-band frequencies and transponders operating in the C-band.[citation needed] The spacecraft was unable to complete its mission after a launch failure left it in a lower than planned orbit and propulsion issues prevented the satellite from correcting this via its own manoeuvring system.GSAT-1 failed to achieve its target orbit, which prevented it from fulfilling its primary communications mission. The 1.54-tonne satellite was orbiting with a period of 23 hours two minutes, instead of the planned 24-hour geosynchronous orbit, only permitting a limited series of experiments to be conducted, including digital audio broadcasting and compressed digital TV signal transmission.The GSLV (Geosynchronous Satellite Launch Vehicle) suffered a performance shortfall during its first flight resulting in the injection of the experimental satellite into a geosynchronous transfer orbit (GTO) of 181 x 32.051 km, inclined at 19.2 degrees, having an apogee about 4,000 km below the targeted orbit of 185 x 35.975 km. The satellite used its onboard propulsion system to raise both its apogee and its perigee to geostationary orbit as well as to decrease the orbital inclination to zero, however its propellant was depleted prior to successfully raising its orbit. The satellite used two different propellant tanks, built in Germany and India, which resulted in an unequal flow of fuel, causing the spacecraft to tilt. (The two different fuel tanks were used because they were readily available). Recovery required the use of more propellant than planned which resulted in the satellite having no propellant left to complete its final circularization maneuver. The satellite was possibly used for a few communications experiments but the original purpose of demonstrating digital TV and audio broadcasts, as well as Internet services could not be fulfilled.The Russian 12KRB cryogenic upper stage was planned to perform for 710 seconds, but its burn apparently lasted only 698 seconds. Another suspect for the shortfall is the launch vehicle navigation system which was derived from the PSLV which has flown only to low earth orbits.",
+        "json-uri": "http://dbpedia.org/data/GSAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-33",
+        "abstract": "Soyuz TM-33 was a manned Russian space launch on Oct 21, 2001, on the Soyuz-U launch vehicle. Its mission was to carry a new crew and supplies to the International Space Station.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-33.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_12",
+        "abstract": "GOES 12, known as GOES-M before becoming operational is an American weather satellite, which is part of the US National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. It was launched in 2001, and as of April 2010 it is in standby orbit. Prior to standby, it was operating in the GOES-EAST position, providing coverage of the east coast of the United States.",
+        "json-uri": "http://dbpedia.org/data/GOES_12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-45",
+        "abstract": "Progress M-45, identified by NASA as Progress 5 or 5P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 245.Progress M-45 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 09:23:54 GMT on 21 August 2001. The spacecraft docked with the Aft port of the Zvezda module at 09:51:32 GMT on 23 August. It remained docked for three months before undocking at 16:12:01 GMT on 22 November to make way for Progress M1-7. It left debris on the docking port which prevented Progress M1-7 from achieving a hard dock until it was removed during an EVA on 3 December. Progress M-45 was deorbited at 20:48:00 GMT on the same day that it undocked. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 21:35:23 GMT.Progress M-45 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-45.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Pirs_(ISS_module)",
+        "abstract": "Pirs (Russian: Пирс, meaning \"pier\") -- also called \"Stikovochny Otsek 1\" or \"SO-1\" (Russian: Стыковочный отсек, \"docking module\", or DC-1 (docking compartment) -- is one of the two Russian docking compartments originally planned for the ISS. Pirs was launched in August 2001. It provides the ISS with one docking port for Soyuz and Progress spacecraft, and allows egress and ingress for spacewalks by cosmonauts using Russian Orlan space suits.A second docking compartment, \"Stykovochniy Otsek 2\" or SO-2, was initially planned with the same design. However, when the Russian segment of the ISS was redesigned in 2001, the new design no longer included the SO-2, and its construction was canceled. After another change of plans the SO-2 module finally evolved into the Poisk module, which was added to the ISS in 2009.Pirs is scheduled to be detached from the ISS in 2014 and to be deorbited, to make room for the Russian Multipurpose Laboratory Module Nauka.",
+        "json-uri": "http://dbpedia.org/data/Pirs_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-44",
+        "abstract": "Progress M-44, identified by NASA as Progress 3 or 3P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 244.Progress M-44 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 08:09:35 GMT on 26 February 2001. The spacecraft docked with the Aft port of the Zvezda module at 09:49:47 GMT on 28 February. It remained docked for one and a half months before undocking at 08:48 GMT on 16 April. It was deorbited at 13:23 GMT the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 14:11 GMT.Progress M-44 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research. It was the first Progress-M spacecraft to visit the ISS, previous resupply missions having used the Progress-M1.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-44.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-100",
+        "abstract": "STS-100 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. STS-100 installed the ISS Canadarm2 robotic arm.",
+        "json-uri": "http://dbpedia.org/data/STS-100.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-7",
+        "abstract": "Progress M1-7, identified by NASA as Progress 6 or 6P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 256.Progress M1-7 was launched by a Soyuz-FG carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 18:24:12 GMT on 26 November 2001. The spacecraft docked with the Aft port of the Zvezda module at 19:43:02 GMT on 28 November. It was unable to establish a hard dock due to debris from Progress M-45 on the docking port, which had to be removed in an unscheduled extra-vehicular activity on 3 December, after which it was able to establish a hard dock.Progress M1-7 remained docked to the ISS for three and a half months before undocking at 17:43 GMT on 19 March 2002 to make way for Progress M1-8. It was deorbited at 01:27 GMT on 20 March. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 02:20 GMT.Progress M1-7 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research. It also carried the Kolibri-2000 satellite, which it deployed at 22:28 GMT on 19 March 2002, a few hours after departing the ISS.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-156",
+        "abstract": "USA-156, also known as GPS IIR-7 and GPS SVN-54, is an American navigation satellite which forms part of the Global Positioning System. It was the seventh Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-156 was launched at 07:55:01 UTC on 30 January 2001, atop a Delta II carrier rocket, flight number D283, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-156 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 2 February 2001, USA-156 was in an orbit with a perigee of 20,104 kilometres (12,492 mi), an apogee of 20,266 kilometres (12,593 mi), a period of 718.08 minutes, and 55 degrees of inclination to the equator. It is used to broadcast the PRN 18 signal, and operates in slot 4 of plane E of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-156.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/QuickBird",
+        "abstract": "QuickBird is a high-resolution commercial earth observation satellite, owned by DigitalGlobe and launched in 2001 as the first satellite in a constellation of three scheduled to be in orbit by 2008. QuickBird uses Ball Aerospace's Global Imaging System 2000 (BGIS 2000) that collects the fourth highest resolution commercial imagery of Earth after WorldView-1, WorldView-2 and GeoEye-1 and boasts the largest image size and the greatest on-board storage capacity of any satellite. The satellite collects panchromatic (black and white) imagery at 60 centimeter resolution and multispectral imagery at 2.4- and 2.8-meter resolutions. At this resolution, detail such as buildings and other infrastructure are easily visible. However, this resolution is insufficient for working with smaller objects such as a license plate on a car. The imagery can be imported into remote sensing image processing software, as well as into GIS packages for analysis. The imagery can also be used as a backdrop for mapping applications, such as Google Earth and Google Maps.Contractors include Ball Aerospace & Technologies, Kodak and Fokker Space.",
+        "json-uri": "http://dbpedia.org/data/QuickBird.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Quest_Joint_Airlock",
+        "abstract": "The Quest Joint Airlock, previously known as the Joint Airlock Module, is the primary airlock for the International Space Station. Quest was designed to host spacewalks with both Extravehicular Mobility Unit (EMU) spacesuits and Orlan space suits. The airlock was launched on STS-104 on July 14, 2001. Before Quest was attached, Russian spacewalks using Orlan suits could only be done from the Zvezda service module and American spacewalks using EMUs were only possible when a Space Shuttle was docked. The arrival of Pirs docking compartment on September 16, 2001 provided another airlock from which Orlan spacewalks can be conducted.",
+        "json-uri": "http://dbpedia.org/data/Quest_Joint_Airlock.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-32",
+        "abstract": "Soyuz TM-32 was a manned Russian spacecraft which was launched on April 28, 2001, and docked with the International Space Station two days later. It launched the crew of the visiting mission ISS EP-1, which included the first paying space tourist Dennis Tito, as well as two Russian cosmonauts. The Soyuz TM-32 remained docked to the station until October; during this time it served as the lifeboat for the crew of Expedition 2 and later for the crew of Expedition 3. In October it landed the crew of ISS EP-2, who had been launched by Soyuz TM-33.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-32.jsond",
+        "instrumentation": []
+    }
+]

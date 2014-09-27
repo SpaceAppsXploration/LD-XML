@@ -1,0 +1,126 @@
+[
+    {
+        "abstract": "Pioneer 5 (also known as Pioneer P-2, and Thor Able 4) was a spin-stabilized space probe in the NASA Pioneer program used to investigate interplanetary space between the orbits of Earth and Venus. It was launched on March 11, 1960 from Cape Canaveral Air Force Station Launch Complex 17A at 13:00:00 UTC with an on-orbit dry mass of 43 kg. It is a 0.66 m diameter sphere with 1.4 m span across its four solar panels and achieved a solar orbit of 0.806 × 0.995 AU (121,000,000 by 149,000,000 km).Data was received until April 30, 1960. Among other accomplishments, the probe confirmed the existence of interplanetary magnetic fields. Pioneer 5 was the most successful probe in the Pioneer/Able missions.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_5.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_5",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Courier 1B was the world's first active repeater satellite after launch on 4 October 1960. Courier was built by the Palo Alto, California–based Western Development Labs (WDL) division of Philco, previously known as Army Fort Monmouth Laboratories and now the Space Systems/Loral division of Loral Space & Communications.Proposed by the U.S. Army Signal Corps in September 1958, Courier was a follow-on to Project SCORE launched in 1958. The first satellite in the series, Courier 1A, was lost in a launch failure 2.5 minutes after liftoff. Courier used approximately 19,000 solar cells and was the first satellite to use nickel–cadmium storage batteries. It had an effective message transmission rate of 55,000 bits per second.After completing its first orbit, a message from US President Dwight Eisenhower to the United Nations was transmitted from the Deal Test Site, an off-base transmission facility of Fort Monmouth, New Jersey and relayed to a ground station in Puerto Rico.After 228 orbits in 17 days, the payload failed to respond to commands from the ground. It was believed that the clock-based access codes got out of synchronization and the satellite would not respond to what it interpreted as unauthorized commands.",
+        "json-uri": "http://dbpedia.org/data/Courier_1B.jsond",
+        "uri": "http://dbpedia.org/page/Courier_1B",
+        "instrumentation": []
+    },
+    {
+        "abstract": "TIROS I (or TIROS-1) was the first successful low-Earth orbital weather satellite, and the first of a series of Television Infrared Observation Satellites.",
+        "json-uri": "http://dbpedia.org/data/TIROS-1.jsond",
+        "uri": "http://dbpedia.org/page/TIROS-1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 8 was a U.S. research satellite launched on November 3, 1960. It confirmed the existence of a helium layer in the upper atmosphere. Explorer 8 decayed from orbit on 28 March 2012.A replica is on display at the Smithsonian in Washington, DC.",
+        "json-uri": "http://dbpedia.org/data/Explorer_8.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_8",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Korabl-Sputnik 1 (Russian: Корабль Спутник 1 meaning Ship Satellite 1), (also known as Sputnik 4 in the West) was the first test flight of the Soviet Vostok programme, and the first Vostok spacecraft. It was launched on May 15, 1960. Though Korabl-Sputnik 1 was unmanned, it was a precursor to the first human spaceflight, Vostok 1. A bug in the guidance system had pointed the capsule in the wrong direction, so instead of dropping into the atmosphere the satellite moved into a higher orbit. The descent module re-entered the atmosphere on September 5, 1962. A piece was found in the middle of North 8th Street in Manitowoc, Wisconsin in the northern United States.This spacecraft, the first of a series of spacecraft used to investigate the means for manned space flight, contained scientific instruments, a television system, and a self-sustaining biological cabin with a dummy of a man. The spacecraft was designed to study the operation of the life support system and the stresses of flight. The spacecraft radioed both extensive telemetry and prerecorded voice communications. After four days of flight, the descent module was separated from its equipment module and retrorockets were fired, but because of an incorrect attitude the spacecraft did not reenter the atmosphere as planned. The descent module re-entered the atmosphere on September 5, 1962, while the equipment module re-entered on October 15, 1965.Giovanni Battista Judica Cordiglia, who set up his own amateur listening station at Torre Bert near Turin, is reported to claim that radio signals were received on November 28, 1960 which could have originated from this spacecraft; the spacecraft is known to have radioed prerecorded voice communications. It has led some to believe a conspiracy theory that the spacecraft may have been manned by the so-called lost cosmonauts.",
+        "json-uri": "http://dbpedia.org/data/Korabl-Sputnik_1.jsond",
+        "uri": "http://dbpedia.org/page/Korabl-Sputnik_1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Discoverer 14 (also known as KH-1 9009) was a spy satellite used in the Corona program managed by DARPA and the United States Air Force. On 19 August 1960, usable photographic film images taken by the satellite were recovered by a C-119 recovery aircraft. This was the first successful recovery of film from an orbiting satellite and the first mid-air recovery of an object returning from Earth orbit.",
+        "json-uri": "http://dbpedia.org/data/Discoverer_14.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_14",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna E-3 No.1, sometimes identified by NASA as Luna 1960A, was a Soviet spacecraft which was lost in a launch failure in 1960. It was a 279-kilogram (615 lb) Luna E-3 spacecraft, the first of two to be launched, both of which were lost in launch failures. It was intended to fly around the Moon on a circumlunar trajectory in order to image the surface of the Moon, including the far side. The E-3 spacecraft were similar in design to the E-2A which had been used for the earlier Luna 3 mission, however they carried higher resolution cameras, and were intended to make closer flybys.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-3_No.1.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-3_No.1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Korabl-Sputnik 3 (Russian: Корабль-Спутник 3 meaning Ship-Satellite 3) or Vostok-1K No.3, also known as Sputnik 6 in the West, was a Soviet spacecraft which was launched in 1960. It was a test flight of the Vostok spacecraft, carrying two dogs; Pcholka and Mushka (\"little bee\" and \"little fly\"; affectionate diminutives of \"pchela\" and \"mukha\", respectively), as well as a television camera and scientific instruments.Korabl-Sputnik 3 was launched at 07:30:04 UTC on 1 December 1960, atop a Vostok-L carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It was successfully placed into low Earth orbit. The flight lasted one day, after which the spacecraft was deorbited ahead of its planned recovery. The deorbit burn began at 07:15 UTC on 2 December, however the engine did not cut off as planned at the end of the burn, and instead the spacecraft's fuel burned to depletion. This resulted in it reentering the atmosphere on a trajectory which might have permitted foreign powers to inspect the capsule. To prevent this, an explosive charge was detonated during reentry. Both Pchyolka and Mushka were killed in the resulting disintegration. They were the last dogs to die in a Soviet space mission, after Laika, who was never intended to survive her Sputnik 2 flight, and Chaika and Lisichka, perishing after the rocket carrying their \"Korabl Sputnik\" spacecraft disintegrated 20 seconds into the flight. The famous footage showing the shadow of the \"Vostok\" rocket moving across the Kazakh steppe associated with Gagarin's mission were actually filmed at this occasion, just before the accident.",
+        "json-uri": "http://dbpedia.org/data/Korabl-Sputnik_3.jsond",
+        "uri": "http://dbpedia.org/page/Korabl-Sputnik_3",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna E-3 No.2, sometimes identified by NASA as Luna 1960B, was a Soviet spacecraft which was lost in a launch failure in 1960. It was a 279-kilogram (615 lb) Luna E-3 spacecraft, the second of two to be launched, both of which were lost in launch failures. It was intended to fly around the moon on a circumlunar trajectory in order to image the surface of the Moon, including the far side. The E-3 spacecraft were similar in design to the E-2A which had been used for the earlier Luna 3 mission, however they carried higher resolution cameras, and were intended to make closer flybys.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-3_No.2.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-3_No.2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Mars 1M No.1, designated Mars 1960A by NASA analysts and dubbed Marsnik 1 by the Western media, was the first spacecraft launched as part of the Soviet Union's Mars programme. A Mars 1M spacecraft, it was intended to conduct a flyby of Mars, however it was lost in a launch failure before it could begin its mission.",
+        "json-uri": "http://dbpedia.org/data/Mars_1M_No.1.jsond",
+        "uri": "http://dbpedia.org/page/Mars_1M_No.1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Mars 1M No.2, designated Mars 1960B by NASA analysts and dubbed Marsnik 2 by the Western media, was a spacecraft launched as part of the Soviet Union's Mars programme, which was lost in a launch failure in 1960. 1M No.2, which was intended to perform a flyby of Mars, was destroyed after its Molniya carrier rocket failed to achieve orbit.",
+        "json-uri": "http://dbpedia.org/data/Mars_1M_No.2.jsond",
+        "uri": "http://dbpedia.org/page/Mars_1M_No.2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Discoverer 19, also known as RM-1, was an American satellite which was launched in 1960. It was a technology demonstration spacecraft, based around an Agena-B.The launch of Discoverer 19 occurred at 20:32 UTC on 20 December 1960. A Thor DM-21 Agena-B rocket was used, flying from Launch Complex 75-3-5 at the Vandenberg Air Force Base. Upon successfully reaching orbit, it was assigned the Harvard designation 1960 Tau 1.Discoverer 19 was operated in a low Earth orbit, with a perigee of 206 kilometres (128 mi), an apogee of 578 kilometres (359 mi), 83.4 degrees of inclination, and a period of 92.4 minutes. The satellite had a mass of 1,060 kilograms (2,340 lb), and was used to demonstrate technology for the Midas programme, including infrared sensors. It remained in orbit until 23 January 1961, when it decayed and reentered the atmosphere.",
+        "json-uri": "http://dbpedia.org/data/Discoverer_19.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_19",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer P-31 (also known as Atlas-Able 5B or Pioneer Z) was intended to be a lunar orbiter probe, but the mission failed shortly after launch. The objectives were to place a highly instrumented probe in lunar orbit, to investigate the environment between the Earth and Moon, and to develop technology for controlling and maneuvering spacecraft from Earth. It was equipped to take images of the lunar surface with a television-like system, estimate the Moon's mass and topography of the poles, record the distribution and velocity of micrometeorites, and study radiation, magnetic fields, and low frequency electromagnetic waves in space. A midcourse propulsion system and injection rocket would have been the first United States self-contained propulsion system capable of operation many months after launch at great distances from Earth and the first U.S. tests of maneuvering a satellite in space.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_P-31.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_P-31",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer P-30 (also known as Atlas-Able 5A, or Pioneer Y) was intended to be a lunar orbiter probe, but the mission failed shortly after launch on September 25, 1960. The objectives were to place a highly instrumented probe in lunar orbit, to investigate the environment between the Earth and Moon, and to develop technology for controlling and maneuvering spacecraft from Earth. It was equipped to estimate the Moon's mass and topography of the poles, record the distribution and velocity of micrometeorites, and study radiation, magnetic fields, and low frequency electromagnetic waves in space. A mid-course propulsion system and injection rocket would have been the first United States self-contained propulsion system capable of operation many months after launch at great distances from Earth and the first U.S. tests of maneuvering a satellite in space.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_P-30.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_P-30",
+        "instrumentation": []
+    },
+    {
+        "abstract": "TIROS 2 (or TIROS-B) was a spin-stabilized meteorological satellite. It was the second in a series of Television Infrared Observation Satellite.",
+        "json-uri": "http://dbpedia.org/data/TIROS-2.jsond",
+        "uri": "http://dbpedia.org/page/TIROS-2",
+        "instrumentation": [
+            "Scanning Radiometer",
+            "Widefield Radiometer",
+            "Television Camera System"
+        ]
+    },
+    {
+        "abstract": "Discoverer 17, also known as Corona 9012, was an American optical reconnaissance satellite which was launched in 1960. It was a KH-2 Corona' satellite, based around an Agena-B.The launch of Discoverer 17 occurred at 20:43 UTC on 12 November 1960. A Thor DM-21 Agena-B rocket was used, flying from Launch Complex 75-3-5 at the Vandenberg Air Force Base. Upon successfully reaching orbit, it was assigned the Harvard designation 1960 Omicron 1. It was the first KH-2 satellite to successfully reach orbit.Discoverer 17 was operated in a low Earth orbit, with a perigee of 182 kilometres (113 mi), an apogee of 922 kilometres (573 mi), 81.8 degrees of inclination, and a period of 95.7 minutes. The satellite had a mass of 1,091 kilograms (2,405 lb), and was equipped with a panoramic camera with a focal length of 61 centimetres (24 in), which had a maximum resolution of 7.6 metres (25 ft). Images were recorded onto 70-millimeter (2.8 in) film, and returned in a Satellite Recovery Vehicle. The Satellite Recovery Vehicle used by Discoverer 17 was SRV-507.Shortly after Discoverer 17 began operations, its SRV separated prematurely. Two days after launch it was deorbited and recovered, however only 52 centimetres (20 in) of film was found to be aboard, and no images were taken. Following the separation of the SRV, Discoverer 17 remained in orbit until it decayed on 29 December 1960.In addition to its reconnaissance payload, Discoverer 17 also carried a biological research payload, intended to investigate human tissues in space. Since at the time the United States did not publicly acknowledge its reconnaissance satellite programmes, this was officially the satellite's primary mission. Unexpectedly high radiation levels during the flight led to the data from this experiment being considered particularly valuable by US Air Force scientists.",
+        "json-uri": "http://dbpedia.org/data/Discoverer_17.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_17",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Discoverer 16, also known as Corona 9011, was an American optical reconnaissance satellite which was lost in a launch failure in 1960. It was the first KH-2 Corona' satellite, based around an Agena-B.The launch of Discoverer 16 occurred at 20:26 UTC on 26 October 1960. A Thor DM-21 Agena-B rocket was used, flying from Launch Complex 75-3-4 at the Vandenberg Air Force Base. The Agena failed to separate from the Thor first stage, and as a result the satellite failed to achieve orbit.Discoverer 16 was intended to have been operated in a low Earth orbit. It had a mass of 1,091 kilograms (2,405 lb), and was equipped with a panoramic camera with a focal length of 61 centimetres (24 in), which had a maximum resolution of 7.6 metres (25 ft). It was to have recorded images onto 70-millimeter (2.8 in) film, which would have been returned in a Satellite Recovery Vehicle. The Satellite Recovery Vehicle aboard Discoverer 16 was SRV-506.",
+        "json-uri": "http://dbpedia.org/data/Discoverer_16.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_16",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Korabl-Sputnik 2 (Russian: Корабль-Спутник 2 meaning Ship-Satellite 2), also known as Vostok-1K No.2 and incorrectly as Sputnik 5 in the West, was a Soviet artificial satellite, and the third test flight of the Vostok spacecraft. It was the first spaceflight to send animals into orbit and return them safely back to Earth. Launched on August 19, 1960 it paved the way for the first human orbital flight, Vostok 1, which was launched less than eight months later.Korabl-Sputnik 2 was the second attempt to launch a Vostok capsule with dogs on board as the first try on July 28 had been unsuccessful after the Blok G strap-on suffered a fire and breakdown in one of the combustion chambers, followed by its breaking off of the booster 19 seconds after launch. The launch vehicle then disintegrated, the rest of the strap-ons separating and flying in random directions with the Blok I core stage continuing on its trajectory until Range Safety issued the destruct command at T+28 seconds.[citation needed] The Vostok descent module was blasted free of the exploding booster, but the dogs were killed upon impact with the ground. It was believed that the combustion chamber disintegration was due to longitudinal vibrations. This created a considerable uproar as this problem (which had plagued earlier 8K72 launches) had supposedly been corrected.[citation needed]The launch of Korabl-Sputnik 2 occurred on 19 August 1960, using a Vostok-L carrier rocket. Official sources reported the launch time to have been 08:44:06 UTC, however Sergei Voevodin gave it as 08:38:24.[citation needed] A radio station in Bonn, West Germany, was among the first to pick up signals from the spacecraft, which were confirmed on the third orbit by a Swedish radio station.The spacecraft carried two dogs, Belka and Strelka, 40 mice, two rats and a variety of plants, as well as a television camera which took images of the dogs. The spacecraft returned to Earth at 06:00:00 UTC on 20 August, the day after its launch, although telemetry revealed that one dog had suffered seizures during the fourth orbit. Thus, it was decided to limit the first manned flight to three orbits. All of the animals were recovered safely, and a year later Strelka had a litter of puppies, one of which was sent to First Lady Jacqueline Kennedy as a goodwill present from the Soviet Union. President Kennedy's advisers initially opposed taking the dog for fear that the Soviets might have planted microphones in its body to listen in on national defense meetings.",
+        "json-uri": "http://dbpedia.org/data/Korabl-Sputnik_2.jsond",
+        "uri": "http://dbpedia.org/page/Korabl-Sputnik_2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Discoverer 18, also known as Corona 9013, was an American optical reconnaissance satellite which was launched in 1960. It was a KH-2 Corona satellite, based around an Agena-B.The launch of Discoverer 18 occurred at 20:20:58 UTC on 7 December 1960. A Thor DM-21 Agena-B rocket was used, flying from Launch Complex 75-3-4 at the Vandenberg Air Force Base. Upon successfully reaching orbit, it was assigned the Harvard designation 1960 Sigma 1.Discoverer 18 was operated in a low Earth orbit, with a perigee of 272 kilometres (169 mi), an apogee of 535 kilometres (332 mi), 81.4 degrees of inclination, and a period of 92.6 minutes. The satellite had a mass of 1,240 kilograms (2,730 lb), and was equipped with a panoramic camera with a focal length of 61 centimetres (24 in), which had a maximum resolution of 7.6 metres (25 ft). Images were recorded onto 70-millimeter (2.8 in) film, and returned in a Satellite Recovery Vehicle, which was recovered three days after the launch. The Satellite Recovery Vehicle used by Discoverer 18 was SRV-508. Following the return of its images, Discoverer 18 remained in orbit until it decayed on 2 April 1961. It was the first KH-2 satellite to complete its mission successfully.",
+        "json-uri": "http://dbpedia.org/data/Discoverer_18.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_18",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Project Echo was the first passive communications satellite experiment. Each of the two American spacecraft, launched in 1960 and 1964, was a metalized balloon satellite acting as a passive reflector of microwave signals. Communication signals were bounced off them from one point on Earth to another.",
+        "json-uri": "http://dbpedia.org/data/Project_Echo.jsond",
+        "uri": "http://dbpedia.org/page/Project_Echo",
+        "instrumentation": []
+    }
+]

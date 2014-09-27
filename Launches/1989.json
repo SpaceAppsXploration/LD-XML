@@ -1,0 +1,146 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2001",
+        "abstract": "Kosmos 2001 (Russian: Космос 2001 meaning Cosmos 2001) is a Soviet US-K missile early warning satellite which was launched in 1989 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2001 was launched from Site 43/3 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 04:21 UTC on 14 February 1989. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1989-011A. The United States Space Command assigned it the Satellite Catalog Number 19796.It re-entered the Earth's atmosphere on 22 September 2008.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2001.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-1",
+        "abstract": "Progress M-1, was a Soviet unmanned cargo spacecraft which was launched in 1989 to resupply the Mir space station. The eighteenth of sixty four Progress spacecraft to visit Mir, it was the first Progress-M spacecraft to be launched, and had the serial number 201. It carried supplies including food, water and oxygen for the EO-5 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. At the time of docking, Mir was unmanned, and remained so until the arrival of the EO-5 crew two weeks later.Progress M-1 was launched at 03:09:32 GMT on 23 August 1989, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It docked with the forward port of Mir's Core module at 05:19:02 GMT on 25 August. During the time it was docked, Mir was in an orbit of around 376 by 393 kilometres (203 by 212 nmi). Progress M-1 remained docked with Mir for three months before undocking at 09:02:23 GMT on 1 December to make way for the Kvant-2 module.Progress M-1 was deorbited at 10:32:00 GMT, a few hours after it had undocked. It burned up in the atmosphere over the Pacific Ocean, with remaining debris landing in the ocean at around 11:21 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2044",
+        "abstract": "Bion 9 (Cosmos 2044) was a biomedical research mission involving nine countries and ESA. It was part of the Bion program.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2044.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_602",
+        "abstract": "Intelsat 602, also known as IS-602 and previously named Intelsat VI F-2, is a communications satellite operated by Intelsat. Launched in 1989, it was the first of five Intelsat VI satellites to be launched. The Intelsat VI series was constructed by Hughes Aircraft, based around the HS-389 satellite bus. As of 2012, Intelsat 602 remains operational.Intelsat 602 was launched at 23:05:00 UTC on 27 October 1989, atop an Ariane 4 44L carrier rocket, flight number V34. The launch took place from ELA-2 at Kourou, and placed Intelsat 602 into a geosynchronous transfer orbit. The satellite raised itself into its final geostationary orbit using two liquid-fuelled R-4D-12 engines, with the satellite arriving in geostationary orbit on 31 October 1989.Intelsat 602 initially operated in a geostationary orbit with a perigee of 35,726 kilometres (22,199 mi), an apogee of 35,849 kilometres (22,276 mi), and 0.1 degrees of inclination, however its inclination has increased over time. The satellite carried 38 IEEE C band and ten IEEE Ku band transponders, and had a design life of 13 years and a mass of 4,215 kilograms (9,292 lb).After launch, Intelsat 602 was positioned at a longitude of 37 degrees west until January 1991, when it was moved to 24.5 degrees west. It left this position in February 1992, and arrived at 60 degrees east in April 1992. Later the same month the satellite was again relocated, and was next operated at 63 degrees east between October 1992 and October 1997. It then moved to 62 degrees East where it operated until November 2001 when it was moved to 32.9 degrees east, arriving in December. Between May and July 2003, it was moved to 50.5 degrees east, and between December 2004 and June 2005 it moved to 150.5 degrees east, where it was operated under an agreement with Indosat until May 2007. It was positioned at 157 degrees east between June 2007 and August 2008, and in November 2008 it began operations at 177.9 degrees east, where it remains operational. Intelsat documentation lists its position as 178 degrees east.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_602.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galileo_(spacecraft)",
+        "abstract": "Galileo was an unmanned NASA spacecraft which studied the planet Jupiter and its moons, as well as several other solar system bodies. Named after the astronomer Galileo Galilei, it consisted of an orbiter and entry probe. It was launched on October 18, 1989, carried by Space Shuttle Atlantis, on the STS-34 mission. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit Jupiter. It launched the first probe into Jupiter, directly measuring its atmosphere. Despite suffering major antenna problems, Galileo achieved the first asteroid flyby, of 951 Gaspra, and discovered the first asteroid moon, Dactyl, around 243 Ida. In 1994, Galileo observed Comet Shoemaker–Levy 9's collision with Jupiter.Jupiter's atmospheric composition and ammonia clouds were recorded, the clouds possibly created by outflows from the lower depths of the atmosphere. Io's volcanism and plasma interactions with Jupiter's atmosphere was also recorded. The data Galileo collected supported the theory of a liquid ocean under the icy surface of Europa, and there were indications of similar liquid-saltwater layers under the surfaces of Ganymede and Callisto. Ganymede was shown to possess a magnetic field and the spacecraft found new evidence for exospheres around Europa, Ganymede, and Callisto. Galileo also discovered that Jupiter's faint ring system consists of dust from impacts on the four small inner moons. The extent and structure of Jupiter's magnetosphere was also mapped.On September 21, 2003, after 14 years in space and 8 years in the Jovian system, Galileo's mission was terminated by sending the orbiter into Jupiter's atmosphere at a speed of over 48 kilometers (30 mi) per second, eliminating the possibility of contaminating local moons with terrestrial bacteria.On December 11, 2013, NASA reported, based on results from the Galileo mission, the detection of \"clay-like minerals\" (specifically, phyllosilicates), often associated with organic materials, on the icy crust of Europa, moon of Jupiter. The presence of the minerals may have been the result of a collision with an asteroid or comet according to the scientists.",
+        "json-uri": "http://dbpedia.org/data/Galileo_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-4",
+        "abstract": "TDRS-4, known before launch as TDRS-D, is an American communications satellite which was operated by NASA as part of the Tracking and Data Relay Satellite System from 1989 until 2011. It was constructed by TRW, based on a custom satellite bus which was used for all seven of the first generation TDRS satellites.",
+        "json-uri": "http://dbpedia.org/data/TDRS-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Granat",
+        "abstract": "The International Astrophysical Observatory \"GRANAT\" (usually known as Granat; Russian: Гранат), was a Soviet (later Russian) space observatory developed in collaboration with France, Denmark and Bulgaria. It was launched on 1 December 1989 aboard a Proton rocket and placed in a highly eccentric four-day orbit, of which three were devoted to observations. It operated for almost nine years.In September 1994, after nearly five years of directed observations, the gas supply for its attitude control was exhausted and the observatory was placed in a non-directed survey mode. Transmissions finally ceased on 27 November 1998.With seven different instruments on board, Granat was designed to observe the universe at energies ranging from X-ray to gamma ray. Its main instrument, SIGMA, was capable of imaging both hard X-ray and soft gamma-ray sources. The PHEBUS instrument was meant to study gamma-ray bursts and other transient X-Ray sources. Other experiments such as ART-P were intended to image X-Ray sources in the 35 to 100 keV range. One instrument, WATCH, was designed to monitor the sky continuously and alert the other instruments to new or interesting X-Ray sources. The ART-S spectrometer covered the X-ray energy range while the KONUS-B and TOURNESOL experiments covered both the X-ray and gamma ray spectrum.",
+        "json-uri": "http://dbpedia.org/data/Granat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-28",
+        "abstract": "STS-28 was the 30th NASA Space Shuttle mission, the fourth shuttle mission dedicated to United States Department of Defense purposes, and the eighth flight of Space Shuttle Columbia. The mission launched on 8 August 1989 and traveled 2.1 million miles during 81 orbits of the Earth, before landing on runway 17 of Edwards Air Force Base, California, on 13 August. STS-28 was also Columbia's first flight since January 1986, when it had flown STS-61-C, the mission directly preceding the Challenger disaster of STS-51-L. The mission details of STS-28 are classified, but the payload is widely believed to have been the first SDS-2 communications satellite. The altitude of the mission is classified, but must have been between 220 kilometers (140 mi) and 380 kilometers (240 mi), based on the distance traveled and the number of orbits.",
+        "json-uri": "http://dbpedia.org/data/STS-28.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-30",
+        "abstract": "STS-30 was the 29th NASA Space Shuttle mission and the fourth mission for Space Shuttle Atlantis. The mission launched from Kennedy Space Center, Florida, on 4 May 1989, and landed four days later on 8 May. During the mission, Atlantis deployed the Venus-bound Magellan probe into orbit.",
+        "json-uri": "http://dbpedia.org/data/STS-30.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Akebono_(satellite)",
+        "abstract": "Akebono (known as EXOS-D before launch) is a satellite to study aurora and Earth's magnetosphere environment.It was developed by Institute of Space and Astronautical Science and launched by M-3SII rocket on February 22, 1989.As of March 2009, it is still operational after 20 years from launch.",
+        "json-uri": "http://dbpedia.org/data/Akebono_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-2",
+        "abstract": "Progress M-2, was a Soviet unmanned cargo spacecraft which was launched in 1989 to resupply the Mir space station. The nineteenth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 202. It carried supplies including food, water and oxygen for the EO-5 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-2 was launched at 03:30:50 GMT on 20 December 1989, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It docked with the aft port of the Kvant-1 module of Mir at 05:41:21 GMT on 22 December. During the time it was docked, Mir was in an orbit of around 390 by 393 kilometres (211 by 212 nmi). Progress M-2 remained docked with Mir for forty eight days before undocking at 02:33:07 GMT on 9 February 1990 to make way for the Soyuz TM-9 spacecraft, carrying the EO-6 crew to the station.Progress M-2 was deorbited at 07:07:00 GMT, a few hours after it had undocked. It burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 07:56 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-47",
+        "abstract": "USA-47, also known as GPS II-4 and GPS SVN-19, was an American navigation satellite which formed part of the Global Positioning System. It was the fourth of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.USA-47 was launched at 09:31:01 UTC on 21 October 1989, atop a Delta II carrier rocket, flight number D188, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-47 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 21 November 1989, USA-47 was in an orbit with a perigee of 20,081 kilometres (12,478 mi), an apogee of 20,280 kilometres (12,600 mi), a period of 717.9 minutes, and 54.7 degrees of inclination to the equator. It operated in slot 5 of plane A of the GPS constellation. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 11 September 2001.",
+        "json-uri": "http://dbpedia.org/data/USA-47.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cosmic_Background_Explorer",
+        "abstract": "The Cosmic Background Explorer (COBE), also referred to as Explorer 66, was a satellite dedicated to cosmology. Its goals were to investigate the cosmic microwave background radiation (CMB) of the universe and provide measurements that would help shape our understanding of the cosmos.This work provided evidence that supported the Big Bang theory of the universe: that the CMB was a near-perfect black-body spectrum and that it had very faint anisotropies. Two of COBE's principal investigators, George Smoot and John Mather, received the Nobel Prize in Physics in 2006 for their work on the project. According to the Nobel Prize committee, \"the COBE-project can also be regarded as the starting point for cosmologyas a precision science\".",
+        "json-uri": "http://dbpedia.org/data/Cosmic_Background_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-29",
+        "abstract": "STS-29 was a NASA Space Shuttle mission, during which Space Shuttle Discovery inserted a Tracking and Data Relay Satellite (TDRS) into Earth orbit. It was the third shuttle mission following the Challenger disaster of 1986, and launched from Kennedy Space Center, Florida, on 13 March 1989. STS-29 was the eighth flight of Discovery and the 28th Space Shuttle mission overall; its planned predecessor, STS-28, was delayed until August 1989.",
+        "json-uri": "http://dbpedia.org/data/STS-29.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-42",
+        "abstract": "USA-42, also known as GPS II-3 and GPS SVN-16, was an American navigation satellite which formed part of the Global Positioning System. It was the third of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to be placed into orbit.USA-42 was launched at 05:57:59 UTC on 18 August 1989, atop a Delta II carrier rocket, flight number D186, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-42 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 19 September 1989, USA-42 was in an orbit with a perigee of 20,113 kilometres (12,498 mi), an apogee of 20,246 kilometres (12,580 mi), a period of 717.86 minutes, and 54.9 degrees of inclination to the equator. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 13 October 2000.",
+        "json-uri": "http://dbpedia.org/data/USA-42.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-49",
+        "abstract": "USA-49, also known as GPS II-5 and GPS SVN-17, was an American navigation satellite which formed part of the Global Positioning System. It was the fifth of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.USA-49 was launched at 18:10:01 UTC on 11 December 1989, atop a Delta II carrier rocket, flight number D190, flying in the 6925 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-49 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 11 January 1990, USA-49 was in an orbit with a perigee of 20,009 kilometres (12,433 mi), an apogee of 20,357 kilometres (12,649 mi), a period of 718 minutes, and 54.9 degrees of inclination to the equator. It operated in slot 3 of plane D of the GPS constellation. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 23 February 2005.",
+        "json-uri": "http://dbpedia.org/data/USA-49.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-33",
+        "abstract": "STS-33 was a NASA Space Shuttle mission, during which Space Shuttle Discovery deployed a payload for the United States Department of Defense (DoD). STS-33 was the 32nd shuttle mission overall, the ninth flight of Discovery, and the fifth shuttle mission in support of the DoD. Due to the nature of the mission, specific details remain classified. Discovery lifted off from Pad A, Launch Complex 39 at Kennedy Space Center (KSC), Florida, on 22 November 1989 at 7:23 pm EST; it landed at Edwards Air Force Base, California, on 28 November.",
+        "json-uri": "http://dbpedia.org/data/STS-33.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tele-X",
+        "abstract": "Tele-X was the first communications satellite serving the Nordic countries. It was launched with an Ariane 2 rocket from Kourou, French Guyana, on April 2, 1989. On January 16, 1998, its fuel was exhausted and it was moved into graveyard orbit. The project was managed and operated by the Swedish Space Corporation, but it was built by Aérospatiale and Saab Ericsson Space, based on the Spacebus 300 series.Some of the TV channels it broadcast was TV4 Sweden, Kanal 5 Sweden, NRK and Filmnet. In addition, it broadcast radio for TT, The Voice Danmark, Radio Sweden, Rix FM, Mix Megapol and NRJ. It was also used for Internet communication for universities in Eastern Europe.",
+        "json-uri": "http://dbpedia.org/data/Tele-X.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-8",
+        "abstract": "Soyuz TM-8 was a spacecraft used to launch and land the crew of the fifth long duration crew to the Soviet Space Station Mir. It was part of the Soyuz-TM series of spacecraft, which were the fourth generation of the Soviet Soyuz. Soyuz TM-8 was the eighth manned spaceflight to Mir, and spent 166 days in orbit.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-38",
+        "abstract": "USA-38, also known as GPS II-2 and GPS SVN-13, was an American navigation satellite which formed part of the Global Positioning System. It was the second of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to be launched.USA-38 was launched at 22:19 UTC on 10 June 1989, atop a Delta II carrier rocket, flight number D185, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-38 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 11 July 1989, USA-38 was in an orbit with a perigee of 19,967 kilometres (12,407 mi), an apogee of 20,395 kilometres (12,673 mi), a period of 717.92 minutes, and 54.5 degrees of inclination to the equator. It operated in slot 3 of plane B of the GPS constellation. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 12 May 2004.",
+        "json-uri": "http://dbpedia.org/data/USA-38.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2050",
+        "abstract": "Kosmos 2050 (Russian: Космос 2050 meaning Cosmos 2050) is a Soviet US-K missile early warning satellite which was launched in 1989 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2050 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 20:35 UTC on 23 November 1989. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1989-091A. The United States Space Command assigned it the Satellite Catalog Number 20330.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2050.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Magellan_(spacecraft)",
+        "abstract": "The Magellan spacecraft, also referred to as the Venus Radar Mapper, was a 1,035-kilogram (2,282 lb) robotic space probe launched by NASA on May 4, 1989, to map the surface of Venus by using synthetic aperture radar and to measure the planetary gravitational field.The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the first one to use the Inertial Upper Stage booster for launching, and the first spacecraft to test aerobraking as a method for circularizing its orbit. Magellan was the fourth successful NASA mission to Venus, and it ended an eleven-year gap in U.S. interplanetary probe launches.",
+        "json-uri": "http://dbpedia.org/data/Magellan_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-35",
+        "abstract": "USA-35, also known as GPS II-1 and GPS SVN-14, was an American navigation satellite which formed part of the Global Positioning System. It was the first of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to be launched.USA-35 was launched at 18:30 UTC on 14 February 1989, atop a Delta II carrier rocket, flight number D184, flying in the 6925 configuration. This was the maiden flight of the Delta II. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-35 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 16 March 1989, USA-35 was in an orbit with a perigee of 19,858 kilometres (12,339 mi), an apogee of 20,270 kilometres (12,600 mi), a period of 713.2 minutes, and 55.1 degrees of inclination to the equator. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, however it operated until 26 March 2000, when its reaction wheels failed. It was decommissioned on 14 April 2000, having been replaced by USA-150.",
+        "json-uri": "http://dbpedia.org/data/USA-35.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-34",
+        "abstract": "STS-34 was a NASA Space Shuttle mission using Atlantis. It was the 31st shuttle mission overall, and the fifth flight for Atlantis. STS-34 launched from Kennedy Space Center, Florida, on 18 October 1989, and landed at Edwards Air Force Base, California, on 23 October. During the mission, the Jupiter-bound Galileo probe was deployed into space.",
+        "json-uri": "http://dbpedia.org/data/STS-34.jsond",
+        "instrumentation": []
+    }
+]

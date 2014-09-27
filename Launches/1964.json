@@ -1,0 +1,228 @@
+[
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Molniya-1_No.2.jsond",
+        "uri": "http://dbpedia.org/page/Molniya-1_No.2",
+        "abstract": "Molniya-1 No.2, was the first Soviet communications satellite to be launched. It was a 1,600-kilogram (3,500 lb) Molniya-1 spacecraft, however it failed to achieve orbit due to a malfunction of the rocket which was carrying it. It was intended to operate in a Molniya orbit, from where it would be used to demonstrate communications between parts of the USSR.Molniya-1 No.2 was launched at 05:00 UTC on 4 June 1964, atop a Molniya 8K78 carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. A motor circuit in the servo controlling the core stage throttle failed 104 seconds into the flight, resulting in the throttle becoming jammed closed and the fuel supply to the engines being stopped. Prior to the release of information about its mission, NASA had incorrectly identified the launch of Molniya-1 No.2 as a failed attempt to launch a Zond spacecraft on a circumlunar technology demonstration mission, and assigned it the placeholder designation Zond 1964A."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_48.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_48",
+        "abstract": "Kosmos 48 (Russian: Космос 48 meaning Cosmos 48) or Zenit-2 No.24 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 48 was the twenty-third of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 48 was launched by a Vostok-2 rocket, serial number R15002-01, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 09:50 UTC on 14 October 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-066A and the Satellite Catalog Number 908.Kosmos 48 was operated in a low Earth orbit; at an epoch of 15 October 1964 it had a perigee of 203 kilometres (126 mi), an apogee of 282 kilometres (175 mi) inclination of 65 degrees and an orbital period of 89.35 minutes. Midway through its planned reconnaissance mission, Kosmos 48's thermal control system malfunctioned, with the temperature inside the spacecraft's pressurised capsule increasing to 43° Celsius. As a result of the malfunction, the spacecraft was deorbited earlier than had been planned, on 20 October 1964 - six days after launch. The return capsule, containing the cameras and film, was successfully recovered by parachute."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_32.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_32",
+        "abstract": "Kosmos 32 (Russian: Космос 32 meaning Cosmos 32) or Zenit-2 No.18 was a Soviet optical film-return reconnaissance satellite which was launched in 1964. A Zenit-2 spacecraft, Kosmos 32 was the eighteenth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).The launch of Kosmos 32 took place at 10:48 UTC on 10 June 1964. A Vostok-2 rocket, serial number R15001-02, was used to place the satellite into orbit, with Site 31/6 at the Baikonur Cosmodrome being used for the launch. Following its successful insertion into orbit the satellite received its Kosmos designation, along with the International Designator 1964-029A and the Satellite Catalog Number 807.Kosmos 32 was operated in a low Earth orbit. On 14 June 1964 it had a perigee of 205 kilometres (127 mi), an apogee of 322 kilometres (200 mi) and inclination of 51.2 degrees, with an orbital period of 89.77 minutes. After eight days in orbit, Kosmos 32 was deorbited on 18 June 1964 with its return capsule descending by parachute for recovery by Soviet forces."
+    },
+    {
+        "instrumentation": [
+            "Cosmic ray telescope",
+            "Helium magnetometer",
+            "TV camera",
+            "Trapped radiation detector",
+            "Solar plasma probe",
+            "Geiger counter/ionization chamber",
+            "Cosmic dust detector"
+        ],
+        "json-uri": "http://dbpedia.org/data/Mariner_4.jsond",
+        "uri": "http://dbpedia.org/page/Mariner_4",
+        "abstract": "Mariner 4 (together with Mariner 3 known as Mariner–Mars 1964) was the fourth in a series of spacecraft intended for planetary exploration in a flyby mode. It was designed to conduct closeup scientific observations of Mars and to transmit these observations to Earth. Launched on November 28, 1964, Mariner 4 performed the first successful flyby of the planet Mars returning the first pictures of the Martian surface. It captured the first images of another planet ever returned from deep space; their depiction of a cratered, seemingly dead world largely changed the view of the scientific community on life on Mars. Other mission objectives were to perform field and particle measurements in interplanetary space in the vicinity of Mars and to provide experience in and knowledge of the engineering capabilities for interplanetary flights of long duration. On December 21, 1967 communications with Mariner 4 were terminated."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Saturn_I_SA-5.jsond",
+        "uri": "http://dbpedia.org/page/Saturn_I_SA-5",
+        "abstract": "SA-5 was the first launch of the Block II Saturn I rocket and was part of the Apollo Program."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_28.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_28",
+        "abstract": "Kosmos 28 (Russian: Космос 28 meaning Cosmos 28) or Zenit-2 No.16 was a Soviet optical film-return reconnaissance satellite which was launched in 1964. A Zenit-2 spacecraft, Kosmos 28 was the sixteenth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).A Vostok-2 rocket, serial number G15001-04, was used to launch Kosmos 28. The launch took place at 09:36 UTC on 4 April 1964 from Site 31/6 at the Baikonur Cosmodrome. Following its successful arrival in orbit the spacecraft received its Kosmos designation, along with the International Designator 1964-017A and the Satellite Catalog Number 779.Kosmos 28 was operated in a low Earth orbit. On 6 April 1964 it had a perigee of 205 kilometres (127 mi), an apogee of 378 kilometres (235 mi), with inclination of 65 degrees and an orbital period of 90.34 minutes. On 12 April 1964 the spacecraft was deorbited, with its return capsule descending by parachute for recovery by Soviet forces."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Zond_2.jsond",
+        "uri": "http://dbpedia.org/page/Zond_2",
+        "abstract": "Zond 2 was a 1964 space probe, a member of the Soviet Zond program, and was the fifth Soviet spacecraft to attempt a flyby of Mars. (See Exploration of Mars)Zond-2 carried a phototelevision camera of the same type later used to photograph the Moon on Zond 3. The camera system also included two ultraviolet spectrometers. As on Mars 1, an infrared spectrometer was installed to search for signs of methane on Mars.Zond 2 also carried six PPTs that served as actuators of the attitude control system. They were the first PPTs used on a spacecraft. The PPT propulsion system was tested during 70 minutes.Zond 2, a Mars 3MV-4A craft, was launched on November 30, 1964. During some maneuvering in early May 1965, communications were lost. Running on half power due to the loss of one of its solar panels, the spacecraft flew by Mars on August 6, 1965 at 5.62 km/s, 1,500 km away from the planet."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_31.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_31",
+        "abstract": "Kosmos 31 (Russian: Космос 31 meaning Cosmos 31), also known as DS-MT No.2 was a technology demonstration satellite which was launched by the Soviet Union in 1964 as part of the Dnepropetrovsk Sputnik programme. Its primary mission was to demonstrate an electric gyrodyne orientation system. It also carried a scientific research package as a secondary payload, which was used to study cosmic rays.It was launched aboard a Kosmos-2I 63S1 rocket from pad 2 of the Mayak Launch Complex at Kapustin Yar. The launch occurred at 06:00 UTC on 6 June 1964.Kosmos 31 was placed into a low Earth orbit with a perigee of 221 kilometres (137 mi), an apogee of 485 kilometres (301 mi), 48.9 degrees of inclination, and an orbital period of 91.7 minutes. It decayed from orbit on 20 October 1964. Kosmos 31 was the second of three DS-MT satellites to be launched. The first was lost in a launch failure in June 1963, and the third was Kosmos 51, which was launched in December 1964."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_47.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_47",
+        "abstract": "Kosmos 47 (Russian: Космос 47 meaning Cosmos 47) is the designation of an unmanned test-flight of a prototype Soviet Voskhod spacecraft, the first multiple-occupant spacecraft. Launched on the 6 October 1964, the successful flight paved the way for the first manned mission, Voskhod 1, which occurred just 6 days later on the 12 October.The spacecraft was one of many designated under the Kosmos system, which is applied to a wide variety of spacecraft of different designs and functions including test flights of manned vehicles."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Project_Echo.jsond",
+        "uri": "http://dbpedia.org/page/Project_Echo",
+        "abstract": "Project Echo was the first passive communications satellite experiment. Each of the two American spacecraft, launched in 1960 and 1964, was a metalized balloon satellite acting as a passive reflector of microwave signals. Communication signals were bounced off them from one point on Earth to another."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_50.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_50",
+        "abstract": "Kosmos 50 (Russian: Космос 50 meaning Cosmos 50) or Zenit-2 No.25 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 50 was the twenty-fourth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 50 was launched by a Vostok-2 rocket, serial number R15002-02, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 10:48 UTC on 28 October 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-070A and the Satellite Catalog Number 919.Kosmos 50 was operated in a low Earth orbit; at an epoch of 29 October 1964 it had a perigee of 187 kilometres (116 mi), an apogee of 232 kilometres (144 mi) inclination of 51.2 degrees and an orbital period of 88.69 minutes. On 5 November 1964, after eight days in orbit, an attempt was made to deorbit the satellite so that its photographs could be developed and analysed. After its retrorockets failed to fire, the satellite was commanded to self-destruct to ensure it could not fall into enemy hands. Ninety-five pieces of debris were catalogued, which decayed from orbit between 8 and 17 November."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Ranger_6.jsond",
+        "uri": "http://dbpedia.org/page/Ranger_6",
+        "abstract": "Ranger 6 was a lunar probe in the Ranger program, a robotic spacecraft series launched by NASA in the early and mid-1960s to obtain the first close-up images of the Moon's surface. It was designed to achieve a lunar impact trajectory and to transmit high-resolution photographs of the lunar surface during the final minutes of flight up to impact. The spacecraft carried six television vidicon cameras, 2 wide angle (channel F, cameras A and B) and 4 narrow angle (channel P) to accomplish these objectives. The cameras were arranged in two separate chains, or channels, each self-contained with separate power supplies, timers, and transmitters so as to afford the greatest reliability and probability of obtaining high-quality Television pictures. No other experiments were carried on the spacecraft. Due to a failure of the camera system, no images were returned."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Zond_1.jsond",
+        "uri": "http://dbpedia.org/page/Zond_1",
+        "abstract": "Zond 1 was a member of the Soviet Zond program. It was the second Soviet research spacecraft to reach Venus, although communications had failed by that time. It carried a 90 cm spherical landing capsule, containing experiments for chemical analysis of the atmosphere, gamma-ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water.The spacecraft, a Venera 3MV-1, was launched on April 2, 1964 from Tyuratam. During the cruise phase, a slow leak from a cracked sensor window caused the spacecraft to depressurize. An ill-timed command from ground control turned on its radio system while there was still a rarefied atmosphere inside, causing the electronics to short out by corona discharge. Communication was subsequently maintained via the transmitter in the landing capsule, and space radiation and atomic-hydrogen spectrometer measurements were performed. However, all communications had failed by May 14. It passed 100,000 km from Venus on July 14, 1964."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/A-102_(spacecraft).jsond",
+        "uri": "http://dbpedia.org/page/A-102_(spacecraft)",
+        "abstract": "A-102 (also designated SA-7) was the seventh flight of the Saturn I launch vehicle, which carried the boilerplate Apollo spacecraft BP-15 into low Earth orbit. The test flight took place on September 18, 1964, lasting for five orbits (about seven and a half hours). The spacecraft and its upper stage reentered the atmosphere and landed in the Indian Ocean on September 22, 1964."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_37.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_37",
+        "abstract": "Kosmos 37 (Russian: Космос 37 meaning Cosmos 37) or Zenit-2 No.22 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 37 was the twentieth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 37 was launched by a Vostok-2 rocket, serial number R15001-04, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 09:36 UTC on 14 August 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-044A and the Satellite Catalog Number 848.Kosmos 37 was operated in a low Earth orbit; at an epoch of 19 August 1964 it had a perigee of 203 kilometres (126 mi), an apogee of 285 kilometres (177 mi) inclination of 64.9 degrees and an orbital period of 89.38 minutes. During the mission one of the satellite's film reels snapped, resulting in the associated camera only taking some of the images it had been programmed to produce. On 22 August 1964, after eight days in orbit, Kosmos 37 was deorbited with its return capsule descending by parachute for recovery."
+    },
+    {
+        "instrumentation": [
+            "Side_looking_airborne_radar"
+        ],
+        "json-uri": "http://dbpedia.org/data/OPS_3762.jsond",
+        "uri": "http://dbpedia.org/page/OPS_3762",
+        "abstract": "OPS 3762, also known as FTV-2355, was an American reconnaissance satellite which was launched in 1964. It was the first radar imaging satellite to be launched, and the only Quill spacecraft to fly. Its mission was to demonstrate radar imaging techniques for future missions. However, the programme was cancelled before any more satellites were launched.OPS 3762 was successfully launched aboard a Thrust Augmented Thor SLV-2A Agena-D carrier rocket, flying from Launch Complex 75-1-1 at the Vandenberg Air Force Base. The launch, which was the last orbital launch of the year, occurred at 19:08:56 UTC on 21 December 1964, and successfully placed the spacecraft into the low Earth orbit in which it conducted its mission. Owing to concerns that using radar over the Soviet Union may have been seen as provocative, OPS 3762 conducted imaging tests over the Northwestern United States instead.OPS 3762 was a 1,500 kilograms (3,300 lb) spacecraft, based around the Agena-D which also served as the upper stage of its carrier rocket. It operated for four days. Its orbit had a perigee of 208 kilometres (129 mi), an apogee of 222 kilometres (138 mi), 70 degrees of inclination, and an orbital period of 88.8 minutes. Its side looking airborne radar produced images, which were returned in a KH-4 film capsule at the end of the mission. OPS 3762 itself remained in orbit until 11 January 1965, when its orbit decayed and it reentered the atmosphere. OPS 3762 completed its mission successfully."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Voskhod_1.jsond",
+        "uri": "http://dbpedia.org/page/Voskhod_1",
+        "abstract": "Voskhod 1 (Russian: Восход-1, Восход is Russian for Sunrise) was the seventh manned Soviet space flight. It achieved a number of \"firsts\" in the history of manned spaceflight, being the first space flight to carry more than one crewman into orbit, the first flight without the use of spacesuits, and the first to carry either an engineer or a physician into outer space. It also set a manned spacecraft altitude record of 336 km (209 mi).The three spacesuits for the Voskhod 1 cosmonauts were omitted; there was neither the room nor the payload capacity for the Voskhod to carry them. The original Voskhod had been designed to carry two cosmonauts, but Soviet politicians pushed the Soviet space program into squeezing three cosmonauts into Voskhod 1. The only other space flight in the short Voskhod program, Voskhod 2, carried two suited cosmonauts — of necessity, because it was the flight on which Alexei Leonov made the world's first walk in space.As part of its payload Voskhod 1 carried a ribbon off a Communard banner from the Paris Commune of 1871 into orbit."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Zond_3MV-1_No.2.jsond",
+        "uri": "http://dbpedia.org/page/Zond_3MV-1_No.2",
+        "abstract": "Zond 3MV-1 No.2 (or No. 4A ), also known as Venera 1964A in the West, was a Soviet spacecraft, which was launched in 1964 as part of the Zond programme. Due to a problem with its carrier rocket third stage it failed to reach low Earth orbit.Zond 3MV-1 No.2 was launched at 05:47:40 UTC on 19 February 1964, atop a Molniya 8K78M carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Luna_E-6_No.5.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-6_No.5",
+        "abstract": "Luna E-6 No.5, sometimes identified by NASA as Luna 1964B, was a Soviet spacecraft which was lost in a launch failure in 1964. It was a 1,422-kilogram (3,135 lb) Luna E-6 spacecraft, the fifth of twelve to be launched, It was intended to be the first spacecraft to perform a soft landing on the Moon, a goal which would eventually be accomplished by the final E-6 spacecraft, Luna 9.Luna E-6 No.5 was launched at 08:08:28 UTC on 20 April 1964, atop a Molniya-M 8K78M carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. The power system on the upper stage malfunctioned 340 seconds into the flight, causing the engine to cut off before reaching orbit. The upper stage and spacecraft disintegrated upon reentry into the atmosphere shortly afterwards. Prior to the release of information about its mission, NASA correctly identified that it had been an attempt to land a spacecraft on the Moon."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_33.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_33",
+        "abstract": "Kosmos 33 (Russian: Космос 33 meaning Cosmos 33) or Zenit-2 No.20 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 33 was the nineteenth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 33 was launched by a Vostok-2 rocket, serial number G15001-05, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 10:19 UTC on 23 June 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-033A and the Satellite Catalog Number 816.Kosmos 33 was operated in a low Earth orbit; at an epoch of 2 July 1964 it had a perigee of 209 kilometres (130 mi), an apogee of 266 kilometres (165 mi) inclination of 65 degrees and an orbital period of 89.26 minutes. On 1 July 1964, after 8 days in orbit, the satellite was deorbited with its return capsule descending by parachute for recovery."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_46.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_46",
+        "abstract": "Kosmos 46 (Russian: Космос 46 meaning Cosmos 46) or Zenit-2 No.23 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 46 was the twenty-second of eighty one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 46 was launched by a Vostok-2 rocket, serial number R15001-05, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 12:00 UTC on 24 September 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-059A and the Satellite Catalog Number 885.Kosmos 46 was operated in a low Earth orbit; at an epoch of 29 September 1964 it had a perigee of 210 kilometres (130 mi), an apogee of 261 kilometres (162 mi) inclination of 51.2 degrees and an orbital period of 89.21 minutes. On 2 October 1964, after eight days in orbit, the satellite was deorbited with its return capsule descending by parachute for recovery."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_26.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_26",
+        "abstract": "Kosmos 26 (Russian: Космос 26 meaning Cosmos 26), also known as DS-MG No.1 was a technology demonstration satellite which was launched by the Soviet Union in 1964 as part of the Dnepropetrovsk Sputnik programme. Its primary mission was to demonstrate an electric gyrodyne orientation system. It also carried a magnetospheric research package as a secondary payload.It was launched aboard a Kosmos-2I 63S1 rocket from pad 2 of the Mayak Launch Complex at Kapustin Yar. The launch occurred at 15:07 UTC on 18 March 1964.Kosmos 26 was placed into a low Earth orbit with a perigee of 268 kilometres (167 mi), an apogee of 376 kilometres (234 mi), 48.9 degrees of inclination, and an orbital period of 91 minutes. It decayed from orbit on 28 September 1964. Kosmos 26 was the first of two DS-MG satellites to be launched, the other being Kosmos 49."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_36.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_36",
+        "abstract": "Kosmos 36 (Russian: Космос 36 meaning Cosmos 36), also known as DS-P1-Yu #1 was a satellite which was used as a radar calibration target, for tests of anti-ballistic missiles. It was launched by the Soviet Union in 1964 as part of the Dnepropetrovsk Sputnik programme. It was built by the Yuzhnoye Design Bureau.Kosmos 36 was launched using a Kosmos-2I 63S1 carrier rocket, which flew from pad 2 of the Mayak Launch Complex at Kapustin Yar. The launch occurred at 03:36 UTC on 30 July 1964.After separating from its carrier rocket, Kosmos 36 was in a low Earth orbit with a perigee of 253 kilometres (157 mi), an apogee of 476 kilometres (296 mi), 49.0 degrees of inclination, and an orbital period of 91.83 minutes. It decayed from orbit on 28 February 1965. Kosmos 36 was the first of seventy nine DS-P1-Yu satellites to be launched, of which all but seven were successful. The next launch of a DS-P1-Yu satellite, on 12 February 1965, failed due to a second stage malfunction."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mariner_3.jsond",
+        "uri": "http://dbpedia.org/page/Mariner_3",
+        "abstract": "Mariner 3 (together with Mariner 4 known as Mariner-Mars 1964) was one of two identical deep-space probes designed and built by the Jet Propulsion Laboratory (JPL) for NASA's Mariner-Mars 1964 project that were intended to conduct close-up (flyby) scientific observations of the planet Mars and transmit information on interplanetary space and the space surrounding Mars, televised images of the Martian surface and radio occultation data of spacecraft signals as affected by the Martian atmosphere back to Earth. It was the third of ten spacecraft within the Mariner program.Mariner 3 was launched on November 5, 1964 from Cape Canaveral Air Force Station Launch Complex 13, but the shroud encasing the spacecraft atop its rocket failed to open properly, and Mariner 3 did not get to Mars. Unable to collect the Sun's energy for power from its solar panels, the probe soon died when its batteries ran out and is now derelict in a solar orbit.Three weeks later, on November 28, 1964, Mariner 4 was launched successfully on a 7½-month voyage to the red planet."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_25.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_25",
+        "abstract": "Kosmos 25 (Russian: Космос 25 meaning Cosmos 25), also known as DS-P1 No.4 was a prototype radar target satellite for anti-ballistic missile tests, which was launched by the Soviet Union in 1964 as part of the Dnepropetrovsk Sputnik programme. Its primary mission was to demonstrate the necessary technologies for radar tracking of spacecraft, which would allow future satellites to function as targets.It was launched aboard a Kosmos-2I 63S1 rocket, from pad 2 of the Mayak Launch Complex at Kapustin Yar. The launch occurred at 13:26 UTC on 27 February 1964.Kosmos 25 was placed into a low Earth orbit with a perigee of 260 kilometres (160 mi), an apogee of 495 kilometres (308 mi), 49.1 degrees of inclination, and an orbital period of 92.1 minutes. It decayed from orbit on 21 November 1964.Kosmos 25 was a prototype DS-P1 satellite, the last of four to be launched. Of these, it was the third to successfully reach orbit after Kosmos 6 and Kosmos 19. It was succeeded by the first operational DS-P1 satellite, Kosmos 36."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Gemini_1.jsond",
+        "uri": "http://dbpedia.org/page/Gemini_1",
+        "abstract": "Gemini 1 was the first unmanned test flight of the Gemini spacecraft in NASA's Gemini program. Its main objectives were to test the structural integrity of the new spacecraft and modified Titan II ICBM. It was also the first test of the new tracking and communication systems for the Gemini program and provided training for the ground support crews for the first manned missions.The spacecraft stayed attached to the second stage of the rocket. The mission lasted for three orbits while test data were taken, but the spacecraft stayed in orbit for almost 64 orbits until the orbit decayed due to atmospheric drag. The spacecraft was not intended to be recovered; in fact, holes were drilled through its heat shield to ensure it would not survive re-entry."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/San_Marco_1.jsond",
+        "uri": "http://dbpedia.org/page/San_Marco_1",
+        "abstract": "San Marco 1, also known as San Marco A, was the first Italian satellite, and one of the earliest non-Soviet/US spacecraft. Built in-house by the Italian Space Research Commission (Italian: Commissione per le Ricerche Spaziali, CRS) on behalf of the National Research Council, it was the first of five as part of the Italian-US San Marco programme.The name of the spacecraft series comes from the San Marco platform, a Jackup barge used as an offshore launch pad for the main phase of the project. San Marco (English: Saint Mark) is the patron saint of Venice, often depicted as aiding Venetian sailors."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Luna_E-6_No.6.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-6_No.6",
+        "abstract": "Luna E-6 No.6, sometimes identified by NASA as Luna 1964A, was a Soviet spacecraft which was lost in a launch failure in 1964. It was a 1,422-kilogram (3,135 lb) Luna E-6 spacecraft, the fourth of twelve to be launched, It was intended to be the first spacecraft to perform a soft landing on the Moon, a goal which would eventually be accomplished by the final E-6 spacecraft, Luna 9.Luna E-6 No.6 was launched at 08:15:35 UTC on 21 March 1964, atop a Molniya-M 8K78M carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. The rocket failed to achieve orbit, and the spacecraft disintegrated when it reentered the atmosphere shortly afterwards. Prior to the release of information about its mission, NASA correctly identified that it had been an attempt to land a spacecraft on the Moon."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_27.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_27",
+        "abstract": "Kosmos 27 (Russian: Космос 27 meaning Cosmos 27), also known as Zond 3MV-1 No.3 was a space mission intended as a Venus flyby. The spacecraft was launched by a Molniya-M carrier rocket, however an upper stage malfunction resulted in the spacecraft failing to leave low Earth orbit.Beginning in 1962, the name Kosmos was given to Soviet spacecraft which remained in Earth orbit, regardless of whether that was their intended final destination. The designation of this mission as an intended planetary probe is based on evidence from Soviet and non-Soviet sources and historical documents. Typically Soviet planetary missions were initially put into an Earth parking orbit as a launch platform with a rocket engine and attached probe. The probes were then launched toward their targets with an engine burn with a duration of roughly 4 minutes. If the engine misfired or the burn was not completed, the probes would be left in Earth orbit and given a Kosmos designation."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_49.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_49",
+        "abstract": "Kosmos 49 (Russian: Космос 49 meaning Cosmos 49), also known as DS-MG No.2 was a technology demonstration satellite which was launched by the Soviet Union in 1964 as part of the Dnepropetrovsk Sputnik programme. Its primary mission was to demonstrate an electric gyrodyne orientation system. It also carried several scientific research packages as secondary payloads.It was launched aboard a Kosmos-2I 63S1 rocket from pad 2 of the Mayak Launch Complex at Kapustin Yar. The launch occurred at 05:16 UTC on 24 October 1964.Kosmos 49 was placed into a low Earth orbit with a perigee of 260 kilometres (160 mi), an apogee of 472 kilometres (293 mi), 48.9 degrees of inclination, and an orbital period of 91.9 minutes. It decayed from orbit on 21 August 1965. Kosmos 49 was the second of two DS-MG satellites to be launched, the other being Kosmos 26. In addition to technological research, it also conducted scientific research into the Earth's magnetosphere, infrared flux and ultraviolet flux."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Ranger_7.jsond",
+        "uri": "http://dbpedia.org/page/Ranger_7",
+        "abstract": "Ranger 7 was the first US space probe to successfully transmit close images of the lunar surface back to Earth. It was also the first completely successful flight of the Ranger program. Launched on 28 July 1964, Ranger 7 was designed to achieve a lunar impact trajectory and to transmit high-resolution photographs of the lunar surface during the final minutes of flight up to impact. The spacecraft carried six television vidicon cameras, 2 wide angle (channel F, cameras A and B) and 4 narrow angle (channel P) to accomplish these objectives. The cameras were arranged in two separate chains, or channels, each self-contained with separate power supplies, timers, and transmitters so as to afford the greatest reliability and probability of obtaining high-quality video pictures. Ranger 7 transmitted over 4,300 photographs during the final 17 minutes of it flight. After 68.6 hours of flight, the spacecraft landed between Mare Nubium and Oceanus Procellarum. This landing site was later named Mare Cognitum. The velocity at impact was 1.62 miles per second, and the performance of the spacecraft exceeded hopes. No other experiments were carried on the spacecraft."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_35.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_35",
+        "abstract": "Kosmos 35 (Russian: Космос 35 meaning Cosmos 35) or Zenit-2 No.21 was a Soviet optical film-return reconnaissance satellite launched in 1964. A Zenit-2 spacecraft, Kosmos 35 was the twentieth of eighty-one such satellites to be launched and had a mass of 4,730.0 kilograms (10,427.9 lb).Kosmos 35 was launched by a Vostok-2 rocket, serial number R15001-03, flying from Site 31/6 at the Baikonur Cosmodrome. The launch took place at 11:31 UTC on 15 July 1964, and following its successful arrival in orbit the spacecraft received its Kosmos designation; along with the International Designator 1964-039A and the Satellite Catalog Number 833.Kosmos 35 was operated in a low Earth orbit; at an epoch of 18 July 1964 it had a perigee of 212 kilometres (132 mi), an apogee of 263 kilometres (163 mi) inclination of 51.2 degrees and an orbital period of 89.25 minutes. On 23 July 1964, after eight days in orbit, the satellite was deorbited with its return capsule descending by parachute for recovery."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Relay_program.jsond",
+        "uri": "http://dbpedia.org/page/Relay_program",
+        "abstract": "The Relay program consisted of Relay 1 and Relay 2, two early American satellites. Both were primarily experimental communications satellites funded by NASA and developed by RCA. As of September 12, 2009, both satellites were still in orbit. Relay 1 provided the first television transmissions across the Pacific Ocean."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_29.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_29",
+        "abstract": "Kosmos 29 (Russian: Космос 29 meaning Cosmos 29) or Zenit-2 No.19 was a Soviet optical film-return reconnaissance satellite which was launched in 1964. A Zenit-2 spacecraft, Kosmos 29 was the seventeenth of eighty-one such satellites to be launched and had a mass of 4,780.0 kilograms (10,538.1 lb).A Vostok-2 rocket, serial number R15001-01, was used to launch Kosmos 29. The launch took place at 10:19 UTC on 25 April 1964, using Site 31/6 at the Baikonur Cosmodrome. Following its successful arrival in orbit the spacecraft received its Kosmos designation, along with the International Designator 1964-021A and the Satellite Catalog Number 791.Kosmos 29 was operated in a low Earth orbit. On 28 April 1964 it had a perigee of 202 kilometres (126 mi), an apogee of 295 kilometres (183 mi), with inclination of 65 degrees and an orbital period of 89.47 minutes. After eight days in orbit, the satellite was deorbited on 3 May 1964 with its return capsule descending by parachute for recovery by Soviet forces."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Ariel_2.jsond",
+        "uri": "http://dbpedia.org/page/Ariel_2",
+        "abstract": "Ariel 2, also known as UK-C, was a British radio astronomy satellite, which was operated by the Science and Engineering Research Council as part of the Ariel programme. It was built in America by Westinghouse Electric, and had a mass at launch of 68 kilograms (150 lb). It was launched in 1964, and became the first satellite to be used for radio astronomy.The launch of Ariel 2 was conducted by the United States National Aeronautics and Space Administration, using a Scout X-3 rocket. The launch occurred at 17:25:23 GMT on 27 March 1964, from Launch Area 3 at the Wallops Flight Facility. Ariel 2 was placed into a low Earth orbit, with a perigee of 289 kilometres (180 mi), an apogee of 1,343 kilometres (835 mi), 51.6 degrees of inclination and an orbital period of 101.2 minutes as of 3 May 1964. It ceased operations in November 1964, and subsequently decayed from orbit on 18 November 1967."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/A-101_(spacecraft).jsond",
+        "uri": "http://dbpedia.org/page/A-101_(spacecraft)",
+        "abstract": "A-101 (also designated SA-6) was the sixth flight of the Saturn I launch vehicle, which carried the first boilerplate Apollo spacecraft into low Earth orbit. The test flight took place on May 28, 1964, lasting for four orbits (about six hours). The spacecraft and its upper stage reentered the atmosphere and landed in the Pacific Ocean on June 1, 1964.The flight experienced a single anomaly: one of the eight first-stage Saturn I engines shut down early, but the guidance system compensated by burning the remaining seven engines longer. A-101 was followed by four more flights to verify the launch aerodynamics of the Apollo Command and Service Module and its Launch Escape System (LES) tower."
+    }
+]

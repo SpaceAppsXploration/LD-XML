@@ -1,0 +1,154 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Compton_Gamma_Ray_Observatory",
+        "abstract": "The Compton Gamma Ray Observatory (CGRO) was a space observatory detecting light from 20 KeV to 30 GeV in Earth orbit from 1991 to 2000. It featured four main telescopes in one spacecraft covering x-rays and gamma-rays, including various specialized sub-instruments and detectors. Following 14 years of effort, the observatory was launched from Space Shuttle Atlantis during STS-37 on 5 April 1991, and operated until its deorbit on 4 June 2000. It was deployed in low earth orbit at 450 km (280 mi) to avoid the Van Allen radiation belt. It was the heaviest astrophysical payload ever flown at that time at 17,000 kilograms (37,000 lb).Costing $617m, the CGRO was part of NASA's Great Observatories series, along with the Hubble Space Telescope, the Chandra X-ray Observatory, and the Spitzer Space Telescope. It was the second of the NASA \"Great Observatories\" to be launched to space, following the Hubble Space Telescope. CGRO was named after Arthur Holly Compton (Washington University in St. Louis), Nobel prize winner, for work involved with gamma ray physics. CGRO was built by TRW (now Northrop Grumman Aerospace Systems) in Redondo Beach, California. CGRO was an international collaboration and additional contributions came from the European Space Agency and various Universities, as well as the U.S. Naval Research Laboratory,",
+        "json-uri": "http://dbpedia.org/data/Compton_Gamma_Ray_Observatory.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-37",
+        "abstract": "STS-37, the eighth flight of the Space Shuttle Atlantis, was a six-day mission with the primary objective of launching the Compton Gamma Ray Observatory (GRO), the second of the Great Observatories program which included the visible-spectrum Hubble Space Telescope, the Chandra X-ray Observatory and the infrared Spitzer Space Telescope. The mission also featured two spacewalks, the first since 1985.",
+        "json-uri": "http://dbpedia.org/data/STS-37.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-40",
+        "abstract": "STS-40, the eleventh launch of Space Shuttle Columbia, was a nine-day mission. It carried the Spacelab module for Spacelab Life Sciences 1 (SLS-1), the fifth Spacelab mission and the first dedicated solely to biology. STS-40 was the first spaceflight that included three women crew members.",
+        "json-uri": "http://dbpedia.org/data/STS-40.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UoSAT-5",
+        "abstract": "UoSAT-5, also known as UO-22 and OSCAR 22, is a British satellite in Low Earth Orbit. It was built by Surrey Satellite Technology and launched into space in July 1991 from French Guiana.",
+        "json-uri": "http://dbpedia.org/data/UoSAT-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-7",
+        "abstract": "Progress M-7 was a Soviet unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-fifth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 208. It carried supplies including food, water and oxygen for the EO-8 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It also carried the second VBK-Raduga capsule, intended to return equipment and experiment results to Earth.Progress M-7 was launched at 13:05:15 GMT on 19 March 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It took three attempts to dock with Mir; the first of which occurred at 14:28 GMT on 21 March, and resulted in Progress M-7 approaching to within 500 metres (1,600 ft) of Mir, before the attempt was aborted. During a second attempt on 23 March, approach was aborted when the spacecraft was 50 metres (160 ft) from Mir, however it passed within 5 metres (16 ft) before moving away to a holding position whilst the problem was investigated. The first two attempts had used the aft docking port of the Kvant-1 module, however it was decided to use the forward port of the core module for the next one. At 10:12:00 GMT on 26 March, the Soyuz TM-11 spacecraft which had been occupying this port undocked from it, before flying around the station and docking with Kvant-1 at 10:58:59. Progress M-7 successfully docked with Mir at 12:02:28 GMT on 28 March.During the 39 days for which Progress M-7 was docked, Mir was in an orbit of around 365 by 388 kilometres (197 by 210 nmi), inclined at 51.6 degrees. Progress M-7 undocked from Mir at 22:59:36 GMT on 6 May, and was deorbited at 16:24:00 the next day, to a destructive reentry over the Pacific Ocean. Its Raduga capsule, which had been deployed following the deorbit burn, came down in the Russian Soviet Federative Socialist Republic at around 17:20 GMT, however efforts to recover it were unsuccessful.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-5",
+        "abstract": "TDRS-5, known before launch as TDRS-E, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by TRW is based on a custom satellite bus which was used for all seven first generation TDRS satellites.",
+        "json-uri": "http://dbpedia.org/data/TDRS-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2155",
+        "abstract": "Kosmos 2155 (Russian: Космос 2155 meaning Cosmos 2155) is a Russian US-KS missile early warning satellite which was launched in 1991 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2155 was launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 17:51 UTC on 13 September 1991. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1991-064A. The United States Space Command assigned it the Satellite Catalog Number 21702.It was operational for about 9 months.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2155.jsond",
+        "instrumentation": [
+            "Infrared sensor/s",
+            "Optical telescope with  aperture",
+            "Smaller telescopes"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-43",
+        "abstract": "STS-43, the ninth mission for Space Shuttle Atlantis, was a nine-day mission whose primary goal was launching the fourth Tracking and Data Relay Satellite, TDRS-E. The flight also tested an advanced heatpipe radiator for potential use on the then-future space station and conducted a variety of medical and materials science investigations.",
+        "json-uri": "http://dbpedia.org/data/STS-43.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-1B",
+        "abstract": "IRS-1B was successor to the remote sensing mission called IRS-1A both undertaken by the Indian Space Research Organisation. It was an operational and experimental mission to develop indigenous expertise in satellite imagery.",
+        "json-uri": "http://dbpedia.org/data/IRS-1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-48",
+        "abstract": "STS-48 was a Space Shuttle mission that launched on 12 September 1991, from Kennedy Space Center, Florida. The orbiter was Space Shuttle Discovery. The primary payload was the Upper Atmosphere Research Satellite. The mission landed on 18 September at 12:38 am at Edwards Air Force Base on runway 22. The mission was completed in 81 revolutions of the Earth and traveled 2.2 million miles. The 5 astronauts carried out a number of experiments and deployed several satellites. The total launch mass was 240,062 pounds (108,890 kg) and the landing mass was 192,780 pounds (87,440 kg).[citation needed]",
+        "json-uri": "http://dbpedia.org/data/STS-48.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_601",
+        "abstract": "Intelsat 601, previously named Intelsat VI F-1, was a communications satellite operated by Intelsat, and later Europe*Star. Launched in 1991, it was the last of five Intelsat VI satellites to be launched. The Intelsat VI series was constructed by Hughes Aircraft, based around the HS-389 satellite bus.Intelsat 601 was launched at 23:08:08 UTC on 29 October 1991, atop an Ariane 4 carrier rocket in the 44L configuration, flight number V47. The launch took place from ELA-2 at Kourou, and placed Intelsat 601 into a geosynchronous transfer orbit. The satellite raised itself into its final geostationary orbit using two liquid-fuelled R-4D-12 engines, with the satellite arriving in geostationary orbit on 2 November 1991.Intelsat 601 operated in geostationary orbit with a perigee of 35,680 kilometres (22,170 mi), an apogee of 35,897 kilometres (22,305 mi), and 0 degrees of inclination. The satellite carried 38 IEEE C band and ten IEEE Ku band transponders, and had a design life of 13 years and a mass of 4,330 kilograms (9,550 lb).Upon entering service, Intelsat 601 was positioned at 27.5 degrees west. In October 1997, it was moved to 34.5 degrees west, reaching the new slot on 16 October. Between May and July 2002 it was moved to 32.9 degrees east, and between October and November it was again moved, to 64.25 degrees east, where it would remain until October 2006. Its final operations for Intelsat were conducted at 63.5 degrees east, where it arrived in November 2006. In October 2007 it was transferred to Europe*Star, and relocated to 47.5 degrees East, arriving in November. The satellite was retired from service and placed into a graveyard orbit in October 2011.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_601.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2133",
+        "abstract": "Kosmos 2133 (Russian: Космос 2133 meaning Cosmos 2133) is a Russian US-KMO missile early warning satellite which was launched in 1991 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2133 was launched from Site 200/39 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 08:31 UTC on 14 February 1991. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1991-010A. The United States Space Command assigned it the Satellite Catalog Number 21111.Kosmos 2133 was the first satellite in the US-KMO series and was operational for over 4 years.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2133.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-8",
+        "abstract": "Progress M-8 was a Soviet unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-sixth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 207. It carried supplies including food, water and oxygen for the EO-9 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It also carried the Naduvaniy Hazovoy Ballon satellite, which was subsequently deployed from Mir.Progress M-8 was launched at 08:04:03 GMT on 30 May 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the forward port of Mir's core module at 09:44:37 GMT on 1 June.During the 75 days for which Progress M-8 was docked, Mir was in an orbit of around 391 by 394 kilometres (211 by 213 nmi), inclined at 51.6 degrees. Progress M-8 undocked from Mir at 22:16:59 GMT on 15 August, and was deorbited the next day, to a destructive reentry over the Pacific Ocean at around 06:59:32.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1B",
+        "abstract": "Astra 1B was the second of the Astra communications satellites launched and operated by SES (Société Européenne des Satellites). It was bought during its construction from GE Americom, and was launched to add extra capacity to the satellite television services from 19.2° east, serving Germany, the UK and Republic of Ireland.It was believed to have been launched in a faulty condition, and suffered a thruster failure early in its life, causing minor drift, meaning that it became permanently difficult to obtain a steady lock on the satellite. This was most notable on analogue transmissions where the picture would move from clear to carrying sparklies and back again.[citation needed]Along with Astra 1C, Astra 1B was to be replaced in 2002 with Astra 1K, which failed to launch successfully, and as a result it continued to serve a longer life than expected, only falling from use when digital television on Astra 2A removed the majority of UK and Ireland targeted channels from 19.2° east.[citation needed]From 2005, SES claimed that the satellite was in use for VSAT services, however no transponders were powered, and the satellite drifted to around 19.5° east. One transponder was reactivated in October 2005, but was carrying only colour bars.[citation needed]On June 16, 2006 SES confirmed that Astra 1B would be decommissioned and de-orbited within weeks after Astra 1KR, the satellite which would replace Astra 1B and 1C, reached the operational orbital position of 19.2° east. It was officially end-of-lifed on July 14, 2006; close to four years after it had ceased carrying signals, ending SES's claims that the craft was operational.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/Astra_1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-71",
+        "abstract": "USA-71, also known as GPS IIA-2, GPS II-11 and GPS SVN-24, is an American navigation satellite which forms part of the Global Positioning System. It was the second of nineteen Block IIA GPS satellites to be launched.USA-71 was launched at 02:32:00 UTC on 4 July 1991, atop a Delta II carrier rocket, flight number D206, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-71 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 14 August 1991, USA-71 was in an orbit with a perigee of 20,085 kilometres (12,480 mi), an apogee of 20,274 kilometres (12,598 mi), a period of 717.86 minutes, and 55.1 degrees of inclination to the equator. It has PRN 24, and operated in slot 1 of plane D of the GPS constellation until it was removed from service in September 2009. It was subsequently relocated, was operational again, briefly covering slot 2 in 2011, before being deactivated in November after USA-232 replaced it. It began transmitting navigation signals again in March 2012, however it is not currently part of the operational GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb), and a design life of 7.5 years.",
+        "json-uri": "http://dbpedia.org/data/USA-71.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_605",
+        "abstract": "Intelsat 605, previously named Intelsat VI F-5, was a communications satellite operated by Intelsat. Launched in 1991, it was the fourth of five Intelsat VI satellites to be launched. The Intelsat VI series was constructed by Hughes Aircraft, based around the HS-389 satellite bus.Intelsat 605 was launched at 23:15:13 UTC on 14 August 1991, atop an Ariane 4 44L carrier rocket, flight number V45. The launch took place from ELA-2 at Kourou, and placed Intelsat 605 into a geosynchronous transfer orbit. The satellite raised itself into its final geostationary orbit using two liquid-fuelled R-4D-12 engines, with the satellite arriving in geostationary orbit on 20 August 1991.Intelsat 605 initially operated in a geostationary orbit with a perigee of 35,756 kilometres (22,218 mi), an apogee of 35,818 kilometres (22,256 mi), and 0 degrees of inclination. The satellite carried 38 IEEE C band and ten IEEE Ku band transponders, and had a design life of 13 years and a mass of 4,296 kilograms (9,471 lb).During late 1991, Intelsat 605 was operated at a longitude of 21.5 degrees west. In July 1992, it was placed at 24.5 degrees west, where it operated until November 1997. It subsequently operated at 27.5 degrees west from December 1997 to March 2003; 32.9 degrees east from April 2003 to October 2004; 77 degrees west from December 2004 to January 2005, and 174 degrees east from April 2005 to January 2009. It was placed into a graveyard orbit and decommissioned in January 2009.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_605.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-12",
+        "abstract": "Soyuz TM-12 was the 12th expedition to Mir, and included the first Briton in space, Helen Sharman.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-9",
+        "abstract": "Progress M-9 was a Soviet unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-seventh of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 210. It carried supplies including food, water and oxygen for the EO-9 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It was the third Progress spacecraft to carry a VBK-Raduga capsule, which was used to return equipment and experiment results to Earth.Progress M-9 was launched at 22:54:10 GMT on 20 August 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the forward port of Mir's core module at 00:54:17 GMT on 23 August.During the thirty eight days for which Progress M-9 was docked, Mir was in an orbit of approximately 379 by 396 kilometres (205 by 214 nmi), inclined at 51.6 degrees. Progress M-9 undocked from Mir at 01:53:00 GMT on 30 September, and was deorbited few hours later at 07:45, to a destructive reentry over the Pacific Ocean. The Raduga capsule landed in the Kazakh Soviet Socialist Republic at 08:16:24 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Upper_Atmosphere_Research_Satellite",
+        "abstract": "The Upper Atmosphere Research Satellite (UARS) was a NASA-operated orbital observatory whose mission was to study the Earth’s atmosphere, particularly the protective ozone layer. The 5,900-kilogram (13,000 lb) satellite was deployed from Space Shuttle Discovery during the STS-48 mission on 15 September 1991. It entered Earth's orbit at an operational altitude of 600 kilometers (370 mi), with an orbital inclination of 57 degrees.The original mission duration was to be only three years, but was extended several times. When the mission finally ended in June 2005 due to funding cuts, 14 years after the satellite's launch, six of its ten instruments were still operational. A final orbit-lowering burn was performed in early December 2005 to prepare the satellite for deorbit. On 26 October 2010, the International Space Station performed a debris-avoidance maneuver in response to a conjunction with UARS.The decommissioned satellite re-entered Earth's atmosphere on 24 September 2011. Considerable media attention surrounded the event, largely due to NASA's predictions that substantial parts of the satellite might reach the ground, potentially endangering inhabited areas. However, the satellite ultimately impacted in a remote area of the Pacific Ocean.",
+        "json-uri": "http://dbpedia.org/data/Upper_Atmosphere_Research_Satellite.jsond",
+        "instrumentation": [
+            "[[#Cryogenic Limb Array Etalon Spectrometer"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-39",
+        "abstract": "STS-39 was the twelfth mission of the Space Shuttle Discovery. The primary purpose of the mission was to conduct a variety of payload experiments for the Department of Defense.",
+        "json-uri": "http://dbpedia.org/data/STS-39.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-13",
+        "abstract": "Soyuz TM-13 was the 13th expedition to Mir space station. It included an astronaut from Austria and a cosmonaut from the soon-to-be independent region of Kazakhstan.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-13.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-44",
+        "abstract": "STS-44 was a Space Shuttle mission on Atlantis that launched 24 November 1991. It was a U.S. Department of Defense space mission.",
+        "json-uri": "http://dbpedia.org/data/STS-44.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-10",
+        "abstract": "Progress M-10 was a Soviet and subsequently Russian unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-eighth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 211. It carried supplies including food, water and oxygen for the EO-10 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It carried the fourth VBK-Raduga capsule, which was used to return experiment results and equipment to Earth when the Progress was deorbited.Progress M-10 was launched at 00:05:25 GMT on 17 October 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following four days of free flight, it docked with the Forward port of the core module on the second attempt, at 03:40:50 GMT on 21 October. The first attempt had been aborted by the Progress' onboard computer when the spacecraft was 150 metres (490 ft) away from the station.During the 91 days for which Progress M-10 was docked, Mir was in an orbit of around 376 by 377 kilometres (203 by 204 nmi), inclined at 51.6 degrees. It was launched by the Soviet Union, which was dissolved in December 1991, and along with most aspects of the Soviet space programme, Progress M-10 was inherited by Russia. It undocked from Mir at 07:13:44 GMT on 20 January 1992, and was deorbited few hours later to a destructive reentry over the Pacific Ocean. The Raduga capsule landed at 12:03:30 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-6",
+        "abstract": "Progress M-6 was a Soviet unmanned cargo spacecraft which was launched in 1991 to resupply the Mir space station. The twenty-fourth of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 205. It carried supplies including food, water and oxygen for the EO-8 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-6 was launched at 14:50:27 GMT on 14 January 1991, on a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the aft port of the Kvant-1 module of Mir at 16:35:25 GMT on 16 January.During the 58 days for which Progress M-6 was docked with it, Mir was in an orbit of around 358 by 388 kilometres (193 by 210 nmi), inclined at 51.6 degrees. Progress M-6 undocked from Mir at 12:46:41 GMT on 15 March, and was deorbited a few hours later at 17:14:00. It burned up in the atmosphere over the Pacific Ocean at around 18:07:26.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-6.jsond",
+        "instrumentation": []
+    }
+]

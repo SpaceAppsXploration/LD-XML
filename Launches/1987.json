@@ -1,0 +1,96 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1818",
+        "abstract": null,
+        "json-uri": "http://dbpedia.org/data/Kosmos_1818.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Polyus_(spacecraft)",
+        "abstract": "The Polyus spacecraft (Russian: Полюс, pole), also known as Polus, Skif-DM, GRAU index 17F19DM, was a prototype orbital weapons platform designed to destroy SDI satellites with a megawatt carbon-dioxide laser. It had a Functional Cargo Block derived from a TKS spacecraft to control its orbit and it could fire test targets to demonstrate the fire control system.The Polyus spacecraft was launched 15 May 1987 from Baikonur Cosmodrome Site 250 as part of the first flight of the Energia system, but failed to reach orbit.According to Yuri Kornilov, Chief Designer of the Salyut Design Bureau, shortly before Polyus' launch, Mikhail Gorbachev visited the Baikonur Cosmodrome and expressly forbade the on-orbit testing of its capabilities. Kornilov claims that Gorbachev was worried that it would be possible for Western governments to view this activity as an attempt to create a weapon in space and that such an attempt would contradict the country's previous statements on the USSR’s peaceful intent.For technical reasons, the payload was launched upside down. It was designed to separate from the Energia, rotate 180 degrees in yaw, then 90 degrees in roll and then fire its engine to complete its boost to orbit. The Energia functioned perfectly. However, after disconnecting from Energia, the Polyus spun a full 360 degrees instead of the planned 180 degrees. When the rocket fired, it slowed and burned up in the atmosphere over the south Pacific ocean. This failure was attributed to a faulty inertial guidance system that had not been rigorously tested due to the rushed production schedule.Parts of the Polyus project's hardware were re-used in Kvant-2, Kristall, Spektr and Priroda Mir modules, as well as in ISS, Zarya and FGB.",
+        "json-uri": "http://dbpedia.org/data/Polyus_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-3",
+        "abstract": "Soyuz TM-3 was the fourth manned spacecraft to visit the Soviet space station Mir. It was launched in July 1987, during the long duration expedition Mir EO-2, and acted as a lifeboat for the second segment of that expedition. There were three people aboard the spacecraft at launch, including the two man crew of the week-long mission Mir EP-1, consisting of Soviet cosmonaut Alexander Viktorenko and Syrian Muhammed Faris. Faris was the first Syrian to travel to space, and as of November 2010, the only one. The third cosmonaut launched was Aleksandr Aleksandrov, who would replace one of the long duration crew members Aleksandr Laveykin of Mir EO-2. Laveykin had been diagnosed by ground-based doctors to have minor heart problems, so he returned to Earth with the EP-1 crew in Soyuz TM-2.Soyuz TM-3 landed near the end of December 1987, landing both members of the EO-2 crew, as well as potential Buran (spacecraft) shuttle pilot Anatoli Levchenko, who had been launched to Mir a week earlier aboard Soyuz TM-4.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1903",
+        "abstract": "Kosmos 1903 (Russian: Космос 1903 meaning Cosmos 1903) is a Soviet US-K missile early warning satellite which was launched in 1987 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1903 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 22:35 UTC on 21 December 1987. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1987-105A. The United States Space Command assigned it the Satellite Catalog Number 18701.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1903.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1849",
+        "abstract": "Kosmos 1849 (Russian: Космос 1849 meaning Cosmos 1849) is a Soviet US-K missile early warning satellite which was launched in 1987 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1849 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 18:50 UTC on 4 June 1987. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1987-048A. The United States Space Command assigned it the Satellite Catalog Number 18083.It re-entered the Earth's atmosphere on 3 February 2003.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1849.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1887",
+        "abstract": "Bion 8 (Cosmos 1887) was a Bion satellite.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1887.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ginga_(satellite)",
+        "abstract": "ASTRO-C, renamed Ginga (Japanese for 'galaxy'), was an X-ray astronomy satellite launched from the Kagoshima Space Center on 5 February 1987 using M-3SII launch vehicle. The primary instrument for observations was the Large Area Counter (LAC). Ginga was the third Japanese X-ray astronomy mission, following Hakucho and Tenma. Ginga reentered the Earth's atmosphere on 1 November 1991.",
+        "json-uri": "http://dbpedia.org/data/Ginga_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TV-SAT_1",
+        "abstract": "TV-SAT 1 or TVSAT-1 was a West German communications satellite which was to have been operated by Deutsche Bundespost. It was intended to be used to provide television broadcast services to Europe, however it failed before entering service. It was constructed by Aérospatiale, based on the Spacebus 300 satellite bus, and carried five NATO J-band (IEEE Ku band) transponders. At launch it had a mass of 2,077 kilograms (4,579 lb), and an expected operational lifespan of eight years.TV-SAT 1 was launched by Arianespace using an Ariane 2 rocket flying from ELA-1 at Kourou. The launch took place at 02:19:00 GMT on 21 November 1987. It was the first Spacebus 300 satellite to be launched. Immediately after launch, one of its solar panels failed to deploy, and as a result of this the main uplink antenna, which was located behind the solar panel, could not deploy either. This failure was later established to have been the result of two hold-down bolts, which should have been removed prior to launch, being left on the satellite.Despite the failure, TVSAT-1 was placed into a geosynchronous orbit at a longitude of 19.2° West. It was briefly used for a series of tests to verify the satellite's systems, before it was retired to a graveyard orbit.TV-Sat 2 followed on 8 August 1989.",
+        "json-uri": "http://dbpedia.org/data/TV-SAT_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_7",
+        "abstract": "GOES 7, known as GOES-H before becoming operational, is an American satellite. It was originally built as a weather satellite, and formed part of the US National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. Originally built as a ground spare, GOES-H was launched in 1987 due to delays with the next series of satellites. It was operated by NOAA until 1999, before being leased to Peacesat, who use it as a communications satellite. As of 2009, it is operational over the Pacific Ocean, providing communications for the Pacific Islands.",
+        "json-uri": "http://dbpedia.org/data/GOES_7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1867",
+        "abstract": "Kosmos 1867 (Russian: Космос 1867) is a radar ocean reconnaissance satellite (RORSAT) that was launched by the Soviet Union July 10, 1987. It was put into a high orbit about 800 km (500 mi) from the Earth's surface. Its mission was monitoring the oceans for naval and merchant vessels. It had a mission life of about eleven months. It was powered by a nuclear reactor.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1867.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1851",
+        "abstract": "Kosmos 1851 (Russian: Космос 1851 meaning Cosmos 1851) is a Soviet US-K missile early warning satellite which was launched in 1987 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1851 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 07:40 UTC on 12 June 1987. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1987-050A. The United States Space Command assigned it the Satellite Catalog Number 18103.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1851.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kvant-1",
+        "abstract": "Kvant-1 (Russian: Квант-1; English: Quantum-I/1) (37KE) was the first module to be attached in 1987 to the Mir Core Module, which formed the core of the Soviet space station Mir. It remained attached to Mir until the entire space station was deorbited in 2001.The Kvant-1 module contained scientific instruments for astrophysical observations and materials science experiments. It was used to conduct research into the physics of active galaxies, quasars and neutron stars and it was uniquely positioned for studies of the Supernova SN 1987A. Furthermore it supported biotechnology experiments in anti-viral preparations and fractions. Some additions to Kvant-1 during its lifetime were solar arrays and the Sofora and Rapana girders.The Kvant-1 module was based on the TKS spacecraft and was the first, experimental version of a planned series of '37K' type modules. The 37K modules featured a jettisonable TKS-E type propulsion module, also called the Functional Service Module (FSM).The control system of Kvant-1 had been developed by NPO \"Electropribor\" (Kharkiv, Ukraine).After previous engineering tests with the Salyut 6 and Salyut 7 space stations (and temporarily attached TKS derived space station modules like Kosmos 1267, Kosmos 1443 and Kosmos 1686) it became the first space station module to be attached semipermanently to the first modular space station in the history of space flight.Kvant-1 was originally planned to be docked to the Salyut 7 space station, the plans however evolved to launch to Mir, initially considered on board the Soviet Buran space shuttle, which finally changed to a launch to Mir by the Proton-K rocket.",
+        "json-uri": "http://dbpedia.org/data/Kvant-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1894",
+        "abstract": "Kosmos 1894 (Russian: Космос 1894 meaning Cosmos 1894) is a Soviet US-KS missile early warning satellite which was launched in 1987 as part of the Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2155 was launched from Site 200/40 at Baikonur Cosmodrome in the Kazakh SSR. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 15:15 UTC on 28 October 1987. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1987-091A. The United States Space Command assigned it the Satellite Catalog Number 18443.It was operational for about 2 years.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1894.jsond",
+        "instrumentation": [
+            "Optical telescope with  aperture",
+            "Smaller telescopes",
+            "Infrared sensor/s"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-2",
+        "abstract": "Soyuz TM-2 was the spacecraft used to launch a long duration crew to the Soviet space station Mir, which was unmanned at the time. TM-2 was launched in February 1987, and it was first manned spaceflight of the Soyuz-TM spacecraft, and the second manned spaceflight to Mir (the first being Soyuz T-15). The crew of the long duration expedition, Mir EO-2, who were launched by TM-2 consisted of Soviet cosmonauts Yuri Romanenko and Aleksandr Laveykin.The spacecraft remained docked to Mir, functioning as a lifeboat for the EO-2 crew, until July 1987 when it returned to Earth carrying Laveykin and the two man crew of Mir EP-1. Romanenko later returned to Earth in Soyuz TM-3 at the end of EO-2.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-4",
+        "abstract": "Soyuz TM-4 was the fourth manned spacecraft to dock with the space station Mir. It was launched in December 1987, and carried the first two crew members of the third long duration expedition, Mir EO-3. These crew members, Vladimir Titov and Musa Manarov, would stay in space for just under 366 days, setting a new spaceflight record. The third astronaut launched by Soyuz TM-4 was Anatoli Levchenko, who returned to Earth about a week later with the remaining crew of Mir EO-2. Levchenko was a prospective pilot for the Soviet Space shuttle Buran. The purpose of his mission, named Mir LII-1, was to familiarize him with spaceflight.It was the fourth Soyuz TM spacecraft to be launched (one of which wasn't manned), and like other Soyuz spacecraft, it was treated as a lifeboat for the station's crew while docked. In June 1988, part way through EO-3, Soyuz TM-4 was swapped for Soyuz TM-5 as the station's lifeboat. The mission which swapped the spacecraft was known as Mir EP-2, and had a three person crew.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-4.jsond",
+        "instrumentation": []
+    }
+]

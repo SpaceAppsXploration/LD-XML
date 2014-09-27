@@ -1,0 +1,248 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/STS-111",
+        "abstract": "STS-111 was a space shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. STS-111 resupplied the station and replaced the Expedition 4 crew with the Expedition 5 crew. It was launched on 5 June 2002, from Kennedy Space Center, Florida.",
+        "json-uri": "http://dbpedia.org/data/STS-111.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AlSAT-1",
+        "abstract": "ALSAT-1 is the first Algerian satellite and it is part of a group of satellites collectively known as the Disaster Monitoring Constellation (DMC). The satellite was built by a group of engineers from Surrey Satellite Technology and CNTS. It was the first DMC satellite to be launched. The launch took place on 28 November 2002 from the Plesetsk Cosmodrome in northern Russia on a Kosmos-3M launcher. It completed its mission after seven years and nine months in August 2010.",
+        "json-uri": "http://dbpedia.org/data/AlSAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_25C",
+        "abstract": "Eutelsat 25C (formerly known as Eutelsat W5, Eutelsat 3F1 and Eutelsat W1, Eutelsat 70A) is a telecommunications satellite owned by Eutelsat Consortium. Eutelsat W5 provides coverage to Western Europe, Central Asia, the Middle East. The satellite can use either 6 steerable beams or 2 fixed beams to provide the coverage. Eutelsat 70A was used to provide video distribution and contribution links, occasional-use video as well as Internet backbone connections.Eutelsat 70A was the first satellite to be launched by a Delta IV rocket. The launch was originally scheduled for January 2001, but was delayed several times due to developmental problems with the Delta IV rocket.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_25C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2394",
+        "abstract": "Kosmos 2394 (Russian: Космос 2394 meaning Cosmos 2394) is one of a set of three Russian military satellites launched in 2002 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2395 and Kosmos 2396.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 791.Kosmos 2394/5/6 were launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 07:37 UTC on 25 December 2002. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2002-060A. The United States Space Command assigned it the Satellite Catalog Number 27617.It was in the third orbital plane in orbital slot 22. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2394.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-3C",
+        "abstract": "INSAT-3C is a multipurpose satellite built by ISRO and launched by Arianespace in Jan 2002. INSAT-3C is the second satellite of the INSAT-3 series. All the transponders provide coverage over India.Insat-3C is controlled from the Master Control Facility at Hassan in Karnataka.It will provide voice, video and digital data services to India and neighboring countries.",
+        "json-uri": "http://dbpedia.org/data/INSAT-3C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-9",
+        "abstract": "Progress M1-9, identified by NASA as Progress 9 or 9P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 258.Progress M1-9 was launched by a Soyuz-FG carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 16:58:24 GMT on 25 September 2002. The spacecraft docked with the Aft port of the Zvezda module at 17:00:54 GMT on 29 September. It remained docked for four months before undocking at 16:00:54 GMT on 1 February 2003 to make way for Progress M-47. It was deorbited at 19:10:00 GMT on the same day, burning up in the atmosphere over the Pacific Ocean just six hours after the Space Shuttle Columbia had disintegrated over Texas. Any remaining debris from Progress M1-9 landed in the ocean at around 20:00:28 GMT.Progress M1-9 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/DirecTV-5",
+        "abstract": "DIRECTV-5 is a communications satellite launched from Baikonur Cosmodrome, Kazakhstan in May, 2002 to provide mainly Spanish language satellite television programs to DirecTV customers from the 119 degrees West longitudinal orbit. It was built by Space Systems/Loral, as part of its LS-1300 line. In May 2004, DIRECTV successfully launched DIRECTV 7S, their second high powered spot beam. DIRECTV 7S is located at the 119 degree orbital slot.DirecTV-5 was originally known as Tempo 1, and was originally intended for satellite provider ASkyB, who later sold the satellites to PrimeStar in the process of going out of business. PrimeStar's other satellite, Tempo 2 (later DirecTV-6) was launched in 1997, while Tempo 1 was stored until the company and both satellites were purchased by DirecTV. DirecTV eventually launched the Tempo 1 satellite after years of delays as the DirecTV-5 satellite in 2002.Currently, DirecTV-5 is located at 109.8°W and provides channels for the Puerto Rico market.",
+        "json-uri": "http://dbpedia.org/data/DirecTV-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_8_West_C",
+        "abstract": "Eutelsat 8 West C, known as Hot Bird 6 prior to 2012 and Hot Bird 13A from 2012 to 2013, is a French communications satellite. Operated by Eutelsat, it provides direct to home broadcasting services from geostationary orbit. The satellite was part of Eutelsat's Hot Bird constellation at a longitude of 13 degrees east, until it was relocated to 8 degrees east between July and August 2013.Constructed by Alcatel Space based on the Spacebus-3000B3 satellite bus, Eutelsat 8 West C is a 3,905-kilogram (8,609 lb) satellite with a design life of 12 years. It is equipped with an S400-12 apogee motor which was used for initial orbit-raising manoeuvres and an S10-18 engine for station keeping burns. The spacecraft has 28 Ku-band and four Ka-band transponders.Hot Bird 6, as it was then named, was launched on the maiden flight of the Atlas V rocket, tail number AV-001, flying in the 401 configuration from Space Launch Complex 41 at the Cape Canaveral Air Force Station. Liftoff occurred at 22:05:00 on 21 August 2002, with the carrier rocket successfully injecting its payload into geosynchronous transfer orbit. The launch was conducted by International Launch Services.Following launch, the satellite used its apogee motor to raise itself into geostationary orbit, positioning itself at a longitude of 13 degrees east. It operated at this position for almost eleven years before being removed from the slot in July 2013. In August it arrived at 8 degrees west, where it has entered service as Eutelsat 8 West C, to support the Eutelsat 8 West A satellite until the planned 2015 launch of the Eutelsat 8 West B satellite. It provides coverage of the Middle East, North Africa and eastern Europe.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_8_West_C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Aqua_(satellite)",
+        "abstract": "Aqua (EOS PM-1) is a multi-national NASA scientific research satellite in orbit around the Earth, studying the precipitation, evaporation, and cycling of water. It is the second major component of the Earth Observing System (EOS) preceded by Terra (launched 1999) and followed by Aura (launched 2004).The name \"Aqua\" comes from the Latin word for water. The satellite was launched from Vandenberg Air Force Base on May 4, 2002, aboard a Delta II rocket. Aqua is on a Sun-synchronous orbit. It flies leading the satellite formation called the \"A Train\" with several other satellites (Aura, CALIPSO, CloudSat and the French PARASOL).Aqua carries six instruments for studies of water on the Earth's surface and in the atmosphere:AMSR-E — Advanced Microwave Scanning Radiometer-EOS — measures cloud properties, sea surface temperature, near-surface wind speed, radiative energy flux, surface water, ice and snow. Furnished by the National Space Development Agency of Japan.MODIS — Moderate Resolution Imaging Spectroradiometer, also measures cloud properties and radiative energy flux, also aerosol properties; land cover and land use change, fires and volcanos. This instrument is also aboard Terra.AMSU-A — Advanced Microwave Sounding Unit — measures atmospheric temperature and humidity.AIRS — Atmospheric Infrared Sounder — measures atmospheric temperature and humidity, land and sea surface temperatures.HSB — Humidity Sounder for Brazil — VHF band equipment measuring atmospheric humidity. Furnished by Instituto Nacional de Pesquisas Espaciais of Brazil. The HSB instrument has been in survival mode since 2/5/2003.CERES — Clouds and the Earth's Radiant Energy System, Flying Models 3 and 4, measure broadband radiative energy flux.The Aqua spacecraft has a mass of about 2,850 kilograms (6,280 lb), plus propellant of about 230 kilograms (510 lb) (at launch). Stowed, the satellite is 2.68 m x 2.49 m x 6.49 m. Deployed, Aqua is 4.81 m x 16.70 m x 8.04 m.",
+        "json-uri": "http://dbpedia.org/data/Aqua_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1K",
+        "abstract": "Astra 1K was a communications satellite manufactured by Alcatel Space for SES. When it was launched on November 25, 2002 it was the largest civilian communications satellite ever launched, with a mass of 5,250 kilograms (11,570 lb). Intended to replace the Astra 1B satellite and provide backup for 1A, 1C and 1D at the Astra 19.2°E orbital position, the Blok DM3 upper stage of the Proton launch vehicle failed to function properly, leaving the satellite in an unusable parking orbit. Although some attempts were made to \"rescue\" the satellite, it was intentionally de-orbited on December 10, 2002.The satellite featured frequency re-use for some of its transponders, using dual patterns coverage, one covering eastern Europe, the other covering Spain. This design was meant to cover specific markets only, in order to expand the capacity of the fleet, as frequency re-use enables more channels to be transmitted simultaneously at the same frequency, with the drawback that channels broadcast on the Spain beam wouldn't be receivable by any means (no matter how large the receiving dish would be) in the east beam and vice versa.This would have left for example the Netherlands and parts of neighbouring countries without reception of either of the beams, as the beams overlap over those countries, efficiently jamming each other.Astra 1K also featured multiple Ka Band capabilities, originally intended to provide an upload path for satellite internet services. SES later developed such a 2-way commercial satellite internet service with ASTRA2Connect, using Ku band for upload and download paths.A replacement craft, Astra 1KR was successfully launched in 2006.",
+        "json-uri": "http://dbpedia.org/data/Astra_1K.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager",
+        "abstract": "Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI, or more rarely Explorer 81 or originally High Energy Solar Spectroscopic Imager or HESSI) is the sixth mission in the line of NASA Small Explorer missions (also known as SMEX). Launched on 5 February 2002, its primary mission is to explore the basic physics of particle acceleration and explosive energy release in solar flares.HESSI was renamed to RHESSI on March 29, 2002 in honor of Reuven Ramaty, a pioneer in the area of high energy solar physics - RHESSI is the first space mission named after a NASA scientist. RHESSI was designed and is operated at the Space Sciences Laboratory in Berkeley California. The Principal Investigator for RHESSI was Prof. Robert Lin of UC Berkeley (until 2012) and is currently Dr. Sämuel Krucker.",
+        "json-uri": "http://dbpedia.org/data/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-9",
+        "abstract": "TDRS-9, known before launch as TDRS-I, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by the Boeing Satellite Development Center, formerly Hughes Space and Communications, and is based on the BSS-601 satellite bus. It was the second Advanced TDRS, or second-generation Tracking and Data Relay Satellite, to be launched.",
+        "json-uri": "http://dbpedia.org/data/TDRS-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2396",
+        "abstract": "Kosmos 2396 (Russian: Космос 2396 meaning Cosmos 2396) is one of a set of three Russian military satellites launched in 2002 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2394 and Kosmos 2395.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 793.Kosmos 2394/5/6 were launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 07:37 UTC on 25 December 2002. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2002-060B. The United States Space Command assigned it the Satellite Catalog Number 27618.It was in the third orbital plane in orbital slot 20. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2396.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_3",
+        "abstract": "Shenzhou 3 (Chinese: 神舟三号) launched on March 25, 2002, was the third unmanned launch of China's Shenzhou spacecraft. This was the first Shenzhou spacecraft launched that could have actually carried a human and as such the main objective of the mission was to test the systems required to support a human in space. On board it carried a dummy to simulate physiological signals of a human — palpitation, pulse, breathing, eating, metabolism, and excretion.The launch had been delayed several months due to design changes. It had been planned that Shenzhou 3 would use a new interior design but implementation problems meant reverting to the previous version. The rocket and spacecraft were eventually rolled out on the pad during the Fifth Session of the Ninth National People's Congress and the Ninth National Committee of the Chinese People's Political Consultative Conference in early March 2002.It is thought that Shenzhou 3 changed its orbit twice during the mission. The first was on March 29 at 10:15 UTC when the aft maneuvering thrusters fired for about 8 seconds putting it into a 330.2 km x 337.2 km orbit. The second was on March 31. Both times were to raise its orbit. Shenzhou 3 operated in a slightly less inclined orbit of 42.40° to the previous Shenzhou 1 and 2 flights, which were in about 42.59° inclined orbits.On board were carried 44 different experiments. These included an imaging spectrograph, cloud sensor, radiation sensor, solar ultraviolet monitor, solar constant monitor, atmospheric composition detector, atmospheric density detector, multi-chamber space crystallization furnace, space protein crystal equipment, a cell bioreactor, a solid matter tracking detector and microgravity gauge. Also on board was a video camera that broadcast images of the Earth as seen through one of the windows on the spacecraft. To test the radio transmitting systems, a pre-recorded female voice was transmitted.Shenzhou 3 reentered and landed successfully after 107 orbits. Unlike Shenzhou 2 where no photos had been released of the landing capsule, this time photos were released confirmed a successful touchdown. As with Shenzhou 2 the Orbital Module stayed in orbit for an extended mission. During this time it made some orbital adjustments, raising its orbit. Although it was speculated that it could serve as a docking target for Shenzhou 4, this did not turn out the be the case. Its mission ended in October 2003 and it reentered on November 12 at about 06:38 UTC over 22°S 109° E over the Indian Ocean off western Australia.The launch of Shenzhou 3 was attended by CPC General Secretary and President Jiang Zemin. Along with him were Wu Bangguo, member of the Politburo of the Communist Party of China and Vice-Premier; Zeng Qinghong, alternate member of the Politburo and member of the Secretariat of the Communist Party of China Central Committee; Yu Yongbo, member of the Central Military Commission and director of the People's Liberation Army's General Political Department; and Cao Gangchuan, member of the Central Military Commission and director of the People's Liberation Army's General Armament Department.Shenzhou 3 was the first Long March 2F launch to feature a working launch escape system. Also added were two manual system that would have allowed an astronaut to activate the system in case of emergency. It was tested during the launch phase though Chinese officials did not confirm if the test was successful.A day after launch China Central Television broadcast an artist impression of the spacecraft in orbit. Of interest was that the front of the orbital module appeared to have been equipped with three seven element log-periodic antennae. It is thought that it was designed for a frequency range of 300–1000 MHz. Also shown was an animation of the orbital module after it had separated from the rest of the spacecraft. Three booms were extended from the front package, one left, another right and the third forward. It is speculated that this could have been some sort of ELINT package.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-10",
+        "abstract": "TDRS-10, known before launch as TDRS-J, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by the Boeing Satellite Development Center, formerly Hughes Space and Communications, and is based on the BSS-601 satellite bus. It was the third and final Advanced TDRS, or second-generation Tracking and Data Relay Satellite, to be launched.",
+        "json-uri": "http://dbpedia.org/data/TDRS-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_4",
+        "abstract": "Shenzhou 4 (Chinese: 神舟四号) launched on December 29, 2002, was the fourth unmanned launch of the Chinese Shenzhou spacecraft. Two dummy astronauts were used to test the life support systems. (A live astronaut was not used until Shenzhou 5 on October 15, 2003.)The spacecraft was equipped for a manned flight, even featuring a sleeping bag, food, and medication. The windows were constructed of a new material that was designed to stay clear even after reentry to allow an astronaut to confirm that the parachutes have deployed properly. It was said that the spacecraft flown on Shenzhou 4 had no major differences to that used on Shenzhou 5. It flew with the ability for manual control and emergency landing, systems needed for a manned flight. A week before the launch, astronauts trained in the spacecraft to familiarise themselves with its systems.Initially the spacecraft was in a 198 kilometres (123 mi) by 331 kilometres (206 mi) orbit inclined at 42.4°. This was raised to 330 kilometres (210 mi) by 337 kilometres (209 mi) at 23:35 UTC on December 29, 2002. On January 4 and January 5, 2003 several smaller manoeuvres were thought to have taken place. The rate of orbital decay seemed higher after January 1, suggesting that the orbital module's solar panels may have been deployed for the first time. Compared to Shenzhou 3 the orbital period of Shenzhou 4 was much more tightly bounded with smaller manoeuvres.The launch of Shenzhou 4 was watched by officials including Chairman of the National People's Congress Li Peng; Vice Premier and member of the Politburo Standing Committee Wu Bangguo; Jia Qinglin, also a member of the Standing Committee; Cao Gangchuan, vice-chairman of the Central Military Commission; Song Jian, vice-chairman of the Chinese People's Political Consultative Conference; and Li Jinai, head of the General Armament Department of the People's Liberation Army.The spacecraft carried 100 peony seeds to investigate the effect of weightlessness on plants grown from them. The 52 experiments onboard investigated areas in physics, biology, medicine, earth observation, material science, and astronomy.Four tracking ships were used for the mission — one off the coast of South Africa in the South Atlantic Ocean, one in the Indian Ocean near Western Australia, one in the North Pacific Ocean south of Japan, and one in the South Pacific Ocean west of New Zealand.The reentry module landed safely about 40 kilometres (25 mi) from Hohhot, Inner Mongolia. As with previous flights, the command for reentry to begin was given by a tracking ship off the coast of South Africa. It was thought before the flight that the Chinese would attempt a water landing to test the emergency system but this did not happen. The orbital module remained in orbit until September 9, 2003.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kalpana-1",
+        "abstract": "Kalpana-1 is the first dedicated meteorological satellite launched by Indian Space Research Organisation using Polar Satellite Launch Vehicle on 2002-09-12. This was the first satellite launched by the PSLV into the Geostationary orbit.The satellite was originally known as MetSat-1. On February 5, 2003 it was renamed to Kalpana-1 by the Indian Prime Minister Atal Bihari Vajpayee in memory of Kalpana Chawla—a NASA astronaut who perished in the Space Shuttle Columbia disaster.The METSAT bus was used as the basis for the Chandrayaan lunar orbiter mission of 2008.The satellite features a Very High Resolution scanning Radiometer (VHRR), for three-band images and a Data Relay Transponder (DRT) payload.",
+        "json-uri": "http://dbpedia.org/data/Kalpana-1.jsond",
+        "instrumentation": [
+            "Very_High_Resolution_Radiometer"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/NSS-7",
+        "abstract": "NSS-7 is a communications satellite owned by SES World Skies. It launched on 16 April 2002 on an AR-44L model of the Ariane 4 launch vehicle.It is a hybrid Ku- and C-band telecommunications satellite providing fixed satellite services, including video distribution, Internet access, corporate business networking and fixed services such as telephony and data. Based on an enhanced version of Lockheed Martin's A2100AX satellite bus, this 72 transponder satellite initially operated at 22° West longitude over the Atlantic Ocean, providing coverage to the whole of Africa. In May 2012 it shifted over to the 20° West location to take over the duties of NSS-5.",
+        "json-uri": "http://dbpedia.org/data/NSS-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Foton-M_No.1",
+        "abstract": "Foton-M No.1 was an unmanned space mission by the European Space Agency[citation needed] aboard a Russian Soyuz-U rocket that failed to launch successfully. The spacecraft's payload consisted of 44 experiments prepared by the European Space Agency, Fluidpac, BIOPAN-4, Telescience Support Unit, and others. The mission was supposed to consist of 15 days spent in orbit of the Earth and then re-enter for a landing near the Russia-Kazakhstan border.The launch occurred at the Plesetsk Cosmodrome on 15 October 2002 at 18:20 UTC. The launch failed after one of the rocket's five engines did not start, resulting in an unstable flight. Approximately fifteen seconds after liftoff, the rocket fell back to the ground and exploded. The explosion killed 20-year-old soldier Ivan Marchenko, who had been watching the launch from behind a large glass window in a processing facility a kilometre from the launch pad. Eight other soldiers who were with Marchenko were injured, six being hospitalised. Rocket fragments fell in the woods in the same area starting a forest fire, and the Blok D strap-on booster which came off during disintegration impacted the launch pad,[citation needed] causing structural damage. The rocket and all its experimental payloads were a complete loss.",
+        "json-uri": "http://dbpedia.org/data/Foton-M_No.1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hot_Bird_7",
+        "abstract": "Hot Bird 7 was a French communications satellite which was lost in a launch failure in 2002. Intended for operation by Eutelsat, it was to have provided direct to home broadcasting services from geostationary orbit as part of Eutelsat's Hot Bird Hot Bird constellation at a longitude of 13 degrees east. Hot Bird 7 was intended to replace the Hot Bird 3 satellite which had been launched in 1997.Hot Bird 7 was constructed by Astrium, and was based on the Eurostar-2000+ satellite bus. It had a mass of 3,400 kilograms (7,500 lb) and was expected to have an operational lifespan of 15 years. The spacecraft was equipped with 40 Ku-band transponders, for broadcasting satellite television and radio. It would have broadcast to homes in Europe, the Middle East and North Africa.Arianespace was contracted to launch Hot Bird 7 on the maiden flight of the Ariane 5ECA carrier rocket, an upgraded version of the Ariane 5 intended to offer increased payload capacity to geosynchronous transfer orbit. The Stentor technology demonstration satellite, to have been operated by the French space agency CNES, was also aboard the rocket. The launch took place from ELA-3 at Kourou, French Guiana, at 22:22 UTC on 11 December 2002, bound for geosynchronous transfer orbit.Around three minutes after liftoff, performance issues with the first stage's Vulcain 2 engine — which was making its first flight — began to be noted. By the time of fairing separation, 183 seconds into the flight, the rocket was tumbling out of control. It began to lose altitude and speed, before being destroyed by range safety seven minutes and 36 seconds after launch. The failure was attributed to an engine cooling problem which developed around 96 seconds into the mission, causing the engine to destroy itself. Due to the failure the next Ariane 5 launch, which had been scheduled to carry the European Space Agency's Rosetta spacecraft in January 2003, was delayed - causing Rosetta to miss its launch window for a mission to comet 46P/Wirtanen. Rosetta was subsequently retargeted to 67P/Churyumov–Gerasimenko and launched successfully in 2004.",
+        "json-uri": "http://dbpedia.org/data/Hot_Bird_7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Gravity_Recovery_and_Climate_Experiment",
+        "abstract": "The Gravity Recovery And Climate Experiment (GRACE), a joint mission of NASA and the German Aerospace Center, has been making detailed measurements of Earth's gravity field anomalies since its launch in March 2002.Gravity is determined by mass. By measuring gravity anomalies, GRACE shows how mass is distributed around the planet and how it varies over time. Data from the GRACE satellites is an important tool for studying Earth's ocean, geology, and climate.GRACE is a collaborative endeavor involving the Center for Space Research at the University of Texas, Austin; NASA's Jet Propulsion Laboratory, Pasadena, Calif.; the German Space Agency and Germany's National Research Center for Geosciences, Potsdam. The Jet Propulsion Laboratory is responsible for the overall mission management under the NASA ESSP program.The principal investigator is Dr. Byron Tapley of the University of Texas Center for Space Research, and the co-principal investigator is Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam.The GRACE satellites were launched from Plesetsk Cosmodrome, Russia on a Rockot (SS-19 + Breeze upper stage) launch vehicle, on March 17, 2002.As of November 2012 the craft should remain in a slowly decaying orbit until 2015 or 2016.",
+        "json-uri": "http://dbpedia.org/data/Gravity_Recovery_and_Climate_Experiment.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2395",
+        "abstract": "Kosmos 2395 (Russian: Космос 2395 meaning Cosmos 2395) is one of a set of three Russian military satellites launched in 2002 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2394 and Kosmos 2396.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 792.Kosmos 2394/5/6 were launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 07:37 UTC on 25 December 2002. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2002-060C. The United States Space Command assigned it the Satellite Catalog Number 27619.It was in the third orbital plane in orbital slot 21. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2395.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-112",
+        "abstract": "STS-112 (ISS assembly flight 9A) was an 11-day space shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. Space Shuttle Atlantis was launched on 7 October 2002 at 19:45 UTC from the Kennedy Space Center's launch pad 39B to deliver the 28,000 pound Starboard 1 (S1) truss segment to the Space Station. Ending a 4.5-million-mile journey, Atlantis landed at 15:44 UTC on 18 October 2002 on runway 33 at the Kennedy Space Center's Shuttle Landing Facility.During the launch, the ET bipod ramp shed a chunk of foam that caused a dent ~4\" wide and 3\" deep into the metal SRB-ET Attach Ring near the bottom of the left SRB. Prior to the next mission (STS-113), an upper-level decision was made at NASA to continue with launches as scheduled. The launch subsequent to that was the ill-fated STS-107.Space shuttle Atlantis had been scheduled to visit the International Space Station (ISS) again on STS-114 mission in March 2003; however, due to the loss of Columbia, all space shuttles, including Atlantis, were temporarily grounded. Due to rescheduling of missions, Atlantis did not fly again until STS-115 on 9 September 2006.",
+        "json-uri": "http://dbpedia.org/data/STS-112.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Envisat",
+        "abstract": "Envisat (\"Environmental Satellite\") is an inoperative Earth-observing satellite still in orbit. It was launched on 1 March 2002 aboard an Ariane 5 from the Guyana Space Centre in Kourou, French Guiana, into a Sun synchronous polar orbit at an altitude of 790 km (490 mi) (± 10 km (6.2 mi)). It orbits the Earth in about 101 minutes with a repeat cycle of 35 days. After losing contact with the satellite on 8 April 2012, ESA formally announced the end of Envisat's mission on 9 May 2012.Envisat is the European Space Agency's (ESA) largest civilian Earth observation satellite put into space.",
+        "json-uri": "http://dbpedia.org/data/Envisat.jsond",
+        "instrumentation": [
+            "ASAR, RA-2, MWR, MIPAS, MERIS, AATSR, DORIS, GOMOS, SCIAMACHY"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2388",
+        "abstract": "Kosmos 2388 (Russian: Космос 2388 meaning Cosmos 2388) was a Russian US-K missile early warning satellite which was launched in 2002 as part of the Russian Space Forces' Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2388 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 22:06 UTC on 1 April 2002. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 2002-017A. The United States Space Command assigned it the Satellite Catalog Number 27409.It stopped undertaking maneuvers to remain in its orbital position in November 2006 and re-entered the atmosphere on 14 September 2011.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2388.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-46",
+        "abstract": "Progress M-46, identified by NASA as Progress 8 or 8P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 246.Progress M-46 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 05:36:30 GMT on 26 June 2002. The spacecraft docked with the Aft port of the Zvezda module at 05:36:30 GMT on 29 June. Prior to docking it was used to conduct tests of the Kurs docking system. It remained docked for three months before undocking at 13:58:49 GMT on 24 September 2002 to make way for Progress M1-9. It was deorbited at 09:34:00 GMT on 14 October. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 10:21:59 GMT.Progress M-46 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-46.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-8",
+        "abstract": "Progress M1-8, identified by NASA as Progress 7 or 7P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 257.Progress M1-8 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 20:13:39 GMT on 21 March 2002. The spacecraft docked with the Aft port of the Zvezda module at 20:57:56 GMT on 24 March. It remained docked for three months before undocking at 08:26:30 GMT on 25 June to make way for Progress M-46. It was deorbited at 11:35:00 GMT on the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 12:26:52 GMT.Progress M1-8 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-1",
+        "abstract": "Soyuz TMA-1a. was a Soyuz mission to the International Space Station (ISS) launched by a Soyuz FG launch vehicle with a Russian-Belgian cosmonaut crew blasted off from the Baikonur Cosmodrome in Kazakhstan. This was the fifth Russian Soyuz class shuttle to fly to the International Space Station. It is also the first flight of the TMA-class Soyuz spacecraft. Soyuz TM-34 was the last of the prior Soyuz-TM spacecraft to be launched.The Soyuz is a three-seat spacecraft is to transport astronauts to the ISS and then there will always be one attached to the ISS for a rescue vehicle for the crew of the outpost. The onboard resources and properties of propellant loaded in the reentry capsule of the Soyuz limit safe operation of the craft in space to six months; thus, Russia committed to fly a new or refurbished Soyuz to the ISS every six months to replace the previous one. These missions to replace the Soyuz at the ISS became known as \"taxi\" flights.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NOAA-17",
+        "abstract": "NOAA-17 was a weather forecasting satellite operated by NOAA. It was launched on 24 June 2002, in a sun-synchronous orbit, 824 km above the Earth, orbiting every 101 minutes. It hosted the AMSU, AVHRR and High Resolution Infrared Radiation Sounder (HRIS) instruments. The satellite was retied in 2013.Automatic Picture Transmission frequency was 137.5 MHz.NOAA-17 was decommissioned on 10 April 2013.",
+        "json-uri": "http://dbpedia.org/data/NOAA-17.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INTEGRAL",
+        "abstract": "INTErnational Gamma-Ray Astrophysics Laboratory (INTEGRAL) is a currently operational space telescope for observing gamma rays. It was launched by the European Space Agency into Earth orbit in 2002, and is designed to detect some of the most energetic radiation that comes from space. It is the most sensitive gamma ray observatory ever launched.INTEGRAL is an ESA mission in cooperation with the Russian Space Agency and NASA. It has had some notable successes, for example in detecting a mysterious 'iron quasar'. It has also had great success in investigating gamma-ray bursters and evidence for black holes.",
+        "json-uri": "http://dbpedia.org/data/INTEGRAL.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/FedSat",
+        "abstract": "FedSat (Australia's 'Federation Satellite') is an Australian scientific research satellite launched from Tanegashima Space Center, Japan by a NASDA H-IIA launch vehicle in December 2002 (NASDA is now merged with JAXA). The satellite was developed by the Cooperative Research Centre for Satellite Systems, a cooperative made up of several universities, commercial organisations and government bodies. The ground station is at the Institute for Telecommunications Research, part of the University of South Australia, near Adelaide. Since 2005 it was operated by the Australian Department of Defence.",
+        "json-uri": "http://dbpedia.org/data/FedSat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_3A",
+        "abstract": "Astra 3A is one of the Astra communications satellites owned and operated by SES, launched in 2002 to the Astra 23.5°E orbital slot to provide digital television and radio for DTH and cable, multimedia and interactive services, corporate networks, and occasional and other business services to central Europe.The satellite provides two broadcast beams, of horizontal and vertical polarisation, across two footprints that covered essentially the same areas of Europe – principally the countries of central Europe.Astra 3A was launched to provide follow-on capacity to replace the DFS-Kopernikus 3 satellite and deliver additional capacity for the Benelux countries and central Europe, to create SES-Astra’s third major European satellite hotspot after Astra 19.2°E and Astra 28.2°E with access to channels at both positions using a single dish fitted with a monoblock Duo LNB.In that role, TV signals could be received with a 50 cm dish across Germany, Austria, Switzerland, Belgium, the Netherlands, Luxembourg, the Czech Republic, most of Denmark, and in parts of France, Italy, Poland, Slovenia, and Slovakia. Reception was even possible as far afield as Scotland, Sweden and Serbia when a larger dish (around 110 cm) was used.In addition to contribution feeds and individual TV channels, Astra 3A carried pay-TV networks including Kabel Deutschland (Germany), CanalDigitaal (The Netherlands), TV Vlaanderen (Belgium), CS Link (Slovakia and Czech Republic) and Skylink (Slovakia and Czech Republic). On February 1, 2012 Kabel Deutschland left Astra 3A and during 2012 other services were transferred off the satellite. As of October 2012, Astra 3A was in an inclined orbit at 23.7°E with all services carried by the adjacent Astra 3B craft.In November 2013, Astra 3A was moved to 177°W where it remains, in inclined orbit, to provide backup to SES' NSS-9 satellite.",
+        "json-uri": "http://dbpedia.org/data/Astra_3A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-109",
+        "abstract": "STS-109 (SM3B) was a Space Shuttle mission that launched from the Kennedy Space Center on 1 March 2002. It was the 108th mission of the Space Shuttle program, the 27th flight of the orbiter Columbia and the fourth servicing of the Hubble Space Telescope. It was also the last successful mission of the orbiter Columbia before the ill-fated STS-107 mission, which culminated in the Columbia disaster.The Hubble Space Telescope (HST) was placed in orbit during mission STS-31 on 25 April 1990. Initially designed to operate for 15 years, plans for periodic service and refurbishment were incorporated into its mission from the start. After the successful completion of the second planned service mission (SM2) by the crew of STS-82 in February 1997, three of HST's six gyroscopes failed. NASA decided to split the third planned service mission into two parts, SM3A and SM3B. A fifth and final servicing mission, STS-125 (SM4) launched 11 May 2009 The work performed during SM4 is expected to keep HST in operation through 2014.",
+        "json-uri": "http://dbpedia.org/data/STS-109.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ADEOS_II",
+        "abstract": "ADEOS II (Advanced Earth Observing Satellite 2) was an Earth observation satellite launched by NASDA, NASA and CNES in December 2002. Its Japanese name was Midori 2, and it was the successor to the 1996 mission ADEOS I. The mission ended in October 2003 after the satellite's solar panels failed.",
+        "json-uri": "http://dbpedia.org/data/ADEOS_II.jsond",
+        "instrumentation": [
+            "AMSR, GLI, ILAS-II, POLDER, SeaWinds"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-110",
+        "abstract": "STS-110 was a Space Shuttle mission to the International Space Station (ISS) on 8–19 April 2002 flown by Space Shuttle Atlantis. The main purpose was to install the S0 Truss segment, which forms the backbone of the truss structure on the station.",
+        "json-uri": "http://dbpedia.org/data/STS-110.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NSS-6",
+        "abstract": "NSS-6 is a communications satellite owned by SES WORLD SKIES.NSS-6 covers the whole of Asia with six high-performance Ku band beams, which can deliver broadband media to small businesses, ISPs or domestic rooftop antennas in those markets. The satellite delivers Direct-To-Home power and performance, as well as significant inter-regional connectivity. High-gain uplink performance (i.e. high receiver G/T figures) allows the use of small uplink antennas and/or amplifiers. Manufacturer: Lockheed-Martin Orbital Location: 95° East Launch date: December 17, 2002 Launch Vehicle: Ariane 4 Number of Transponders (physical): Ku band: 50 Number of Transponders (36 MHz Equivalent): 60 Saturated EIRP Range: Ku band: 44 to 55 dBW Frequency Band: Ku band uplink: 13.75 to 14.50 GHz Frequency Band: Ka band uplink: 29.5 to 30.0 GHz Frequency Band: Ku band downlink: 10.95 to 11.20 GHz, 11.45 to 11.70 GHz, 12.50 to 12.75 GHz↑",
+        "json-uri": "http://dbpedia.org/data/NSS-6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-113",
+        "abstract": "STS-113 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. During the 14-day mission in late 2002, Endeavour and its crew extended the ISS backbone with the P1 truss and exchanged the Expedition 5 and Expedition 6 crews aboard the station. With Commander Jim Wetherbee and Pilot Paul Lockhart at the controls, Endeavour docked with the station on 25 November 2002 to begin seven days of station assembly, spacewalks and crew and equipment transfers. This was Endeavour’s last flight before entering its Orbiter Major Modification period until 2007, and also the last shuttle mission before the Columbia disaster.",
+        "json-uri": "http://dbpedia.org/data/STS-113.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2393",
+        "abstract": "Kosmos 2393 (Russian: Космос 2393 meaning Cosmos 2393) is a Russian US-K missile early warning satellite which was launched in 2002 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2393 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 12:20 UTC on 24 December 2002. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 2002-059A. The United States Space Command assigned it the Satellite Catalog Number 27613.It stopped undertaking maneuvers to remain in its orbital position in February 2007 which probably indicates that it was not working from that date. It re-entered on December 22, 2013, according to one source.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2393.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-34",
+        "abstract": "Soyuz TM-34 was the fourth Soyuz mission to the International Space Station (ISS). Soyuz TM-34 was launched by a Soyuz-U launch vehicle.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-34.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MDS-1",
+        "abstract": "Mission Demonstration Satellite 1 \"Tsubasa\" (MDS-1) was a Japanese technology test mission. Its aim was to test commercial off the shelf components in space, especially in the radiation belt. The whole weight of the satellite was 475 kg.It was launched by the second H-2A on February 4, 2002. Tsubusa got retired on February 26, 2003. MDS-2 was cancelled because of budget reasons.",
+        "json-uri": "http://dbpedia.org/data/MDS-1.jsond",
+        "instrumentation": []
+    }
+]

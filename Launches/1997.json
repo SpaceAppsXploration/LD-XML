@@ -1,0 +1,238 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2345",
+        "abstract": "Kosmos 2345 (Russian: Космос 2345 meaning Cosmos 2345) is a Russian US-KS missile early warning satellite which was launched in 1997 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2345 was launched from Site 200/39 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 20:49 UTC on 14 August 1997. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1997-041A. The United States Space Command assigned it the Satellite Catalog Number 24894.It was the last US-KS satellite and was operational for about 18 months.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2345.jsond",
+        "instrumentation": [
+            "Smaller telescopes",
+            "Infrared sensor/s",
+            "Optical telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-85",
+        "abstract": "STS-85 was a Space Shuttle Discovery mission to perform multiple space science packages. It was launched from Kennedy Space Center, Florida, on 7 August 1997.",
+        "json-uri": "http://dbpedia.org/data/STS-85.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tropical_Rainfall_Measuring_Mission",
+        "abstract": "The Tropical Rainfall Measuring Mission (TRMM) is a joint space mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall. The term refers to both the mission itself and the satellite that the mission uses to collect data. TRMM is part of NASA's Mission to Planet Earth, a long-term, coordinated research effort to study the Earth as a global system. The satellite was launched on November 27, 1997 from the Tanegashima Space Center in Tanegashima, Japan.",
+        "json-uri": "http://dbpedia.org/data/Tropical_Rainfall_Measuring_Mission.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cassini%E2%80%93Huygens",
+        "abstract": "Cassini–Huygens is an unmanned spacecraft sent to the planet Saturn. It is a flagship-class NASA-ESA-ASI robotic spacecraft sent to the Saturn system. It has studied the planet and its many natural satellites since arriving there in 2004, also observing Jupiter, the heliosphere, and testing the theory of relativity. Launched in 1997 after nearly two decades of development, it includes a Saturn orbiter and an atmospheric probe/lander for the moon Titan called Huygens, which entered and landed on Titan in 2005. Cassini is the fourth space probe to visit Saturn and the first to enter orbit, and its mission is ongoing as of 2014. The two-part spacecraft is named after astronomers Giovanni Cassini and Christiaan Huygens.It launched on October 15, 1997 on a Titan IVB/Centaur and entered into orbit around Saturn on July 1, 2004, after an interplanetary voyage which included flybys of Earth, Venus, and Jupiter. On December 25, 2004, Huygens separated from the orbiter at approximately 02:00 UTC. It reached Saturn's moon Titan on January 14, 2005, when it entered Titan's atmosphere and descended to the surface. It successfully returned data to Earth, using the orbiter as a relay. This was the first landing ever accomplished in the outer Solar System.On April 3, 2014, NASA reported that evidence for a large underground ocean of liquid water on Enceladus, moon of planet Saturn, had been found by Cassini. According to the scientists, evidence of an underground ocean suggests that Enceladus is one of the most likely places in the solar system to \"host microbial life\".",
+        "json-uri": "http://dbpedia.org/data/Cassini%E2%80%93Huygens.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Iridium_33",
+        "abstract": "Iridium 33 was a U.S. Iridium communications satellite. It was launched into low Earth orbit from Site 81/23 at the Baikonur Cosmodrome at 01:36 GMT on 14 September 1997, by a Proton-K carrier rocket with a Block DM2 upper stage. It was operated in Plane 3 of the Iridium satellite constellation, with an ascending node of 230.9°.",
+        "json-uri": "http://dbpedia.org/data/Iridium_33.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-94",
+        "abstract": "STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.",
+        "json-uri": "http://dbpedia.org/data/STS-94.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-1D",
+        "abstract": "IRS-1D is seventh satellite in Indian Remote Sensing satellite series of Earth Observation satellites, built, launched and maintained by Indian Space Research Organisation. The satellite has similar capabilities as that of ISRO's IRS-1C satellite with some improvements added for better imagery particularly in thematic mapping.",
+        "json-uri": "http://dbpedia.org/data/IRS-1D.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-132",
+        "abstract": "USA-132, also known as GPS IIR-2 and GPS SVN-43, is an American navigation satellite which forms part of the Global Positioning System. It was the second Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. GPS IIR-1 failed to achieve orbit, so USA-132 was the first successful Block IIR satellite. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-132 was launched at 03:43:01 UTC on 23 July 1997, atop a Delta II carrier rocket, flight number D245, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-132 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 22 August 1997, USA-132 was in an orbit with a perigee of 20,123 kilometres (12,504 mi), an apogee of 20,247 kilometres (12,581 mi), a period of 718.08 minutes, and 54.9 degrees of inclination to the equator. It is used to broadcast the PRN 13 signal, and operates in slot 3 of plane F of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-132.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sputnik_40",
+        "abstract": "Sputnik 40 (Russian: Спутник 40, French: Spoutnik 40), also known as Sputnik Jr, PS-2 and Radio Sputnik 17 (RS-17), was a Franco-Russian amateur radio satellite which was launched in 1997 to commemorate the fortieth anniversary of the launch of Sputnik 1, the world's first artificial satellite. A 4-kilogram (8.8 lb) one-third scale model of Sputnik 1, Sputnik 40 was deployed from the Mir space station on 3 November 1997. Built by students, the spacecraft was constructed at the Polytechnic Laboratory of Nalchik in Kabardino-Balkaria, whilst its transmitter was assembled by Jules Reydellet College in Réunion with technical support from AMSAT-France.",
+        "json-uri": "http://dbpedia.org/data/Sputnik_40.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PAS-22",
+        "abstract": "PAS-22, previously known as AsiaSat 3 and then HGS-1, was a geosynchronous communications satellite which was salvaged from an unusable geosynchronous transfer orbit by means of the Moon's gravity.",
+        "json-uri": "http://dbpedia.org/data/PAS-22.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_5",
+        "abstract": "Intelsat 5 (aka IS-5, PAS-5 and Arabsat 2C) was a satellite providing television and communication services for ITSO and Inmarsat, which it was jointly commissioned by. It was manufactured by Aeronutronics. At beginning of life, it generates nearly 10 kilowatts. This version takes advantage of such advances as dual-junction gallium arsenide solar cells, new battery technology and the first commercial use of a high-efficiency xenon ion propulsion system (XIPS).PanAmSat became HSC's first customer to launch the new model, on Aug. 28, 1997, on a Russian Proton-K Blok-DM3 rocket from the Baikonur Cosmodrome in Kazakhstan. PAS-5 provides satellite services in the Americas, with access to Europe, including direct-to-home television services in Mexico.Controllers began noticing degradation of the nickel-hydrogen battery in PAS-5 earlier 1998. The effect on operations was analyzed in June 1998. During periods of peak solar eclipse, which occur twice a year, PanAmSat will be required to shut off a portion of the satellite's payload for some time. PanAmSat reportedly received a compensation of US$185 million from its insurers after the satellite was declared a \"total loss\" because its capacity was reduced by more than 50 percent.PAS 5 was leased in May 2002 to the Arab Satellite Communications Organisation (Arabsat).The television channels it broadcasts include BBC World News, Australia Network and regular feeds of Entertainment Tonight and The Wall Street Journal Report.As of September 28, 2012, BBC World News was replaced with a static video slate advising that the service would be only available on the existing horizontally aligned lower powered Pacific beam on Intelsat 19 which is 3.94 GHz @ 27.69 MBd QPSK 3/4. Intelsat 8 was moved to temporarily co-locate with Intelsat 5 at 169 deg E. and Intelsat 8 has been broadcasting Australia Network Pacific on the horizontally aligned Pacific Beam 4.1 GHz @ 26.479 MBd QPSK 3/4 when Intelsat 5 went silent and was sent to a higher \"junk\" orbit on October 19, 2012 around 2300 UTC. Intelsat 8 has an even lower powered beam than Intelsat 19 with a Pacific beam more focused on South East Asia and Australia than the South Pacific.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_5A",
+        "abstract": "Astra 5A was one of the Astra communications satellites owned and operated by SES at the Astra 31.5°E orbital slot. Launched in 1997 to the 5°E position by NSAB (later SES Sirius, and now a non-autonomous part of SES) as Sirius 2, operation of the satellite was transferred to SES in April 2008 and the craft renamed and moved to 31.5°E to open up a new orbital position for the company for the development of markets in Eastern Europe and the Middle East.Astra 5A failed in orbit in 2009.",
+        "json-uri": "http://dbpedia.org/data/Astra_5A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IndoStar-1",
+        "abstract": "IndoStar-1, which also known as Cakrawarta-1, is a communication satellite that was launched the evening of November 12, 1997 at 21:48 GMT aboard an Ariane 44L-3 rocket from Kourou, French Guiana, as the first direct broadcasting satellite (DBS) in Asia, IndoStar-1 would initiate a new communication service for Indonesian society such as direct-to-home television.",
+        "json-uri": "http://dbpedia.org/data/IndoStar-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-83",
+        "abstract": "STS-83 was a mission of the United States Space Shuttle Columbia.",
+        "json-uri": "http://dbpedia.org/data/STS-83.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Iridium_7",
+        "abstract": "Iridium 7 was an U.S. Iridium communications satellite. It was launched into low Earth orbit from Vandenberg Air Force Base at 14:55 GMT on 5 May 1997, by a Delta II 7920-10C carrier rocket. It was operated in Plane 4 of the Iridium satellite constellation, with an ascending node of 262.4°.",
+        "json-uri": "http://dbpedia.org/data/Iridium_7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-84",
+        "abstract": "STS-84 was a manned spaceflight mission by Space Shuttle Atlantis to the Mir space station.",
+        "json-uri": "http://dbpedia.org/data/STS-84.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Lewis_(satellite)",
+        "abstract": "Lewis was an American satellite which was to have been operated by NASA as part of the Small Satellite Technology Initiative. It carried two experimental Earth imaging instruments, and an ultraviolet astronomy payload. Due to a design flaw it failed within three days of reaching orbit, before it became operational.Lewis was a 288 kilograms (635 lb) spacecraft, which was designed to operate for between one and three years. It was built by TRW under a contract which was signed on 11 July 1994. Its primary instruments were the Hyperspectral Imager, the Linear Etalon Imaging Spectral Array and the Ultraviolet Cosmic Background experiment. A number of technology demonstration payloads were also flown.",
+        "json-uri": "http://dbpedia.org/data/Lewis_(satellite).jsond",
+        "instrumentation": [
+            "Hyperspectral_Imager",
+            "Linear_Etalon_Imaging_Spectral_Array",
+            "Ultraviolet_Cosmic_Background"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Huygens_(spacecraft)",
+        "abstract": "Huygens was an atmospheric entry probe that landed successfully on Saturn's moon Titan in 2005. Built and operated by the European Space Agency (ESA), it was part of the Cassini–Huygens mission and became the first spacecraft ever to land on Titan. The probe was named after the Dutch 17th-century astronomer Christiaan Huygens.The combined Cassini–Huygens spacecraft was launched from Earth on October 15, 1997. Huygens separated from the Cassini orbiter on December 25, 2004, and landed on Titan on January 14, 2005 near the Xanadu region. This was the first landing ever accomplished in the outer solar system. It touched down on land, although the possibility that it would touch down in an ocean was also taken into account in its design. The probe was designed to gather data for a few hours in the atmosphere, and possibly a short time at the surface. It continued to send data for about 90 minutes after touchdown. It remains the most distant landing of any man-made craft.",
+        "json-uri": "http://dbpedia.org/data/Huygens_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2342",
+        "abstract": "Kosmos 2342 (Russian: Космос 2342 meaning Cosmos 2342) is a Russian US-K missile early warning satellite which was launched in 1997 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2342 was launched from Site 43/4 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 00:33 UTC on 14 May 1997. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1997-022A. The United States Space Command assigned it the Satellite Catalog Number 24800.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2342.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-82",
+        "abstract": "STS-82 was the 22nd flight of the Space Shuttle Discovery and the 82nd mission of the Space Shuttle program. It was NASA's second mission to service the Hubble Space Telescope, during which Discovery's crew repaired and upgraded the telescope's scientific instruments, increasing its research capabilities. Discovery launched from Kennedy Space Center, Florida, on 11 February 1997, returning to Earth on 21 February 1997 at Kennedy Space Center.",
+        "json-uri": "http://dbpedia.org/data/STS-82.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-135",
+        "abstract": "USA-135, also known as GPS IIA-19, GPS II-28 and GPS SVN-38, is an American navigation satellite which forms part of the Global Positioning System. It was the last of nineteen Block IIA GPS satellites to be launched.USA-135 was launched at 00:30:00 UTC on 6 November 1997, atop a Delta II carrier rocket, flight number D249, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-135 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 13 December 1997, USA-135 was in an orbit with a perigee of 19,912 kilometres (12,373 mi), an apogee of 20,449 kilometres (12,706 mi), a period of 717.9 minutes, and 54.9 degrees of inclination to the equator. It broadcasts the PRN 08 signal, and operates in slot 3 of plane A of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-135.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nahuel_1A",
+        "abstract": "Nahuel 1A was a Spacebus 2000NG satellite manufactured by Aérospatiale in Cannes-Mandelieu and launched on January 30, 1997 by an Ariane 44L launcher.The satellite was located in the -71.8 degrees slot. It was operated by Nahuelsat S.A., the first satellite operator of Argentina from its ground station in Benavidez, province of Buenos Aires.Satellite mass was 1.8T wet, 860 kg dry. Nominal lifetime was 12 years. It had 18 54 MHz transponders implemented with 55W TWTAs in three Ku and extended Ku band coverages.It was successfully reorbited in June 2010, when most of the on-board propellant depleted, using the remaining propellant and blowdown helium still stored in the propellant tanks.",
+        "json-uri": "http://dbpedia.org/data/Nahuel_1A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-81",
+        "abstract": "STS-81 was a January 1997 Space Shuttle Atlantis mission to the Mir space station.",
+        "json-uri": "http://dbpedia.org/data/STS-81.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GPS_IIR-1",
+        "abstract": "GPS IIR-1 or GPS SVN-42 was the first Block IIR GPS satellite to be launched. It was to have been operated as part of the United States Air Force Global Positioning System. It was launched on 17 January 1997, however it was destroyed thirteen seconds into its flight due to a malfunction of the Delta II rocket that was carrying it. It was estimated to have cost US$40 million, with its carrier rocket costing $55 million. The satellite which was used for the IIR-1 mission was the second production IIR satellite, SVN-42.",
+        "json-uri": "http://dbpedia.org/data/GPS_IIR-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-86",
+        "abstract": "STS-86 was a Space Shuttle Atlantis mission to the Mir space station. This was the last Atlantis mission before it was taken out of service temporarily for maintenance and upgrades, including the glass cockpit.",
+        "json-uri": "http://dbpedia.org/data/STS-86.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Advanced_Composition_Explorer",
+        "abstract": "Advanced Composition Explorer (ACE) is a NASA Explorer program Solar and space exploration mission to study matter comprising energetic particles from the solar wind, the interplanetary medium, and other sources. Real-time data from ACE is used by the Space Weather Prediction Center to improve forecasts and warnings of solar storms. The ACE robotic spacecraft was launched August 25, 1997 and is currently operating in a Lissajous orbit close to the L1 Lagrange point (which lies between the Sun and the Earth at a distance of some 1.5 million km from the latter). The spacecraft is still in generally good condition, and has enough fuel to maintain its orbit until 2024. NASA Goddard Space Flight Center managed the development and integration of the ACE spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Advanced_Composition_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-3",
+        "abstract": "AMC-3 (formerly GE 3) is a commercial broadcast communications satellite owned by SES World Skies, formerly SES Americom and before that GE Americom. Launched on September 4, 1997, from Cape Canaveral, Florida, AMC-3 is a hybrid C band/Ku band satellite. It provides coverage to the continental United States, Canada, the Caribbean islands, southern Greenland, and Central America. Located in a geostationary orbit parallel to the Yucatán Peninsula and Great Lakes, AMC-3 provides service to commercial and government customers, with programming distribution, satellite news gathering and broadcast internet capabilities.",
+        "json-uri": "http://dbpedia.org/data/AMC-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_25",
+        "abstract": "Galaxy 25 (G-25) launched in 1997 (formerly known as Intelsat Americas 5 (IA-5) until February 15, 2007 when it was renamed as result of the merger between owner Intelsat and PanAmSat or Telstar 5) is a medium-powered communications satellite formerly in a geostationary orbit at 0°N 97°W﻿ / 0; -97, above a point in the Pacific Ocean several hundred miles west of the Galapagos Islands. It was manufactured by Space Systems/Loral, part of its FS-1300 line, and is currently owned and operated by Intelsat. The satellite's main C-band transponder cluster covers the United States, southern Canada, and Mexico; its main Ku band transponder cluster covers the U.S., Mexico, and the northern Caribbean Sea. An additional C-band and a Ku band transponder pair targets the Hawaiian Islands.Galaxy 25 has a projected life of 12 years. It was replaced by Galaxy 19 (formerly IA-9) in late 2008. When it was last in service at 97 degrees west, Galaxy 25 transmitted both free-to-air (FTA) direct-to-home (DTH) broadcasting and encrypted subscription channels / services. The replacement satellite, Galaxy 19 was successfully launched on September 24, 2008. Galaxy 25 has been moved to a different orbital position at 0°N 93.1°W﻿ / 0; -93.1 where it is currently broadcasting several services on its Ku band transponders.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_25.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-34",
+        "abstract": "Progress M-34 was a Russian unmanned cargo spacecraft which was launched in 1997 to resupply the Mir space station, and which subsequently collided with Mir during a docking attempt, resulting in significant damage to the space station.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-34.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Inmarsat-3_F4",
+        "abstract": "Inmarsat-3 F4 is a communications satellite operated by the British satellite operator Inmarsat. It was launched into a geosynchronous orbit on June 4, 1997. It is currently located at 54° West longitude, providing coverage of the Americas.Inmarsat-3 F4 was constructed by Lockheed-Martin, using an AS-4000 bus. It has a mass of 2,068 kilograms, and is expected to operate for 13 years.In the United States, Inmarsat ground stations are licensed to operate at 1525-1559 MHz and 1626.5-1660.5 MHz. The 1544-1545 MHz and 1645.5-1646.5 MHz bands are reserved for safety and distress communications.",
+        "json-uri": "http://dbpedia.org/data/Inmarsat-3_F4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-87",
+        "abstract": "STS-87 was a Space Shuttle mission launched from Launch Complex 39B of the Kennedy Space Center on 19 November 1997. It was the 88th flight of the Space Shuttle, and the 24th flight of Columbia. The mission goals were to conduct experiments using the United States Microgravity Payload (USMP-4), conduct two EVAs, and to deploy the SPARTAN-201 experiment. This mission marked the first time an EVA was performed from Columbia. An EVA from Columbia was originally planned for STS-5 in 1982, but was cancelled due to spacesuit problems. It also marked the first EVA conducted by a Japanese astronaut, Takao Doi.",
+        "json-uri": "http://dbpedia.org/data/STS-87.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-26",
+        "abstract": "Soyuz TM-26 is a Russian spacecraft that ferried cosmonauts and supplies to the Mir, the Russian space station. It was the 32nd expedition to Mir. It was launched by a Soyuz-U rocket from Baikonur Cosmodrome on August 5, 1997. The main mission was to transport two specially-trained cosmonauts to repair or salvage the troubled space station.TM-26 docked with Mir on August 7 by manual control. The crew repaired the power cable and harness/connectors in the severely damaged Spektr module and restored much of the lost power; they also repaired and replaced the oxygen generators in Mir. The hole(s) in that module that caused total depressurization of the module could not be located during their spacewalk inside that module.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-26.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2340",
+        "abstract": "Kosmos 2340 (Russian: Космос 2340 meaning Cosmos 2340) is a Russian US-K missile early warning satellite which was launched in 1997 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2340 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 08:59 UTC on 9 April 1997. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1997-015A. The United States Space Command assigned it the Satellite Catalog Number 24761.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2340.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_10",
+        "abstract": "GOES 10, known as GOES-K before becoming operational, was an American weather satellite, which formed part of the US National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. It was launched in 1997, and after completing operations as part of the main GOES system, it was kept online as a backup spacecraft until December 2009, providing coverage of South America as GOES-SOUTH, and being used to assist with hurricane predictions for North America. It was retired and manoeuvred to a graveyard orbit on 1 December 2009.",
+        "json-uri": "http://dbpedia.org/data/GOES_10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-25",
+        "abstract": "Soyuz TM-25 was the 30th manned spacecraft mission to visit the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-25.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Agila_2",
+        "abstract": "Agila 2 (also known as Mabuhay 1 and ABS-5 after being acquired by Asia Broadcast Satellite), named after the critically endangered Philippine eagle, is a communications satellite launched in 1997. It provides telecommunications services for the Mabuhay Philippines Satellite Corporation. It is the first Filipino space satellite. Built by Space Systems/Loral, the satellite provides the most powerful coverage in the Asia-Pacific region. It covers the entire continent of Asia east of Pakistan, as well as the Western Pacific west of Hawaii. Its control station is located at the Subic Space Center in the Subic Bay Freeport Zone. The spacecraft was launched by the Long March 3B in its first successful flight and currently orbits at 146°E longitude.ABS Satellite is currently drifting Agila 2 (ABS-5) to the 3°W orbital slot and renaming it ABS-3. It's expected to enter service in December 2011.",
+        "json-uri": "http://dbpedia.org/data/Agila_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/HALCA",
+        "abstract": "HALCA (Highly Advanced Laboratory for Communications and Astronomy), also known for its project name VSOP (VLBI Space Observatory Programme), or the code name MUSES-B (for the second of the Mu Space Engineering Spacecraft series), is a Japanese 8 meter diameter radio telescope satellite which was used for Very Long Baseline Interferometry (VLBI). It was the first such space-borne dedicated VLBI mission.It was placed in a highly elliptical orbit with an apogee altitude of 21,400 km and a perigee altitude of 560 km, with an orbital period of approximately 6.3 hours. This orbit allowed imaging of celestial radio sources by the satellite in conjunction with an array of ground-based radio telescopes, such that both good (u,v) plane coverage and very high resolution were obtained.Although designed to observe in three frequency bands: 1.6 GHz, 5.0 GHz, and 22 GHz, it was found that the sensitivity of the 22 GHz band had severely degraded after orbital deployment, probably caused by vibrational deformation of the dish shape at launch, thus limiting observations to the 1.6 GHz and 5.0 GHz bands.HALCA was launched in February 1997 from Kagoshima Space Center, and made its final VSOP observations in October 2003, far exceeding its 3 year predicted lifespan, before the loss of attitude control. All operations were officially ended in November 2005.A follow-up mission ASTRO-G (VSOP-2) was planned, with a proposed launch date of 2012, but the project was eventually cancelled in 2011 due to increasing costs and the difficulties of achieving its science goals. It was expected to achieve resolutions up to ten times higher and up to ten times greater sensitivity than its predecessor HALCA.The cancellation of ASTRO-G leaves the Russian Spektr-R mission as the only currently operational space VLBI facility.",
+        "json-uri": "http://dbpedia.org/data/HALCA.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/FORTE",
+        "abstract": "The Fast On-orbit Rapid Recording of Transient Events (FORTE, occasionally stylized as FORTÉ) is a lightweight satellite which was launched at about 8:30 AM on August 29, 1997 into a circular 800-kilometer (500 mi) low Earth orbit which is inclined 70 degrees relative to the earth's equator, using a Pegasus XL rocket. It was developed and launched by the Sandia National Laboratory in cooperation with Los Alamos National Laboratory, as a testbed for technologies applicable to U.S. nuclear detonation detection systems used to monitor compliance with arms control treaties, and later to study lightning from space. The project was sponsored by the United States Department of Energy, and cost about US$35 million. It utilizes optical sensors, RF sensors, and an \"event classifier\" in order to make observations, including monitoring Very High Frequency (VHF) lightning emissions in the ionosphere occurring from between 50 to 600 miles (80 to 966 km) above the surface of the Earth, and it will be a component of the VHF Global Lightning and Severe Storm Monitor (V-GLASS) system. Its primary mission is to record and analyze bursts of RF energy rising from the surface of the Earth. FORTE is 7-foot (2.1 m) tall, weighs 470-pound (210 kg), and is the first all-composite spacecraft, its framework being made entirely of graphite-reinforced epoxy. It consists of three decks with aluminum honeycomb cores, and composite facing to support the onboard instruments.",
+        "json-uri": "http://dbpedia.org/data/FORTE.jsond",
+        "instrumentation": []
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/EchoStar_VI",
+        "abstract": "EchoStar VI or EchoStar 6 is an American communications satellite which is operated by EchoStar. It was constructed by Space Systems Loral and is based on the LS-1300 satellite bus. Its launch was contracted by International Launch Services, using an Atlas IIAS carrier rocket. The launch occurred at 05:21 GMT on 14 July 2000 from Space Launch Complex 36B at the Cape Canaveral Air Force Station.It was originally built as Sky 1B or MCI-2 for MCI Communications. This was later cancelled and the satellite was rebuilt as Echostar VI. Following its launch and on-orbit testing, it was placed in geostationary orbit at 73° East, from where it provides broadcast and communications services to Europe using wide-band feeds. It carries thirty two transponders, and has an expected on-orbit lifespan of 12 years.In March and August 2010, the satellite experienced solar-array anomalies resulting in the loss of 24 (of an initial 108) solar cell strings. Although the anomalies did not reduce the estimated useful life, the power reduction limits it to operating 24 DBS transponders (of the initial 32) at approximately 125 watts per channel, or 12 DBS transponders (of an original 16) at approximately 250 watts per channel.",
+        "json-uri": "http://dbpedia.org/data/EchoStar_VI.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_2D",
+        "abstract": "Astra 2D is one of the Astra communications satellites owned and operated by SES, and located at 28.2° east in the Clarke Belt. It is a Hughes HS-376 craft, and was launched from the Guiana Space Centre in December 2000 to join Astra 2A and Astra 2B at 28.2°E, where it has remained for its active life.As of February 2013, Astra 2D carries no regularly active transponders and is operating in an inclined orbit.",
+        "json-uri": "http://dbpedia.org/data/Astra_2D.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_9",
+        "abstract": "Intelsat 9 (IS-9) (formerly PAS-9) is an Intelsat Atlantic Ocean region satellite which delivers communications services throughout the Americas, the Caribbean and Western Europe. Following its launch from a floating platform in the Pacific Ocean (Sea Launch), Intelsat 9 succeeded the PAS-5 Atlantic Ocean Region satellite at 58 degrees west longitude, serving as the video neighborhood in the region as well as providing Internet and data services.Intelsat 9 also serves as the transmission platform for SKY México's direct-to-home (DTH) service. The service employs a dozen Ku-band transponders on Intelsat 9 for the digital delivery of more than 160 channels directly to consumers' homes.On 11 September 2001, the Al Jazeera network used the PAS 9 to broadcast the tragedies occurring in New York into Qatar.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/Intelsat_9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-3B",
+        "abstract": "INSAT-3B is an Indian communications satellite which was built and is operated by the Indian Space Research Organisation.",
+        "json-uri": "http://dbpedia.org/data/INSAT-3B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MightySat-2.1",
+        "abstract": "MightySat-2.1, also known as P99-1 or Sindri was a small spacecraft developed by the Air Force Research Laboratory to test advanced technologies in imaging, communications, and spacecraft bus components in space.",
+        "json-uri": "http://dbpedia.org/data/MightySat-2.1.jsond",
+        "instrumentation": [
+            "Fourier Transform Hyperspectral Imager"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-3",
+        "abstract": "Progress M1-3, identified by NASA as Progress 1 or 1P, was the first Progress spacecraft to visit the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 251.Progress M1-3 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 16:26:42 GMT on 6 August 2000. The spacecraft docked with the Aft port of the Zvezda module at 20:12:56 GMT on 8 August. It remained docked for three months before undocking at 04:04:49 GMT on 1 November to make way for Soyuz TM-31. It was deorbited at 07:05:00 GMT on the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 07:53:20 GMT.Progress M1-3 carried supplies to the International Space Station. It was unloaded during the Space Shuttle missions STS-106 and STS-92, as the ISS did not yet have a permanent crew. The Expedition 1 crew arrived the day after Progress M1-3 departed the Station, using the docking port that it had vacated.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_4R",
+        "abstract": "Galaxy 4R was a communications satellite operated by PanAmSat from 2000 to 2006, and by Intelsat from 2006 to 2009. It spent most of its operational life at an orbital location of 99° W, a slot once occupied by the Galaxy IV, which suffered a failure in 1998. G4R was launched on April 18, 2000, with an Ariane launch vehicle, and covered North America with twenty-four transponders each on the C- and Ku bands. The satellite is currently at 76.8°W, inclined.Users included Warner Brothers, National Public Radio, Public Radio International, Buena Vista Television Distribution, FOX, and Televisa. The satellite was also utilized for satellite internet services through DirecPC.Much of the Ku side was occupied by the HITS service, which re-distributes programming found on other satellites to cable providers.Designed for an operational lifespan of 15 years, Galaxy 4R suffered a propulsion system failure in 2003 and was replaced by Galaxy 16 on August 14, 2006. It was moved to 76.85 degrees west after being replaced and its orbit was allowed to become more inclined in order to save station-keeping propellant. The satellite was decommissioned in April 2009 and moved to a graveyard orbit.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_4R.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EROS_A",
+        "abstract": "The Earth Remote Observation System A (EROS-A) was part of the EROS family of Israeli commercial Earth observation satellites, designed and manufactured by Israel Aircraft Industries. This was the first satellite in the series.The EROS A was launched on December 5, 2000 from Svobodny Launch Complex in eastern Siberia.",
+        "json-uri": "http://dbpedia.org/data/EROS_A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Zvezda_(ISS_module)",
+        "abstract": "Zvezda (Russian: Звезда́, meaning \"star\"), DOS-8, also known as the Zvezda Service Module, is a component of the International Space Station (ISS). It was the third module launched to the station, and provides all of the station's life support systems, some of which are supplemented in the USOS, as well as living quarters for two crew members. It is the structural and functional center of the Russian portion of the station - the Russian Orbital Segment.The module was manufactured by RKK Energia, with major sub-contracting work by GKNPTs Khrunichev. Zvezda was launched on a Proton rocket on July 12, 2000 and docked with the Zarya module on July 26. The rocket used for the launch was one of the first to carry advertising; it was emblazoned with the logo of Pizza Hut restaurants, for which they are reported to have paid more than US$1 million. The money helped support Khrunichev State Research and Production Space Center and the Russian advertising agencies that orchestrated the event.",
+        "json-uri": "http://dbpedia.org/data/Zvezda_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_36A",
+        "abstract": "Eutelsat 36A (formerly Eutelsat W4) is a French communications satellite which is operated by Eutelsat. It was constructed by Alcatel Space is based on the Spacebus-3000B2 satellite bus. It was launched on the maiden flight of the Atlas III carrier rocket, which used the Atlas IIIA configuration. The launch was contracted by International Launch Services, and occurred on 24 May 2000, at 23:10 GMT from Space Launch Complex 36B at the Cape Canaveral Air Force Station.Following its launch and on-orbit testing, it was placed in geostationary orbit at 36° East, from where it provides communications services to Russia and Africa. It carries thirty-one transponders, and has an expected on-orbit lifespan of 12 years.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_36A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IMAGE",
+        "abstract": "IMAGE (from Imager for Magnetopause-to-Aurora Global Exploration), or Explorer 78, was a NASA MIDEX mission that studied the global response of the Earth's magnetosphere to changes in the solar wind. It was launched March 25, 2000 by a Delta II rocket from Vandenberg AFB and ceased operations in December 2005.The IMAGE craft was placed in a 1,000×46,000 km orbit around the Earth, with an inclination of 90° (passing over the poles) and a 14.2 hour period. IMAGE was the first spacecraft dedicated to observing the magnetosphere of the Earth, and it produced comprehensive global images of plasma in the inner magnetosphere. It did this using five instruments: Neutral Atom Imagers (LENA, MENA, HENA) Far-Ultraviolet (FUV) Imaging System Extreme Ultraviolet (EUV) Imager Radio Plasma Imager (RPI) Central Instrument Data Processor (CIDP)The CIDP as well as the Command & Data Handling Subsystem (main on-board computer) of the craft were built around the mission-proven RAD6000 avionics processors.",
+        "json-uri": "http://dbpedia.org/data/IMAGE.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NOAA-16",
+        "abstract": "NOAA-16, designated NOAA-L before launch, is one of the NASA-provided TIROS series of weather forecasting satellites operated by NOAA. It was launched on 21 September 2000, and is currently operational, in a sun-synchronous orbit, 849 km above the Earth, orbiting every 102 minutes. It hosts the AMSU, AVHRR and High Resolution Infrared Radiation Sounder (HIRS) instruments' APT transmitter. NOAA-16 has the same suite of instruments as carried by NOAA-15 plus an SBUV/2 instrument as well.NOAA-16's APT has been inoperable due to sensor degradation since November 15, 2000, and High Resolution Picture Transmission has been via STX-1 (1698 MHz) since November 9, 2010.",
+        "json-uri": "http://dbpedia.org/data/NOAA-16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CHAMP_(satellite)",
+        "abstract": "Challenging Minisatellite Payload (CHAMP) was a German satellite launched July 15, 2000 from Plesetsk, Russia and was used for atmospheric and ionospheric research, as well as other geoscientific applications, such as GPS radio occultation.CHAMP was managed by GeoForschungsZentrum (GFZ) Potsdam (GFZ).The spacecraft is the first application of Astrium's \"Flexbus\" platform; GRACE was the second. A heavily modified version flew as the GOCE mission.CHAMP completed its mission and re-entered the Earth's atmosphere on 19 September 2010 after 10 years (design life: five years).The mission was judged as being successful by the involved scientists.",
+        "json-uri": "http://dbpedia.org/data/CHAMP_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-150",
+        "abstract": "USA-150, also known as GPS IIR-4 and GPS SVN-51, is an American navigation satellite which forms part of the Global Positioning System. It was the fourth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-150 was launched at 01:48:00 UTC on 11 May 2000, atop a Delta II carrier rocket, flight number D278, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-150 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 11 June 2000, USA-150 was in an orbit with a perigee of 20,133 kilometres (12,510 mi), an apogee of 20,234 kilometres (12,573 mi), a period of 718.02 minutes, and 54.9 degrees of inclination to the equator. It is used to broadcast the PRN 20 signal, and operates in slot 1 of plane E of the GPS constellation, having replaced USA-35, the first operational GPS satellite. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-150.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-154",
+        "abstract": "USA-154, also known as GPS IIR-6 and GPS SVN-41, is an American navigation satellite which forms part of the Global Positioning System. It was the sixth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-154 was launched at 17:14:02 UTC on 10 November 2000, atop a Delta II carrier rocket, flight number D281, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-154 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 13 November 2000, USA-154 was in an orbit with a perigee of 20,177 kilometres (12,537 mi), an apogee of 20,498 kilometres (12,737 mi), a period of 724.28 minutes, and 55 degrees of inclination to the equator. It is used to broadcast the PRN 14 signal, and operates in slot 1 of plane F of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-154.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Munin_(satellite)",
+        "abstract": "Munin was a Swedish nanosatellite. It was launched on November 21, 2000 on a Delta II rocket from the Vandenberg Air Force Base in California, together with two other satellites. Munin was developed by the Swedish Institute of Space Physics in cooperation with students from Luleå University of Technology and Umeå University. Last contact was on February 12, 2001, after a manual CPU reset; failure was probably in the boot PROM.",
+        "json-uri": "http://dbpedia.org/data/Munin_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ekspress_A2",
+        "abstract": "Ekspress A2 (Russian: Экспресс meaning Express), also designated Ekspress 6A and sometimes erroneously called Ekspress 2A, is a Russian communications satellite which is operated by Kosmicheskiya Svyaz. It was constructed by NPO Prikladnoi Mekhaniki and Alcatel Space and is based on the MSS-2500-GSO satellite bus. Launch occurred on 12 March 2000, at 04:07 GMT. The launch was contracted by Khrunichev, and used a Proton-K/DM-2M carrier rocket flying from Site 200/39 at the Baikonur Cosmodrome.It is part of the Ekspress network of satellites.Following its launch and on-orbit testing, it was placed in geosynchronous orbit at 103° East, from where it provides communications services to Russia. It is equipped with seventeen transponders.",
+        "json-uri": "http://dbpedia.org/data/Ekspress_A2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_11",
+        "abstract": "GOES 11, known as GOES-L before becoming operational, is an American weather satellite, which is part of the US National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. It was launched in 2000, and operated at the GOES-WEST position, providing coverage of the west coast of the United States, until December 6, 2011.",
+        "json-uri": "http://dbpedia.org/data/GOES_11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Garuda_1",
+        "abstract": "Garuda 1 is an Indonesian communications satellite which is operated by ACeS. It was constructed by Lockheed Martin and is based on the A2100AXX satellite bus. It has two very large antennas, each measuring 12 meter in diameter. Launch occurred on 12 February 2000, at 09:10:54 GMT. The launch was contracted by ILS, and used a Proton-K/DM3 carrier rocket flying from Site 81/23 at the Baikonur Cosmodrome.At the time of its launch, it was the heaviest commercial payload to be launched by a Proton. During its launch, the Block DM3 upper stage made three burns instead of the usual two. This was the first time that the Block DM had used a three-burn ascent profile.Following its launch and on-orbit testing, it was placed in geostationary orbit at 123° East, from where it provides communications services to Asia. It is equipped with 88 transponders, allowing it to cover the entire continent with 140 spot beams. The satellite is controlled by ACeS Satellite Control Facility situated in Batam island, Indonesia.The Garuda 1 was originally to be supplemented by a second satellite (Garuda 2), but the plan never materialized.An anomaly with some of the antennae was discovered in September 2000, and significantly reduced the satellite's communications capacity. A few years later more anomalies were found, further reducing its capacity by more than 50%. Several curative actions have been taken by ACeS engineers to salvage the satellite and it is expected to survive until 2015.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/Garuda_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hispasat_1C",
+        "abstract": "Hispasat 1C is a Spanish communications satellite which is operated by Hispasat. It was constructed by Alcatel Space and is based on the Spacebus-3000B2 satellite bus. Launch occurred on 3 February 2000, at 23:30. The launch was contracted by ILS, and used an Atlas IIAS carrier rocket flying from SLC-36B at Cape Canaveral.It has a mass of 3,113 kilograms (6,863 lb), and an expected service life of 15 years.Following its launch and on-orbit testing, it was placed in geostationary orbit at 30° West, from where it provides communications services to Europe and the Americas. It is expected to remain in service until at least 2015.",
+        "json-uri": "http://dbpedia.org/data/Hispasat_1C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-99",
+        "abstract": "STS-99 was a Space Shuttle mission using Endeavour, that launched on 11 February 2000 from Kennedy Space Center, Florida. The primary objective of the mission was the Shuttle Radar Topography Mission (SRTM) project. This was also the last solo flight of Endeavour; all future flights for Endeavour became devoted to the International Space Station.",
+        "json-uri": "http://dbpedia.org/data/STS-99.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_4A",
+        "abstract": "Eutelsat 4A, previously Eurobird 4A and Eutelsat W1 is a French communications satellite which is operated by Eutelsat. It was constructed by Astrium is based on the Eurostar-2000+ satellite bus. Its launch was contracted by Arianespace, using an Ariane 4 44P-3 carrier rocket. The launch occurred on 6 September 2000, at 22:33 UTC from ELA-2 at the Guiana Space Centre.It was originally built as Orion 2 for Orion Network Systems. This was later cancelled when Orion merged with Loral Skynet, who opted to procure satellites from their sister company, Space Systems Loral. It was subsequently sold to Eutelsat as a backup satellite and designated RESSAT. It was subsequently launched in place of the original Eutelsat W1, which was damaged whilst under construction and eventually launched as Eutelsat W5.Following its launch and on-orbit testing, it was placed in geostationary orbit at 10° East, from where it provided broadcast and communications services to Europe using wide-band feeds. In June 2009, it was moved to 4° East, and redesignated Eurobird 4A. It carries twenty eight transponders, and has an expected on-orbit lifespan of 12 years.In 2012 it was renamed Eutelsat 4A.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_4A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TiungSAT-1",
+        "abstract": "TiungSAT-1 is the first Malaysian microsatellite. The satellite is developed through the technology transfer and training programme between Astronautic Technology Sdn Bhd (ATSB) Malaysia and Surrey Satellite Technology Ltd., United Kingdom. TiungSAT-1 was launched aboard Dnepr rocket from Baikonur Cosmodrome, Kazakhstan on 26 September 2000.",
+        "json-uri": "http://dbpedia.org/data/TiungSAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Earth_Observing-1",
+        "abstract": "The Earth Observing-1 Mission (EO-1) satellite is part of NASA's New Millennium Program (NMP), to develop and validate a number of instrument and spacecraft bus breakthrough technologies designed to enable the development of future earth imaging observatories that will have a significant increase in performance while also having reduced cost and mass.Its Advanced Land Imager (ALI) measures nine different wavelengths simultaneously, instead of the seven measured by the imager in Landsat 7. This permits a greater flexibility in false-color imagery. Another improvement is that instead of having an imaging spectrometer that sweeps from side to side, the ALI has a linear array of spectrometers that each scan a strip of ground parallel to that of adjacent spectrometers. In order to compare the two imagers, EO-1 follows Landsat 7 in its orbit by exactly one minute. Other new technologies include: Hyperion imaging spectrometer recording more than 200 wavelengths; phased array communications antenna; optical fiber cables connect the data logger with the two IBM RAD6000s; teflon-fuelled pulsed plasma thruster; lightweight, flexible solar panel; carbon-coated radiators for thermal control; Linear Etalon Imaging Spectrometer Array equipped with a new atmospheric correction device.EO-1 has also been used to test new software, like the Autonomous Sciencecraft Experiment. This allows the spacecraft to decide for itself how best to create a desired image. It is only limited by a priority list of different types of images, and by forecasts of cloud cover provided by the NOAA.It was expected to function for twelve months and was designed to function for eighteen months. Those expectations have been greatly exceeded.",
+        "json-uri": "http://dbpedia.org/data/Earth_Observing-1.jsond",
+        "instrumentation": [
+            "Advanced_Land_Imager",
+            "Atmospheric Corrector",
+            "Hyperspectral Imager"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/AsiaStar",
+        "abstract": "AsiaStar is an American communications satellite which is operated by 1worldspace. It was constructed by Alcatel Space and Matra Marconi Space based on the Eurostar E2000+ bus design. Launch occurred on 21 March 2000, at 23:28 GMT. The launch was contracted by Arianespace, and used an Ariane 5G carrier rocket flying from ELA-3 at the Guiana Space Centre. The INSAT-3B satellite was launched on the same rocket.[citation needed]Following its launch and on-orbit testing, it was placed in geostationary orbit at 105° East, from where it provides mobile communications services to Asia. It carries three transponders, and has an expected on-orbit lifespan of 12 years.On 31 December 2009, Worldspace ceased broadcasting on the Asiastar satellite in line with its bankruptcy issues,[citation needed]however as of 30 November 2010 two Free to Air (unencrypted) stations are still available, namely Sai Global Harmony and Radio France International.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/AsiaStar.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-8",
+        "abstract": "TDRS-8, known before launch as TDRS-H, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by Boeing is based on the BSS-601 satellite bus.",
+        "json-uri": "http://dbpedia.org/data/TDRS-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_1R",
+        "abstract": "Intelsat 1R (formerly PAS-1R) is a communications satellite owned by Intelsat located at 50° W longitude, serving Americas, the Caribbean, Europe and Africa.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_1R.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sirius_FM-3",
+        "abstract": "Sirius FM-3, also known as Radiosat 3, is an American communications satellite which is operated by Sirius XM Radio, previously Sirius Satellite Radio. It was constructed by Space Systems Loral and is based on the LS-1300 satellite bus. Launch occurred on 30 November 2000, at 19:59 GMT. The launch was contracted by International Launch Services, and used a Proton-K/DM3 carrier rocket flying from Site 81/23 at the Baikonur Cosmodrome.It is operating in a tundra orbit, from where it provides satellite radio communications services to North America. It has an expected operational lifetime of 15 years.",
+        "json-uri": "http://dbpedia.org/data/Sirius_FM-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sirius_FM-1",
+        "abstract": "Sirius FM-1, also known as Radiosat 1, is an American communications satellite which is operated by Sirius XM Radio, previously Sirius Satellite Radio. It was constructed by Space Systems Loral and is based on the LS-1300 satellite bus. Launch occurred on 30 June 2000, at 22:08 GMT. The launch was contracted by International Launch Services, and used a Proton-K/DM3 carrier rocket flying from Site 81/24 at the Baikonur Cosmodrome.It is operating in a tundra orbit, from where it provides satellite radio communications services to North America. It has an expected operational lifetime of 15 years.",
+        "json-uri": "http://dbpedia.org/data/Sirius_FM-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-30",
+        "abstract": "Soyuz TM-30 (Russian: Союз ТМ-30, Union TM-30), also known as Mir EO-28, was a Soyuz mission, the 39th and final human spaceflight to the Mir space station. The crew of the mission was sent by MirCorp, a privately funded company, to reactivate and repair the station. The crew also resupplied the station and boosted the station to an orbit with a low point (perigee) of 360 and a high point (apogee) of 378 kilometers (223 and 235 miles, respectively). The boost in the station's orbit, which was done by utilizing the engines of the Progress M1-1 and M1-2 spacecraft, made transit between Mir and the International Space Station impossible, as desired by NASA. The mission was the first privately funded mission to a space station.The mission was part of an effort by MirCorp to refurbish and privatize the aging Mir space station, which was nearing the end of its operational life. Further commercially funded missions beyond Soyuz TM-30 were originally planned to continue the restoration efforts of the then 14-year-old space station, but insufficient funding and investment ultimately led to the de-orbit of the station in early 2001.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-30.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-97",
+        "abstract": "STS-97 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. The crew installed the first set of solar arrays to the ISS, prepared a docking port for arrival of the Destiny Laboratory Module, and delivered supplies for the station's crew.",
+        "json-uri": "http://dbpedia.org/data/STS-97.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-1",
+        "abstract": "Progress M1-1 was a Progress spacecraft which was launched by Russia in 2000 to resupply the Mir space station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 250. It was the first flight of the Progress-M1, a derivative of the Progress-M originally designed for resupplying the International Space Station, which was optimised for the transportation of fuel over pressurised cargo.Progress M1-1 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 06:47:23 GMT on 1 February 2000. The spacecraft docked with Mir, which was at that time unmanned, at 08:02:28 GMT on 3 February – the docking port used was the aft port on the Kvant-1 module. It remained docked for 83 days before undocking at 16:32:43 GMT on 26 April to make way for Progress M1-2. It was deorbited at 19:26:03 GMT, and burned up in the atmosphere over the Pacific Ocean around fifty minutes later.Progress M1-1 was used to reboost Mir, which was rapidly decaying from orbit at the time of its arrival. It carried nitrogen to repressurise the station following a leak, as well as supplies for the EO-28 crew, who arrived aboard Mir in April.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-31",
+        "abstract": "Soyuz TM-31 was the first Soyuz spacecraft to dock with the International Space Station (ISS). Launched near the end of 2000 the Soyuz-TM spacecraft brought to ISS Expedition 1, the first long-duration ISS crew. It was launched from Russia at 07:52 UT on October 31, 2000 by a Soyuz-U rocket.The crew consisted of Russian cosmonauts Yuri Gidzenko and Sergei Krikalev, and American William Shepherd. Gidzenko was Commander of the flight up, but once aboard the station, Shepherd became Commander of the long-duration mission Expedition 1.The spacecraft served as the crew's lifeboat while docked to the ISS. The Expedition 1 crew were returned to Earth via a Space Shuttle during STS-102 in March 2001, and the Soyuz TM-31 spacecraft stayed with the station for part of Expedition 2. In April 2001 another spacecraft, Soyuz TM-32, arrived at the station, and took over responsibilities as the station's lifeboat. The crew launched by Soyuz TM-32, which included the first paying space tourist Dennis Tito, were returned to Earth in May aboard Soyuz TM-31. The visiting mission of which Tito was apart is sometimes referred to as ISS EP-1.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-31.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-151",
+        "abstract": "USA-151, also known as GPS IIR-5 and GPS SVN-44, is an American navigation satellite which forms part of the Global Positioning System. It was the fifth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-151 was launched at 09:17:00 UTC on 16 July 2000, atop a Delta II carrier rocket, flight number D279, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-151 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 27 July 2000, USA-151 was in an orbit with a perigee of 20,184 kilometres (12,542 mi), an apogee of 20,426 kilometres (12,692 mi), a period of 722.98 minutes, and 55 degrees of inclination to the equator. It is used to broadcast the PRN 28 signal, and operates in slot 3 of plane B of the GPS constellation, having originally been operated in slot 5. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-151.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-4",
+        "abstract": "Progress M1-4, identified by NASA as Progress 2 or 2P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 253.Progress M1-4 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 01:32:36 GMT on 16 November 2000. The spacecraft docked with the Nadir port of the Zarya module at 03:47:42 GMT on 18 November. The Kurs docking system failed during docking, and the manual backup, TORU, was used for the docking. Progress M1-4 remained docked for two weeks before undocking at 16:22:52 GMT on 1 December.Following its undocking, Progress M1-4 spent 25 days in free flight, prior to redocking with the same port on 26 December at 11:03:13 GMT. Like the original docking, the TORU system was used, as although the fault with the Kurs system had been resolved, the procedure used to abort the original Kurs docking attempt was irreversible due to the retraction of an antenna that could not be redeployed. It remained docked for six weeks before undocking again at 11:26:04 GMT on 8 February 2001. It was deorbited at 12:59 GMT on the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 13:50 GMT.Progress M1-4 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research. It was the first Progress spacecraft to resupply an Expedition crew aboard the ISS, and as of 2009 the only Progress spacecraft to make two dockings with the Station. It was also the last Progress spacecraft to make two dockings with any Station as of 2009.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/QuickBird",
+        "abstract": "QuickBird is a high-resolution commercial earth observation satellite, owned by DigitalGlobe and launched in 2001 as the first satellite in a constellation of three scheduled to be in orbit by 2008. QuickBird uses Ball Aerospace's Global Imaging System 2000 (BGIS 2000) that collects the fourth highest resolution commercial imagery of Earth after WorldView-1, WorldView-2 and GeoEye-1 and boasts the largest image size and the greatest on-board storage capacity of any satellite. The satellite collects panchromatic (black and white) imagery at 60 centimeter resolution and multispectral imagery at 2.4- and 2.8-meter resolutions. At this resolution, detail such as buildings and other infrastructure are easily visible. However, this resolution is insufficient for working with smaller objects such as a license plate on a car. The imagery can be imported into remote sensing image processing software, as well as into GIS packages for analysis. The imagery can also be used as a backdrop for mapping applications, such as Google Earth and Google Maps.Contractors include Ball Aerospace & Technologies, Kodak and Fokker Space.",
+        "json-uri": "http://dbpedia.org/data/QuickBird.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-101",
+        "abstract": "STS-101 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. The mission was a 10-day mission conducted between 19 May 2000 and 29 May 2000. The mission was designated 2A.2a and was a resupply mission to the International Space Station. STS-101 was delayed 3 times in April due to high winds. STS-101 traveled 4.1 million miles and completed 155 revolutions of the earth and landed on runway 15 at Kennedy Space Center. The mission was the first to fly with the \"glass cockpit\".",
+        "json-uri": "http://dbpedia.org/data/STS-101.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_10R",
+        "abstract": "Galaxy 10R was an American communications satellite which was operated by PanAmSat, and later Intelsat. It was constructed by Hughes and is based on the HS-601HP satellite bus. Launch occurred on 25 January 2000, at 01:04. The launch was contracted by Arianespace, and used an Ariane 4 42L-3 carrier rocket flying from ELA-2 at the Guiana Space Centre.Galaxy 10R was built to replace the Galaxy 10 satellite, which had been lost in a launch failure on the maiden flight of the Delta III in 1998. It was launched just fourteen months after the contract to build the satellite had been signed, due to Hughes' advance production of components to allow quick production of replacement satellites.Following its launch and on-orbit testing, it was placed in geostationary orbit at 123° West, from where it provided communications services to North America. It was expected to remain in service for fifteen years, however following a malfunction of its Xenon Ion Propulsion System in August 2004, this was reduced. It was retired to a graveyard orbit in June 2008.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_10R.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-106",
+        "abstract": "STS-106 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis.",
+        "json-uri": "http://dbpedia.org/data/STS-106.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-6",
+        "abstract": "AMC-6, formerly GE-6, is a commercial broadcast communications satellite owned by SES World Skies. Launched on October 21, 2000, from Baikonur Cosmodrome in Kazakhstan, AMC-6 became the fifth hybrid C band/Ku band satellite in the GE Americom fleet. The satellite provides coverage to the continental United States, Canada, the Caribbean islands, southern Greenland, and Central and South America. Located in a geostationary orbit parallel to the eastern United States coastline, AMC-6 provides service to commercial and government customers, and is used as an Internet platform due to its wide coverage and redundancy. Some of its capabilities include VSAT networking, satellite news gathering and Ku band transceiver service. Launched as GE-6, it was renamed AMC-6 when SES took over GE Americom in 2001, forming SES Americom. This merged with SES New Skies in 2009 to form SES World Skies.",
+        "json-uri": "http://dbpedia.org/data/AMC-6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-7",
+        "abstract": "AMC-7 is a commercial broadcast communications satellite owned by SES World Skies. Launched on September 14, 2000, from Guiana Space Centre in Kourou, French Guiana, AMC-7 provides C band coverage to North America, Hawaii, the Caribbean islands and most of Mexico, and is located in a geostationary orbit over the Pacific Ocean east of Hawaii. The satellite is primarily used for cable television programming distribution.",
+        "json-uri": "http://dbpedia.org/data/AMC-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TSX-5",
+        "abstract": "TSX-5 (Tri-Service-Experiments mission 5), is a $85 million satellite successfully launched into orbit on June 7, 2000 from Vandenberg Air Force Base on a Pegasus XL rocket.TSX-5 hosts two Department of Defense (DOD) payloads, STRV-2 (the Space Test Research Vehicle-2), sponsored by the Ballistic Missile Defense Organization, and CEASE (the Compact Environmental Anomaly Sensor), sponsored by the Air Force's Phillips Geophysics Laboratory. TSX-5 is managed by the Space Technology Program (STP) at the Space and Missiles Centre, Test and Evaluation (SMC/TELS) at Kirtland Air Force Base, New Mexico.",
+        "json-uri": "http://dbpedia.org/data/TSX-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-92",
+        "abstract": "STS-92 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Discovery. STS-92 marked the 100th mission of the Space Shuttle. It was launched from Kennedy Space Center, Florida, 11 October 2000.",
+        "json-uri": "http://dbpedia.org/data/STS-92.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_2B",
+        "abstract": "Astra 2B is one of the Astra communications satellites owned and operated by SES. Launched in 2000 to join Astra 2A at the Astra 28.2°E orbital slot providing digital television and radio broadcast services to the UK and Republic of Ireland, the satellite was moved in February 2013 to the Astra 19.2°E position and then in January 2014 to the Astra 31.5°E slot.The satellite provides two broadcast beams, each with horizontal and vertical polarisation, across two footprints - 2B North (covering central Europe and Scandinavia) and 2B South (covering Central Europe and the Iberian peninsula and Canary Islands).While at 28.2°E, TV signals could be received with a 43 cm dish across the majority of the British Isles with a 60 cm dish required in the extreme north and west, although the official footprint maps now show a 60 cm dish as required across all of western Europe. At 28.2°E 17 transponders on Astra 2B were used by BSkyB to provide the Sky Digital TV services of standard and high definition TV and digital radio. Astra 2B could also provide backup capacity, substituting for one or more transponders across the whole 10.70-12.75 GHz range used by Astra satellites in the Astra 19.2°E and Astra 28.2°E orbital positions.A third, steerable beam provides 8 transponders in the 12.50-12.75 GHz range for Internet and telecommunications services in West Africa. This aspect of the satellite was originally the commercial responsibility of SES New Skies (now incorporated into SES).Following the launch of Astra 2F to 28.2°E, in February 2013 Astra 2B started its planned move from that position to Astra 19.2°E, to serve alongside Astra 1KR, Astra 1L, Astra 1M, and Astra 2C, arriving in position by February 27, 2013. In January 2014, Astra 2B left Astra 19.2°E, moving east and is expected to be positioned in the Astra 31.5°E slot, pending the delayed launch of Astra 5B to that position.",
+        "json-uri": "http://dbpedia.org/data/Astra_2B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/JAWSAT",
+        "abstract": "The Joint Air Force-Weber State University Satellite (JAWSAT) is an American military mini-satellite launched aboard a Minotaur rocket on January 27, 2000 from Vandenberg Air Force Base (VAFB) in California. After its own launch, JAWSAT deployed four microsatellites: FalconSAT-1, OCSE, OPAL, and ASUSat. JAWSAT also carried NASA's Plasma Experiment Satellite Test (PEST).",
+        "json-uri": "http://dbpedia.org/data/JAWSAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_16C",
+        "abstract": "Eutelsat 16C (formerly SESAT 1) is a satellite operated by Eutelsat, originally the first of a series of SESAT (Siberia - Europe SATellite) satellites. It provides a wide range of telecommunications services over a very large geographical coverage area that extends from the Atlantic Ocean to Eastern Russia, including a large part of Siberia. The satellites also provide broadcasting services to Africa by means of steerable spotbeams.On 29 January 2010, the satellite moved to 16° E to take over some services from the malfunctioning W2 satellite.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_16C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Superbird-B2",
+        "abstract": "Superbird-B2, also known by its pre-launch designation Superbird-4, is a Japanese communications satellite which is operated by JSAT Corporation. It was originally built and launched for the Space Communications Corporation, which merged with JSAT in October 2008. It was constructed by Hughes and is based on the HS-601HP satellite bus. Launch occurred on 18 February 2000, at 01:04 GMT. The launch was contracted by Arianespace, and used an Ariane 4 44LP-3 carrier rocket flying from ELA-2 at the Guiana Space Centre.It is primarily used to transmit what its operators describe as \"area information\", and provide a backup VSAT system to Japanese local government.Following its launch and on-orbit testing, it was placed in geostationary orbit at 162° East, from where it provides communications services to Japan. It is equipped with thirty five transponders.Currently, the J-Alert emergency warning system is broadcast via Superbird-B2.",
+        "json-uri": "http://dbpedia.org/data/Superbird-B2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-8",
+        "abstract": "AMC-8, also known as Americom-8 and Aurora III, previously GE-8, is a C-band satellite located at 139° West, covering the United States, Canada and the Caribbean. It is owned and operated by SES World Skies, formerly SES Americom and before that GE Americom. The satellite, provides critical telecommunications services to AT&T Alascom which occupies most of the satellite's capacity. AMC-8 was launched in 2000 as GE-8, and replaced Satcom C-5 in March 2001. AMC-8 is also used by thousands of terrestrial radio stations for network feeds using ground equipment from Starguide, X-Digital Systems, Wegener and International Datacasting. Major tenants are Cumulus Media Networks Satellite Services (which includes Citadel Media, Talk Radio Network, WOR Radio Network and others), Clear Channel Satellite Services (which includes United Stations Radio Networks, John Tesh, and others), Premiere Radio Networks, Dial Global, Westwood One, Learfield Communications, The Free Beer and Hot Wings Show (Transponder 15), and others. It is a satellite. It carries 24 36 MHz G/H band (IEEE C band) transponders, with 20 watt SSPA amplifiers. Its amplifier redundancy is 16 for 12, and its receiver redundancy is four for two. It carries two beacons, one broadcasting on a horizontal frequency of 3700.5 MHz, and the other on a vertical frequency of 4199.5 MHz.",
+        "json-uri": "http://dbpedia.org/data/AMC-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ekspress_A3",
+        "abstract": "Ekspress A3 (Russian: Экспре́сс А3 meaing Express A3), also designated Ekspress 3A, is a Russian communications satellite which is operated by Kosmicheskiya Svyaz and Eutelsat. It was constructed by NPO Prikladnoi Mekhaniki and Alcatel Space and is based on the MSS-2500-GSO satellite bus. The satellite was launched at Baikonur Cosmodrome Site 200 on 24 June 2000, 00:28 UTC. The launch was made by Khrunichev State Research and Production Space Center, and a Proton-K/DM-2M carrier rocket was used.It is part of the Ekspress satellite network.Following its launch and on-orbit testing, it was placed in geosynchronous orbit at 11° West, from where it provides communications services to Europe, the Middle East and North Africa. It is equipped with seventeen transponders.",
+        "json-uri": "http://dbpedia.org/data/Ekspress_A3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sirius_FM-2",
+        "abstract": "Sirius FM-2, also known as Radiosat 2, is an American communications satellite which is operated by Sirius XM Radio, previously Sirius Satellite Radio. It was constructed by Space Systems Loral and is based on the LS-1300 satellite bus. Launch occurred on 5 September 2000, at 09:43 GMT. The launch was contracted by International Launch Services, and used a Proton-K/DM3 carrier rocket flying from Site 81/23 at the Baikonur Cosmodrome.It is operating in a tundra orbit, from where it provides satellite radio communications services to North America. It has an expected operational lifetime of 15 years.",
+        "json-uri": "http://dbpedia.org/data/Sirius_FM-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nilesat_102",
+        "abstract": "Nilesat 102 is an Egyptian owned geosynchronous communications satellite that was launched by an Ariane 44LP rocket from Kourou, French Guiana on August 17, 2000 at 23:16 UTC by the European Space Agency. It was manufactured by the European company Matra Marconi Space (Astrium), and started official broadcasting in 12 September 2000 with an Expected Life Time of 15 years. At launch the spacecraft weighed 1,827 kg (fully fuelled).Nilesat 102 is operated by The Egyptian satellite Co. Nilesat that was established in 1996 with the purpose of operating Egyptian satellites and their associated ground control station and uplinking facilities.It is parked at the geostationary orbital position of 7° West together with its sister Satellite Nilesat 101 and carries 12 Ku band 100 W high power wide beam transponders of 33 MHz bandwidth to provide digital communications and terrestrial Direct to Home ((DTH)) TV, radio broadcasting, multimedia and data services for countries in the Arab World and South Europe. The two satellites carry approximately 280 TV channels covering all the Middle East countries; from Iran in the east to the Atlantic Ocean in the west, and from south Europe in the north to the centre of Africa in the south.Nilesat and Eutelsat has agreed in September 2005 to lease capacity on Eutelsat’s Hot Bird 4 satellite after relocating it to 7° West and renaming it to Nilesat 103, the satellite is scheduled to be repositioned to this location in second quarter 2006 after the launch and entry into service of Eutelsat’s Hot Bird 7A and Hot Bird 8 satellites.",
+        "json-uri": "http://dbpedia.org/data/Nilesat_102.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-2",
+        "abstract": "Progress M1-2 was a Progress spacecraft which was launched by Russia in 2000 to resupply the Mir space station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 252.Progress M1-2 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 20:08:02 GMT on 25 April 2000. The spacecraft docked with the Aft port on the Kvant-1 module of Mir at 21:28:47 GMT on 27 April. It remained docked for 171 days before undocking at 18:06 GMT on 15 October to make way for Progress M-43. It was deorbited later the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean at around 23:29 GMT.Progress M1-2 carried supplies to Mir, including food, water and oxygen for the crew and equipment for conducting scientific research. Progress M1-2 was the first privately funded resupply mission to a space station. It was funded by RKK Energia as part of the MirCorp programme. It was the last Progress spacecraft to be docked to Mir whilst a crew was present aboard the station.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SNAP-1",
+        "abstract": "SNAP-1 is a British nanosatellite orbiting in Low Earth Orbit. The satellite was built at the Surrey Space Centre by Surrey Satellite Technology Ltd (SSTL) and members of the University of Surrey. It was launched on 28 June 2000 on board a Kosmos-3M rocket from the Plesetsk Cosmodrome in northern Russia. It shared the launch with a Russian Nadezhda search and relay spacecraft and the Chinese Tsinghua-1 microsatellite.",
+        "json-uri": "http://dbpedia.org/data/SNAP-1.jsond",
+        "instrumentation": []
+    }
+]

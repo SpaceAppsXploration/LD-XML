@@ -1,0 +1,182 @@
+[
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_12.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_12",
+        "abstract": "Soyuz 12 (Russian: Союз 12, Union 12) was a 1973 manned test flight by the Soviet Union of the newly redesigned Soyuz 7K-T spacecraft that was intended to provide greater crew safety in the wake of the Soyuz 11 tragedy. The flight marked the return of the Soviets to manned space operations after the 1971 accident. The crew capacity of the capsule had been decreased from three to two cosmonauts to allow for pressure suits to be worn during launch, re-entry and docking. It was the first time pressure suits were used for reentry since the Voskhod 2 flight.Cosmonauts Vasili Lazarev and Oleg Makarov spent two days in space testing the new craft."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Skylab.jsond",
+        "uri": "http://dbpedia.org/page/Skylab",
+        "abstract": "Skylab was a space station launched and operated by NASA and was the United States' first space station. Skylab orbited the Earth from 1973 to 1979, and included a workshop, a solar observatory, and other systems. It was launched unmanned by a modified Saturn V rocket, with a weight of 169,950 pounds (77 t). Three manned missions to the station, conducted between 1973 and 1974 using the Apollo Command/Service Module (CSM) atop the smaller Saturn IB, each delivered a three-astronaut crew. On the last two manned missions, an additional Apollo / Saturn IB stood by ready to rescue the crew in orbit if it was needed.The station was damaged during launch when the micrometeoroid shield separated from the workshop and tore away, taking one of two main solar panel arrays with it and jamming the other one so that it could not deploy. This deprived Skylab of most of its electrical power, and also removed protection from intense solar heating, threatening to make it unusable. The first crew was able to save it in the first in-space major repair, by deploying a replacement heat shade and freeing the jammed solar panels.Skylab included the Apollo Telescope Mount, which was a multi-spectral solar observatory, Multiple Docking Adapter (with two docking ports), Airlock Module with EVA hatches, and the Orbital Workshop, the main habitable volume. Electrical power came from solar arrays, as well as fuel cells in the docked Apollo CSM. The rear of the station included a large waste tank, propellant tanks for maneuvering jets, and a heat radiator.Numerous scientific experiments were conducted aboard Skylab during its operational life, and crews were able to confirm the existence of coronal holes in the Sun. The Earth Resources Experiment Package (EREP) was used to view the Earth with sensors that recorded data in the visible, infrared, and microwave spectral regions. Thousands of photographs of Earth were taken, and records for human time spent in orbit were extended. Plans were made to refurbish and reuse Skylab, using the Space Shuttle to boost its orbit and repair it. However, development of the Shuttle was delayed, and Skylab reentered Earth's atmosphere and disintegrated in 1979, with debris striking portions of Western Australia. Post-Skylab NASA space laboratory projects included Spacelab, Shuttle-Mir, and Space Station Freedom (later merged into the International Space Station)."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Luna_21.jsond",
+        "uri": "http://dbpedia.org/page/Luna_21",
+        "abstract": "Luna 21 (Ye-8 series) was an unmanned space mission of the Luna program, also called Lunik 21. The spacecraft landed on the Moon and deployed the second Soviet lunar rover (Lunokhod 2). The primary objectives of the mission were to collect images of the lunar surface, examine ambient light levels to determine the feasibility of astronomical observations from the Moon, perform laser ranging experiments from Earth, observe solar X-rays, measure local magnetic fields, and study mechanical properties of the lunar surface material."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mars_7.jsond",
+        "uri": "http://dbpedia.org/page/Mars_7",
+        "abstract": "Mars 7 (Russian: Марс-7), also known as 3MP No.51P was a Soviet spacecraft launched to explore Mars. A 3MP bus spacecraft which comprised the final mission of the Mars programme, it consisted of a lander and a coast stage with instruments to study Mars as it flew past. Due to a malfunction, the lander failed to perform a manoeuvre necessary to enter the Martian atmosphere, missing the planet and remaining in heliocentric orbit along with the coast stage."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mars_4.jsond",
+        "uri": "http://dbpedia.org/page/Mars_4",
+        "abstract": "Mars 4 (Russian: Марс-4), also known as 3MS No.52S was a Soviet spacecraft intended to explore Mars. A 3MS spacecraft launched as part of the Mars programme, it was intended to enter orbit around Mars in 1974. However, computer problems prevented orbital insertion from occurring."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Skylab_2.jsond",
+        "uri": "http://dbpedia.org/page/Skylab_2",
+        "abstract": "Skylab 2 (also SL-2 and SLM-1) was the first manned mission to Skylab, the first U.S. orbital space station. The mission was launched on a Saturn IB rocket and carried a three-person crew to the station. The name Skylab 2 also refers to the vehicle used for that mission. The Skylab 2 mission established a record for human spaceflight duration. Furthermore, its crew were the first space station occupants ever to return safely to Earth – the only other space station occupants, the crew of the 1971 Soyuz 11 mission that had manned the Salyut 1 station, were killed during reentry.The manned Skylab missions were officially designated Skylab 2, 3, and 4. Miscommunication about the numbering resulted in the mission emblems reading Skylab I, Skylab II, and Skylab 3 respectively."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_611.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_611",
+        "abstract": "Kosmos 611 (Russian: Космос 611 meaning Cosmos 611), known before launch as DS-P1-Yu No.64, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_558.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_558",
+        "abstract": "Kosmos 558 (Russian: Космос 558 meaning Cosmos 558), known before launch as DS-P1-Yu No.65, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_573.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_573",
+        "abstract": "Kosmos 573 (Russian: Космос 573 meaning Cosmos 573) was an unmanned test of the Soyuz Ferry without solar arrays in 1973. It did not dock with a space station."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Skylab_3.jsond",
+        "uri": "http://dbpedia.org/page/Skylab_3",
+        "abstract": "Skylab 3 (also SL-3 and SLM-2) was the second manned mission to the first American space station, Skylab. The mission began July 28, 1973, with the launch of three astronauts on the Saturn IB rocket, and lasted 59 days, 11 hours and 9 minutes. A total of 1,084.7 astronaut-utilization hours were tallied by the Skylab 3 crew performing scientific experiments in the areas of medical activities, solar observations, Earth resources, and other experiments.The manned Skylab missions were officially designated Skylab 2, 3, and 4. Mis-communication about the numbering resulted in the mission emblems reading Skylab I, Skylab II, and Skylab 3 respectively."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_601.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_601",
+        "abstract": "Kosmos 601 (Russian: Космос 601 meaning Cosmos 601), known before launch as DS-P1-Yu No.60, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mars_6.jsond",
+        "uri": "http://dbpedia.org/page/Mars_6",
+        "abstract": "Mars 6 (Russian: Марс-6), also known as 3MP No.50P was a Soviet spacecraft launched to explore Mars. A 3MP bus spacecraft launched as part of the Mars programme, it consisted of a lander, and a coast stage with instruments to study Mars as it flew past."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_613.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_613",
+        "abstract": "Kosmos 613 (Russian: Космос 613 meaning Cosmos 613) was a long-duration orbital storage test of the Soyuz Ferry in preparation for long stays attached to a space station."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_605.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_605",
+        "abstract": "Kosmos 605 (Russian: Космос 605 meaning Cosmos 605), or Bion No.1 was a Bion satellite."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Lunokhod_2.jsond",
+        "uri": "http://dbpedia.org/page/Lunokhod_2",
+        "abstract": "Lunokhod 2 (in Russian Луноход, moon walker) was the second of two unmanned lunar rovers landed on the Moon by the Soviet Union as part of the Lunokhod program.The Luna 21 spacecraft landed on the Moon and deployed the second Soviet lunar rover (Lunokhod 2) in January 1973. The primary objectives of the mission were to collect images of the lunar surface, examine ambient light levels to determine the feasibility of astronomical observations from the Moon, perform laser ranging experiments from Earth, observe solar X-rays, measure local magnetic fields, and study the soil mechanics of the lunar surface material."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_615.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_615",
+        "abstract": "Kosmos 615 (Russian: Космос 615 meaning Cosmos 615), also known as DS-P1-I No.13 was a satellite which was used as a radar target for anti-ballistic missile tests. It was launched by the Soviet Union in 1973 as part of the Dnepropetrovsk Sputnik programme."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_553.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_553",
+        "abstract": "Kosmos 553 (Russian: Космос 553 meaning Cosmos 553), known before launch as DS-P1-Yu No.55, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_608.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_608",
+        "abstract": "Kosmos 608 (Russian: Космос 608 meaning Cosmos 608), known before launch as DS-P1-Yu No.69, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_606.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_606",
+        "abstract": "Kosmos 606 (Russian: Космос 606 or Cosmos 606) was a Soviet US-K missile early warning satellite which was launched in 1973 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_13.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_13",
+        "abstract": "Soyuz 13 (Russian: Союз 13, Union 13) was a 1973 Soviet manned space flight, the second test flight of the redesigned Soyuz 7K-T spacecraft that first flew as Soyuz 12. The spacecraft was specially modified to carry the Orion 2 Space Observatory. The flight, manned by Pyotr Klimuk and Valentin Lebedev, was the Soviet Union's first dedicated science mission, and was the first mission controlled by the new Kaliningrad Mission Control Center."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_580.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_580",
+        "abstract": "Kosmos 580 (Russian: Космос 580 meaning Cosmos 580), known before launch as DS-P1-Yu No.59, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Explorer_49.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_49",
+        "abstract": "Explorer 49 (also called RAE-B) was a 328 kilogram satellite launched on June 10, 1973 for longwave radio astronomy research. It had four 230-meter long X-shaped antenna elements, which made it one of the largest spacecraft ever built."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mariner_10.jsond",
+        "uri": "http://dbpedia.org/page/Mariner_10",
+        "abstract": "Mariner 10 was an American robotic space probe launched by NASA on November 3, 1973, to fly by the planets Mercury and Venus.Mariner 10 was launched approximately two years after Mariner 9 and was the last spacecraft in the Mariner program (Mariner 11 and 12 were allocated to the Voyager program and redesignated Voyager 1 and Voyager 2).The mission objectives were to measure Mercury's environment, atmosphere, surface, and body characteristics and to make similar investigations of Venus. Secondary objectives were to perform experiments in the interplanetary medium and to obtain experience with a dual-planet gravity assist mission. Mariner 10's science team was led by Bruce C. Murray at the Jet Propulsion Laboratory."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Pioneer_11.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_11",
+        "abstract": "Pioneer 11 (also known as Pioneer G) is a 259 kilogram (569 lb) robotic space probe launched by NASA on April 6, 1973 to study the asteroid belt, the environment around Jupiter and Saturn, solar wind, cosmic rays, and eventually the far reaches of the solar system and heliosphere. It was the first probe to encounter Saturn and the second to fly through the asteroid belt and by Jupiter. Due to power constraints and the vast distance to the probe, communication was lost on November 30, 1995."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_562.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_562",
+        "abstract": "Kosmos 562 (Russian: Космос 562 meaning Cosmos 562), known before launch as DS-P1-Yu No.66, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Skylab_4.jsond",
+        "uri": "http://dbpedia.org/page/Skylab_4",
+        "abstract": "Skylab 4 (also SL-4 and SLM-3) was the third manned Skylab mission and placed the third and final crew aboard the first American space station.The mission started on November 16, 1973 with the launch of three astronauts on a Saturn IB rocket from the Kennedy Space Center, Florida and lasted 84 days, one hour and 16 minutes. A total of 6,051 astronaut-utilization hours were tallied by Skylab 4 astronauts performing scientific experiments in the areas of medical activities, solar observations, Earth resources, observation of the Comet Kohoutek and other experiments.The manned Skylab missions were officially designated Skylab 2, 3, and 4. Mis-communication about the numbering resulted in the mission emblems reading Skylab I, Skylab II, and Skylab 3 respectively."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Salyut_2.jsond",
+        "uri": "http://dbpedia.org/page/Salyut_2",
+        "abstract": "Salyut 2 (OPS-1) (Russian: Салют-2 meaning Salute 2) was a Soviet space station which was launched in 1973 as part of the Salyut programme. It was the first Almaz military space station to fly. Within two weeks of launch the station had lost attitude control and depressurised, leaving it unusable. Its orbit decayed and it re-entered the atmosphere on 28 May 1973, without any crews having visited it."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_545.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_545",
+        "abstract": "Kosmos 545 (Russian: Космос 545 meaning Cosmos 545), known before launch as DS-P1-Yu No.62, was a Soviet satellite which was launched in 1973 as part of the Dnepropetrovsk Sputnik programme. It was a 400-kilogram (880 lb) spacecraft, which was built by the Yuzhnoye Design Bureau, and was used as a radar calibration target for anti-ballistic missile tests."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Mars_5.jsond",
+        "uri": "http://dbpedia.org/page/Mars_5",
+        "abstract": "Mars 5 (Russian: Марс-5), also known as 3MS No.53S was a Soviet spacecraft launched to explore Mars. A 3MS spacecraft launched as part of the Mars programme, it successfully entered orbit around Mars in 1974. However, it failed a few days later."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_557.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_557",
+        "abstract": "Kosmos 557 (Russian: Космос 557 meaning Cosmos 557) was the designation given to DOS-3, the third space station in the Salyut program. It was originally intended to be launched as Salyut-3, but due to its failure to achieve orbit on May 11, 1973, three days before the launch of Skylab, it was renamed Kosmos-557.Due to errors in the flight control system while out of the range of ground control, the station fired its attitude thruster until it consumed all of its attitude control fuel and became uncontrollable before raising its orbit to the desired altitude. Since the spacecraft was already in orbit and had been registered by Western radar, the Soviets disguised the launch as \"Kosmos 557\" and quietly allowed it to reenter Earth's atmosphere and burn up a week later. It was revealed to have been a Salyut station only much later."
+    }
+]

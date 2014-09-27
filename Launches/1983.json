@@ -1,0 +1,146 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Telstar_301",
+        "abstract": "Telstar 301 is an American communications satellite launched in July 1983 and operated by AT&T. It was one of three Telstar 3 satellites, followed by Telstar 302 in 1984 and Telstar 303 in 1985.The satellite served as the east coast home satellite for the ABC network from 1984 to 1993. The CBS network also used the satellite from 1985 to 1993. It also served as the first home of Fox Broadcasting Company until the late 1980s.Other entities that also used the satellite included Group W, Wold/Keystone Communications (which used the satellite to feed Paramount Television's syndicated output including Entertainment Tonight, Star Trek: The Next Generation, and Star Trek: Deep Space Nine.), Compact Video, Lorimar/Telepictures, and Warner Bros. Television.The satellite was retired in 1993 and replaced by Telstar 401. As of June 2009, Telstar 301 (along Telstar 302 and Telstar 303) was still in orbit.",
+        "json-uri": "http://dbpedia.org/data/Telstar_301.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Prognoz_9",
+        "abstract": "Prognoz 9 was a Soviet satellite. It was designed to investigate residual radiation from the Big Bang and gamma flares in deep space.",
+        "json-uri": "http://dbpedia.org/data/Prognoz_9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_6",
+        "abstract": "GOES 6, known as GOES-F before becoming operational, was a geostationary weather satellite which was operated by the United States National Oceanic and Atmospheric Administration as part of the Geostationary Operational Environmental Satellite system. Launched in 1983, it was used for weather forecasting in the United States.GOES 6 was built by Hughes Space and Communications, and was based around the HS-371 satellite bus. At launch it had a mass of 660 kilograms (1,460 lb), with an expected operational lifespan of around seven years.",
+        "json-uri": "http://dbpedia.org/data/GOES_6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EXOSAT",
+        "abstract": "The European X-ray Observatory Satellite (EXOSAT), originally named HELOS, was operational from May 1983 until April 1986 and in that time made 1780 observations in the X-ray band of most classes of astronomical object including active galactic nuclei, stellar coronae, cataclysmic variables, white dwarfs, X-ray binaries, clusters of galaxies, and supernova remnants.This European Space Agency (ESA) satellite for direct-pointing and lunar-occultation observation of X-ray sources beyond the solar system was launched into a highly eccentric orbit (apogee 200,000 km, perigee 500 km) almost perpendicular to that of the moon on May 26, 1983. The instrumentation includes two low-energy imaging telescopes (LEIT) with Wolter I X-ray optics (for the 0.04-2 keV energy range), a medium-energy experiment using Ar/CO2 and Xe/CO2 detectors (for 1.5-50 keV), a Xe/He gas scintillation spectrometer (GSPC) (covering 2-80 keV), and a reprogrammable onboard data-processing computer. Exosat was capable of observing an object (in the direct-pointing mode) for up to 80 hours and of locating sources to within at least 10 arcsec with the LEIT and about 2 arcsec with GSPC.",
+        "json-uri": "http://dbpedia.org/data/EXOSAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Venera_15",
+        "abstract": "Venera 15 (Russian: Венера-15 meaning Venus 15) was a spacecraft sent to Venus by the Soviet Union. This unmanned orbiter was to map the surface of Venus using high resolution imaging systems. The spacecraft was identical to Venera 16 and based on modifications to the earlier Venera space probes.",
+        "json-uri": "http://dbpedia.org/data/Venera_15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-1",
+        "abstract": "TDRS-1, known before launch as TDRS-A, was an American communications satellite which was operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by TRW and launched by Space Shuttle Challenger on its maiden flight, STS-6.",
+        "json-uri": "http://dbpedia.org/data/TDRS-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-9",
+        "abstract": "STS-9 (also referred to as STS-41A and Spacelab 1) was the ninth NASA Space Shuttle mission and the sixth mission of the Space Shuttle Columbia. Launched on November 28, 1983, the ten-day mission carried the first Spacelab laboratory module into orbit, and was Columbia's last flight until STS-61-C in January 1986.STS-9 was also the last time the original STS numbering system was used until STS-26, which was designated in the aftermath of the 1986 Challenger disaster of STS-51-L. Under the new system, STS-9 would have been designated as STS-41-A. STS-9's originally planned successor, STS-10, was cancelled due to payload issues; it was instead followed by STS-41-B.",
+        "json-uri": "http://dbpedia.org/data/STS-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astron_(spacecraft)",
+        "abstract": "Astron was a Soviet spacecraft launched on 23 March 1983 at 12:45:06 UTC, using Proton launcher, which was designed to fulfill an astrophysics mission. It was based on the Venera spacecraft design and was operational for six years as the largest ultraviolet space telescope during its lifetime. The project was headed by Alexander Boyarchuk.The spacecraft was designed and constructed by the Crimean Astrophysical Observatory and NPO Lavochkin. A group of scientists from these institutions was awarded the USSR State Prize for their work on Astron.Astron's payload consisted of an 80 cm ultraviolet telescope which was designed jointly by the USSR and France, and an X-ray spectroscope on board. Placed into an orbit with an apogee of 185,000 kilometres (115,000 mi) it could make observations outside the Earth's umbra and radiation belt. Among the most important observations by Astron were those of the SN 1987A supernova on March 4–12, 1987 and of Halley's Comet in December, 1985, that allowed a group of Soviet scientists to develop a model of the coma surrounding Halley's Comet.",
+        "json-uri": "http://dbpedia.org/data/Astron_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1456",
+        "abstract": "Kosmos 1456 (Russian: Космос 1456 meaning Cosmos 1456) was a Soviet US-K missile early warning satellite which was launched in 1983 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1456 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:34 UTC on 25 April 1983. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1983-038A. The United States Space Command assigned it the Satellite Catalog Number 14034.It self-destructed and then re-entered the Earth's atmosphere on 11 May 1998.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1456.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-7",
+        "abstract": "STS-7 was NASA's seventh Space Shuttle mission, and the second mission for the Space Shuttle Challenger. During the mission, Challenger deployed several satellites into orbit. The shuttle launched from Kennedy Space Center on June 18, 1983, and landed at Edwards Air Force Base on June 24. STS-7 was notable for carrying Sally Ride, America's first female astronaut.",
+        "json-uri": "http://dbpedia.org/data/STS-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_1",
+        "abstract": "Galaxy 1 was the first in a line of Galaxy communications satellites launched by Hughes Communications in 1983. It was the first satellite exclusively devoted to cable television, and carried many such services as HBO, Cinemax, The Movie Channel, Showtime, The Disney Channel, TBS, CNN, among some.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_7K-ST_No._16L",
+        "abstract": "Soyuz 7K-ST No.16L, sometimes known as Soyuz T-10a or T-10-1, was an unsuccessful Soyuz mission intended to visit the Salyut 7 space station, which was occupied by the Soyuz T-9 crew. However, it never finished its launch countdown; the launch vehicle was destroyed on the launch pad by fire on September 26, 1983. The launch escape system of the Soyuz spacecraft fired two seconds before the launch vehicle exploded, saving the crew. It is so far the only case in which a launch escape system was fired with a crew aboard while the rocket was still on the pad.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_7K-ST_No._16L.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-1B",
+        "abstract": "INSAT-1B was an Indian communications satellite which formed part of the Indian National Satellite System. Launched in 1983, it was operated in geostationary orbit at a longitude of 74 degrees east. At the end of its seven-year design life it was replaced by the newly launched INSAT-1D, dropping to backup status. In 1992 it was relocated to 93° east, before being decommissioned in August 1993.Built by Ford Aerospace and operated by the Indian Space Research Organisation, INSAT-1B was based upon a custom satellite bus developed for the INSAT-1 series of satellites. It had a mass at launch of 1,152 kilograms (2,540 lb), and was expected to operate for seven years. The spacecraft carried twelve C and three S band transponders, powered by a single solar array. A stabilisation boom was used to counterbalance radiation torques from the satellite's asymmetrical design. The spacecraft was propelled by an R-4D-11 apogee motor.INSAT-1B was deployed by Space Shuttle Challenger during the STS-8 mission. Challenger lifted off from Launch Complex 39A at the Kennedy Space Center at 06:32:00 UTC on 30 August 1983. INSAT-1B was deployed from the orbiter's payload bay at 07:48 UTC on 31 August, with a PAM-D upper stage firing shortly afterwards to place it into geosynchronous transfer orbit. The spacecraft used its own propulsion system to raise itself into geostationary orbit. It received the International Designator 1983-089B and Satellite Catalog Number 14318.After some initial problems deploying its solar array, INSAT-1B became operational in October 1983. It was located at 74° east for most of its operational life, before being moved to 93° east in 1992. In August 1993 it was decommissioned and raised to a graveyard orbit slightly above geosynchronous altitude. As of 14 November 2013, it is in an orbit with a perigee of 35,741 kilometres (22,208 mi), an apogee of 35,846 kilometres (22,274 mi), inclination of 14.69 degrees and an orbital period of 23.93 hours.",
+        "json-uri": "http://dbpedia.org/data/INSAT-1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1481",
+        "abstract": "Kosmos 1481 (Russian: Космос 1481 meaning Cosmos 1481) was a Soviet US-K missile early warning satellite which was launched in 1983 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1481 was launched from Site 43/3 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:21 UTC on 8 July 1983. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1983-070A. The United States Space Command assigned it the Satellite Catalog Number 14182.This satellite did not reach its working orbit and self-destructed. As well as its main entry this satellite has catalogued debris such as:",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1481.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Venera_16",
+        "abstract": "Venera 16 (Russian: Венера-16 meaning Venus 16) was a spacecraft sent to Venus by the Soviet Union. This unmanned orbiter was to map the surface of Venus using high resolution imaging systems. The spacecraft was identical to Venera 15 and based on modifications to the earlier Venera space probes.",
+        "json-uri": "http://dbpedia.org/data/Venera_16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-8",
+        "abstract": "STS-8 was the eighth NASA Space Shuttle mission and the third flight of the Space Shuttle Challenger. It launched on August 30, 1983 and landed on September 5, conducting the first night launch and night landing of the Space Shuttle program. It also carried the first African-American astronaut, Guion Bluford. The mission successfully achieved all of its planned research objectives, but was marred by the subsequent discovery that a solid-fuel rocket booster had almost malfunctioned catastrophically during the launch.The mission's primary payload was INSAT-1B, an Indian communications and weather observation satellite, which was released by the orbiter and boosted into a geostationary orbit. The secondary payload, replacing a delayed NASA communications satellite, was a four-metric-ton dummy payload, intended to test the use of the shuttle's \"Canadarm\" remote manipulator system. Scientific experiments carried onboard Challenger included the environmental testing of new hardware and materials designed for future spacecraft, the study of biological materials in electric fields under microgravity, and research into space adaptation syndrome (also known as \"space sickness\"). The flight furthermore served as shakedown testing for the previously launched TDRS-1 satellite, which would be required to support the subsequent STS-9 mission.",
+        "json-uri": "http://dbpedia.org/data/STS-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-8",
+        "abstract": "Soyuz T-8 was a manned mission to the Salyut 7 space station in 1983. Shortly into the mission, the spacecraft failed to dock with the space station due to an incident involving an antenna being torn off the craft by the protective launch shroud. After a fuel-consuming attempt made in darkness for an optical rendezvous with Salyut 7 resulted in an abort in order to avoid collision, it was decided to de-orbit T-8 two days into the mission in order to ensure that the spacecraft had a sufficient amount of propellant for the de-orbit maneuver. After de-orbiting, landing of the craft occurred normally.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1484",
+        "abstract": "Kosmos 1484 (Russian: Космос 1484 meaning Cosmos 1484), also known as Resurs-OE No.3-2 was a Soviet prototype Earth imaging satellite, launched in 1983 as part of the Resurs programme. It was a prototype of the Meteor-derived Resurs-O1 spacecraft, which paved the way for the first Resurs-O1 to fly in October 1985.Kosmos 1484 was launched at 05:30:37 UTC on July 24, 1983. A Vostok-2M carrier rocket was used to place the satellite into low Earth orbit. The launch was conducted from Site 31/6 at the Baikonur Cosmodrome. Following the successful launch, the satellite was assigned its Kosmos designation, and was also given the International Designator 1983-075A, and the Satellite Catalog Number 14207.Following the completion of its mission, Kosmos 1484 remained in orbit as space debris until its orbit decayed and it reentered Earth's atmosphere on January 28, 2013. The American Meteor Society, reported that its re-entry fireball was witnessed over the eastern United States, with sightings from New York state to Georgia.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1484.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tenma",
+        "abstract": "Tenma, known as Astro-B before launch, was Japan's second X-ray astronomy satellite, developed by the Institute of Space and Astronautical Science. It was launched on February 20, 1983 using a M-3S-3 rocket as the vehicle.Battery failure in July 1984 caused the operation to become limited, and continuing problems lead to the termination of X-ray observation in 1985. It reentered the atmosphere on January 19, 1989.",
+        "json-uri": "http://dbpedia.org/data/Tenma.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1514",
+        "abstract": "Bion 6 (Cosmos 1514) was a biomedical spaceflight research mission that was launched on December 12, 1983. It was part of the Bion satellite program.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1514.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1518",
+        "abstract": "Kosmos 1518 (Russian: Космос 1518 meaning Cosmos 1518) was a Soviet US-K missile early warning satellite which was launched in 1983 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1518 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 03:48 UTC on 28 December 1983. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1983-126A. The United States Space Command assigned it the Satellite Catalog Number 14587.It reentered the Earth's atmosphere on 19 September 1998.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1518.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-9",
+        "abstract": "4th expedition to Salyut 7 following failed docking of Soyuz T-8. Returned lab experiments to earth. Next mission had launch failure Soyuz T-10a",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRAS",
+        "abstract": "The Infrared Astronomical Satellite (IRAS) was the first-ever space-based observatory to perform a survey of the entire sky at infrared wavelengths.Launched on January 25, 1983, its mission lasted ten months. The telescope was a joint project of the United States (NASA), the Netherlands (NIVR), and the United Kingdom (SERC). Over 250,000 infrared sources were observed at 12, 25, 60, and 100 micrometer wavelengths.Support for the processing and analysis of data from IRAS was contributed from the Infrared Processing and Analysis Center at the California Institute of Technology. Currently, IRSA at IPAC holds the IRAS archive.",
+        "json-uri": "http://dbpedia.org/data/IRAS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-6",
+        "abstract": "STS-6 was the sixth NASA Space Shuttle mission and the maiden flight of the Space Shuttle Challenger. Launched from Kennedy Space Center on April 4, 1983, the mission deployed the first Tracking and Data Relay Satellite, TDRS-1, into orbit, before landing at Edwards Air Force Base on April 9. STS-6 was the first Space Shuttle mission during which a spacewalk was conducted, and hence was the first in which the Extravehicular Mobility Unit (EMU) was used.",
+        "json-uri": "http://dbpedia.org/data/STS-6.jsond",
+        "instrumentation": []
+    }
+]

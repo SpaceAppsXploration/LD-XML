@@ -1,0 +1,186 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1661",
+        "abstract": "Kosmos 1661 (Russian: Космос 1661 meaning Cosmos 1661) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1661 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 00:40 UTC on 18 June 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-049A. The United States Space Command assigned it the Satellite Catalog Number 15827.Podvig says that it moved from its orbital position immediately after launch, and was probably never functional.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1661.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1675",
+        "abstract": "Kosmos 1675 (Russian: Космос 1675 meaning Cosmos 1675) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1675 was launched from Site 16/42 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 15:09 UTC on 12 August 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-071A. The United States Space Command assigned it the Satellite Catalog Number 15952.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1675.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Suisei_(spacecraft)",
+        "abstract": "Suisei (すいせい; Japanese for Comet), originally known as Planet-A, was an unmanned space probe developed by the Institute of Space and Astronautical Science (now part of the Japanese Aerospace Exploration Agency, or JAXA).It constituted a part of the Halley Armada together with Sakigake, the Soviet/French Vega probes, the ESA Giotto and the NASA International Cometary Explorer, to explore Halley's Comet during its 1986 sojourn through the inner solar system.",
+        "json-uri": "http://dbpedia.org/data/Suisei_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Geosat",
+        "abstract": "The GEOSAT (GEOdetic SATellite) was a U.S. Navy Earth observation satellite, launched on March 12, 1985 into an 800 km, 108° inclination orbit, with an orbital period of 23.07 days[citation needed] and a 330 pass orbit. The satellite carried a radar altimeter capable of measuring the distance from the satellite to sea surface with a relative precision of about 5 cm. The GM mission concluded September 30, 1986.After a classified Geodetic Mission (GM) for the Navy, GEOSAT's scientific Exact Repeat Mission (ERM) began on November 8, 1986 after being maneuvered into a 17.05 day, 244 pass repeat orbit. When the ERM ended in January 1990, due to failure of the two on-board tape recorders, more than three years of ERM data were collected and made available to the scientific community.The Geosat GM goal was to provide information on the marine gravity field. If the ocean surface were at rest, and to forcing such as tides or winds were acting on it, the water surface would lie along the geoid. To first order, the Earth shape is an oblate spheroid. Subsurface features such as seamounts create a gravitational pull, and features such as ocean trenches create lower gravity areas. Spatial variations in gravity exert influence on the ocean surface and thereby cause spatial structure in the geoid. The deviations of the geoid from the first order spheroid are on the order of ± 100m. By measuring the position of the water surface above the Earth center, the geoid is observed, and the gravity field can be computed through inverse calculations.The U.S. Navy declassified parts of the Geodetic Mission data in 1990 that covered a doughnut-shaped area of ocean that surrounds Antarctica between 60 and 72 degrees south latitude. In 1992, further parts of the Geodetic Mission data over the oceans south of 30 degrees south were released. The GEOSAT data for the entire global sea surface was declassified in July 1995 after the competition of the geodetic phase of ESA ERS-1 mission. These data were subsequently widely used to estimate ocean bathymetry along with additional satellite altimeters.Once the GM goal had been reached, the satellite still had a useful life. An opportunity existed to observe the next order physical process that affects the ocean surface. Currents, tides and wind forcing all create changes in water levels. While there are extreme waves and events (tsunamis and hurricane surge), typical ocean features would be considered large if the water level change caused by them were 1 m. Most areas of the world experience features of typical amplitude of 20 cm. The ERM established the satellite in an exact repeat orbit. The satellite would orbit the Earth, and after 17.05 days the satellite would return to the same point. The satellite was actively controlled through thrust maneuvers to maintain the exact repeat orbit to within 1 km of the predefined ground track. In this manner, the satellite could observe long term changes at the points along the ground track.",
+        "json-uri": "http://dbpedia.org/data/Geosat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Arabsat-1B",
+        "abstract": "Arabsat-1B was a Saudi Arabian communications satellite which was operated by Arabsat. It was used to provide communication services to the Arab States. It was constructed by Aérospatiale, based on the Spacebus 100 satellite bus, and carried two NATO E/F-band (IEEE S band) and twenty five NATO G/H-Band (IEEE C band) transponders. At launch, it had a mass of 1,270 kilograms (2,800 lb), and an expected operational lifespan of seven years.",
+        "json-uri": "http://dbpedia.org/data/Arabsat-1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-10",
+        "abstract": "USA-10, also known as Navstar 11, GPS I-11 and GPS SVN-11, was an American navigation satellite launched in 1985 as part of the Global Positioning System development programme. It was the last of eleven Block I GPS satellites to be launched.USA-10 was launched at 02:53 UTC on 9 October 1985, atop an Atlas E/F carrier rocket with an SGS-2 upper stage. The Atlas used had the serial number 55E, and was originally built as an Atlas E. The launch took place from Space Launch Complex 3W at Vandenberg Air Force Base, and placed USA-10 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-27 apogee motor.By 8 November 1985, USA-10 had been raised to an orbit with a perigee of 19,821 kilometres (12,316 mi), an apogee of 20,542 kilometres (12,764 mi), a period of 717.94 minutes, and 63.3 degrees of inclination to the equator. The satellite had a design life of 5 years and a mass of 758 kilograms (1,671 lb). It broadcast the PRN 03 signal in the GPS demonstration constellation, and was retired from service on 14 April 1994.",
+        "json-uri": "http://dbpedia.org/data/USA-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sakigake",
+        "abstract": "Sakigake (translating to \"pioneer\", or \"Pathfinder\"), known before launch as MS-T5, was Japan's first interplanetary spacecraft, and the first deep space probe to be launched by any country other than the USA or the Soviet Union. It aimed to demonstrate the performance of the new launch vehicle, test the schemes of the first escape from the Earth gravitation for Japan on engineering basis, observing space plasma and magnetic field in interplanetary space. Sakigake was also supposed to get references for scientists. Early measurements would be used to improve the mission of the Suisei probe several months later.Sakigake developed by the Institute of Space and Astronautical Science for the National Space Development Agency (both of which are now part of the Japanese Aerospace Exploration Agency, or JAXA). It became a part of the Halley Armada together with Suisei, the Soviet/French Vega probes, the ESA Giotto and the NASA International Cometary Explorer, to explore Halley's Comet during its 1986 sojourn through the inner solar system.",
+        "json-uri": "http://dbpedia.org/data/Sakigake.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-I",
+        "abstract": "STS-51-I was the 20th mission of NASA's Space Shuttle program and the sixth flight of Space Shuttle Discovery. During the mission, Discovery deployed three communications satellites into orbit. The mission launched from Kennedy Space Center, Florida, on August 27, 1985, and landed at Edwards Air Force Base, California, on September 3.",
+        "json-uri": "http://dbpedia.org/data/STS-51-I.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-14",
+        "abstract": "Soyuz T-14 (Russian: Союз Т-14, Union T-14) was the 9th expedition to Salyut 7.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-14.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-J",
+        "abstract": "STS-51-J was the 21st NASA Space Shuttle mission and the first flight of Space Shuttle Atlantis. It launched from Kennedy Space Center, Florida, on October 3, 1985, carrying a payload for the U.S. Department of Defense, and landed at Edwards Air Force Base, California, on October 7.",
+        "json-uri": "http://dbpedia.org/data/STS-51-J.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1669",
+        "abstract": "Kosmos-1669 (Russian: Космос-1669 meaning Cosmos 1669) was a Progress spacecraft used to resupply the Salyut 7 space station. It was a Progress 7K-TG spacecraft with the serial number 126.Kosmos-1669 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome, at 13:05 UTC on 19 July 1985. The spacecraft docked with the aft port of Salyut 7 at 15:05 UTC on 21 July. Following undocking on 28 August, it moved away from the station, before returning and redocking to test the reliability of the docking system. It undocked for a second time at 21:50 UTC, and was deorbited on 30 August, with the spacecraft burning up over the Pacific Ocean at 01:20 UTC.Kosmos-1669 was the first cargo spacecraft to visit Salyut 7 after its reactivation, and also the last Progress flight as part of the Salyut programme. It delivered new spacesuits, to replace ones damaged by cold temperatures whilst Salyut 7 was deactivated, as well as replacement parts and consumables. This Progress mission was followed by one last cargo mission to Salyut 7, but carried out by an TKS spacecraft: TKS-4, which would become the fourth and last flight of an TKS craft. The next following mission of a Progress cargo craft, Progress 25, flew to Mir.As of 2009, Kosmos-1669 is the only Progress spacecraft to have received a Kosmos designation, which are usually reserved for military, experimental and failed spacecraft. It has been reported that this may have been an error due to confusion with a TKS spacecraft which later became Kosmos 1686, or that the spacecraft may have gone out of control shortly after launch, but then been recovered after the Kosmos designation had been applied. Alternatively, it could have been given the designation as it was used to test modifications that would be used on future Progress missions. Some news agencies reported that it was a free-flying Progress-derived spacecraft, or that it was a new type of spacecraft derived from the Progress.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1669.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1658",
+        "abstract": "Kosmos 1658 (Russian: Космос 1658 meaning Cosmos 1658) was a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1658 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 14:27 UTC on 11 June 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-045A. The United States Space Command assigned it the Satellite Catalog Number 15808.It re-entered the Earth's atmosphere on 12 November 2005.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1658.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-G",
+        "abstract": "STS-51-G was the eighteenth flight of NASA's Space Shuttle program, and the fifth flight of Space Shuttle Discovery. The seven-day mission launched from Kennedy Space Center, Florida, on June 17, 1985, and landed at Edwards Air Force Base, California, on June 24. Sultan Salman Al Saud of Saudi Arabia was on board as a payload specialist; Al Saud became the first Arab, the first Muslim, and the first member of a royal family to fly into space. It was also the first Space Shuttle mission which flew without at least one astronaut from the pre-Shuttle era among its crew.",
+        "json-uri": "http://dbpedia.org/data/STS-51-G.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-13",
+        "abstract": "Soyuz T-13 was a Soyuz mission, a human spaceflight mission transporting personnel to the Russian space station Salyut 7. The eighth expedition to the orbital station, the mission launched from Baikonur Cosmodrome, atop a Soyuz-U2 carrier rocket, at 06:39:52 UTC on 1985-06-06. It is of note because it marked the first time a spacecraft had docked with a 'dead' space station, and the first time such a station had been returned to operational status following repairs.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-13.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EASE/ACCESS",
+        "abstract": "The Experimental Assembly of Structures in EVA and the Assembly Concept for Construction of Erectable Space Structures, or EASE/ACCESS, were a pair of space shuttle flight experiments that were performed on STS-61-B, on November 29 and December 1, 1985. The purpose of the experiments was to study how quickly astronauts would become proficient at assembling space structures during extravehicular activity, and how quickly they would become fatigued, and to explore various construction and maintenance techniques. In particular, researchers studied the applied moments of inertia arising in the manual assembly of a large space structure.EASE was a project of NASA's Marshall Space Flight Center and the Space Systems Laboratory at Massachusetts Institute of Technology (MIT) and later at the University of Maryland, while ACCESS was developed by NASA's Langley Research Center.",
+        "json-uri": "http://dbpedia.org/data/EASE/ACCESS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Giotto_(spacecraft)",
+        "abstract": "Giotto was a European robotic spacecraft mission from the European Space Agency. The spacecraft flew by and studied Halley's Comet and thereby become the first spacecraft to make close up observations of a comet. On 13 March 1986, the mission succeeded in approaching Halley's nucleus at a distance of 596 kilometers. The spacecraft was named after the Early Italian Renaissance painter Giotto di Bondone. He had observed Halley's Comet in 1301 and was inspired to depict it as the star of Bethlehem in his painting Adoration of the Magi.",
+        "json-uri": "http://dbpedia.org/data/Giotto_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1667",
+        "abstract": "Kosmos 1667 (Russian: Космос 1667 meaning Cosmos 1667), or Bion No.7 was a biomedical research mission satellite involving scientists from nine countries. It was part of the Bion program.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1667.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-C",
+        "abstract": "STS-51-C was the 15th flight of NASA's Space Shuttle program, and the third flight of Space Shuttle Discovery. It launched on January 24, 1985, and made the fourth shuttle landing at Kennedy Space Center, Florida, on January 27. STS-51-C was the first shuttle mission to deploy a dedicated United States Department of Defense (DoD) payload, and consequently many mission details remain classified.",
+        "json-uri": "http://dbpedia.org/data/STS-51-C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Morelos_Satellite_System",
+        "abstract": "The Morelos satellites were a series of two Mexican communications satellites. They operated between 1985 and 1998 and provided telephony, data, and television services over the territory of the Mexican Republic and adjacent areas.They were replaced by the Solidaridad Satellite System (Solidaridad I, launched 17 November 1993, and Solidaridad 2, launched 17 October 1994) and, following privatisation, by the Satmex Satellite System.",
+        "json-uri": "http://dbpedia.org/data/Morelos_Satellite_System.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1686",
+        "abstract": "Kosmos 1686 (Russian: Космос 1686 meaning Cosmos 1686), also known as TKS-4, was a heavily modified TKS spacecraft which docked unmanned to the Soviet space station Salyut 7 as part of tests to attach scientific expansion modules to stations in Earth orbit. The module which docked to the station was the FGB component of a TKS vehicle launched on 1985-09-27, and was designed to test systems planned for use on the Mir Core Module. The spacecraft docked with Salyut 7 on 1985-10-02, during the long-duration stay of the cosmonauts of its fifth principal expedition, which arrived on Soyuz T-14. It was the last flown TKS spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1686.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-61-B",
+        "abstract": "STS-61-B was NASA's 23rd Space Shuttle mission, and its second using Space Shuttle Atlantis. The shuttle was launched from Kennedy Space Center, Florida, on 26 November 1985. During STS-61-B, the shuttle crew deployed three communications satellites, and tested techniques of constructing structures in orbit. Atlantis landed at Edwards Air Force Base, California, at 16:33 EST on 3 December 1985, after 6 days and 21 hours in orbit.STS-61-B marked the quickest turnaround of a Shuttle orbiter from launch to launch in history – just 54 days elapsed between Atlantis' launch on STS-51-J and launch on STS-61-B. The mission was also notable for carrying the first Mexican astronaut, Rodolfo Neri Vela.",
+        "json-uri": "http://dbpedia.org/data/STS-61-B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-F",
+        "abstract": "STS-51-F (also known as Spacelab 2) was the nineteenth flight of NASA's Space Shuttle program, and the eighth flight of Space Shuttle Challenger. It launched from Kennedy Space Center, Florida, on July 29, 1985, and landed just under eight days later on August 6.While STS-51-F's primary payload was the Spacelab 2 laboratory module, the payload which received the most publicity was the Carbonated Beverage Dispenser Evaluation, which was an experiment in which both Coca-Cola and Pepsi tried to make their carbonated drinks available to astronauts.",
+        "json-uri": "http://dbpedia.org/data/STS-51-F.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1698",
+        "abstract": "Kosmos 1698 (Russian: Космос 1698 meaning Cosmos 1698) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1698 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 20:24 UTC on 22 October 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-098A. The United States Space Command assigned it the Satellite Catalog Number 16183.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1698.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-B",
+        "abstract": "STS 51-B was the seventeenth flight of NASA's Space Shuttle program, and the seventh flight of Space Shuttle Challenger. The launch of Challenger on April 29, 1985 was delayed by 2 minutes and 18 seconds, due to a launch processing failure. Challenger was initially rolled out to the pad to launch on the STS-51-E mission. The shuttle was rolled back when a timing issue emerged with the TDRS-B satellite. When STS-51-E was canceled, Challenger was remanifested with the STS-51-B payloads. The shuttle landed successfully on May 6, 1985, after a week-long mission.",
+        "json-uri": "http://dbpedia.org/data/STS-51-B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1629",
+        "abstract": "Kosmos 1629 (Russian: Космос 1629 meaning Cosmos 1629) is a Soviet US-KS missile early warning satellite which was launched in 1985 as part of the Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1629 was launched from Site 200/39 at Baikonur Cosmodrome in the Kazakh SSR. A Proton-K carrier rocket with a DM upper stage was used to perform the launch, which took place at 07:57 UTC on 21 February 1985. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1985-016A. The United States Space Command assigned it the Satellite Catalog Number 15574.It was operational for about 2 years.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1629.jsond",
+        "instrumentation": [
+            "Optical telescope with  aperture",
+            "Infrared sensor/s",
+            "Smaller telescopes"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-61-A",
+        "abstract": "STS-61-A (also known as D-1) was the 22nd mission of NASA's Space Shuttle program. It was a scientific Spacelab mission, funded and directed by West Germany – hence the non-NASA designation of D-1 (for Deutschland-1). STS-61-A was the last successful mission of the Space Shuttle Challenger, which was destroyed during STS-51-L in 1986. STS-61-A currently holds the record for the largest crew, eight people, aboard any single spacecraft for the entire period from launch to landing.The mission carried the NASA/ESA Spacelab module into orbit with 76 scientific experiments on board, and was declared a success. Payload operations were controlled from the German Space Operations Center in Oberpfaffenhofen, West Germany, instead of from the regular NASA control centers.",
+        "json-uri": "http://dbpedia.org/data/STS-61-A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1684",
+        "abstract": "Kosmos 1684 (Russian: Космос 1684 meaning Cosmos 1684) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1684 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 01:18 UTC on 24 September 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-084A. The United States Space Command assigned it the Satellite Catalog Number 16064.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1684.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1701",
+        "abstract": "Kosmos 1701 (Russian: Космос 1701 meaning Cosmos 1701) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1701 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 08:25 UTC on 9 November 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-105A. The United States Space Command assigned it the Satellite Catalog Number 16235.It re-entered the Earth's atmosphere on 11 May 2011.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1701.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1687",
+        "abstract": "Kosmos 1687 (Russian: Космос 1687 meaning Cosmos 1687) is a Soviet US-K missile early warning satellite which was launched in 1985 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1687 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 19:23 UTC on 30 September 1985. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1985-088A. The United States Space Command assigned it the Satellite Catalog Number 16103.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1687.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-D",
+        "abstract": "STS-51-D was the sixteenth flight of NASA's Space Shuttle program, and the fourth flight of Space Shuttle Discovery. The launch of STS-51-D from Kennedy Space Center (KSC), Florida, on April 12, 1985 was delayed by 55 minutes, after a boat strayed into the restricted Solid Rocket Booster (SRB) recovery zone. STS-51-D was the third shuttle mission to be extended.On April 19, after a week-long flight, Discovery conducted the fifth shuttle landing at KSC. The shuttle suffered extensive brake damage and a ruptured tire during landing. This forced all subsequent shuttle landings to be done at Edwards Air Force Base, California, until the development and implementation of nose wheel steering made landings at KSC more feasible.",
+        "json-uri": "http://dbpedia.org/data/STS-51-D.jsond",
+        "instrumentation": []
+    }
+]

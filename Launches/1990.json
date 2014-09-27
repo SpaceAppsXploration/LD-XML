@@ -1,0 +1,224 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Ulysses_(spacecraft)",
+        "abstract": "Ulysses is a decommissioned robotic space probe whose primary mission was to orbit the Sun and study it at all latitudes. It was launched in 1990, studied the Sun in 1994/1995 and then once more in 2000/2001. In addition several comets were studied by the probe. The space probe was a joint venture of NASA and the European Space Agency (ESA). The last day for mission operations on Ulysses was June 30, 2009.To study the Sun at all latitudes the probe needed to change its orbital inclination and leave the plane of the Solar System – to change the orbital inclination of a spacecraft a large increase in velocity is needed. However the necessary amount of velocity change to achieve a high inclination orbit of about 80° exceeded the capabilities of the designated launch vehicle, the Space Shuttle plus an Inertial Upper Stage (at that time it was desired to launch all space probes with the Shuttle). Therefore to reach the desired orbit around the Sun a gravity assist manoeuvre around Jupiter was chosen, but this Jupiter encounter meant that Ulysses could not be powered by solar cells – the probe instead was powered by a radioisotope thermoelectric generator (RTG).The spacecraft was originally named Odysseus, because of its lengthy and indirect trajectory to near Solar distance. It was renamed Ulysses, the Latin translation of \"Odysseus\" at ESA's request in honour not only of Homer's mythological hero but also with reference to Dante's description in Dante's Inferno. Ulysses was originally scheduled for launch in May 1986 aboard the Space Shuttle Challenger on STS-61-F. Due to the loss of Challenger, the launch of Ulysses was delayed until October 6, 1990 aboard Discovery (mission STS-41).",
+        "json-uri": "http://dbpedia.org/data/Ulysses_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_603",
+        "abstract": "Intelsat 603 or IS-603, previously named Intelsat VI F-3, is a communications satellite operated by Intelsat. Launched in 1990, it was the second of five Intelsat VI satellites to be launched. The Intelsat VI series was constructed by Hughes Aircraft, based around the HS-389 satellite bus.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_603.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-36",
+        "abstract": "STS-36 was a NASA Space Shuttle mission, during which Space Shuttle Atlantis carried a classified payload for the U.S. Department of Defense (believed to have been a Misty reconnaissance satellite) into orbit. STS-36 was the 34th shuttle mission overall, the sixth flight for Atlantis, and the fourth night launch of the shuttle program. It launched from Kennedy Space Center, Florida, on 28 February 1990, and landed on 4 March.",
+        "json-uri": "http://dbpedia.org/data/STS-36.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-66",
+        "abstract": "USA-66, also known as GPS IIA-1, GPS II-10 and GPS SVN-23, is an American navigation satellite which forms part of the Global Positioning System. It was the first of nineteen Block IIA GPS satellites to be launched, and is the oldest GPS satellite still in operation.USA-66 was launched at 21:39:01 UTC on 26 November 1990, atop a Delta II carrier rocket, flight number D201, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-66 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 30 December 1990, USA-66 was in an orbit with a perigee of 20,072 kilometres (12,472 mi), an apogee of 20,293 kilometres (12,609 mi), a period of 717.98 minutes, and 54.9 degrees of inclination to the equator. It was initially given PRN 23, which it used until its retirement in February 2004, however it was subsequently reactivated broadcasting PRN 32 and in February 2008 it rejoined the operational constellation. It is located in slot 5 of plane E of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-66.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-54",
+        "abstract": "USA-54, also known as GPS II-7 and GPS SVN-20, was an American navigation satellite which formed part of the Global Positioning System. It was the seventh of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.USA-54 was launched at 02:45:01 UTC on 26 March 1990, atop a Delta II carrier rocket, flight number D193, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-54 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 30 April 1990, USA-54 was in an orbit with a perigee of 20,089 kilometres (12,483 mi), an apogee of 20,268 kilometres (12,594 mi), a period of 717.84 minutes, and 55 degrees of inclination to the equator. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, however following problems with the satellite switching between timing standards, the satellite was declared unusable on 21 May 1996, and was decommissioned on 13 December.",
+        "json-uri": "http://dbpedia.org/data/USA-54.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2105",
+        "abstract": "Kosmos 2105 (Russian: Космос 2105 meaning Cosmos 2105) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2105 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 02:33 UTC on 20 November 1990. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1990-099A. The United States Space Command assigned it the Satellite Catalog Number 20941.It re-entered the Earth's atmosphere on 21 January 2008.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2105.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2063",
+        "abstract": "Kosmos 2063 (Russian: Космос 2063 meaning Cosmos 2063) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2063 was launched from Site 43/3 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 16:40 UTC on 27 March 1990. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1990-026A. The United States Space Command assigned it the Satellite Catalog Number 20536.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2063.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-63",
+        "abstract": "USA-63, also known as GPS II-8 and GPS SVN-21, was an American navigation satellite which formed part of the Global Positioning System. It was the eighth of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.USA-63 was launched at 05:39:00 UTC on 2 August 1990, atop a Delta II carrier rocket, flight number D197, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-63 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 3 September 1990, USA-63 was in an orbit with a perigee of 19,932 kilometres (12,385 mi), an apogee of 20,433 kilometres (12,696 mi), a period of 718 minutes, and 54.7 degrees of inclination to the equator. It operated in slot 2 of plane E of the GPS constellation. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 27 January 2003.",
+        "json-uri": "http://dbpedia.org/data/USA-63.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UoSAT-3",
+        "abstract": "UoSAT-3, also known as UO-14 and OSCAR-14, is a British satellite in Low Earth Orbit. It was built by a spin-off company of the University of Surrey, Surrey Satellite Technology (SSTL) and launched in January 1990 from French Guiana. The satellite functioned as one of a series of OSCAR satellite in orbit around the Earth, as well as observing Earth and performing scientific experiments.UoSAT-3 was launched on the same rocket as its sister satellite, UoSAT-4.",
+        "json-uri": "http://dbpedia.org/data/UoSAT-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kristall",
+        "abstract": "The Kristall (Russian: Кристалл; English: Crystal) (77KST, TsM-T, 11F77T) module was the fourth module and the third major addition to the Mir space station. As with previous modules, its configuration was based on the 77K (TKS) module, and was originally named \"Kvant 3\". It was launched on May 31, 1990 on a Proton rocket. It docked to Mir autonomously on June 10, 1990.",
+        "json-uri": "http://dbpedia.org/data/Kristall.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-41",
+        "abstract": "STS-41 was the eleventh mission of the Space Shuttle Discovery. The four-day mission with a primary objective to launch the Ulysses probe as part of the \"International Solar Polar Mission\".",
+        "json-uri": "http://dbpedia.org/data/STS-41.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hubble_Space_Telescope",
+        "abstract": "The Hubble Space Telescope (HST) is a space telescope that was carried into orbit by a Space Shuttle in 1990 and remains in operation. A 2.4-meter (7.9 ft) aperture telescope in low Earth orbit, Hubble's four main instruments observe in the near ultraviolet, visible, and near infrared spectra. The telescope is named after the astronomer Edwin Hubble.Hubble's orbit outside the distortion of Earth's atmosphere allows it to take extremely high-resolution images with almost no background light. Hubble's Deep Field has recorded some of the most detailed visible-light images ever, allowing a deep view into space and time. Many Hubble observations have led to breakthroughs in astrophysics, such as accurately determining the rate of expansion of the universe.Although not the first space telescope, Hubble is one of the largest and most versatile, and is well known as both a vital research tool and a public relations boon for astronomy. The HST was built by the United States space agency NASA, with contributions from the European Space Agency, and is operated by the Space Telescope Science Institute. The HST is one of NASA's Great Observatories, along with the Compton Gamma Ray Observatory, the Chandra X-ray Observatory, and the Spitzer Space Telescope.Space telescopes were proposed as early as 1923. Hubble was funded in the 1970s, with a proposed launch in 1983, but the project was beset by technical delays, budget problems, and the Challenger disaster. When finally launched in 1990, Hubble's main mirror was found to have been ground incorrectly, compromising the telescope's capabilities. The optics were corrected to their intended quality by a servicing mission in 1993.Hubble is the only telescope designed to be serviced in space by astronauts. Between 1993 and 2002, four Space Shuttle missions repaired, upgraded, and replaced systems on the telescope; a fifth mission was canceled on safety grounds following the Columbia disaster. However, after spirited public discussion, NASA administrator Mike Griffin approved one final servicing mission, completed in 2009. The telescope is now expected to function until at least 2014, and possibly 2020. Its scientific successor, the James Webb Space Telescope (JWST), is currently scheduled to be launched in 2018.",
+        "json-uri": "http://dbpedia.org/data/Hubble_Space_Telescope.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-31",
+        "abstract": "STS-31 was the thirty-fifth mission of the American Space Shuttle program, which launched the Hubble Space Telescope astronomical observatory into Earth orbit. The mission used the Space Shuttle Discovery (the tenth for this orbiter), which lifted off from Launch Complex 39B on 24 April 1990 from Kennedy Space Center, Florida.Discovery's crew deployed the telescope on 25 April, and spent the rest of the mission tending to various scientific experiments in the shuttle's payload bay and operating a set of IMAX cameras to record the mission. Discovery's launch marked the first time since January 1986 that two Space Shuttles had been on the launch pad at the same time – Discovery on 39B and Columbia on 39A.",
+        "json-uri": "http://dbpedia.org/data/STS-31.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMSAT-OSCAR_16",
+        "abstract": "AO-16 is the in-orbit name designation of an amateur radio satellite of the OSCAR series; formerly known as Pacsat, built by AMSAT. It was launched on 22 January 1990 from Kourou, French Guiana on an Ariane 4 launch vehicle. It is in sun synchronous low Earth orbit.",
+        "json-uri": "http://dbpedia.org/data/AMSAT-OSCAR_16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ROSAT",
+        "abstract": "ROSAT (short for Röntgensatellit, in German X-rays are called Röntgenstrahlen, in honour of Wilhelm Röntgen) was a German Aerospace Center-led satellite X-ray telescope, with instruments built by Germany, the UK and the US. It was launched on 1 June 1990, on a Delta II rocket from Cape Canaveral, on what was initially designed as an 18 month mission, with provision for up to five years of operation. ROSAT actually operated for over eight years, finally shutting down on 12 February 1999.In February 2011, it was reported that the 2,400 kg (5,291 lb) satellite was unlikely to burn up entirely while re-entering the Earth's atmosphere due to the large amount of ceramics and glass used in construction. Parts as heavy as 400 kg (882 lb) could impact the surface intact. ROSAT eventually re-entered the Earth's atmosphere on 23 October 2011.",
+        "json-uri": "http://dbpedia.org/data/ROSAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-35",
+        "abstract": "STS-35 was the tenth flight of Space Shuttle Columbia, the 38th shuttle flight, and a mission devoted to astronomical observations with ASTRO-1, a Spacelab observatory consisting of four telescopes. The mission launched from Kennedy Space Center in Florida on 2 December 1990.",
+        "json-uri": "http://dbpedia.org/data/STS-35.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Badr-1",
+        "abstract": "Badr-1 (Urdu: بدر-۱‎, meaning New Moon-1) was the first artificial and the first digital communication satellite launched by Pakistan's supreme national space authority — the SUPARCO — in 1990. The Badr-I was Pakistan's first indigenously developed and manufactured digital communications and an experimental artificial satellite which was launched into low Earth orbit by Pakistan on July 16, 1990, through a Chinese rocket carrier. The launch ushered in new military, technological, and scientific developments in Pakistan and also provided data on radio-signal distribution in the ionosphere. Originally planned to be launched from the United States in 1986, the Challenger disaster furthered delayed the launch of the satellite which changed the plan. After People's Republic of China offered Pakistan to use its facility, the Badr-I was finally launched XLSC in 1990 through Long March 2E (LM2E). It was also the first flight of LM2E for carrying the spacecraft into the orbit. Badr-I traveled at 61,500 miles per hour, taking taking 96.3 minutes to complete an orbit, and emitting radio signals at 145 to 435 MHz which were operated by Pakistan Amateur Radio Society (PARS). The Badr-I successfully completed its designed life, and a new satellite was proposed to developed.",
+        "json-uri": "http://dbpedia.org/data/Badr-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-9",
+        "abstract": "Soyuz TM-9 was the ninth expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-3",
+        "abstract": "Progress M-3 was a Soviet unmanned cargo spacecraft which was launched in 1990 to resupply the Mir space station. The twentieth of sixty four Progress flights to visit Mir, it was a Progress-M 11F615A55 spacecraft, and had the serial number 203. It carried supplies including food, water and oxygen for the EO-6 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-3 was launched at 23:10:57 GMT on 28 February 1990, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It docked with the aft port of the Kvant-1 module at 01:04:32 GMT on 3 March. During the 56 days for which it was docked with Mir, the station was in an orbit of around 378 by 400 kilometres (204 by 216 nmi), with 51.6 degrees of inclination.Progress M-3 undocked at 20:24:43 GMT on 27 April to make way for Progress 42. It was deorbited at 00:00:00 GMT the next day. It burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 00:52 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-64",
+        "abstract": "USA-64, also known as GPS II-9 and GPS SVN-15, was an American navigation satellite which formed part of the Global Positioning System. It was the last of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly. It was also the last Block II satellite to be retired from service.USA-64 was launched at 21:56:00 UTC on 1 October 1990, atop a Delta II carrier rocket, flight number D199, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-64 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 31 October 1990, USA-64 was in an orbit with a perigee of 19,972 kilometres (12,410 mi), an apogee of 20,390 kilometres (12,670 mi), a period of 717.94 minutes, and 54.9 degrees of inclination to the equator. It operated in slot 5 of plane D of the GPS constellation. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and ceased operations on 14 March 2007, having been removed from active service on 17 November 2006 for testing.",
+        "json-uri": "http://dbpedia.org/data/USA-64.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Prowler_(satellite)",
+        "abstract": "Prowler was an American reconnaissance satellite launched aboard Space Shuttle Atlantis in 1990 in order to study Soviet satellites in geosynchronous orbit. The government of the United States has never acknowledged its existence, however it has been identified by amateur observers and through leaked information.",
+        "json-uri": "http://dbpedia.org/data/Prowler_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-38",
+        "abstract": "STS-38 was a space shuttle mission by NASA using the Space Shuttle Atlantis. It was the 37th shuttle mission, and carried a classified payload for the U.S. Department of Defense. It was the 7th flight for Atlantis and the 7th flight dedicated to the Department of Defense. The mission was a 4-day mission that traveled more than 2 million miles and completed 79 revolutions. Atlantis landed at Kennedy Space Center's Shuttle Landing Facility's runway 33. The launch was originally scheduled for July 1990, but was rescheduled due to a hydrogen leak found on Space Shuttle Columbia during the STS-35 countdown. During a rollback to the Orbiter Processing Facility Atlantis was damaged during a hail storm. The eventual launch date of November 15, 1990 was set due to a payload problem. The launch window was between 18:30 and 22:30 EST. The launch occurred at 18:48 EST.",
+        "json-uri": "http://dbpedia.org/data/STS-38.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-10",
+        "abstract": "The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi - meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.Soyuz TM-10 was the tenth expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-5",
+        "abstract": "Progress M-5 was a Soviet unmanned cargo spacecraft which was launched in 1990 to resupply the Mir space station. The twenty-third of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 206. It carried supplies including food, water and oxygen for the EO-7 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres. It was the first of ten Progress flights to carry a VBK-Raduga capsule, which was recovered after the flight.Progress M-5 was launched at 10:37:42 GMT on 27 September 1990, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. Following two days of free flight, it docked with the forward docking port of the core module at 12:26:50 GMT on 29 September.During the 59 days for which Progress M-5 was docked, Mir was in an orbit of around 370 by 411 kilometres (200 by 222 nmi), inclined at 51.6 degrees. Progress M-5 undocked from Mir at 06:15:46 GMT on 28 November, and was deorbited a few hours later at 10:24:28. It burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean. The Raduga capsule returned to Earth by parachute, and landed in Russia at 11:04:05 GMT.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-11",
+        "abstract": "The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi- meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.Soyuz TM-11 was the eleventh expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2084",
+        "abstract": "Kosmos 2084 (Russian: Космос 2084 meaning Cosmos 2084) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2084 was launched from Site 43/3 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 20:45 UTC on 21 June 1990. The launch failed to place the satellite into a molniya orbit as the Blok 2BL failed to ignite leaving the satellite in low Earth orbit.It subsequently received its Kosmos designation, and the international designator 1990-055A. The United States Space Command assigned it the Satellite Catalog Number 20663.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2084.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2087",
+        "abstract": "Kosmos 2087 (Russian: Космос 2087 meaning Cosmos 2087) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2087 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 18:13 UTC on 25 July 1990. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1990-064A. The United States Space Command assigned it the Satellite Catalog Number 20707.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2087.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-32",
+        "abstract": "STS-32 was the 33rd mission of NASA's Space Shuttle program, and the 9th launch of Space Shuttle Columbia. Launched on 9 January 1990, it marked the first use of Launch Pad A at Kennedy Space Center's Complex 39 since 1986; it also marked the first use of Mobile Launcher Platform No. 3 (MLP-3) in the Space Shuttle program. STS-32 was, at the time, the longest shuttle mission yet conducted, with a duration of nearly 11 days. Before STS-32, the only mission of the same duration had been STS-9 in 1983. On 20 January 1990, STS-32 executed the third night landing of the shuttle program.",
+        "json-uri": "http://dbpedia.org/data/STS-32.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Gamma_(satellite)",
+        "abstract": "Gamma was a Soviet gamma ray telescope. It was launched on 11 July 1990 into an orbit around Earth with a height of 375 km and an inclination of 51.6 degrees. It lasted for around 2 years. On board the mission were three telescopes, all of which could be pointed at the same source. The project was a joint Soviet-French project.",
+        "json-uri": "http://dbpedia.org/data/Gamma_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2097",
+        "abstract": "Kosmos 2097 (Russian: Космос 2097 meaning Cosmos 2097) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2097 was launched from Site 43/4 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 07:49 UTC on 28 August 1990. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1990-076A. The United States Space Command assigned it the Satellite Catalog Number 20767.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2097.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-4",
+        "abstract": "Progress M-4 was a Soviet unmanned cargo spacecraft which was launched in 1990 to resupply the Mir space station. The twenty-second of sixty four Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 204. It carried supplies including food, water and oxygen for the EO-7 crew aboard Mir, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres.Progress M-4 was launched at 04:00:41 GMT on 15 August 1990, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome. It docked with the forward port of Mir's Core module at 05:26:13 GMT on 17 August.During the month for which Progress M-4 was docked, Mir was in an orbit of around 368 by 403 kilometres (199 by 218 nmi), inclined at 51.6 degrees. Progress M-4 undocked from Mir at 12:42:43 GMT on 17 September, and was deorbited three days later on 20 September, with the deorbit burn starting at 11:04:27. It burned up in the atmosphere over the Pacific Ocean, with remaining debris landing in the ocean at around 11:42:49.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hiten",
+        "abstract": "The Hiten Spacecraft (Japanese pronunciation: [hiteɴ]), given the English name Celestial Maiden and known before launch as MUSES-A (Mu Space Engineering Spacecraft A), part of the MUSES Program, was built by the Institute of Space and Astronautical Science of Japan and launched on January 24, 1990. It was Japan's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a state other than the Soviet Union or the United States.Hiten was to have been placed into a highly elliptical Earth orbit with an apogee of 476,000 km, which would swing past the Moon. However, the injection took place with a delta-v deficit of 50 m/s, resulting in an apogee of only 290,000 km. The deficiency was corrected and the probe continued on its mission.On the first lunar swing-by, Hiten released a small orbiter, Hagoromo (named after the feather mantle of Hiten), into lunar orbit. The transmitter on Hagoromo failed, but its orbit was visually confirmed from Earth. After the eighth swing-by, Hiten successfully demonstrated the aerobraking technique on March 19, 1991. This was the first aerobraking maneuver by a deep space probe. After the ninth lunar swing-by and second aero-braking maneuver on March 30, 1991, the primary mission of the probe was concluded.",
+        "json-uri": "http://dbpedia.org/data/Hiten.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CRRES",
+        "abstract": "The Combined Release and Radiation Effects Satellite (CRRES) was launched on July 25, 1990 into a geosynchronous transfer orbit (GTO) for a nominal three-year mission to investigate fields, plasmas, and energetic particles inside the Earth's magnetosphere. As part of the CRRES program, the SPACERAD (Space Radiation Effects) project, managed by Air Force Geophysics Laboratory, investigated the radiation environment of the inner and outer radiation belts and measured radiation effects on state-of-the-art microelectronics devices. Other magnetospheric, ionospheric, and cosmic ray experiments were also included onboard CRRES and supported by NASA or the Office of Naval Research. The chemical release project was managed by NASA/MSFC and utilized the release of chemicals from onboard canisters at low altitudes near dawn and dusk perigee times and at high altitudes near local midnight. The chemical releases were monitored with optical and radar instrumentation by ground-based observers to measure the bulk properties and movement of the expanding clouds of photo-ionized plasma along field lines after the releases occurred. In order to study the magnetosphere at different local times during the mission, the satellite orbit was designed to precess with respect to the earth-sun line such that the local time at apogee decreased by 2.5 minutes/day from 08:00 (LT) just after launch and returned to this position in nineteen month cycles. The CRRES spacecraft had the shape of an octagonal prism with solar arrays on the top side. The prism is 1 m high and 3 m between opposite faces. Four of the eight compartments were for the chemical canisters and the other four housed the SPACERAD and other experiments. The spacecraft body was spun at 2.2 rpm about a spin axis in the ecliptic plane and kept pointed about 12 degrees ahead of the Sun's apparent motion in celestial coordinates. Pre-launch and in-flight operations were supported by the Space Test and Transportation Program Office of the U.S. Air Force Space Division. Contact with the CRRES spacecraft was lost on October 12, 1991 and was presumed to be due to onboard battery failure.Taken From Nasa.",
+        "json-uri": "http://dbpedia.org/data/CRRES.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2076",
+        "abstract": "Kosmos 2076 (Russian: Космос 2076 meaning Cosmos 2076) is a Russian US-K missile early warning satellite which was launched in 1990 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2076 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 11:37 UTC on 28 April 1990. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1990-040A. The United States Space Command assigned it the Satellite Catalog Number 20596.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2076.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-50",
+        "abstract": "USA-50, also known as GPS II-6 and GPS SVN-18, was an American navigation satellite which formed part of the Global Positioning System. It was the sixth of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.USA-50 was launched at 22:55:01 UTC on 24 January 1990, atop a Delta II carrier rocket, flight number D191, flying in the 6925 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-50 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 25 February 1990, USA-50 was in an orbit with a perigee of 20,087 kilometres (12,481 mi), an apogee of 20,275 kilometres (12,598 mi), a period of 717.92 minutes, and 54.6 degrees of inclination to the equator. The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power. It had a design life of 7.5 years, and was retired from service on 18 August 2000.",
+        "json-uri": "http://dbpedia.org/data/USA-50.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UoSAT-4",
+        "abstract": "UoSAT-4, also known as UO-15 and OSCAR-15, is a British satellite in Low Earth Orbit. It was built by a spin-off company of the University of Surrey, Surrey Satellite Technology (SSTL) and launched in January 1990 from French Guiana.UoSAT-4 was launched on the same rocket as its sister satellite, UoSAT-3.",
+        "json-uri": "http://dbpedia.org/data/UoSAT-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_604",
+        "abstract": "Intelsat 604, previously named Intelsat VI F-4, was a communications satellite operated by Intelsat. Launched in 1990, it was the third of five Intelsat VI satellites to be launched. The Intelsat VI series was constructed by Hughes Aircraft, based around the HS-389 satellite bus.Intelsat 604 was launched at 11:19 UTC on 23 June 1990, atop a Commercial Titan III carrier rocket, flight number CT-3, with an Orbus-21S upper stage. The launch took place from Launch Complex 40 at Cape Canaveral Air Force Station, and successfully placed Intelsat 604 into a geosynchronous transfer orbit. The satellite raised itself into its final geostationary orbit using two liquid-fuelled R-4D-12 engines, with the satellite arriving in geostationary orbit on 28 June 1990.Intelsat 604 initially operated in a geostationary orbit with a perigee of 35,692 kilometres (22,178 mi), an apogee of 35,887 kilometres (22,299 mi), and 0.3 degrees of inclination, however over time this became more inclined. The satellite carried 38 IEEE C band and ten IEEE Ku band transponders, and had a design life of 13 years and a mass of 4,215 kilograms (9,292 lb).Following its arrival in geostationary orbit, Intelsat 604 was deployed at a longitude of 38 degrees west. It was moved to 27.5 degrees west in January 1991, where it operated until February 1992. From October 1992 to March 2002, it was operated at 60 degrees east. After leaving this position, it was positioned at 157 degrees east from August 2002 to September 2005. Its final deployment was from February to March 2006, at 177.85 degrees. The satellite was decommissioned on 6 April 2006 after it had been moved to a graveyard orbit.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_604.jsond",
+        "instrumentation": []
+    }
+]

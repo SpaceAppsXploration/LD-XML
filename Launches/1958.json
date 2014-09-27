@@ -1,0 +1,94 @@
+[
+    {
+        "abstract": "On October 11, 1958, Pioneer 1 became the first spacecraft launched by NASA, the newly formed space agency of the United States. The flight was the second and most successful of the three Thor-Able space probes.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_1.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer 0 (also known as Thor-Able 1) was a failed United States space probe that was designed to go into orbit around the Moon, carrying a television camera, a micrometeorite detector and a magnetometer, as part of the first International Geophysical Year (IGY) science payload. It was designed by the United States Air Force (USAF) as the first satellite in the Pioneer program and was one of the first attempted launches beyond Earth orbit by any country, but the rocket failed shortly after launch. The probe was intended to be called Pioneer (or Pioneer 1), but the launch failure precluded that name.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_0.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_0",
+        "instrumentation": [
+            "Television camera, magnetometer, micrometeoroid impact detector"
+        ]
+    },
+    {
+        "abstract": "Luna E-1 No.3, sometimes identified by NASA as Luna 1958C, was a Soviet spacecraft which was lost in a launch failure in 1958. It was a 361-kilogram (796 lb) Luna E-1 spacecraft, the third of four to be launched, all of which were involved in launch failures. It was intended to impact the surface of the Moon, and in doing so become the first man-made object to reach its surface.The spacecraft was intended to release 1 kilogram (2.2 lb) of sodium, in order to create a cloud of the metal which could be observed from Earth, allowing the spacecraft to be tracked. Prior to the release of information about its mission, NASA correctly identified that it had been an attempted Lunar impact mission.Luna E-1 No.3 was launched on 4 December 1958 atop a Luna 8K72 carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. Two hundred and forty five seconds into the flight, a hydrogen peroxide pump seized up due to loss of lubrication, which caused the rocket's core stage engines to fail.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-1_No.3.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-1_No.3",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Project SCORE (Signal Communications by Orbiting Relay Equipment) was the world’s first communications satellite. Launched aboard an American Atlas rocket on December 18, 1958, SCORE provided a first test of a communications relay system in space, as well as the first successful use of the Atlas as a launch vehicle. It captured world attention by broadcasting a Christmas message via short wave radio from U.S. President Dwight D. Eisenhower through an on-board tape recorder. SCORE, as a geopolitical strategy, placed the United States at an even technological par with the Soviet Union as a highly functional response to the Sputnik satellites.",
+        "json-uri": "http://dbpedia.org/data/SCORE_(satellite).jsond",
+        "uri": "http://dbpedia.org/page/SCORE_(satellite)",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer 2 was the last of the three project Able space probes designed to probe lunar and cislunar space. Shortly after launch at 07:30:00 UTC on November 8, 1958, the third stage of the launch vehicle separated but failed to ignite, and Pioneer 2 did not achieve its intended lunar orbit. The spacecraft attained a maximum altitude of 1,550 km (960 mi) before reentering Earth's atmosphere at 28.7 N, 1.9 E over NW Africa. A small amount of data was obtained during the short flight, including evidence that the equatorial region around Earth has higher flux and higher energy radiation than previously considered and that the micrometeorite density is higher around Earth than in space.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_2.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Vanguard 1 (ID: 1958-Beta 2) was the fourth artificial Earth orbital satellite launched (after Sputnik 1, Sputnik 2, and Explorer 1), but the first satellite to be solar powered. Although communication with it was lost in 1964, it remains the oldest manmade satellite still in orbit. It was designed to test the launch capabilities of a three-stage launch vehicle as a part of Project Vanguard, and the effects of the environment on a satellite and its systems in Earth orbit. It also was used to obtain geodetic measurements through orbit analysis.",
+        "json-uri": "http://dbpedia.org/data/Vanguard_1.jsond",
+        "uri": "http://dbpedia.org/page/Vanguard_1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 4 was a American satellite launched on July 26, 1958. It was instrumented by Dr. James van Allen's group. The Department of Defense's Advanced Research Projects Agency had initially planned two satellites for the purposes of studying the Van Allen radiation belts and the effects of nuclear explosions upon these belts (and the Earth's magnetosphere in general), however Explorer 4 was the only such satellite launched as the other, Explorer 5, suffered launch failure.Explorer 4 was a cylindrically shaped satellite instrumented to make the first detailed measurements of charged particles (protons and electrons) trapped in the terrestrial radiation belts.",
+        "json-uri": "http://dbpedia.org/data/Explorer_4.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_4",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Sputnik 3 (Russian: Спутник-3, Satellite 3) was a Soviet satellite launched on May 15, 1958 from Baikonur cosmodrome by a modified R-7/SS-6 ICBM. It was a research satellite to explore the upper atmosphere and the near space and carried a large array of instruments for geophysical research. Sputnik 3 was the only Soviet satellite launched in 1958. Like its American counterpart, Vanguard 1, Sputnik 3 had succeeded in making it into orbit during the IGY.",
+        "json-uri": "http://dbpedia.org/data/Sputnik_3.jsond",
+        "uri": "http://dbpedia.org/page/Sputnik_3",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer 3 was a spin stabilized spacecraft launched at 05:45:12 UTC on 6 December 1958 by the U.S. Army Ballistic Missile Agency in conjunction with the National Aeronautics and Space Administration, using a Juno II rocket. This spacecraft was intended as a lunar probe, but failed to go past the Moon and into a heliocentric orbit as planned, but did reach an altitude of 102,360 km before falling back to the Earth. The revised spacecraft objectives were to measure radiation in the outer Van Allen radiation belt using two Geiger-Müller tubes and to test the trigger mechanism for a lunar photographic experiment.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_3.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_3",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 5 was a United States satellite with a mass of 17.24 kg.It launched atop a Juno I rocket on August 24, 1958 from Launch Complex 5, but failed when the rocket's first stage collided with its second stage after separation, causing the upper stage firing angle to be off.Explorer 5 had been intended to be one of two satellites used to gather data for Project Argus.",
+        "json-uri": "http://dbpedia.org/data/Explorer_5.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_5",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 2 was to be a repeat of the Explorer 1 mission. However, due to a failure in the rocket during launch, the spacecraft did not reach orbit.Explorer 2 was launched from Cape Canaveral Air Force Station LC-26A in Florida on March 5, 1958 at 18:28 UTC, by a Juno-I launch vehicle.The Juno-I had its origins in the United States Army's Project Orbiter in 1954. The project was canceled in 1955, when the decision was made to proceed with Project Vanguard.Following the launch of the Soviet Sputnik 1 on October 4, 1957, the Army Ballistic Missile Agency (ABMA) was directed to proceed with the launching of a satellite using the Juno-I four-stage variant of the three-stage Jupiter-C, which had already been flight-tested in nose-cone re-entry tests for the Jupiter IRBM (intermediate-range ballistic missile). Working closely together, ABMA and Jet Propulsion Laboratory (JPL) completed the job of modifying the Jupiter-C and building Explorer 1 in 84 days.",
+        "json-uri": "http://dbpedia.org/data/Explorer_2.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna E-1 No.2, sometimes identified by NASA as Luna 1958B, was a Soviet spacecraft which was lost in a launch failure in 1958. It was a 361-kilogram (796 lb) Luna E-1 spacecraft, the second of four to be launched, all of which were involved in launch failures. It was intended to impact the surface of the Moon, and in doing so become the first man-made object to reach its surface.The spacecraft was intended to release 1 kilogram (2.2 lb) of sodium, in order to create a cloud of the metal which could be observed from Earth, allowing the spacecraft to be tracked. Prior to the release of information about its mission, NASA correctly identified that it had been an attempted Lunar impact mission.Facing continued political pressure to beat the US, Sergei Korolev lost his temper and exclaimed \"Do you think only American rockets explode!?\" Once again, he knew that the Pioneer 1 probe was set for launch on October 11, but again decided to wait. Just like with the attempt in August, the US moon shot failed to attain orbit.Luna E-1 No.2 was launched on 11 October 1958 atop a Luna 8K72 carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. One hundred and four seconds after launch, longitudinal resonance within the rocket's strap-on booster rockets caused the vehicle to disintegrate. This was the same problem which had caused the loss of Luna E-1 No.1 three weeks earlier.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-1_No.2.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-1_No.2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 3 (international designation 1958 Gamma) was an artificial satellite of the Earth, nearly identical to the first United States artificial satellite Explorer 1 in its design and mission. It was the second successful launch in the Explorer program.",
+        "json-uri": "http://dbpedia.org/data/Explorer_3.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_3",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna E-1 No.1, sometimes identified by NASA as Luna 1958A, was a Soviet Luna E-1 spacecraft which was intended to impact the Moon. It did not accomplish this objective as it was lost in a launch failure. It was the first of four E-1 missions to be launched.Luna E-1 No.1 was a 361-kilogram (796 lb) spacecraft which marked the first Soviet attempt to send a spacecraft to the towards the Moon. It was also the first mission of the Luna programme. The spacecraft was intended to release 1 kilogram (2.2 lb) of sodium, in order to create a \"comet\" of the metal which could be observed from Earth, allowing the spacecraft to be tracked. Prior to the release of information about its mission, NASA correctly identified that it had been an attempted lunar impact mission.As Chief Designer Sergei Korolev knew that the United States was planning to launch a lunar probe on August 17, he faced considerable pressure getting the Luna and its booster ready for launch. Despite a number of technical issues, the pad crews managed to get the booster ready on the 17th, but Korolev instead decided to let the US flight go first on the reasoning that the Luna probe had a shorter trajectory to travel and would reach the Moon first. After that launch ended in a booster explosion, he decided to postpone the flight until the glitches with the 8K72 and Luna could be worked out.Luna E-1 No.1 was launched on 23 September 1958 atop a Luna 8K72 carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. Ninety two seconds after launch, longitudinal resonance within the rocket's strap-on booster rockets caused the vehicle to disintegrate.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-1_No.1.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-1_No.1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Explorer 1 was the first satellite of the United States, launched as part of its participation in the International Geophysical Year. The mission followed the first two satellites the previous year; the Soviet Union's Sputnik 1 and 2, beginning the Cold War Space Race between the two nations.Explorer 1 was launched on January 31, 1958 at 22:48 Eastern Time (equal to February 1, 03:48 UTC) atop the first Juno booster from LC-26 at the Cape Canaveral Missile Annex, Florida. It was the first spacecraft to detect the Van Allen radiation belt, returning data until its batteries were exhausted after nearly four months. It remained in orbit until 1970, and has been followed by more than 90 scientific spacecraft in the Explorer series.Explorer 1 was given Satellite Catalog Number 4, and the Harvard designation 1958 Alpha 1, the forerunner to the modern International Designator.",
+        "json-uri": "http://dbpedia.org/data/Explorer_1.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_1",
+        "instrumentation": []
+    }
+]

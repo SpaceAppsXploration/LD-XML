@@ -1,0 +1,78 @@
+[
+    {
+        "abstract": "Explorer 7 was launched October 13, 1959 at 10:36 a.m. Eastern Time by a Juno II rocket from Cape Canaveral Air Force Station to an orbit of 573 km by 1073 km and inclination of 50.27°. It was designed to measure solar x-ray and Lyman-alpha flux, trapped energetic particles, and heavy primary cosmic rays. Also Secondary objectives included collecting data on micrometeoroid penetration and molecular sputtering and studying the earth-atmosphere heat balance. The Explorer 7 micrometeorite impacts studies can be found under the NASA paper \"RESULTS OF MICROMETEORITE PENETRATION EXPERIMENTON THE EXPLORER VII SATELLITE[1959 IOTA] LaGow and L. SecretanGoddard Space Flight CenterSignificantly, it also carried Verner Suomi's flat-plate radiometer, improved with the help of Robert Parent, that took the first Earth radiation budget measurements from space and initiated the era of satellite studies of the climate. Using both satellite observations of the Earth's heat balance and atmospheric cooling rates measured by net flux radiosondes, Suomi established the important role played by clouds in absorbing radiated solar energy. These observations established that Earth’s energy budget varies markedly due to the effect of clouds, the surface albedo, and other absorbing constituents. Using these instruments, Suomi and his team discovered that the Earth absorbed more of the Sun's energy than originally thought and demonstrated that it was possible to measure and quantify seasonal changes in the global heat budget.The satellite weighed 41.5 kg, was 75 cm high and 75 cm wide. Powered by solar cells it also carried 15 nickel-cadmium batteries around its equator.It transmitted data continuously through to February 1961 and went dead August 24, 1961. It is still in orbit.",
+        "json-uri": "http://dbpedia.org/data/Explorer_7.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_7",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna 1, also known as Mechta (Russian: Мечта, lit.: Dream), E-1 No.4 and First Cosmic Ship, was the first spacecraft to reach the vicinity of the Moon, and the first spacecraft to be placed in heliocentric orbit. Intended as an impactor, Luna 1 was launched as part of the Luna programme in 1959, however due to an incorrectly timed upper stage burn during its launch, it missed the Moon; in the process becoming the first spacecraft to leave geocentric orbit.While traveling through the outer Van Allen radiation belt, the spacecraft's scintillator made observations indicating that a small number of high energy particles exist in the outer belt. The measurements obtained during this mission provided new data on the Earth's radiation belt and outer space. The Moon was found to have no detectable magnetic field. The first ever direct observations and measurements of the solar wind, a strong flow of ionized plasma emanating from the Sun and streaming through interplanetary space, were performed. That ionized plasma concentration was measured to be some 700 particles per cm3 at altitudes 20-25 thousand km and 300 to 400 particles per cm3 at altitudes 100-150 thousand km. The spacecraft also marked the first instance of radio communication at the half-million-kilometer distance.A malfunction in the ground-based control system caused an error in the rocket's burntime, and the spacecraft missed the target and flew by the Moon at a distance of 5,900 km at the closest point. Luna 1 then became the first man-made object to reach heliocentric orbit and was then dubbed a \"new planet\" and renamed Mechta (\"Dream\"). Its orbit lies between those of Earth and Mars. The name \"Luna-1\" was applied retroactively years later.[citation needed] Luna-1 was also referred to as the \"First Cosmic Rocket\", in reference to its achievement of escape velocity.",
+        "json-uri": "http://dbpedia.org/data/Luna_1.jsond",
+        "uri": "http://dbpedia.org/page/Luna_1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna E-1A No.1 or E-1 No.5, sometimes identified by NASA as Luna 1959A, was a Soviet spacecraft which was lost in a launch failure in 1959. It was a 387-kilogram (853 lb) Luna E-1A spacecraft, the first of two to be launched. It was intended to impact the surface of the Moon, and in doing so become the first man-made object to reach its surface.Launch was originally scheduled for June 16, but delayed two days after a careless lieutenant had the booster filled with the wrong grade of RP-1 propellant. Luna E-1A No.1 was launched at 08:08 UTC on 18 June 1959 atop a Luna 8K72 carrier rocket, flying from Site 1/5 at the Baikonur Cosmodrome. The launch once again ended in failure when the booster went off course at 153 seconds into the launch due to a spilled gyroscope and was destroyed by Range Safety.The spacecraft was intended to conduct experiments during its flight towards the Moon. It would also have released gaseous sodium, in order to create a cloud of the metal which could be observed from Earth, allowing the spacecraft to be tracked. Prior to the release of information about its mission, NASA correctly identified that it had been an attempted Lunar impact mission, however they incorrectly believed that it had been launched on 16 June, two days before its actual launch.",
+        "json-uri": "http://dbpedia.org/data/Luna_E-1A_No.1.jsond",
+        "uri": "http://dbpedia.org/page/Luna_E-1A_No.1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Pioneer 4 was a spin-stabilized spacecraft launched as part of the Pioneer program on a lunar flyby trajectory and into a heliocentric orbit making it the first U.S. probe to escape from the Earth's gravity. It carried a payload similar to Pioneer 3: a lunar radiation environment experiment using a Geiger-Müller tube detector and a lunar photography experiment. It passed within 60,000 km of the Moon's surface. However, Pioneer 4 did not come close enough to trigger its photoelectric sensor. The spacecraft was still in solar orbit as of 1969.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/Pioneer_4.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_4",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Luna 3, or E-2A No.1 was a Soviet spacecraft launched in 1959, the third space probe to be sent to the neighborhood of the Moon,[citation needed] and this mission was an early feat in the spaceborne exploration of outer space. Though it returned rather poor pictures by later standards, the historic, never-before-seen views of the far side of the Moon caused excitement and interest when they were published around the world, and a tentative Atlas of the Far Side of the Moon was created after image processing improved the pictures.These views showed mountainous terrain, very different from the near side, and only two dark, low-lying regions which were named Mare Moscoviense (Sea of Moscow) and Mare Desiderii (Sea of Desire). Mare Desiderii was later found to be composed of a smaller mare, Mare Ingenii (Sea of Ingenuity), and several other dark craters. The reason for this difference between the two sides of the Moon is still not fully understood, but it seems that most of the dark lavas that flowed out to produce the maria formed under the Earth-facing half.Luna 3 was followed by the United States with Ranger 7, Ranger 8, and Ranger 9.",
+        "json-uri": "http://dbpedia.org/data/Luna_3.jsond",
+        "uri": "http://dbpedia.org/page/Luna_3",
+        "instrumentation": [
+            "Yenisey-2 Camera/Film processor"
+        ]
+    },
+    {
+        "abstract": "Explorer 6, or S-2, was an American satellite launched on August 7, 1959. It was a small, spheroidal satellite designed to study trapped radiation of various energies, galactic cosmic rays, geomagnetism, radio propagation in the upper atmosphere, and the flux of micrometeorites. It also tested a scanning device designed for photographing the Earth's cloud cover, and transmitted the first pictures of Earth from orbit.The satellite was launched into a highly elliptical orbit with an initial local time of apogee of 2100 h. The satellite was spin-stabilized at 2.8 rps, with the direction of the spin axis having a right ascension of 217 degrees and a declination of 23 degrees. Four solar cell paddles mounted near its equator recharged the storage batteries while in orbit. Each experiment except the television scanner had two outputs, digital and analog. A UHF transmitter was used for the digital telemetry and the TV signal. Two VHF transmitters were used to transmit the analog signal. The VHF transmitters were operated continuously. The UHF transmitter was operated for only a few hours each day. Only three of the solar cell paddles fully erected, and this occurred during spin up rather than prior to spin up as planned. Consequently, initial operation of the payload power supply was 63% nominal, and this decreased with time. The decreased power caused a lower signal-to-noise ratio affecting most of the data, especially near apogee. One VHF transmitter failed on September 11, 1959, and the last contact with the payload was made on October 6, 1959, at which time the solar cell charging current had fallen below that required to maintain the satellite equipment.In 1959 an anti-satellite missile test of the Bold Orion rocket used Explorer 6 as a target. The missile successfully passed within 6.4 kilometers (4.0 mi) of the satellite.Bold Orion’s ASAT mission occurred on Tuesday, 13 October 1959. Launch took place within the Atlantic Missile Range Drop Zone (AMR DZ). The altitude, latitude and longitude of the drop point were 35,000 feet, 29 deg North and 79 deg West, respectively. Bold Orion successfully intercepted the Explorer 6 satellite, passing its target at a range of less than 3.5 nm and an altitude of 136 nm.The satellite's orbit decayed on July 1, 1961.A total of 827 hours of analog and 23 hours of digital data were obtained.",
+        "json-uri": "http://dbpedia.org/data/Explorer_6.jsond",
+        "uri": "http://dbpedia.org/page/Explorer_6",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Discoverer 1 was the first of a series of satellites which were part of the Corona reconnaissance satellite program. It was launched on a Thor-Agena rocket on February 28, 1959 at 1:49 PST from Vandenberg Air Force Base in California. It was a prototype of the KH-1 satellite, but did not contain either a camera or a film capsule. It was the first satellite launched toward the South Pole in an attempt to achieve polar orbit, but was unsuccessful. A CIA report, later declassified, concluded that \"Today, most people believe the DISCOVERER I landed somewhere near the South Pole.\"",
+        "json-uri": "http://dbpedia.org/data/Discoverer_1.jsond",
+        "uri": "http://dbpedia.org/page/Discoverer_1",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Vanguard 2 or Vanguard II is an earth-orbiting satellite launched February 17, 1959 aboard a Vanguard SLV 4 rocket as part of the United States Navy's Project Vanguard. The satellite was designed to measure cloud-cover distribution over the daylight portion of its orbit, for a period of 19 days, and to provide information on the density of the atmosphere for the lifetime of its orbit (~300 years).As of April 4, 2012, Vanguard 2 was still in orbit.",
+        "json-uri": "http://dbpedia.org/data/Vanguard_2.jsond",
+        "uri": "http://dbpedia.org/page/Vanguard_2",
+        "instrumentation": [
+            "Radio beacon",
+            "Optical scanner"
+        ]
+    },
+    {
+        "abstract": "Luna 2 (E-1A series) was the second of the Soviet Union's Luna programme spacecraft launched to the Moon. It was the first spacecraft to reach the surface of the Moon and was also the first man-made object to land on another celestial body. On September 14, 1959 it successfully impacted with the lunar surface east of Mare Imbrium near the craters Aristides, Archimedes, and Autolycus.Launch was scheduled for September 9, but the Blok I core stage was shut down after it failed to reach full thrust at ignition. The booster was removed from the pad and replaced by a different vehicle, delaying the flight by three days. Luna 2, like Luna 1, took a direct path to the Moon with a journey time of around 36 hours. This was dictated by the fact that the Earth-Moon gravitational system forced it to follow a curved trajectory, and launch had to occur from the side of the Earth opposite the Moon. Its journey time had to be, therefore, 12 hours, 36 hours or 60 hours in order to ensure that the Moon was above the horizon in the Soviet Union. Luna 2 hit the Moon about 800 kilometres from the centre of the visible disk 1959 September 13 at 21:02:24.Luna 2 was similar in design to Luna 1, a spherical spacecraft with protruding antennas and instrument parts. The instrumentation was also similar, including scintillation counters, geiger counters, a magnetometer, Cherenkov detectors, and micrometeorite detectors. There were no propulsion systems on Luna 2 itself.",
+        "json-uri": "http://dbpedia.org/data/Luna_2.jsond",
+        "uri": "http://dbpedia.org/page/Luna_2",
+        "instrumentation": []
+    },
+    {
+        "abstract": "Vanguard 3 (international designation 1959 Eta 1) is a scientific satellite that was launched into Earth orbit by a Vanguard rocket on September 18, 1959, the third successful Vanguard launch out of eleven attempts.",
+        "json-uri": "http://dbpedia.org/data/Vanguard_3.jsond",
+        "uri": "http://dbpedia.org/page/Vanguard_3",
+        "instrumentation": [
+            "Proton Precessional Magnetometer",
+            "Micrometeorite Detectors",
+            "Satellite Drag Atmospheric Density",
+            "X-Ray Experiment"
+        ]
+    },
+    {
+        "abstract": "Pioneer P-3 (also known as Atlas-Able 4 or Pioneer X) was intended to be a lunar orbiter probe, but the mission failed shortly after launch. The objectives were to place a highly instrumented probe in lunar orbit, to investigate the environment between the Earth and Moon, and to develop technology for controlling and maneuvering spacecraft from Earth. It was equipped to take images of the lunar surface with a television-like system, estimate the Moon's mass and topography of the poles, record the distribution and velocity of micrometeorites, and study radiation, magnetic fields, and low frequency electromagnetic waves in space. A mid-course propulsion system and injection rocket would have been the first United States self-contained propulsion system capable of operation many months after launch at great distances from Earth and the first U.S. tests of maneuvering a satellite in space.",
+        "json-uri": "http://dbpedia.org/data/Pioneer_P-3.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_P-3",
+        "instrumentation": []
+    }
+]

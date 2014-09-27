@@ -1,0 +1,200 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Mars_Pathfinder",
+        "abstract": "Mars Pathfinder (MESUR Pathfinder) is an American spacecraft that landed a base station with a roving probe on Mars in 1997. It consisted of a lander, renamed the Carl Sagan Memorial Station, and a lightweight (10.6 kg/23 lb) wheeled robotic Mars rover named Sojourner.Launched on December 4, 1996 by NASA aboard a Delta II booster a month after the Mars Global Surveyor was launched, it landed on July 4, 1997 on Mars's Ares Vallis, in a region called Chryse Planitia in the Oxia Palus quadrangle. The lander then opened, exposing the rover which conducted many experiments on the Martian surface.The mission carried a series of scientific instruments to analyze the Martian atmosphere, climate, geology and the composition of its rocks and soil. It was the second project from NASA's Discovery Program, which promotes the use of low-cost spacecraft and frequent launches under the motto \"cheaper, faster and better\" promoted by the then administrator, Daniel Goldin. The mission was directed by the Jet Propulsion Laboratory (JPL), a division of the California Institute of Technology, responsible for NASA's Mars Exploration Program. The project manager was JPL's Tony Spear.This mission was the first of a series of missions to Mars that included rovers, and was the first successful lander since the two Vikings landed on the red planet in 1976. Although the Soviet Union successfully sent rovers to the Moon as part of the Lunokhod program in the 1970s, its attempts to use rovers in its Mars probe program failed.In addition to scientific objectives, the Mars Pathfinder mission was also a \"proof-of-concept\" for various technologies, such as airbag-mediated touchdown and automated obstacle avoidance, both later exploited by the Mars Exploration Rover mission. The Mars Pathfinder was also remarkable for its extremely low cost relative to other unmanned space missions to Mars. Originally, the mission was conceived as the first of the Mars Environmental Survey (MESUR) program.",
+        "json-uri": "http://dbpedia.org/data/Mars_Pathfinder.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_1C",
+        "abstract": "Türksat 1C was a Turkish communications satellite as part of a project to form an instant network with two geosynchronous satellites that is supervised by the companies Türksat A.Ş. in Turkey and Aérospatiale of France.Türksat 1C was launched by Arianespace atop an Ariane-44L H10-3 launch vehicle along with Saudi Arabian satellite Arabsat-2A in a dual-payload launch on July 9, 1996 from ELA-2 at the Guiana Space Centre in Kourou, French Guiana. It was built under the insurance terms of the turnkey system contract to replace the first Turkish satellite Türksat 1A, which was lost following a launch failure on January 24, 1994. The contract was modified so that the coverage area of Türksat 1C was enlarged by two big zones.Turksat 1C was successfully placed into geostationary transfer orbit and positioned at 31.3°E on July 10, 1996. Completing the orbital tests, the satellite shifted to longitude 42°E. After this process, which took 17 days, the broadcast traffic of the Türksat 1B was transferred to Türksat 1C. Finally, when these processes completed Türksat 1B was positioned at 31.3°E following similar orbital manoeuvres.Turksat 1C was designed for covering Turkey and Europe on west spot by vertical emission and Turkey and Central Asia on east spot by horizontal emission so as to serve simultaneously between Europe, Turkey and Central Asia, and to provide direct connection between Europe and Central Asia. It is based on the Aerospatiale Spacebus 2000 series having an on-orbit mass of 1,062 kg (2,341 lb). The communications payload consists of 16 Ku band transponders with eight backup, nine with 36Mhz, two with 54Mhz and five 72Mhz bandwidth.On July 16, 2008, all traffic on Turksat 1C was transferred to Turksat 3A, which was launched on June 13, 2008 and its television broadcast was terminated on October 27, 2008. After this date, Turksat 1C was parked at 31.3°E. It is being used in inclined orbit.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_1C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-23",
+        "abstract": "Soyuz TM-23 was the 25th manned spacecraft to visit the Soviet Space Station Mir",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-23.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-80",
+        "abstract": "STS-80 was a Space Shuttle mission flown by Space Shuttle Columbia. The launch was originally scheduled for 31 October 1996, but was delayed to 19 November for several reasons. Likewise, the landing, which was originally scheduled for 5 December, was pushed back to 7 December after bad weather prevented landing for two days. The mission was the longest Shuttle mission ever flown at 17 days, 15 hours, and 53 minutes. Although two spacewalks were planned for the mission, they were both canceled after problems with the airlock hatch prevented astronauts Tom Jones and Tammy Jernigan from exiting the orbiter.",
+        "json-uri": "http://dbpedia.org/data/STS-80.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NEAR_Shoemaker",
+        "abstract": "The Near Earth Asteroid Rendezvous - Shoemaker (NEAR Shoemaker), renamed after its 1996 launch in honor of planetary scientist Eugene Shoemaker, was a robotic space probe designed by the Johns Hopkins University Applied Physics Laboratory for NASA to study the near-Earth asteroid Eros from close orbit over a period of a year. The mission succeeded in closing in with the asteroid and orbited it several times, finally terminating by touching down on the asteroid on 12 February 2001.The primary scientific objective of NEAR was to return data on the bulk properties, composition, mineralogy, morphology, internal mass distribution and magnetic field of Eros. Secondary objectives include studies of regolith properties, interactions with the solar wind, possible current activity as indicated by dust or gas, and the asteroid spin state. This data will be used to help understand the characteristics of asteroids in general, their relationship to meteorites and comets, and the conditions in the early solar system. To accomplish these goals, the spacecraft was equipped with an X-ray/gamma ray spectrometer, a near-infrared imaging spectrograph, a multi-spectral camera fitted with a CCD imaging detector, a laser rangefinder, and a magnetometer. A radio science experiment was also performed using the NEAR tracking system to estimate the gravity field of the asteroid. The total mass of the instruments was 56 kg, and they required 80 W power.",
+        "json-uri": "http://dbpedia.org/data/NEAR_Shoemaker.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-78",
+        "abstract": "STS-78 was the fifth dedicated Life and Microgravity Spacelab mission for the Space Shuttle program, flown partly in preparation for the International Space Station project. The mission used the Space Shuttle Columbia, which lifted off successfully from Kennedy Space Center’s launch pad 39-B on 20 June 1996.",
+        "json-uri": "http://dbpedia.org/data/STS-78.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Fast_Auroral_Snapshot_Explorer",
+        "abstract": "The Fast Auroral Snapshot Explorer (FAST) was launched from Vandenberg Air Force Base on board a Pegasus XL rocket on August 21, 1996. One in the series of NASA's Small Explorer (SMEX) spacecraft, FAST was designed to observe and measure the plasma physics of the auroral phenomena which occur around both poles of the Earth. It is operated by the University of California, Berkeley's Space Sciences Laboratory.The explorer was launched few days before the launch of the Interball aurora probe, whose objective was to study the aurora processes in conjunction with another probe located in the magnetotail.FAST supported the THEMIS mission in 2008 and 2009.Normal operations ended on May 1, 2009. After that, some limited operations and engineering tests continued.",
+        "json-uri": "http://dbpedia.org/data/Fast_Auroral_Snapshot_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Bion_No.11",
+        "abstract": "Bion 11 was a Russian space mission that was part of the Bion series of space flights.",
+        "json-uri": "http://dbpedia.org/data/Bion_No.11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-P3",
+        "abstract": "IRS-P3 was an experimental earth observation mission undertaken by ISRO. The objectives of the mission was processing and interpretation of data generated by its two payloads, the Wide Field sensor and Modular Optoelectric Sensor, developed by the German Aerospace Center).",
+        "json-uri": "http://dbpedia.org/data/IRS-P3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-77",
+        "abstract": "STS-77 was the 77th Space Shuttle mission and the 11th mission of the Space Shuttle Endeavour. The mission began from launch pad 39B from Kennedy Space Center, Florida on 19 May 1996 lasting 10 days and 40 minutes and completing 161 revolutions before landing on runway 33.",
+        "json-uri": "http://dbpedia.org/data/STS-77.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Polar_(satellite)",
+        "abstract": "The Global Geospace Science (GGS) Polar Satellite was a NASA science spacecraft designed to study the polar magnetosphere and aurora. It was launched into orbit in February 1996, and continued operations until the program was terminated in April 2008. The spacecraft remains in orbit, though it is now inactive. Polar is the sister ship to GGS Wind.",
+        "json-uri": "http://dbpedia.org/data/Polar_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-76",
+        "abstract": "STS-76 was NASA's 76th Space Shuttle mission, and the 16th mission for Atlantis. STS-76 launched on 22 March 1996 at 3:13 am EST (UTC −5) from Kennedy Space Center launch pad 39B. STS-76 lasted over 9 days, traveled about 3,800,000 miles (6,100,000 km) while orbiting Earth an estimated 145 times, and landing at 5:28 am PST (UTC −8) on 31 March 1996 at Edwards Air Force Base runway 22.The flight was the third Shuttle mission to dock with the Russian Space Station Mir, as part of the Shuttle-Mir Program, carrying astronaut Shanon Lucid to the orbital laboratory to replace NASA astronaut Norm Thagard. STS-76 also carried a SPACEHAB single module along with Lucid, and on flight day 6 Linda Godwin and Michael R. Clifford performed the first U.S. spacewalk around two docked spacecraft.",
+        "json-uri": "http://dbpedia.org/data/STS-76.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/High_Energy_Transient_Explorer",
+        "abstract": "The High Energy Transient Explorer (abbreviated HETE; also known as Explorer 79) was an American astronomical satellite with international participation (mainly Japan and France). The prime objective of HETE was to carry out the first multiwavelength study of gamma-ray bursts with UV, X-ray, and gamma-ray instruments mounted on a single, compact spacecraft. A unique feature of the HETE mission was its capability to localize GRBs with ~10 arc second accuracy in near real time aboard the spacecraft, and to transmit these positions directly to a network of receivers at existing ground-based observatories enabling rapid, sensitive follow-up studies in the radio, IR, and optical bands. The satellite bus for the first HETE was designed and built by AeroAstro, Inc. of Herndon, VA; the replacement satellite, HETE-2, was built by MIT based on the original HETE design.",
+        "json-uri": "http://dbpedia.org/data/High_Energy_Transient_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Priroda",
+        "abstract": "The Priroda (Russian: Природа; English: Nature) (TsM-I, 77KSI, 11F77I) module was the seventh and final module of the Mir Space Station. Its primary purpose was to conduct Earth resource experiments through remote sensing and to develop and verify remote sensing methods. The control system of Priroda was developed by the Khartron (Kharkov, Ukraine).",
+        "json-uri": "http://dbpedia.org/data/Priroda.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-126",
+        "abstract": "USA-126, also known as GPS IIA-17, GPS II-26 and GPS SVN-40, is an American navigation satellite which forms part of the Global Positioning System. It was the seventeenth of nineteen Block IIA GPS satellites to be launched.USA-126 was launched at 00:50:00 UTC on 16 July 1996, atop a Delta II carrier rocket, flight number D237, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-126 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 15 August 1996, USA-126 was in an orbit with a perigee of 20,134 kilometres (12,511 mi), an apogee of 20,227 kilometres (12,568 mi), a period of 717.9 minutes, and 55 degrees of inclination to the equator. It broadcasts the PRN 10 signal, and operates in slot 3 of plane E of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-126.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-24",
+        "abstract": "Soyuz TM-24 was the 27th expedition to Mir. Soyuz TM-24 carried a crew of three. The crew consisted of Cosmonauts Valery Korzun and Aleksandr Kaleri, and the first French woman in space, Claudie André-Deshays. They joined American astronaut Shannon Lucid and Mir 21 crewmates Yuri Onufriyenko and Yuri Usachev. André-Deshays carried out biological and medical experiments on Mir for 16 days before returning to Earth with Onufriyenko and Usachev.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-24.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_708",
+        "abstract": "Intelsat 708 was a telecommunications satellite built by the American company Space Systems/Loral intended to be launched into a geostationary orbit and operated by Intelsat. It was destroyed during a launch failure on 14 February 1996 (15 February local time), causing a large number of fatalities near the Xichang Satellite Launch Center at Xichang, People's Republic of China, prompting political controversy around the world.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_708.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Sojourner_(rover)",
+        "abstract": "Sojourner was the Mars Pathfinder robotic Mars rover that landed on July 4, 1997 and explored Mars for around three months. It has front and rear cameras and several science experiments. Designed for a mission lasting 7 sols, with possible extension to 30 sols, it in fact was active for 83 sols. The base station had its last communication session with Earth at 3:23 a.m. Pacific Daylight Time on September 27, 1997. The rover needed the base station to talk to Earth, despite still functioning at the time communications ended.Sojourner traveled a distance of just over 100 metres (330 ft) by the time communication was lost. It was instructed to stay stationary until October 5, 1997 (sol 91) and then drive around the lander.",
+        "json-uri": "http://dbpedia.org/data/Sojourner_(rover).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-72",
+        "abstract": "STS-72 was a Space Shuttle Endeavour mission to capture and return to Earth a Japanese microgravity research spacecraft known as Space Flyer Unit (SFU). The mission launched from Kennedy Space Center, Florida on 11 January 1996.",
+        "json-uri": "http://dbpedia.org/data/STS-72.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-1",
+        "abstract": "AMC-1 is a geosynchronous satellite used for communications. It is a hybrid C Band/Ku band spacecraft. It is currently operated by SES Americom.",
+        "json-uri": "http://dbpedia.org/data/AMC-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/BeppoSAX",
+        "abstract": "BeppoSAX was an Italian–Dutch satellite for X-ray astronomy which played a crucial role in resolving the origin of gamma-ray bursts (GRBs), the most energetic events known in the universe. It was the first X-ray mission capable of simultaneously observing targets over more than 3 decades of energy, from 0.1 to 300 kiloelectronvolts (keV) with relatively large area, good (for the time) energy resolution and imaging capabilities (with a spatial resolution of 1 arc minute between 0.1 and 10 keV). BeppoSAX was a major programme of the Italian Space Agency (ASI) with the participation of the Netherlands Agency for Aerospace Programmes (NIVR). The prime contractor for the space segment was Alenia while Nuova Telespazio led the development of the ground segment. Most of the scientific instruments were developed by the Italian National Research Council (CNR) while the Wide Field Cameras were developed by the Netherlands Institute for Space Research (SRON) and the LECS was developed by the astrophysics division of the European Space Agency's ESTEC facility.BeppoSAX was named in honour of the Italian physicist Giuseppe \"Beppo\" Occhialini. SAX stands for \"Satellite per Astronomia a raggi X\" or \"Satellite for X-ray Astronomy\".X-ray observations cannot be performed from ground-based telescopes, since Earth's atmosphere blocks most of the incoming radiation.One of BeppoSAX's main achievements was the identification of numerous gamma ray bursts with extra-galactic objects. (See the linked article for details.)Launched by an Atlas-Centaur on 30 April 1996 into a low inclination (<4 degree) low-Earth orbit, the expected operating life of two years was extended to April 30, 2002 due to high scientific interest in the mission and the continued good technical status. After this date, the orbit started to decay rapidly and various subsystems were starting to fail making it no longer worthwhile to conduct scientific observations.On April 29, 2003, the satellite ended its life falling into the Pacific Ocean.",
+        "json-uri": "http://dbpedia.org/data/BeppoSAX.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_3R",
+        "abstract": "Intelsat 3R (formerly PAS-3R) is a communications satellite owned by Intelsat located at 43° W longitude, serving the Americas market.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_3R.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Paksat-1",
+        "abstract": "Paksat-1, (Other former designation as Palapa C1, HGS-3 and Anatolia 1), is a geosynchronous and communications satellite built and owned by the Boeing Company, leased to the SUPARCO as PakSat. It was successfully put on orbit on 31 January 1996 as \"Palapa C1\" for Indonesia as its original customer. But, after the technical problems, the satellite was leased to SUPARCO at an orbital location of 38° East Longitude on December 2001. The PakSat-1 offers the C and Ku band coverage in over 75 countries across Europe, Africa, Middle East, South and Central Asia. Its customers included government organizations, TV broadcasters, telecom companies, data and broadband internet service providers.",
+        "json-uri": "http://dbpedia.org/data/Paksat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-75",
+        "abstract": "STS-75 was a United States Space Shuttle mission, the 19th mission of the Columbia orbiter.",
+        "json-uri": "http://dbpedia.org/data/STS-75.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-79",
+        "abstract": "STS-79 was the 17th flight of Space Shuttle Atlantis, and the 79th mission of the Space Shuttle program. The flight saw Atlantis dock with the Russian space station Mir to deliver equipment, supplies and relief personnel. A variety of scientific experiments were also conducted aboard Atlantis by her crew. It was the first shuttle mission to rendezvous with a fully assembled Mir, and the fourth rendezvous of a shuttle to the space station.",
+        "json-uri": "http://dbpedia.org/data/STS-79.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mars_Global_Surveyor",
+        "abstract": "Mars Global Surveyor (MGS) was a US spacecraft developed by NASA's Jet Propulsion Laboratory and launched November 1996. It began the United States' return to Mars after a 10-year absence. Mars Global Surveyor was a global mapping mission that examined the entire planet, from the ionosphere down through the atmosphere to the surface. As part of the larger Mars Exploration Program, Mars Global Surveyor performed atmospheric monitoring for sister orbiters during aerobraking, it helped rovers and lander missions by identifying potential landing sites and relaying surface telemetry.It completed its primary mission in January 2001 and was in its third extended mission phase when, on 2 November 2006, the spacecraft failed to respond to messages and commands. A faint signal was detected three days later which indicated that it had gone into safe mode. Attempts to recontact the spacecraft and resolve the problem failed, and NASA officially ended the mission in January 2007.",
+        "json-uri": "http://dbpedia.org/data/Mars_Global_Surveyor.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mars_96",
+        "abstract": "Mars 96 (sometimes called Mars 8) was a failed Mars mission launched in 1996 to investigate Mars by the Russian Space Forces and not directly related to the Soviet Mars probe program of the same name. After failure of the second fourth-stage burn, the probe assembly re-entered the Earth's atmosphere, breaking up over a 200-mile long portion of the Pacific Ocean, Chile, and Bolivia. The Mars 96 spacecraft was based on the Phobos probes launched to Mars in 1988. They were of a new design at the time and both ultimately failed. For the Mars 96 mission the designers believed they had corrected the flaws of the Phobos probes, but the value of their improvements was never demonstrated due to the destruction of the probe during the launch phase.It was, however, a very ambitious mission and the heaviest interplanetary probe launched up to that time. The mission included an orbiter, surface stations and surface penetrators. The mission included a large complement of instruments provided by France, Germany, other European countries and the United States. Similar instruments have since been flown on Mars Express, launched in 2003. Its project scientist was Alexander Zakharov.",
+        "json-uri": "http://dbpedia.org/data/Mars_96.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Inflatable_Antenna_Experiment",
+        "abstract": "The Inflatable Antenna Experiment (IAE) was a NASA experiment that began on May 19, 1996, consisting of an inflatable antenna made of mylar which was launched from the Space Shuttle Endeavour during the 1996 STS-77 mission, in cooperation with the satellite Spartan-207.The antenna correctly inflated, separating from Spartan-207, before re-entering Earth's atmosphere a few days later, on 22 May. IAE was intended to pave the way for the development of lightweight inflatable structures for space applications. The IAE was constructed by LGarde, Inc., an American aerospace company based in Orange County, CA.",
+        "json-uri": "http://dbpedia.org/data/Inflatable_Antenna_Experiment.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Wake_Shield_Facility",
+        "abstract": "Wake Shield Facility is an experimental science platform that was placed in low Earth orbit by the Space Shuttle. It is a 3.7 meter (12 ft) diameter, free-flying stainless steel disk.The WSF was deployed in the wake of the Space Shuttle at an orbital altitude of over 300 kilometers (186 mi), within the thermosphere, where the atmosphere is exceedingly tenuous. The forward edge of the WSF disk redirected atmospheric and other particles around the sides, leaving an \"ultra-vacuum\" in its wake. The resulting vacuum was used to study epitaxial film growth.The WSF has flown into space three times, on board shuttle flights STS-60, STS-69 and STS-80. During STS-60, some hardware issues were experienced, and, as a result, the WSF was only deployed at the end of the shuttle's robotic arm. During the later missions, the WSF was deployed as a free-flying platform in the wake of the shuttle.These flights proved the vacuum wake concept, and realized the space epitaxy concept by growing the first-ever crystalline semiconductor thin films in the vacuum of space. These included gallium arsenide (GaAs) and aluminum gallium arsenide (AlGaAs) depositions. These experiments have been used to develop better photocells and thin films. Among the potential resulting applications are artificial retinas made from tiny ceramic detectors.Pre-flight calculations suggested that the pressure on the wake side could be decreased by some 6 orders of magnitude over the ambient pressure in low Earth orbit (from 10−8 to 10−14 Torr). Analysis of the pressure and temperature data gathered from the two flights concluded that the decrease was some 2 orders of magnitude (4 orders of magnitude less than expected).The Wake Shield is sponsored by the Space Processing Division in NASA's Office of Life and Microgravity Sciences and Applications. Wake Shield was designed, built and is operated by the Center for Advanced Materials (formerly Space Vacuum Epitaxy Center) at the University of Houston—a NASA Commercial Space Center—in conjunction with its industrial partner, Space Industries, Inc., also in Houston.",
+        "json-uri": "http://dbpedia.org/data/Wake_Shield_Facility.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-117",
+        "abstract": "USA-117, also known as GPS IIA-16, GPS II-25 and GPS SVN-33, is an American navigation satellite which forms part of the Global Positioning System. It was the sixteenth of nineteen Block IIA GPS satellites to be launched.USA-117 was launched at 00:21:00 UTC on 28 March 1996, atop a Delta II carrier rocket, flight number D234, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-117 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 27 April 1996, USA-117 was in an orbit with a perigee of 20,080 kilometres (12,480 mi), an apogee of 20,284 kilometres (12,604 mi), a period of 717.96 minutes, and 54.7 degrees of inclination to the equator. It broadcasts the PRN 03 signal, and operates in slot 2 of plane C of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, however as of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-117.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-128",
+        "abstract": "USA-128, also known as GPS IIA-18, GPS II-27 and GPS SVN-30, is an American navigation satellite which forms part of the Global Positioning System. It was the eighteenth of nineteen Block IIA GPS satellites to be launched.USA-128 was launched at 08:49:00 UTC on 12 September 1996, atop a Delta II carrier rocket, flight number D238, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-128 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 17 October 1996, USA-128 was in an orbit with a perigee of 20,058 kilometres (12,463 mi), an apogee of 20,305 kilometres (12,617 mi), a period of 717.94 minutes, and 54.7 degrees of inclination to the equator. It broadcasts the PRN 30 signal, and operates in slot 2 of plane B of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, and was decommissioned on July 20, 2011.",
+        "json-uri": "http://dbpedia.org/data/USA-128.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_24",
+        "abstract": "Intelsat 24, previously Amos-1, is a commercial communication satellite which is operated by Intelsat. It was previously operated by Spacecom as Amos-1, and formed part of the AMOS series of satellites. It was the first Israeli communications satellite, and was initially positioned at 4° West longitude in geostationary orbit. It has since been moved to 47.3 degrees East.Its development was based on experience from Ofeq reconnaissance satellites in association with DASA and Alcatel Espace. It was launched at May 16, 1996 from Kourou in French Guiana, aboard an Ariane 4 rocket flying in the 44L configuration. It was used for home TV services (DTH/DBS by \"Yes\" company in Israel and by HBO and others in Europe). Spacecom succeeded quickly to fill all transmission abilities of Amos-1 and accumulated additional requests. Therefore Spacecom decided to build AMOS 2, which replaced AMOS-1 on orbit at 4 degrees West. AMOS-1 carries nine Ku band transponders.Weighing 970 kg at launch, Amos-1 incorporated a 400 Newton liquid apogee motor and fourteen reaction control thrusters, each delivering ten Newtons of thrust for raising the satellite's orbit from geostationary transfer orbit to its final geostationary orbit as well as for its attitude control. It carried 450 kg of propellant (monomethyl hydrazine and MON-3).Amos-1 measures 11.5 m in length in its final in-orbit configuration. It is 3-axis body stabilised using Sun and Earth sensors, momentum and reaction wheels. Its solar array generates 1380 W power, backed up by 24 A·h Ni-Cd batteries. After its launch, it was raised to its final geostationary orbit by firing the apogee boost motor in phases. After it reached the geostationary orbit, its antennae and solar panels were deployed and the satellite was placed in its allocated slot at 4° West longitude. Amos 1 and Amos 2 were placed near each other to enable satellite users to aim once and reach either satellite from the same antenna.In 2009, Amos-1 was sold to Intelsat, and became Intelsat 24. Intelsat moved it over the Middle East, put it into an inclined orbit to conserve fuel, and rented its capacity to Tachyon Networks for US military communications.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_24.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Midcourse_Space_Experiment",
+        "abstract": "The Midcourse Space Experiment (MSX) is a Ballistic Missile Defense Organization (BMDO) satellite experiment (unmanned space mission) to map bright infrared sources in space. MSX offered the first system demonstration of technology in space to identify and track ballistic missiles during their midcourse flight phase.",
+        "json-uri": "http://dbpedia.org/data/Midcourse_Space_Experiment.jsond",
+        "instrumentation": []
+    }
+]

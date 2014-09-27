@@ -1,0 +1,409 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Thor_5",
+        "abstract": "Thor 5, also known as Thor 2R is a Norwegian communications satellite. It was successfully launched for Telenor atop an International Launch Services Proton-M/Briz-M carrier rocket, at 11:34 GMT on 11 February 2008. It is based on the Star-2 satellite bus, and was constructed by Orbital Sciences Corporation. It carries 24 Ku band transponders, to provide direct-to-home television broadcasting. After launch, the Briz-M upper stage placed Thor 5 directly into a geosynchronous orbit, eliminating the need for orbital raising manoeuvres and making the spacecraft able to save weight by carrying less fuel. It will be positioned at a longitude of 1° West.",
+        "json-uri": "http://dbpedia.org/data/Thor_5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/C/NOFS",
+        "abstract": "C/NOFS, or Communications/Navigation Outage Forecasting System is a satellite developed by the Air Force Research Laboratory Space Vehicles Directorate to investigate and forecast scintillations in the Earth's ionosphere. It was launched by an Orbital Sciences Corporation Pegasus-XL rocket at 17:01 GMT on 16 April 2008.The satellite, which will be operated by the USAF STP, will allow the US military to predict the effects of ionospheric activity on signals from communication and navigation satellites, outages of which could potentially cause problems in battlefield situations.C/NOFS has a three-axis stabilisation system, and is equipped with seven sensors. It was placed into a low Earth orbit with orbital inclination of 13°, a perigee of 400 km and an apogee of 850 km. It carries the CINDI experiment for NASA. Launch was originally scheduled for 2003, but was delayed due to a number of issues.",
+        "json-uri": "http://dbpedia.org/data/C/NOFS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PRESat",
+        "abstract": "The PharmaSat Risk Evaluation (PRESat) nanosatellite was about the size of a loaf of bread, weighed about 10 pounds and was constructed in just six months. PRESat contained a micro-laboratory with a controlled environment packed with sensors and optical systems that could have detected the growth, density and health of yeast cells in orbit.The satellite was lost in the failure of the third Falcon 1 launch.",
+        "json-uri": "http://dbpedia.org/data/PRESat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/DirecTV-11",
+        "abstract": "DirecTV-11, also known as D11, is a Boeing model 702 satellite built by the Boeing Satellite Development Center.",
+        "json-uri": "http://dbpedia.org/data/DirecTV-11.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cartosat-2A",
+        "abstract": "Cartosat-2A is an Earth observation satellite in a sun-synchronous orbit and the third of the Cartosat series of satellites. The satellite is the thirteenth satellite in the Indian Remote Sensing (IRS) satellite series to be built, launched and maintained by the Indian Space Research Organisation. It was launched by the Polar Satellite Launch Vehicle - C9 on April 28, 2008 along with the 87 kg Indian Mini Satellite (IMS-1) and eight nano research satellites belonging to research facilities in Canada, Denmark, Germany, Japan and the Netherlands. This satellite is a Ministry of Defence mission for the Government of India. It is a dedicated satellite for the Indian Armed Forces which is in the process of establishing an Aerospace Command.The satellite carries a panchromatic (PAN) camera capable of taking black-and-white pictures in the visible region of electromagnetic spectrum. The highly agile Cartosat-2A can be steered up to 45 degrees along as well as across the direction of its movement to facilitate imaging of any area more frequently. The satellite's health is continuously monitored from the Spacecraft Control Centre at Bangalore with the help of ISTRAC network of stations at Bangalore, Lucknow, Mauritius, Bearslake in Russia, Biak in Indonesia and Svalbard in Norway.",
+        "json-uri": "http://dbpedia.org/data/Cartosat-2A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NanoSail-D",
+        "abstract": "NanoSail-D was a small satellite which was to have been used by NASA's Ames Research Center to study the deployment of a solar sail in space. It was a three-unit CubeSat measuring 30 by 10 by 10 centimetres (12 × 3.9 × 3.9 inches), with a mass of 4 kilograms (8.8 lb). The satellite was lost shortly after launch due to a problem with the rocket carrying it, however a replacement, NanoSail-D2, was launched in 2010 to complete its mission.NanoSail-D was to have been deployed on the third flight of the Falcon 1 rocket, which was launched from Omelek Island at 03:34 UTC on 3 August 2008. One of two CubeSats aboard, along with PRESat, it was a secondary payload to the Trailblazer which was to have been operated by the Operationally Responsive Space Office of the United States Department of Defense. The launch was conducted by SpaceX, and also carried a space burial payload for Celestis. Two minutes and forty seconds after launch, the spent first stage of the rocket was jettisoned, however unexpected residual thrust caused it to recontact the second stage, which resulted in the rocket being thrown off course. Unable to achieve orbit, the rocket and payloads fell into the Pacific Ocean.NanoSail-D was to have been operated in a low Earth orbit with a perigee of 330 kilometres (210 mi), an apogee of 685 kilometres (426 mi) and 9 degrees of inclination. It would have been operational for around seven days, after which time it would have been expected to run out of power. Its solar sail had an area of 10 square metres (110 sq ft). The satellite was developed and tested in four months.NanoSail-D2 was built as a ground spare for NanoSail-D. Following the launch failure of NanoSail-D in August 2008, NanoSail-D2 was launched as NanoSail-D on a Minotaur IV rocket in November 2010, and deployed from the FASTSAT satellite.",
+        "json-uri": "http://dbpedia.org/data/NanoSail-D.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-12",
+        "abstract": "Soyuz TMA-12 was a Soyuz mission to the International Space Station (ISS) which was launched by a Soyuz FG rocket at 11:16 UTC on 8 April 2008. It docked to the Pirs module of the station on 10 April 2008. Landing occurred at 03:37 on 24 October. It was the first nominal landing in three missions, following separation failures on the Soyuz TMA-10 and 11 spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-122",
+        "abstract": "STS-122 was a NASA Space Shuttle mission to the International Space Station (ISS), flown by the Space Shuttle Atlantis. STS-122 marked the 24th shuttle mission to the ISS, and the 121st space shuttle flight since STS-1.The mission was also referred to as ISS-1E by the ISS program. The primary objective of STS-122 was to deliver the European Columbus science laboratory, built by the European Space Agency (ESA), to the station. It also returned Expedition 16 Flight Engineer Daniel M. Tani to Earth. Tani was replaced on Expedition 16 by Léopold Eyharts, a French Flight Engineer representing ESA. After Atlantis' landing, the orbiter was prepared for STS-125, the final servicing mission for the Hubble Space Telescope.The original target launch date for STS-122 was 6 December 2007, but due to engine cutoff sensor (ECO) reading errors, the launch was postponed to 9 December 2007. During the second launch attempt, the sensors failed again, and the launch was halted. A tanking test on 18 December 2007 revealed the probable cause to lie with a connector between the external tank and the shuttle. The connector was replaced and the shuttle launched during the third attempt on 7 February 2008.",
+        "json-uri": "http://dbpedia.org/data/STS-122.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Amos-3",
+        "abstract": "AMOS-3, also known as AMOS-60 is an Israeli communications satellite operated by Spacecom. The satellite is powered by twin solar panels, and is based on the Israeli AMOS bus. It replaced AMOS-1 in geosynchronous orbit at 4°W. AMOS-3 carries fifteen Ku/Ka-band transponders, and is expected to have an on-orbit lifetime of 18 years.It was launched atop the maiden flight of the Zenit-3SLB rocket, the first launch contracted by the Land Launch organisation.[citation needed]The launch was originally scheduled to occur in 2007, and later March 2008, however this was delayed until 24 April 2008. The launch attempt on 24 April 2008 was scrubbed for \"technical reasons\". This was later determined to be a problem with the erector/transporter system, which had failed to retract and move away from the rocket.[citation needed]Amos 3 lifted-off from LC-45/1 at the Baikonur Cosmodrome at 08:00 UTC on 28 April 2008.",
+        "json-uri": "http://dbpedia.org/data/Amos-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CUTE-1.7_+_APD_II",
+        "abstract": "CUTE-1.7 + APD II, or CUTE-1.7+APD 2, is a Japanese nanosatellite which was launched in 2008 as a follow-up to the CUTE-1.7 + APD satellite. It was built and is operated by the Tokyo Institute of Technology.CUTE-1.7 + APD II used a similar design to its predecessor, however it was stretched in height meaning that it no longer complied with the CubeSat form factor which the original satellite was based around. It has dimensions of 20 by 15 by 10 centimetres (7.9 by 5.9 by 3.9 in), compared to 20 by 10 by 10 centimetres (7.9 by 3.9 by 3.9 in) for CUTE-1.7 + APD, which was a standard two-unit CubeSat.The University of Toronto Institute for Aerospace Studies was contracted to launch CUTE-1.7 + APD II, subcontracting the launch to the Indian Space Research Organisation as part of the Nanosatellite Launch Service 4 (NLS-4) mission along with CanX-2, AAUSat II, COMPASS-1. Delfi-C3 and SEEDS 2. ISRO used a Polar Satellite Launch Vehicle, flight number C9, to launch NLS-4 - with the rocket flying in the Core Alone, or PSLV-CA, configuration. The rocket's primary payload was CartoSat-2A, with IMS-1, Rubin-8 and the University of Toronto's NLS-5 mission - consisting of the CanX-6 satellite - also flying aboard the rocket as secondary payloads.The launch took place at 03:53:51 UTC on 28 April 2008, with the satellites being deployed from the rocket shortly afterwards. As of 17 April 2014, CUTE-1.7 + APD II is in a 610 by 610 kilometres (380 by 380 mi) orbit inclined at 97.71 degrees to the equator. Although only designed for a two-month mission, it remained operational at the end of September 2013.",
+        "json-uri": "http://dbpedia.org/data/CUTE-1.7_+_APD_II.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ratsat",
+        "abstract": "Ratsat, or DemoSat, was a 165-kilogram (363-pound) non-functional boilerplate spacecraft used as a mass simulator on the fourth flight of the Falcon 1 rocket.Ratsat was carried to orbit on the first successful orbital launch of any privately funded and developed, liquid-propelled carrier rocket, the SpaceX Falcon 1. The launch, identified as Falcon 1 Flight 4, was conducted by SpaceX, and marked the first time the Falcon 1 rocket successfully achieved orbit, after three consecutive failures on the three previous launch attempts.Ratsat remained bolted to the second stage of the carrier rocket after reaching low Earth orbit. It has a hexagonal prism shape, 1.5 m (5 ft) long.SpaceX co-founder Elon Musk estimates that Ratsat will remain in orbit for between five and ten years before burning up in the atmosphere.",
+        "json-uri": "http://dbpedia.org/data/Ratsat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Jules_Verne_ATV",
+        "abstract": "The Jules Verne ATV, or Automated Transfer Vehicle 001 (ATV-001), was an unmanned cargo resupply spacecraft launched by the European Space Agency (ESA). The ATV was named after the 19th-century French science-fiction author Jules Verne. It was launched on 9 March 2008 on a mission to supply the International Space Station (ISS) with propellant, water, air, and dry cargo. Jules Verne was the first of five ATVs to be launched.Because it was the first ATV to be launched, Jules Verne underwent three weeks of orbital testing before beginning its final rendezvous with the ISS. The spacecraft docked to the ISS on 3 April 2008 to deliver its cargo. On 25 April 2008, Jules Verne used its thrusters to reboost the station into a higher orbit. After spending just over five months docked at the station, Jules Verne undocked on 5 September 2008 and made a destructive re-entry over the Pacific Ocean on 29 September.",
+        "json-uri": "http://dbpedia.org/data/Jules_Verne_ATV.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Vinasat-1",
+        "abstract": "Vinasat-1 is the first Vietnamese satellite to be placed in orbit. It was launched at 22:17 GMT on 18 April 2008, by an Ariane 5ECA rocket from the Guiana Space Centre in Kourou. The launch was conducted by the European organisation Arianespace. VINASAT is the national satellite program of Vietnam. The project aims to bring independence in satellite communications for Vietnam, besides other benefits such as enhancing national security, opening new economic opportunities, etc.Vietnam hopes for some economic benefits from the telecommunications links that the satellite will provide. It is expected that the satellite will save several million dollars per year in fees presently paid for leasing of transponders on satellites from other countries.Originally planned for 2005, the launch of Vinasat-1 was delayed to 18 April 2008, owing to difficulties in completing the frequency coordination procedures under the Radio Regulations of the International Telecommunication Union (ITU).The Lockheed Martin A2100 satellite has 12 Ku band transponders and 8 C band transponders.",
+        "json-uri": "http://dbpedia.org/data/Vinasat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Compass-1",
+        "abstract": "COMPASS-1 (also known as Compass One) was a German amateur CubeSat picosatellite, built and operated in the late 2000s by Aachen University of Applied Science. It was launched by the Indian Space Research Organisation, aboard a PSLV rocket, on 28 April 2008. Its primary mission is remote sensing, however it also contains some technology demonstration experiments regarding the use of small satellites.On 10 August 2008, the satellite developed a problem and switched into \"emergency mode\". Initial attempts to rectify this problem failed, however normal operations were resumed on 10 September, with help from amateur radio operators around the world.",
+        "json-uri": "http://dbpedia.org/data/Compass-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Moon_Impact_Probe",
+        "abstract": "The Moon Impact Probe (MIP) developed by the Indian Space Research Organisation (ISRO), India's national space agency, was a lunar probe that was released by ISRO's Chandrayaan-1 lunar remote sensing orbiter which in turn was launched, on 22 October 2008, aboard a modified version of ISRO's Polar Satellite Launch Vehicle. It discovered the presence of water on the Moon.The Moon Impact Probe separated from the moon-orbiting Chandrayaan-1 on 14 November 2008, 20:06 and crashed, as planned, into the lunar south pole after a controlled descent. The MIP struck the Shackleton Crater at 20:31 on 14 November 2008 releasing underground debris that could be analysed by the orbiter for presence of water/ice. With this mission, India became the fifth entity to reach the lunar surface. Other entities to have done so are the former Soviet Union, the United States, the European Space Agency (currently owned by 20 member nations) and Japan.",
+        "json-uri": "http://dbpedia.org/data/Moon_Impact_Probe.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ciel-2",
+        "abstract": "Ciel 2 (NORAD 33453) is a commercial broadcast communications satellite owned by Canadian Ciel Satellite Group. It was launched on December 10, 2008 from Baikonur Cosmodrome in Kazakhstan by ILS Proton-M/Breeze-M vehicle. The satellite is built by Thales Alenia Space and is based on Spacebus-4000C4 bus. It is the largest Spacebus class satellite built to date (5561 kg). Operating from 129° West geostationary orbit position, its 32 Ku band transponders will deliver high-definition and other TV services throughout North America. The satellite delivers multiple independent spot beams in Ku band.Dishnetwork has decided to spot beam local affiliates of major networks instead of offering them on CONUS as was previously done on Echostar 5.",
+        "json-uri": "http://dbpedia.org/data/Ciel-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-65",
+        "abstract": "Progress M-65, identified by NASA as Progress 30 or 30P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 365.Progress M-65 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 19:50 GMT on 10 September 2008. The spacecraft docked with the aft port of the Zvezda module at 18:43 GMT on 17 September. Docking had originally been scheduled for 21:01 GMT on 12 September, but was delayed after Hurricane Ike forced NASA to close the Johnson Space Center, which houses the US mission control centre for the ISS. A backup facility at the Marshall Space Center was used during the docking. Following undocking at 16:19 GMT on 15 November, it conducted a Plazma-Progress experiment. It was deorbited on 8 December, with the 142 second deorbit burn beginning at 08:02. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 08:49.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-65.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Yubileiny",
+        "abstract": "Yubileiny (Russian: Юбиле́йный, lit. Jubilee) is a Russian technology development satellite which was built by NPO PM to commemorate the 50th anniversary of the launch of Sputnik 1, the first artificial satellite to be placed into Earth orbit. It launched, 23 May 2008 aboard a Rockot rocket from LC-133 at the Plesetsk Cosmodrome. Launch was delayed from the end of 2007, and from earlier in 2008. It was a secondary payload to a cluster of three Gonets satellites, utilising the excess capacity of the carrier rocket.The satellite will broadcast audio and video about the history of the Soviet and Russian space programmes, as well as signals imitating those broadcast by Sputnik 1. These signals are intended for receipt by Amateur radio enthusiasts. The engine of Yubileiny was desighned and made by Fominskiy Leonid Pavlovich.In April 2009 Russian news media reported that a 'reactionless engine' had been tested on spacecraft: \"Specialists of the Institute for Space Systems conducted successful tests of the perpetual motion machine in space,\" wrote 'Pravda' in Moscow. \"Valery Menshikov, the director of the institute, said that the machine was installed at Yubileiny satellite which was launched into orbit almost a year ago. The satellite can now move from one orbit to another with the help of the engine, which discharges no reaction mass.\" Menshikov continued, in a claim not verified by any Western space source: \"The first tests were conducted in June and July of 2008. The tests revealed some problems that need further developments of the machine, but the orbital experiment was conducted successfully in general.\"On the other part, in 2011 notable scientist and member of the Russian Academy of Sciences Eduard Kruglyakov wrote that installed engine had not changed satellite's orbit by even a micron. Some scientists warned that installed 'reactionless engine' is based on a tricky non-linear friction in bearings and cannot work at zero gravity.",
+        "json-uri": "http://dbpedia.org/data/Yubileiny.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Columbus_(ISS_module)",
+        "abstract": "Columbus is a science laboratory that is part of the International Space Station (ISS) and is the largest single contribution to the ISS made by the European Space Agency (ESA).Like the Harmony and Tranquility modules, the Columbus laboratory was constructed in Turin, Italy by Rome based Alcatel Alenia Space with respect to structures and thermal control. The functional architecture (including software) of the lab was designed by EADS in Bremen, Germany where it was also integrated before being flown to the Kennedy Space Center (KSC) in Florida in an Airbus Beluga. It was launched aboard Space Shuttle Atlantis on February 7, 2008 on flight STS-122. It is designed for ten years of operation. The module is controlled by the Columbus Control Centre, located at the German Space Operations Centre, part of the German Aerospace Center in Oberpfaffenhofen near Munich, Germany.The European Space Agency has spent €1.4 billion (about US$2 billion) on building Columbus, including the experiments that will fly in it and the ground control infrastructure necessary to operate them.",
+        "json-uri": "http://dbpedia.org/data/Columbus_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-201",
+        "abstract": "USA-201, also known as GPS IIR-19(M), GPS IIRM-6 and GPS SVN-48, is an American navigation satellite which forms part of the Global Positioning System. It was the sixth of eight Block IIRM satellites to be launched, and the nineteenth of twenty one Block IIR satellites overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-201 was launched at 06:10 UTC on 15 March 2008, atop a Delta II carrier rocket, flight number D332, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-201 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 18 May 2008, USA-201 was in an orbit with a perigee of 20,143 kilometres (12,516 mi), an apogee of 20,222 kilometres (12,565 mi), a period of 717.98 minutes, and 55.1 degrees of inclination to the equator. It is used to broadcast the PRN 07 signal, and operates in slot 4 of plane A of the GPS constellation. The satellite has a design life of 10 years and a mass of 2,032 kilograms (4,480 lb). As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-201.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-13",
+        "abstract": "Soyuz TMA-13 (Russian: Союз ТМА-13, Union TMA-13) was a Soyuz mission to the International Space Station (ISS). The spacecraft was launched by a Soyuz-FG rocket at 07:01 GMT on 12 October 2008. It undocked at 02:55 GMT on 8 April 2009, performed a deorbit burn at 06:24, and landed at 07:16. By some counts, Soyuz TMA-13 is the 100th Soyuz spacecraft to be crewed.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-13.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_3A",
+        "abstract": "Türksat 3A is a Turkish communications satellite, operated by Turksat. It was constructed by Thales Alenia Space, based on the Spacebus 4000B2 satellite bus, and was launched by Arianespace atop an Ariane 5ECA launch vehicle, along with the British Skynet 5C satellite, in a dual-payload launch on 12 June 2008 at 22:05:02 GMT, from ELA-3 at the Guiana Space Centre in Kourou, French Guiana.It is part of the Turksat series of satellites, and is placed in geosynchronous orbit at 42°E to provide communications services to Turkey, Europe and the Middle East.The contract for the construction and in-orbit delivery of Türksat 3A was announced in February 2006.Positioned at 42°E, Türksat 3A replaced the aging Türksat 1C, which entered service in 1996. It consists of 24 Ku band transponders, nine with 36Mhz, 12 with 36 MHz and 12 with 72 MHz bandwidth. Turksat 3A was originally intended to start services at the beginning of 2008.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_3A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2441",
+        "abstract": "Kosmos 2441 (Russian: Космос 2441 meaning Cosmos 2441), also known as Persona No.1, was a Russian optical reconnaissance satellite launched in 2008. The first Persona satellite, it failed a few months into its mission, which was scheduled to have lasted three to five years. It was the first Russian reconnaissance satellite to be placed into a sun-synchronous orbit.Kosmos 2441 was launched by a Soyuz-2-1b carrier rocket flying from Site 43/4 of the Plesetsk Cosmodrome. The launch took place at 18:31:36 UTC on 26 July 2008, and marked the first Soyuz-2-1b launch from Plesetsk. Following its successful deployment the satellite was given its Kosmos designation, and was assigned the International Designator 2008-037A and Satellite Catalog Number 33272.In February 2009, it was reported that Kosmos 2441 had failed shortly after launch. The date of the failure was not announced, however the satellite was last seen to manoeuvre in September 2008. The cause of the failure was reported to be an electrical problem, possibly caused by higher radiation levels encountered by the satellite in sun-synchronous orbit compared to previous satellites in lower-inclination orbits. The next Persona satellite was not launched until 2013, when it was placed into orbit as Kosmos 2486.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2441.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-123",
+        "abstract": "STS-123 was a Space Shuttle mission to the International Space Station (ISS) which was flown by Space Shuttle Endeavour. STS-123 was the 1J/A ISS assembly mission. The original launch target date was 14 February 2008 but after the delay of STS-122, the shuttle was launched on 11 March 2008. It was the twenty-fifth shuttle mission to visit the ISS, and delivered the first module of the Japanese laboratory, Japanese Experiment Module (Kibō), and the Canadian Special Purpose Dexterous Manipulator, (SPDM) Dextre robotics system to the station. The mission duration was 16 days and 14 hours, and it was the first mission to fully utilize the Station-to-Shuttle Power Transfer System (SSPTS), allowing space station power to augment the shuttle power systems. The mission set a record for a shuttle's longest stay at the ISS.",
+        "json-uri": "http://dbpedia.org/data/STS-123.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hot_Bird_13C",
+        "abstract": "Hot Bird 13C, formerly Hot Bird 9, is a communications satellite operated by Eutelsat, launched 20 December 2008 aboard an Ariane 5ECA carrier rocket along with the Eutelsat W2M spacecraft. It was built by EADS Astrium, based around a Eurostar E3000 satellite bus. It was positioned in geosynchronous orbit at 13°E. After in-orbit testing it will provide communications services to Europe, North Africa and the Middle East, with 64 NATO J-band (IEEE Ku band) transponders.The satellite has a mass of 4,880 kilograms, and an expected service life of 15 years. It is identical to the Hot Bird 8 and Hot Bird 10 satellites.",
+        "json-uri": "http://dbpedia.org/data/Hot_Bird_13C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_7",
+        "abstract": "Shenzhou 7 (simplified Chinese: 神舟七号; traditional Chinese: 神舟七號; pinyin: Shénzhōu Qī Hào) was the third human spaceflight mission of the Chinese space program. The mission, which included the first Chinese extra-vehicular activity (EVA) carried out by crew members Zhai Zhigang and Liu Boming, marked the commencement of the second phase of the Chinese government's Project 921.The Shenzhou spacecraft carrying the three crew members was launched 25 September 2008, by a Long March 2F (CZ-2F) rocket which lifted off from the Jiuquan Satellite Launch Center at 21:10 CST. The mission lasted three days, after which the craft landed safely in Siziwang Banner in central Inner Mongolia on 28 September 2008, at 17:37 CST. The Shenzhou 7 EVA made the Chinese space program the third to have conducted an EVA. EVAs had previously been conducted by the space programs of the Soviet Union (later Russia) and the United States.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-64",
+        "abstract": "Progress M-64, identified by NASA as Progress 29 or 29P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 364.Progress M-64 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 20:22 GMT on 14 May 2008. The spacecraft docked with the nadir port of the Zarya module at 21:39 GMT on 16 May, two minutes behind schedule, by means of the Kurs system. Following undocking at 19:46 GMT on 1 September, it spent a week in free-flight conducting experiments for the Plazma-Progress programme. It was deorbited on 8 September, with the deorbit burn beginning at 20:47. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 21:33.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-64.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2447",
+        "abstract": "Kosmos 2447 (Russian: Космос 2447 meaning Cosmos 2447) is one of a set of three Russian military satellites launched in 2008 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2448 and Kosmos 2449.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 727.Kosmos 2447/8/9 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 10:43 UTC on 25 December 2008. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2008-067A. The United States Space Command assigned it the Satellite Catalog Number 33466.It is not currently part of the GLONASS constellation. It was in orbital slot 3 but was taken out of service on 8 September 2010 due to equipment failure.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2447.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tianlian_I-01",
+        "abstract": "Tianlian I-01 (Simplified Chinese: 天链一号01星, Traditional Chinese: 天鏈一號01星) is the first Tracking and Data Relay Satellite (TDRS) launched by People's Republic of China, and the first satellite of Tianlian I TDRS series.",
+        "json-uri": "http://dbpedia.org/data/Tianlian_I-01.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Chinasat-9",
+        "abstract": "Chinasat 9, also known as Zhongxing 9 (中星九號) or ZX-9, is a Chinese communications satellite. It was launched from pad 2 at the Xichang Satellite Launch Centre on 9 June 2008, at 12:15 GMT, by a Long March 3B carrier rocket. It is based on the Spacebus 4000C2 satellite bus, and was constructed in France by Thales Alenia Space in its Cannes Mandelieu Space Center. It is one of several Chinasat spacecraft in orbit.It was launched to act as a relay satellite for the 2008 Olympic Games, and will subsequently be used for general communications. It is operated by the China Direct Broadcast Satellite Company on behalf of the China Ministry of Post and Telecommunications. Equipped with 22 NATO J-band (IEEE Ku band) transponders, it was placed in geosynchronous orbit at a longitude of 92.2° East.",
+        "json-uri": "http://dbpedia.org/data/Chinasat-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nimiq-4",
+        "abstract": "Nimiq-4 is a Canadian geosynchronous communications satellite. It was launched aboard a Proton-M/Briz-M carrier rocket at 21:47 GMT on 19 September 2008. It was positioned at 82ºW longitude, and operated by Telesat Canada.The satellite was constructed by EADS Astrium, using a Eurostar-3000S bus. It is powered by two solar arrays, with a span of 39 metres (128 ft), producing 12 kW of power. The launch mass of the satellite is 4.8 tonnes (4.7 long tons). It carries 40 transponders, 32 of which operate in the NATO J band (IEEE Ku band), and 8 which operate in the NATO K band (IEEE Ka band).",
+        "json-uri": "http://dbpedia.org/data/Nimiq-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Inmarsat-4_F3",
+        "abstract": "Inmarsat-4 F3 is a communications satellite operated by the British satellite operator Inmarsat. It was launched into a geosynchronous orbit at 22:43 GMT on 18 August 2008, by a Proton-M/Briz-M Enhanced carrier rocket. It is currently located at 97.65° West longitude, providing coverage of the Americas. It entered service on 7 January 2009.Like the earlier Inmarsat-4 F1 and F2 satellites, Inmarsat-4 F3 was constructed by EADS Astrium, using a Eurostar E3000 bus. It has a mass of 5,960 kilograms, and is expected to operate for 13 years. It was originally slated for launch using an Atlas V 531, but was transferred to Proton due to a large backlog of Atlas launches.In the United States, Inmarsat ground stations are licensed to operate at 1525-1559 MHz and 1626.5-1660.5 MHz. The 1544-1545 MHz and 1645.5-1646.5 MHz bands are reserved for safety and distress communications.",
+        "json-uri": "http://dbpedia.org/data/Inmarsat-4_F3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Rubin-8",
+        "abstract": "RUBIN-8, also known as RUBIN-AIS (Automatic Identification System), is a German space experiment package, built by OHB-System, which was launched by the Indian Space Research Organisation, aboard a PSLV rocket, on 28 April 2008. Following launch, it remained bolted to the upper stage of the rocket in low Earth orbit, where it is used to conduct experiments regarding the relay of AIS data via the Orbcomm and Iridium communication satellite networks.",
+        "json-uri": "http://dbpedia.org/data/Rubin-8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/THEOS_(satellite)",
+        "abstract": "THEOS, also known as Thaichote, is an Earth observation mission of Thailand, developed at EADS Astrium SAS, Toulouse, France. In July 2004, EADS Astrium SAS signed a contract for delivery of THEOS with GISTDA (Geo-Informatics and Space Technology Development Agency) of Bangkok, Thailand. GISTDA is Thailand's leading national organization (i.e., space agency) in the field of space activities and applications. The Thai Ministry of Science and Technology is funding the program.It was launched from Dombarovskiy at 06:37 GMT on 1 October 2008, by a Dnepr rocket. The launch had been delayed several times after clearance for the flight was revoked by down-range countries.On 24 March 2014, THEOS captured images showing some 300 objects in close proximity to the suspected crash site of Malaysia Airlines Flight MH370, in the Indian Ocean. The discovery was reported by GISTDA on 27 March 2014. The objects have not yet been identified as debris.",
+        "json-uri": "http://dbpedia.org/data/THEOS_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Interstellar_Boundary_Explorer",
+        "abstract": "Interstellar Boundary Explorer (IBEX) is a NASA satellite that is making a map of the boundary between the Solar System and interstellar space. The mission is part of NASA's Small Explorer program and launched with a Pegasus-XL rocket on October 19, 2008, at 17:47:23 UTC.Results from IBEX have repeatedly shocked the scientific community and overturned old theories. The first shock came when it revealed a narrow ribbon of energetic neutral atom (ENA) emission. Then it showed shifts over time in this band. Another surprise came when no bow shock was found. The repercussions of overturning the bow shock theory are huge, because decades of research are based on that concept.The design and operation of the mission is being led by the Southwest Research Institute, with the Los Alamos National Laboratory and the Lockheed Martin Advanced Technology Center serving as co-investigator institutions responsible for the IBEX-Hi and IBEX-Lo sensors respectively. The Orbital Sciences Corporation manufactured the spacecraft bus and was the location for spacecraft environmental testing. The nominal mission baseline duration was two years to observe the entire solar system boundary. This was completed by 2011 and its mission was extended to 2013 to continue observations.IBEX is in a sun-oriented spin-stabilized orbit around the Earth. In June 2011, IBEX was shifted to a new more efficient orbit. It does not come as close to the Moon in the new orbit, and expends less fuel to maintain its position.",
+        "json-uri": "http://dbpedia.org/data/Interstellar_Boundary_Explorer.jsond",
+        "instrumentation": [
+            "IBEX-hi",
+            "IBEX-lo"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-14",
+        "abstract": "AMC-14 is a communications satellite initially owned by SES Americom which was to have been placed in geostationary orbit, following launch by a Proton rocket. Built by Lockheed Martin and based on the A2100 satellite bus, AMC-14 was to have been located at 61.5° west longitude and would have been used for DISH Network service. The satellite was placed in an unusable orbit, following a malfunction with the Briz-M upper stage of the Proton rocket.The satellite has been maneuvered to reach a geosynchronous orbit, during a period of more than 6 months, and is now near 35° East and in an inclined orbit.It was launched atop a Proton-M/Briz-M rocket at 23:18:55 GMT on 14 March 2008, from LC-200/39 at the Baikonur Cosmodrome in Kazakhstan.",
+        "json-uri": "http://dbpedia.org/data/AMC-14.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Banxing",
+        "abstract": "Banxing or BX-1 (Chinese: 伴星; literally \"Companion Satellite\"), is a small Chinese technology development satellite which was deployed from the Shenzhou 7 spacecraft at 11:27 GMT on 27 September 2008. Prior to deployment, the satellite was mounted on top of the Shenzhou 7 orbital module.",
+        "json-uri": "http://dbpedia.org/data/Banxing.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2444",
+        "abstract": "Kosmos 2444 (Russian: Космос 2444 meaning Cosmos 2444) is one of a set of three set of three Russian military satellites launched in 2008 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2442 and Kosmos 2443.This satellites is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 726.Kosmos 2442/3/4 were launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 08:49 UTC on 25 September 2008. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designators 2008-046C. The United States Space Command assigned it the Satellite Catalog Number 33380.It is no longer part of the GLONASS constellation but was formerly in the third orbital plane, orbital slot 22.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2444.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Trailblazer_(satellite)",
+        "abstract": "Trailblazer was a technology demonstration satellite, which was to have been operated by the United States Air Force and the Missile Defense Agency. It was selected for launch under a \"Jumpstart\" contract, to demonstrate responsiveness, with the final payload being chosen less than a month ahead of the scheduled launch date, and was launched as the primary payload of the third Falcon 1, which failed just over two minutes after launch on 3 August 2008. Two previous Falcon 1 launches also failed to reach orbit, but the fourth succeeded although it only carried a dummy payload.It was originally built for a cancelled MDA project, and was based on a SpaceDev MMB-100 satellite bus. It was launched from Omelek Island, at 03:34 GMT. Several other payloads were to be launched aboard the same rocket, including two CubeSats for NASA, and a space burial payload for Celestis, which would have remained attached to the rocket in low Earth orbit.",
+        "json-uri": "http://dbpedia.org/data/Trailblazer_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SEEDS-2",
+        "abstract": "The Space Engineering EDucation Satellite 2 (SEEDS-2) is a Japanese amateur CubeSat picosatellite, built and operated by Nihon University. It was launched by the Indian Space Research Organisation, aboard a PSLV rocket, on 28 April 2008. It was built to replace the SEEDS satellite, which was lost in a launch failure on a Dnepr rocket in July 2006.It carries a number of sensors to investigate the environment of space, and its own status. It also contains a voice transmitter, intended to play back messages to amateur radio operators.",
+        "json-uri": "http://dbpedia.org/data/SEEDS-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GeoEye-1",
+        "abstract": "GeoEye-1 is a high-resolution earth observation satellite owned by GeoEye, which was launched in September 2008.",
+        "json-uri": "http://dbpedia.org/data/GeoEye-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AMC-21",
+        "abstract": "AMC-21, or Americom-21, is a communications satellite operated by SES World Skies, formerly SES Americom. It was launched in August 2008 and is expected to remain in service for approximately 15 years. It is currently located at 125° West longitude.",
+        "json-uri": "http://dbpedia.org/data/AMC-21.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ocean_Surface_Topography_Mission",
+        "abstract": "The Ocean Surface Topography Mission (OSTM) on the Jason-2 satellite is an international Earth observation satellite mission that continues the sea surface height measurements begun in 1992 by the joint NASA/CNES TOPEX/Poseidon mission and followed by the NASA/CNES Jason-1 mission launched in 2001.Like its two predecessors, OSTM/Jason-2 uses high-precision ocean altimetry to measure the distance between the satellite and the ocean surface to within a few centimeters. These very accurate observations of variations in sea surface height—also known as ocean topography—provide information about global sea level, the speed and direction of ocean currents, and heat stored in the ocean.Jason-2 was built by Thales Alenia Space using a Proteus platform, under a contract from CNES, as well as the main Jason-2 instrument, the Poseidon-3 altimeter (successor to the Poseidon and Poseidon 2 altimeter on-board TOPEX/Poseidon and Jason-1)Scientists consider the 15-plus-year climate data record that this mission will extend critical understanding how ocean circulation is linked to global climate change.OSTM/Jason-2 was launched at 07:46 UTC on June 20, 2008, from Space Launch Complex 2W at the Vandenberg Air Force Base in California, USA, by a Delta II 7320 rocket. The spacecraft separated from the rocket 55 minutes later.It is now in a 1,336 km (830 mi) circular, non-sun-synchronous orbit at an inclination of 66 degrees to Earth's equator, allowing it to monitor 95 percent of Earth's ice-free ocean every 10 days. Jason-1 has been moved to the opposite side of Earth and now flies over the same region of the ocean that Jason-2 flew over five days earlier. Jason-1's ground tracks fall mid-way between those of Jason-2, which are about 315 kilometers (196 mi) apart at the equator. This interleaved tandem mission provides twice the number of measurements of the ocean's surface, bringing smaller features such as ocean eddies into view. The tandem mission also helps pave the way for a future ocean altimeter mission that would collect much more detailed data with its single instrument than the two Jason satellites now do together.With OSTM/Jason-2, ocean altimetry makes the transition from research into operational mode. Responsibility for collecting these measurements moves from the space agencies to the world’s weather and climate forecasting agencies, which use them for short-range, seasonal, and long-range weather and climate forecasting.",
+        "json-uri": "http://dbpedia.org/data/Ocean_Surface_Topography_Mission.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_19",
+        "abstract": "Galaxy 19 is a communications satellite owned by Intelsat located at 97° West longitude, serving the North American market. Galaxy 19 replaced Galaxy 25 which is nearing the end of its design life and has been moved to 93.1°W longitude. It was built by Space Systems/Loral, as part of its FS-1300 line. Galaxy 19 was formerly known as Intelsat Americas 9 and was successfully launched September 24, 2008. It provides services in the C-band and Ku band.The clients for Galaxy 19 include the previous clients for Galaxy 25. Expanded services include higher-powered C-band and Ku band transponders as well as new, high-power Ka band service.Galaxy 19 was launched using Sea Launch.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_19.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2449",
+        "abstract": "Kosmos 2449 (Russian: Космос 2449 meaning Cosmos 2449) is one of a set of three Russian military satellites launched in 2008 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2447 and Kosmos 2448.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 729.Kosmos 2447/8/9 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 10:43 UTC on 25 December 2008. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2008-067B. The United States Space Command assigned it the Satellite Catalog Number 33467.It is not currently part of the GLONASS constellation. It became operational on 12 February 2009 and was withdrawn for maintenance on 10 September 2012. It is still in orbital slot 8 in orbital plane 1.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2449.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Star_One_C2",
+        "abstract": "Star One C2 is a Brazilian communications satellite. It was launched on 18 April 2008 22:17 UTC by an Ariane 5ECA carrier rocket, as part of a dual-payload launch with Vinasat-1. It was built by Thales Alenia Space, based on the Spacebus-3000B3 satellite bus. It will be operated by Star One, a subsidiary of Embratel, and Bolivarsat.",
+        "json-uri": "http://dbpedia.org/data/Star_One_C2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Delfi-C3",
+        "abstract": "Delfi-C3 is a CubeSat satellite constructed by students at the Delft University of Technology in the Netherlands. It is a 3-unit CubeSat, and was launched at 03:53:42 on 28 April 2008, as part of the NLS-4 mission, aboard a PSLV rocket, from the Second Launch Pad at the Satish Dhawan Space Centre in India. The launch was contracted by ISRO, through Antrix Corporation and UTIAS.The satellite's primary mission is technology demonstration and development. It is carrying new types of solar cells, a solar sensor for TNO Science and Industry, and a high-efficiency amateur radio transceiver experiment.Delfi-C3 does not contain batteries, as the experiments are dependent on the sun.She is the fourth Dutch Satellite, after ANS, IRAS and SLOSHSAT. It is the first Dutch university Satellite and is based on a 3-Unit CubeSat.Some other mission characteristics include: No active attitude control 1200Bd BPSK VHF downlink Linear transponderThe Delfi-C3 ground segment consists of two command ground station, the primary being in Delft and the backup station at the TU Eindhoven in Eindhoven. For data collection, A distributed ground station network (DGSN) is used in which radio amateurs receive packets and sent these via internet to the central data collection server.Data decoding is possible with the free RASCAL software provided by the Delfi-C3 team.The Delfi-C was still largely operational when it was followed up by the Delfi-n3Xt in October 21, 2013.",
+        "json-uri": "http://dbpedia.org/data/Delfi-C3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Skynet_5C",
+        "abstract": "Skynet 5C is the third of four Skynet 5 military communications satellite, to be used by the British Ministry of Defence (MOD).",
+        "json-uri": "http://dbpedia.org/data/Skynet_5C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2442",
+        "abstract": "Kosmos 2442 (Russian: Космос 2442 meaning Cosmos 2442) is one of a set of three set of three Russian military satellites launched in 2008 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2443 and Kosmos 2444.This satellites is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 724.Kosmos 2442/3/4 were launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 08:49 UTC on 25 September 2008. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designators 2008-046A. The United States Space Command assigned it the Satellite Catalog Number 33378.It is currently part of the GLONASS constellation in the third orbital plane, orbital slot 18. It started operation on 26 October 2008.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2442.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2446",
+        "abstract": "Kosmos 2446 (Russian: Космос 2446 meaning Cosmos 2446) is a Russian US-K missile early warning satellite which was launched in 2008 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2469 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 05:03 UTC on 2 December 2008. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 2008-062A. The United States Space Command assigned it the Satellite Catalog Number 33447.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2446.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1M",
+        "abstract": "Astra 1M is a Luxembourgian geostationary communications satellite which is operated by SES. It is positioned in geostationary orbit at a longitude of 19.2 degrees East, from where it is used to provide direct-to-home broadcasting to Europe.Astra 1M was built by EADS Astrium under a contract signed in 2005, and is based around the Eurostar 3000S satellite bus. It is equipped with thirty six transponders operating in the J band of the NATO-defined spectrum, or the Ku band of the older IEEE-defined spectrum. At launch it had a mass of 5,344 kilograms (11,782 lb), with an expected operational lifespan of around 15 years, however four of its transponders will be deactivated five years after launch. At the beginning of its operational life, it had a maximum power consumption of 9.3 kilowatts, which is expected to have decreased to 8.3 kilowatts by the end of the satellite's operational life.The launch of Astra 1M was conducted by International Launch Services, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred from Site 200/39 at the Baikonur Cosmodrome in Kazakhstan, at 20:44:20 GMT on 5 November 2008. Astra 1M was successfully placed into a geosynchronous transfer orbit, from which it raised itself to geostationary orbit by means of an onboard apogee motor.",
+        "json-uri": "http://dbpedia.org/data/Astra_1M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AAUSAT-II",
+        "abstract": "AAUSAT-II is the second student-built CubeSat built and operated by students from Aalborg University in Denmark. It was launched 28 April 2008 05:54 UTC from Satish Dhawan Space Centre in India on a PSLV rocket. AAUSAT-II carries a radiation sensor.",
+        "json-uri": "http://dbpedia.org/data/AAUSAT-II.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-01M",
+        "abstract": "Progress M-01M, identified by NASA as Progress 31 or 31P, was a Progress spacecraft used to resupply the International Space Station. It was the first flight of the Progress-M 11F615A60, which featured a TsVM-101 digital flight computer and MBITS digital telemetry system, in place of the earlier analogue systems.It was launched at 12:38 GMT on 26 November 2008 from Site 1/5 at the Baikonur Cosmodrome in Kazakhstan, atop a Soyuz-U carrier rocket. Following a four day free flight, it docked with Pirs module of the ISS at 12:28 GMT on 30 November. It remained docked until 6 February 2009, when it undocked at 04:10 GMT. It subsequently spent two days in free flight, before being deorbited, and burning up in the atmosphere at 08:19 GMT on 8 February.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-01M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-63",
+        "abstract": "Progress M-63, identified by NASA as Progress 28 or 28P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 363.Progress M-63 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 13:02 GMT on 5 February 2008. The spacecraft docked with the Pirs module at 14:38 GMT on 7 February. Pirs had been vacated by the departure of Progress M-62 which had undocked on 4 February. Progress M-63 successfully docked using the automated Kurs system, however cosmonaut Yuri Malenchenko was standing by to guide it in using the backup manual TORU system should it have been necessary. Progress M-63 remained docked for two months before undocking at 08:49 GMT on 7 April 2008. It was deorbited at 11:50 GMT on 7 April 2008. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 12:36 GMT.Progress M-63 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research. Its cargo consisted of over 528.5 kilograms (1,165 lb) of propellant, 46 kilograms (101 lb) of oxygen and air, approximately 419.5 kilograms (925 lb) of water and 1,326.6 kilograms (2,925 lb) of dry cargo. The total mass of its cargo was 2,326 kilograms (5,128 lb).",
+        "json-uri": "http://dbpedia.org/data/Progress_M-63.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Superbird-C2",
+        "abstract": "According to its operator, Space Communications Corporation, the deployment of Superbird 7 (to be called Superbird-C2 after launch) marks the first time a satellite operator in Japan has used a commercial satellite that was made in Japan. Superbird-C2 was manufactured by Mitsubishi Electric Corporation based on the DS2000 satellite bus.Superbird 7 was launched August 14, 2008 by an Ariane 5 carrier rocket. It has a mass of 5 tonnes (11,000 lb) at launch and a design life of more than 15 years.",
+        "json-uri": "http://dbpedia.org/data/Superbird-C2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Venesat-1",
+        "abstract": "Venesat-1, also known as Simón Bolívar, is the first Venezuelan satellite. It was designed, built, launched, controlled and monitored by the CGWIC subsidiary of the China Aerospace Science and Technology Corporation. It is a communications satellite, which will be operated from a geosynchronous orbit. It was launched on a Chinese Long March 3B carrier rocket, from LA-2 at the Xichang Satellite Launch Centre, at 16:53 GMT on 29 October 2008.Venesat-1 will be operated by Venezuela's Ministry of Science and Technology. It carries 12 G-band (IEEE's C band) and 14 J-band (IEEE Ku) transponders. It has a mass of 5,100 kilograms (11,200 lb), and an expected service life of 15 years. It is based on the DFH-4 satellite bus. The satellite occupies an orbital slot, 78-West, designated for Uruguay and ceded to Venezuela by mutual accord.",
+        "json-uri": "http://dbpedia.org/data/Venesat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Dextre",
+        "abstract": "Dextre, also known as the Special Purpose Dexterous Manipulator (SPDM), is a two armed robot, or telemanipulator, which is part of the Mobile Servicing System on the International Space Station (ISS), and extends the function of this system to replace some activities otherwise requiring spacewalks. It was launched March 11, 2008 on mission STS-123.Dextre is part of Canada's contribution to the ISS and is named to represent its dexterous nature. It is sometimes also referred to as the Canada Hand, by analogy with the Canadarm and Canadarm2. Dextre was designed and manufactured by MacDonald Dettwiler (MDA).In the early morning of February 4, 2011, Dextre completed its first official assignment which consisted in unpacking two pieces for Kounotori 2 while the on-board crew was sleeping.",
+        "json-uri": "http://dbpedia.org/data/Dextre.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2448",
+        "abstract": "Kosmos 2448 (Russian: Космос 2448 meaning Cosmos 2448) is one of a set of three Russian military satellites launched in 2008 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2447 and Kosmos 2449.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 728.Kosmos 2447/8/9 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 10:43 UTC on 25 December 2008. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2008-067C. The United States Space Command assigned it the Satellite Catalog Number 33468.It is currently part of the GLONASS constellation in the first orbital plane, orbital slot 2. It started operation on 20 January 2009.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2448.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2440",
+        "abstract": "Kosmos 2440 (Russian: Космос 2440 meaning Cosmos 2440) is a Russian US-KMO missile early warning satellite which was launched in 2008 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes. It spent its two year operational life at 80E giving early warning coverage of Russia, China, North Korea, the Middle East and some of Europe.Kosmos 2440 was launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 23:59 UTC on 26 June 2008. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 2008-033A. The United States Space Command assigned it the Satellite Catalog Number 33108.When the satellite was launched US-KMO satellite Kosmos 2379 was also operational although this failed late 2009/early 2010 after an 8 year life. Kosmos 2440 itself started drifting off station in February 2010 giving an operational life of less than two years.Kosmos 2440 was replaced by Kosmos 2479 which was launched in March 2012.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2440.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Fermi_Gamma-ray_Space_Telescope",
+        "abstract": "The Fermi Gamma-ray Space Telescope (FGST), formerly called the Gamma-ray Large Area Space Telescope (GLAST), is a space observatory being used to perform gamma-ray astronomy observations from low Earth orbit. Its main instrument is the Large Area Telescope (LAT), with which astronomers mostly intend to perform an all-sky survey studying astrophysical and cosmological phenomena such as active galactic nuclei, pulsars, other high-energy sources and dark matter. Another instrument aboard Fermi, the Gamma-ray Burst Monitor (GBM; formerly GLAST Burst Monitor), is being used to study gamma-ray bursts.Fermi was launched on 11 June 2008 at 16:05 GMT aboard a Delta II 7920-H rocket. The mission is a joint venture of NASA, the United States Department of Energy, and government agencies in France, Germany, Italy, Japan, and Sweden.",
+        "json-uri": "http://dbpedia.org/data/Fermi_Gamma-ray_Space_Telescope.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Afghansat_1",
+        "abstract": "Afghansat 1 (or EUTELSAT 48D/AFGHANSAT 1) (formerly Eutelsat W2M and later Eutelsat 48B and Eutelsat 28B) is a European communications satellite, which was launched on 20 December 2008 aboard an Ariane 5ECA carrier rocket along with the Hot Bird 9 spacecraft. It was built by EADS Astrium, based around an I-3K satellite bus provided by the Indian Space Research Organisation. It was to have been placed in geosynchronous orbit at 16°E, from where it was to provide communications services to Europe, North Africa, and the Middle East, with 32 NATO J-band (IEEE Ku band) transponders.In January 2014 the MCIT signed an agreement with Eutelsat for satellite resources to enhance deployment of Afghanistan’s national broadcasting and telecommunications infrastructure as well as its international connectivity. The AFGHANSAT 1 satellite will support a wide range of services including broadcasting, mobile telephony backhaul and IP connectivity.Commenting on the agreement, His Excellency Minister Sangin said: “AFGHANSAT 1 is a new milestone in the development of the ICT sector in Afghanistan, which in the last 12 years has already seen mobile telephony coverage of 88% and penetration grow from zero to 75% through the licensing of six operators, ICT sector employment provided for more than 138,000 people and more than $2.1 billion invested in the national economy. We are very happy to partner with Eutelsat on AFGHANSAT 1 which will provide access to ICT and broadcast services to Afghans, especially in unserved areas, and support our vision of transforming Afghanistan into an information society.”W2M historyThe satellite has a mass of 3,460 kg, and a planned service life of 15 years. On 28 January 2009, Eutelsat announced that it would not accept delivery of the satellite due to what was described as a \"major anomaly affecting the satellite's power subsystem\".Commenting on these decisions, Eutelsat Communications Chairman and CEO Giuliano Berretta said: \"The situation affecting W2M is a serious disappointment for Eutelsat. However, for many years we have pursued a strategy based on securing and expanding our in-orbit resources in order to mitigate this type of risk. Our current investment programme consequently combines early renewal of operating satellites, together with securing the fleet through readily available back-up resources, and expansion of services with larger satellites. This policy puts us in a position to absorb the unavailability of W2M without impact on the continuity of service we provide our customers.\"On the same day Eutelsat also confirmed that the unavailability of W2M does not impact on the Group’s guidance for revenues in excess of 900 million euros for the 2008-2009 financial year since the W2M satellite programme is fully insured.Although Eutelsat had originally declared that, due to the power system partial failure, W2M would not be integrated into Eutelsat’s satellite fleet; after the in-orbit failure of Eutelsat W2 in January 2010, Eutelsat decided to redeploy W2M at 16°E to provide limited back-up services for the failed W2 satellite. The satellite was redeployed from 28.5° East where it has delivered 100% availibility since August 2012. Its estimated end of operational use in stable orbit is 2020.",
+        "json-uri": "http://dbpedia.org/data/Afghansat_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Galaxy_18",
+        "abstract": "Galaxy 18 is a Space Systems/Loral (SS/L) 1300-series hybrid communications satellite owned by Intelsat and located in geosynchronous orbit at 123° W longitude, serving the continental United States, Alaska, Hawaii, Mexico, and Canada with 24 C-band, and 24 Ku band transponders. Galaxy 18 is intended to replace Galaxy 10R which was nearing the end of its design life.While this spacecraft is designed for a 15-year service life on orbit, Sea Launch’s direct insertion[citation needed] into equatorial orbit is expected to yield additional years of fuel life. Galaxy 18 was scheduled to be launched by Sea Launch on May 8, 2008 but was pushed to May 25[citation needed]. It was subsequently moved up to 21 May. The launch took place successfully at 09:43 GMT.",
+        "json-uri": "http://dbpedia.org/data/Galaxy_18.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/WINDS",
+        "abstract": "WINDS (Wideband InterNetworking engineering test and Demonstration Satellite, also known as Kizuna), is a Japanese communication satellite. Launch was originally scheduled for 2007. The launch date was eventually set for 15 February 2008, however a problem detected in a second stage manoeuvring thruster delayed it to 23 February. Lift-off occurred at 08:55 GMT on 23 February, and the satellite separated from the carrier rocket, into a Geosynchronous transfer orbit at 09:23, launched by an H-IIA carrier rocket from the Tanegashima Space Center. It will be used to relay the internet to Japanese homes and businesses, through Ka-Band signals. It will also develop technologies to be utilised by future Japanese communication spacecraft. It is part of Japan's i-Space program, and is to be operated by JAXA and NICT.JAXA claim that WINDS will be able to provide 155 Mbit/s download speed to home users with 45-centimetre diameter satellite dishes, whilst providing industrial users, via 5-metre diameter dishes, with 1.2 Gbit/s speeds.WINDS has a launch mass of 4,850 kg, reducing to around 2,750 kg when in orbit. The spacecraft is 8 m x 3 m x 2 m in size, and its solar panels have a span of 21.5 metres. It has three-axis stabilisation, and a design life expectancy of five years.",
+        "json-uri": "http://dbpedia.org/data/WINDS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TecSAR",
+        "abstract": "EL/M-2070 TecSAR, also known as TechSAR, Polaris and Ofek-8, is an Israeli reconnaissance satellite, equipped with synthetic aperture radar developed by Elta Systems. It was successfully launched at 03:45 GMT (09:15 local time) on 21 January 2008, by PSLV C-10 Launch Vehicle, from the Satish Dhawan Space Centre in India.The TecSAR satellite is fitted with a large dish-like antenna to transmit and receive radar signals that can penetrate darkness and thick clouds. Built by Israel Aerospace Industries, TecSAR ranks among the world's most advanced space systems.Elta Systems Ltd cooperates with Azerbaijan to produce a TecSAR reconnaissance satellite system for the country. According to Azerbaijani military experts, this is an indispensable system for military operations in the mountainous terrains of Azerbaijan.",
+        "json-uri": "http://dbpedia.org/data/TecSAR.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-126",
+        "abstract": "STS-126 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. The purpose of the mission, referred to as ULF2 by the ISS program, was to deliver equipment and supplies to the station, to service the Solar Alpha Rotary Joints (SARJ), and repair the problem in the starboard SARJ that had limited its use since STS-120. STS-126 launched on 14 November 2008 at 19:55:39 pm EST from Launch Pad 39A at NASA's Kennedy Space Center with no delays or issues. Endeavour successfully docked with the station on 16 November. After spending 11 days, 16 hours, and 46 minutes docked to the station, during which the crew performed four spacewalks, and transferred cargo, the orbiter undocked on 28 November 2008. Due to poor weather at Kennedy Space Center, Endeavour landed at Edwards Air Force Base on 30 November 2008 at 21:25 UTC (13:25 PST).",
+        "json-uri": "http://dbpedia.org/data/STS-126.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-200",
+        "abstract": "USA-200, also known as NRO Launch 28 or NROL-28, is an American signals intelligence satellite, operated by the National Reconnaissance Office. Launched in 2008, it has been identified as the second satellite in a series known as Improved Trumpet, Advanced Trumpet, or Trumpet follow-on; a replacement for the earlier Trumpet series of satellites.USA-200 was launched by an Atlas V carrier rocket, flying in the 411 configuration, operated by United Launch Alliance. The rocket was the first Atlas V to launch from Vandenberg Air Force Base, flying from Space Launch Complex 3E. Liftoff occurred at 10:02 UTC (03:02 PDT) on 13 March 2008. It was identified as NRO Launch 28, and was the thirteenth flight of an Atlas V. The rocket had the tail number AV-006.The satellite's orbit and mission are officially classified, however like most classified spacecraft it has been located and tracked by amateur observers. It is in a Molniya orbit with a perigee of 1,111 kilometres (690 mi), an apogee of 37,580 kilometres (23,350 mi), and 63.5 degrees of inclination. In addition to its SIGINT payload, USA-200 also carries two secondary instruments; the SBIRS-HEO-2 missile detection payload as part of the Space-Based Infrared System programme, and NASA's TWINS-2 or TWINS-B magnetospheric science instrument as part of the TWINS programme.",
+        "json-uri": "http://dbpedia.org/data/USA-200.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-124",
+        "abstract": "STS-124 was a Space Shuttle mission, flown by Space Shuttle Discovery to the International Space Station. Discovery launched on 31 May 2008 at 17:02 EDT, moved from an earlier scheduled launch date of 25 May 2008, and landed safely at the Kennedy Space Center's Shuttle Landing Facility, at 11:15 EDT on 14 June 2008. The mission is also referred to as ISS-1J by the ISS program.",
+        "json-uri": "http://dbpedia.org/data/STS-124.jsond",
+        "instrumentation": []
+    }
+]

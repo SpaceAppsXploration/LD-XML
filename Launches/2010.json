@@ -1,0 +1,410 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-18",
+        "abstract": "Soyuz TMA-18 was a 2010 Soyuz flight to the International Space Station. TMA-18 was the 105th manned flight of a Soyuz spacecraft since the first manned flight in 1967.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-18.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2465",
+        "abstract": "Kosmos 2465 (Russian: Космос 2465 meaning Cosmos 2465) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2464 and Kosmos 2466.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 737.Kosmos 2464/5/6 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 05:49 UTC on 2 September 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-041B. The United States Space Command assigned it the Satellite Catalog Number 27138.It is in the second orbital plane of the GLONASS constellation, in orbital slot 12. It started operations on 4 October 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2465.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-130",
+        "abstract": "STS-130 (ISS assembly flight 20A) was a NASA Space Shuttle mission to the International Space Station (ISS). Space Shuttle Endeavour's primary payloads were the Tranquility module and the Cupola, a robotic control station with six windows around its sides and another in the center, providing a 360-degree view around the station. Endeavour launched at 04:14 EST (09:14 UTC) on 8 February 2010 and landed at 22:22 EST on 21 February 2010 on runway 15 at the Kennedy Space Center's Shuttle Landing Facility.",
+        "json-uri": "http://dbpedia.org/data/STS-130.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TanDEM-X",
+        "abstract": "TanDEM-X (TerraSAR-X add-on for Digital Elevation Measurement) is the name of TerraSAR-X's twin satellite, a German Earth observation satellite using SAR (Synthetic Aperture Radar) - a modern radar imaging technology. Implemented in a Public-Private-Partnership between the German Aerospace centre (DLR) and EADS Astrium, it is a second, almost identical spacecraft to TerraSAR-X. TanDEM-X is also the name of the satellite mission flying the two satellites in a closely controlled formation with typical distances between 250 and 500 m. This unique twin satellite constellation will allow the generation of the WorldDEM™, the seamless global digital elevation models available from 2014.",
+        "json-uri": "http://dbpedia.org/data/TanDEM-X.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Negai_(satellite)",
+        "abstract": "Negai☆″ (\"Wish\")[citation needed] is a Japanese satellite which launched in May 2010. It is a student-built spacecraft, which will be operated by Soka University, and is intended to be used for technology demonstration. The satellite is a single unit CubeSat, and will be used to test a field programmable gate array in orbit. As part of an outreach programme, it will carry the names of selected children, along with wishes they have made. The satellite will return images of the Earth, which will be given to the participating children.The launch was conducted by Mitsubishi Heavy Industries under contract to the Japan Aerospace Exploration Agency. In preparation for a planned launch on 17 May, the H-IIA rocket was rolled out to Pad 1 of the Yoshinobu Launch Complex at the Tanegashima Space Centre on 16 May 2010. It departed the assembly building at 21:01 UTC and arriving at the launch pad 24 minutes later at 21:25 UTC. The terminal countdown began at 11:30 UTC on 17 May and by 15:28, the loading of cryogenic propellant into the rocket's first and second stages had been completed. The launch attempt was scrubbed a few minutes before liftoff due to bad weather, but took place successfully at 21:58:22 UTC on 20 May 2010.Negai was deployed from a JAXA Picosatellite Deployer attached to the second stage of the H-IIA 202 rocket used in the launch of the Akatsuki spacecraft towards Venus. Negai shared its dispenser with the K-Sat satellite, whilst a second dispenser contained Waseda-SAT2. The three CubeSats separated into low Earth orbit during a coast phase of the launch, between the first and second burns of the second stage. The rocket then continued to Heliocentric orbit, where it deployed Akatsuki, along with the IKAROS and UNITEC-1 spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Negai_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-215",
+        "abstract": "USA-215, also known as NRO Launch 41 or NROL-41, is an American reconnaissance satellite, operated by the National Reconnaissance Office. Launched in 2010, it has been identified as the first in a new series of radar imaging satellites, developed as part of the Future Imagery Architecture programme, to replace the earlier Lacrosse spacecraft.USA-215 was launched by an Atlas V carrier rocket, flying in the 501 configuration, operated by United Launch Alliance. The rocket was launched from Space Launch Complex 3E at the Vandenberg Air Force Base, at 04:03:30 UTC (09:03 PDT) on 21 September 2010. It was identified as NRO Launch 41, and was the twenty-third flight of an Atlas V; the vehicle had the tail number AV-025, and was named Gladys.The satellite's orbit and mission are officially classified, however it has been located by amateur observers in a retrograde low Earth orbit. As of 17 April 2014 it was in an orbit with a perigee of 1,108 kilometres (688 mi), an apogee of 1,113 kilometres (692 mi) and 122.910 degrees of inclination.",
+        "json-uri": "http://dbpedia.org/data/USA-215.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-213",
+        "abstract": "USA-213, also known as GPS SVN-62, GPS IIF SV-1 and NAVSTAR 65, is the first satellite in the Block IIF series of Global Positioning System navigation satellites. It will be used to relay signals for the United States Air Force Navstar Global Positioning System (GPS). The satellite was launched at 03:00 GMT on 28 May 2010. It will be placed into plane B of the GPS constellation, and will transmit the PRN-25 signal. PRN-25 was previously broadcast by USA-79, which was retired in late 2009 after almost eighteen years of service.",
+        "json-uri": "http://dbpedia.org/data/USA-213.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_16",
+        "abstract": "Intelsat 16 is a communications satellite owned by Intelsat planned to be located at 58°W.L.. It was built by Orbital Sciences Corporation, on a Star-2 Bus. Intelsat 16 was formerly known as PAS-11R. It was launched on February 12, 2010 by ILS Proton-M launch vehicle.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_16.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2469",
+        "abstract": "Kosmos 2469 (Russian: Космос 2469 meaning Cosmos 2469) is a Russian US-K missile early warning satellite which was launched in 2010 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2469 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 17:01 UTC on 30 August 2010. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 2010-049A. The United States Space Command assigned it the Satellite Catalog Number 37170.It was the last launch of a US-K satellite and the last launch of a Molniya-M rocket.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2469.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Leonardo_(ISS_module)",
+        "abstract": "The Leonardo Permanent Multipurpose Module (PMM) is a module of the International Space Station. It was flown into space aboard the Space Shuttle on STS-133 on 24 February 2011 and installed on 1 March. Leonardo is primarily used for storage of spares, supplies and waste on the ISS, which is currently stored in many different places within the space station. The Leonardo PMM was a Multi-Purpose Logistics Module (MPLM) before 2011, but was modified into its current configuration. It was formerly one of three MPLM used for bringing cargo to and from the ISS with the Space Shuttle. The module was named for Italian polymath Leonardo da Vinci.",
+        "json-uri": "http://dbpedia.org/data/Leonardo_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Globus-1M_No.12L",
+        "abstract": "Globus-1M #12L or No.12L (Russian: Глобус-1М meaning Globe-1M), also known as Raduga-1M 2 (Russian: Радуга-1М meaning Rainbow-1M) is a Russian military communications satellite which is operated by the Russian Space Forces. It was the second Raduga-1M satellite to be launched – the first being Globus-1M #11L which was launched in 2008, and forms part of the Raduga satellite system. It is positioned in geostationary orbit at a longitude of 70 degrees East.Globus-1M #12L was built by JSC Information Satellite Systems, and is equipped with multiple transponders broadcasting centimetre-band and decimetre-band signals. It was launched by the Khrunichev State Research and Production Space Centre, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred at 00:18:00 GMT on 28 January 2010, from Site 81/24 at the Baikonur Cosmodrome. The launch was successful, and inserted the satellite directly into geosynchronous orbit. At launch the satellite had a mass of 2,500 kilograms (5,500 lb), with an expected operational lifespan of around 5 years.It is currently in a geostationary orbit, with an apogee of 35,788 kilometres (22,238 mi), a perigee of 35,784 kilometres (22,235 mi), zero degrees of inclination, and an orbital period of 24 hours.",
+        "json-uri": "http://dbpedia.org/data/Globus-1M_No.12L.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-04M",
+        "abstract": "Progress M-04M, identified by NASA as Progress 36P, is a Russian Progress spacecraft which was launched in February 2010 to resupply the International Space Station. It was docked with the aft port of the Zvezda module of the station.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-04M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2464",
+        "abstract": "Kosmos 2464 (Russian: Космос 2464 meaning Cosmos 2464) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2465 and Kosmos 2466.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 736.Kosmos 2464/5/6 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 05:49 UTC on 2 September 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-041C. The United States Space Command assigned it the Satellite Catalog Number 27139.It is in the second orbital plane of the GLONASS constellation, in orbital slot 9. It started operations on 4 October 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2464.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Arabsat-5A",
+        "abstract": "Arabsat-5A is a Saudi Arabian communications satellite operated by Arabsat. It will be used to provide television, internet and telephone services to Arabia, Africa and Europe.Arabsat-5A was constructed by Astrium, and is based around the Eurostar-3000 satellite bus. It has a mass of 4,800 kilograms (10,600 lb), and carries forty transponders; sixteen broadcasting in the G/H band of the NATO-defined spectrum, or the C band of the IEEE-defined spectrum, and twenty four operating in the NATO J band or the IEEE Ku band. Its solar arrays are expected to generate around 12 kilowatts of power at the beginning of the satellite's design life, and around 11 kilowatts at the end of it.Arabsat-5A was launched by Arianespace using an Ariane 5ECA carrier rocket lifting off from ELA-3 at the Guiana Space Centre in Kourou, French Guiana. The first attempt to launch it occurred on 23 June 2010, however the launch was scrubbed due to a problem with one of the rocket's subsystems. A subsequent attempt on 24 June was also scrubbed, due to a problem with the pressurisation of the rocket's fuel tanks. The launch occurred at 21:41 UTC on 26 June 2010. The South Korean COMS-1 satellite was launched by the same rocket, with a SYLDA adaptor being used to separate the spacecraft. Arabsat-5A was mounted atop the SYLDA, with COMS-1 underneath it.Following launch, Arabsat-5A separated into a geosynchronous transfer orbit. It will then use an apogee motor to raise itself into geostationary orbit. Once it reaches geostationary orbit, it will undergo testing before beginning operations at a longitude of 30.5 degrees East, where it will replace Arabsat-2B. It is expected to operated for fifteen years.",
+        "json-uri": "http://dbpedia.org/data/Arabsat-5A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_3B",
+        "abstract": "Astra 3B is one of the Astra communications satellites owned and operated by SES, launched in 2010 to the Astra 23.5°E orbital slot providing digital television and radio for direct-to-home (DTH), and two-way satellite broadband services across Europe and the Middle East.The satellite provides three broadcast beams, of horizontal and vertical polarisation that cover three areas of the Earth’s surface. The Pan-European Wide beam provides DTH reception on 60 cm dishes across Europe from Spain to the Black Sea and from Greece to Scandinavia. The European spot beam (for central and eastern Europe) and the Middle East spot beam (the Arabian Peninsula, Iran and Iraq) provide for contribution and distribution services, and data and IP trunking services between the two regions with Ka band uplink and downlink used in Europe and Ku band in the Middle East.Astra 3B was finally launched in May 2010 after nearly two months delay caused by technical problems to the main stage pressurization system of the Ariane 5 rocket, including two on-the-launch-pad postponements on March 24, 2010 and April 9.Astra 3B became commercially operational in June 2010 to initially provide DTH broadcast services mainly to the Benelux region and Eastern Europe as well as the two-way broadband service, ASTRA2Connect across Europe and the Middle East. In January 2011 Astra announced that Bulgarian DTH operator Satellite BG would launch a package of more than 60 standard definition channels and 12 high definition channels, including sports, film, factual and children’s TV, and all major Bulgarian public and commercial services on February 1, using three transponders on Astra 3B to reach TV homes across Bulgaria.The deployment of Astra 3B helped to optimize the spectrum use at 23.5° east and enabled SES to release the Astra 1E and Astra 1G satellites previously at Astra 23.5°E for use at other orbital positions.",
+        "json-uri": "http://dbpedia.org/data/Astra_3B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Chollian",
+        "abstract": "Chollian, (Korean, lit. Thousand Li View) also known as Communication, Ocean and Meteorological Satellite 1 (COMS-1), is a South Korean satellite which was launched in June, 2010. It will be operated by the Korea Aerospace Research Institute, who will use it for communication, oceanography, and meteorological observation.COMS-1 was constructed by EADS Astrium, and is based around the Eurostar-3000S satellite bus. It has a mass of 2,460 kilograms (5,420 lb), and carries transponders broadcasting in the D/E and K bands of the NATO-defined spectrum, or the L/S and Ka bands of the IEEE-defined spectrum respectively. Its single solar array is expected to generate a minimum of 2.5 kilowatts of power.COMS-1 was launched by Arianespace using an Ariane 5ECA carrier rocket lifting off from ELA-3 at the Guiana Space Centre in Kourou, French Guiana. The first attempt to launch it occurred on 23 June 2010, however the launch was scrubbed due to a problem with one of the rocket's subsystems. A subsequent attempt on 24 June was also scrubbed, due to a problem with the pressurisation of the rocket's fuel tanks. The launch occurred at 21:41 UTC on 26 June 2010. The Saudi Arabian Arabsat-5A satellite was launched by the same rocket, with a SYLDA adaptor being used to separate the spacecraft. Arabsat-5A was mounted atop the SYLDA, with COMS-1 underneath it.Following launch, COMS-1 separated into a geosynchronous transfer orbit. It will use an apogee motor to raise itself into geosynchronous orbit. Once it reaches this orbit, it will undergo testing before beginning operations at a longitude of 128.2 degrees East. Its mission is scheduled to last seven years, however the satellite has a design life of ten years.",
+        "json-uri": "http://dbpedia.org/data/Chollian.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Prisma",
+        "abstract": "Prisma is a satellite project led by the Swedish Space Corporation (SSC) which consist of two satellites that fly in formation.It was launched, along with the PICARD spacecraft, on 15 June 2010 on a Dnepr-1 launcher from Dombarovskiy Cosmodrome, near Yasny, Russia. Its primary objective is to test autonomous formation flying.On 12 August 2010, SSC reported that the two satellites, called Mango and Tango, had separated from each other for the first time.",
+        "json-uri": "http://dbpedia.org/data/Prisma.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cupola_(ISS_module)",
+        "abstract": "The Cupola is an ESA-built observatory module of the International Space Station (ISS). Its seven windows are used to conduct experiments, dockings and observations of Earth. It was launched aboard Space Shuttle mission STS-130 on 8 February 2010 and attached to the Tranquility (Node 3) module. With the Cupola attached, ISS assembly reached 85 percent completion. The Cupola's 80 cm (31 in) window is the largest ever used in space.",
+        "json-uri": "http://dbpedia.org/data/Cupola_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Waseda-SAT2",
+        "abstract": "Waseda-SAT2 is a Japanese satellite which launched in May 2010. It is a student-built spacecraft, which will be operated by Waseda University, and is intended to be used for Earth observation and technology demonstration. It will test the use of extendible paddles to provide attitude control. The satellite is a single unit CubeSat.The launch was conducted by Mitsubishi Heavy Industries under contract to the Japan Aerospace Exploration Agency. In preparation for a planned launch on 17 May, the H-IIA rocket was rolled out to Pad 1 of the Yoshinobu Launch Complex at the Tanegashima Space Centre on 16 May 2010. It departed the assembly building at 21:01 UTC and arriving at the launch pad 24 minutes later at 21:25 UTC. The terminal countdown began at 11:30 UTC on 17 May and by 15:28, the loading of cryogenic propellant into the rocket's first and second stages had been completed. The launch attempt was scrubbed a few minutes before liftoff due to bad weather, but took place successfully at 21:58:22 UTC on 20 May 2010.Waseda was deployed from a JAXA Picosatellite Deployer attached to the second stage of the H-IIA 202 rocket used in the launch of the Akatsuki spacecraft towards Venus. A second dispenser contained K-Sat and the Negai ☆ satellite. The three CubeSats separated into low Earth orbit during a coast phase of the launch, between the first and second burns of the second stage. The rocket then continued to Heliocentric orbit, where it deployed Akatsuki, along with the IKAROS and UNITEC-1 spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Waseda-SAT2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SERVIS-2",
+        "abstract": "SERVIS-2, or Space Environment Reliability Verification Integrated System 2, is a Japanese technological research satellite which was launched in 2010. It was constructed by Mitsubishi Electric, and will be operated by the Institute for Unmanned Space Experiment Free Flyer, USEF. It follows on from the SERVIS-1 spacecraft, which was launched in 2003.",
+        "json-uri": "http://dbpedia.org/data/SERVIS-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-223",
+        "abstract": "USA-223, known before launch as NRO Launch 32 (NRO L-32), is an American reconnaissance satellite which was launched in 2010. It is operated by the United States National Reconnaissance Office. It presently holds the record for being the largest spy satellite ever launched.Whilst details of its mission are officially classified, amateur observers have identified USA-223 as an Orion satellite; the seventh in the Magnum/Orion series. Orion spacecraft are used for electronic signals intelligence, and carry large antennas to enable them to intercept radio transmissions. These antennas are believed to have a diameter of around 100 metres (330 ft). Bruce A. Carlson, the director of the NRO, described the spacecraft as being the largest satellite ever launched.USA-223 was launched by United Launch Alliance, aboard a Delta IV Heavy carrier rocket flying from Space Launch Complex 37B at the Cape Canaveral Air Force Station. The launch occurred at 22:58 UTC on 21 November 2010. Following liftoff the rocket flew East towards a geosynchronous orbit. By 23:05 UTC, official updates on the status of the launch had been discontinued.",
+        "json-uri": "http://dbpedia.org/data/USA-223.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-131",
+        "abstract": "STS-131 (ISS assembly flight 19A) was a NASA Space Shuttle mission to the International Space Station (ISS). Space Shuttle Discovery launched on 5 April 2010 at 6:21 am from Kennedy Space Center's launch pad 39A, and landed at 9:08 am on 20 April 2010 on runway 33 at the Kennedy Space Center's Shuttle Landing Facility. The mission marked the longest flight for space shuttle Discovery.The primary payload was a Multi-Purpose Logistics Module loaded with supplies and equipment for the International Space Station. The mission also removed and replaced an ammonia tank assembly outside the station on the S1 truss. STS-131 furthermore carried several on-board payloads; this mission had the most payloads since STS-107.[citation needed]",
+        "json-uri": "http://dbpedia.org/data/STS-131.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-20",
+        "abstract": "Soyuz TMA-20 was a manned spaceflight to the International Space Station (ISS) and was part of the Soyuz programme. It lifted off from the Baikonur Cosmodrome in Kazakhstan on December 15, 2010, and docked with the ISS two days later. The three-person crew of Soyuz TMA-20 – Dmitri Kondratyev, Catherine Coleman and Paolo Nespoli – represented the ISS partner organizations of Roscosmos, NASA and the European Space Agency (ESA). Soyuz TMA-20's crew represented half of the members of Expedition 27; the other three members of the expedition arrived at the station on board Soyuz TMA-21 on April 6, 2011. The COSPAR ID of Soyuz TMA-20 was 2010-067A.On May 24, 2011, after spending 159 days in space, the Soyuz TMA-20 descent module landed safely in Zhezkazgan, Kazakhstan, carrying Kondratyev, Coleman and Nespoli.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-20.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/KA-SAT",
+        "abstract": "KA-SAT is a high throughput telecommunications satellite owned by Eutelsat. The satellite provides broadband Internet access services across Europe and also a small area of the Middle East. It is positioned at 9°E, joining Eurobird 9A Ku band satellite. KA-SAT was manufactured by EADS Astrium, based on the Eurostar E3000 platform, with a total weight of 6 tons. It was launched by Proton in December 2010. The satellite is named after the Ka band frequency, which is used on the spacecraft.",
+        "json-uri": "http://dbpedia.org/data/KA-SAT.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-212",
+        "abstract": "USA-212 was the first flight of the Boeing X-37B Orbital Test Vehicle 1 (X-37B OTV-1), an American unmanned robotic vertical-takeoff, horizontal-landing (VTHL) spaceplane.It was launched aboard an Atlas V rocket from Cape Canaveral on 22 April 2010, and operated in low Earth orbit. Its designation is part of the USA series.The spaceplane is operated by the United States Air Force, which has not revealed the specific identity of the spaceship's payload for the mission. The Air Force has stated only that the spacecraft would \"demonstrate various experiments and allow satellite sensors, subsystems, components, and associated technology to be transported into space and back.\"",
+        "json-uri": "http://dbpedia.org/data/USA-212.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Solar_Dynamics_Observatory",
+        "abstract": "The Solar Dynamics Observatory (SDO) is a NASA mission which will observe the Sun for over five years. Launched on February 11, 2010, the observatory is part of the Living With a Star (LWS) program. The goal of the LWS program is to develop the scientific understanding necessary to effectively address those aspects of the connected Sun–Earth system directly affecting life and society. The goal of the SDO is to understand the influence of the Sun on the Earth and near-Earth space by studying the solar atmosphere on small scales of space and time and in many wavelengths simultaneously. SDO has been investigating how the Sun's magnetic field is generated and structured, how this stored magnetic energy is converted and released into the heliosphere and geospace in the form of solar wind, energetic particles, and variations in the solar irradiance.",
+        "json-uri": "http://dbpedia.org/data/Solar_Dynamics_Observatory.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EchoStar_XIV",
+        "abstract": "EchoStar XIV is an American geostationary communications satellite which is operated by EchoStar. It is positioned in geostationary orbit at a longitude of 119° West, from where it is used to provide high-definition television direct broadcasting services to the continental United States for Dish Network.EchoStar XIV was built by Space Systems/Loral, and is based around the LS-1300 satellite bus. It is equipped with 103 J band (IEEE Ku band) transponders, and at launch it had a mass of 6,384 kilograms (14,074 lb), with an expected operational lifespan of around 15 yearsThe launch of EchoStar XIV was conducted by International Launch Services, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred from Site 200/39 at the Baikonur Cosmodrome in Kazakhstan, at 18:26:57 UTC on 20 March 2010. The launch successfully placed EchoStar XIV into a geosynchronous transfer orbit. Following separation from the rocket, it manoeuvred into a geostationary orbit with a perigee of 35,785 kilometres (22,236 mi) and an apogee of 35,789 kilometres (22,238 mi).",
+        "json-uri": "http://dbpedia.org/data/EchoStar_XIV.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Compass-G1",
+        "abstract": "Compass-G1, also known as Beidou-2 G1 is a Chinese navigation satellite which will become part of the Compass navigation system. It was launched in January 2010, and became the third Compass satellite to be launched after Compass-M1 and Compass-G2.Compass-G1 was launched at 16:12 GMT on 16 January 2010, and was the first orbital launch to be conducted in 2010. The launch used a Long March 3C carrier rocket, flying from the Xichang Satellite Launch Centre. It was the first flight of a Long March 3 series rocket since an upper stage engine problem in August 2009 which left the Palapa-D satellite in a lower than planned orbit. The injection systems on the rocket's third stage engines had filters fitted to them in an attempt to prevent a recurrence of this failure. The Compass-G1 launch demonstrated this new system.Compass-G1 had originally been scheduled for launch in the first half of 2009, however it was subsequently delayed after issues developed with the Beidou-1D and Compass-G2 satellites.",
+        "json-uri": "http://dbpedia.org/data/Compass-G1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-4",
+        "abstract": "GSAT-4, also known as HealthSat, was an experimental communication and navigation satellite launched in April 2010 by the Indian Space Research Organisation on the maiden flight of the Geosynchronous Satellite Launch Vehicle Mk.II rocket. It failed to reach orbit after the rocket's third stage malfunctioned. The third stage was the first Indian-built cryogenic-fuelled upper stage, and was making its first flight. The ISRO suspects that the failure was caused by the third stage not igniting.",
+        "json-uri": "http://dbpedia.org/data/GSAT-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2461",
+        "abstract": "Kosmos 2461 (Russian: Космос 2461 meaning Cosmos 2461) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2459 and Kosmos 2460This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 735.Kosmos 2459/60/61 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 21:19 UTC on 1 March 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-007B. The United States Space Command assigned it the Satellite Catalog Number 36401.It is in the third orbital plane of the GLONASS constellation, in orbital slot 24. It started operations on 28 March 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2461.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2460",
+        "abstract": "Kosmos 2460 (Russian: Космос 2460 meaning Cosmos 2460) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2459 and Kosmos 2461This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 732.Kosmos 2459/60/61 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 21:19 UTC on 1 March 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-007C. The United States Space Command assigned it the Satellite Catalog Number 36402.It is in the third orbital plane of the GLONASS constellation, in orbital slot 23. It started operations on 28 March 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2460.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-214",
+        "abstract": "USA-214, known before launch as Advanced Extremely High Frequency 1 or AEHF SV-1, is a military communications satellite operated by the United States Air Force. It is the first of four spacecraft to be launched as part of the Advanced Extremely High Frequency program, which will replace the earlier Milstar system.The USA-214 spacecraft was constructed by Lockheed Martin, and is based around the A2100 satellite bus. The spacecraft has a mass of 6,168 kilograms (13,598 lb) and a design life of 14 years. It will be used to provide super high frequency and extremely high frequency communications for the armed forces of the United States, as well as those of the United Kingdom, the Netherlands, and Canada.",
+        "json-uri": "http://dbpedia.org/data/USA-214.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CryoSat-2",
+        "abstract": "CryoSat-2 is a European Space Agency environmental research satellite which was launched in April 2010. It provides scientists with data about the polar ice caps and tracks changes in the thickness of the ice with a resolution of about 1.3 centimetres (1⁄2 in).CryoSat-2 was built as a replacement for CryoSat-1, whose Rokot carrier rocket was unable to achieve orbit. Compared to its predecessor, CryoSat-2 features software upgrades, greater battery capacity and an updated instrument package. Its main instrument is an interferometric radar range-finder with twin antennas, which measures the height difference between floating ice and open water.CryoSat-2 is operated as part of the CryoSat programme to study the Earth's polar ice caps, which is itself part of the Living Planet programme. The CryoSat-2 spacecraft was constructed by EADS Astrium, and was launched by ISC Kosmotras, using a Dnepr-1 carrier rocket, on 8 April 2010. On 22 October 2010, CryoSat-2 was declared operational following six months of on-orbit testing.",
+        "json-uri": "http://dbpedia.org/data/CryoSat-2.jsond",
+        "instrumentation": [
+            "LRR: Laser Retroreflector",
+            "SIRAL: SAR Interferometer Radar Altimeter",
+            "DORIS: Doppler Orbitography and Radiopositioning Integration by Satellite"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-05M",
+        "abstract": "Progress M-05M, identified by NASA as Progress 37P, is a Progress spacecraft launched by the Russian Federal Space Agency in April 2010 to resupply the International Space Station (ISS). The spacecraft carried fresh food and supplies for the ISS crew. Progress M-05M also hauled some special care packages for the station crew that included confectioneries, books and new movies.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-05M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Dragon_Spacecraft_Qualification_Unit",
+        "abstract": "The Dragon Spacecraft Qualification Unit was a boilerplate version of the Dragon spacecraft manufactured by SpaceX, a space transportation company in Hawthorne, California. After using it for ground tests to rate Dragon's shape and mass in various tests, SpaceX launched it into low-Earth orbit on the maiden flight of the Falcon 9 rocket, on June 4, 2010. SpaceX used the launch to evaluate the aerodynamic conditions on the spacecraft and performance of the carrier rocket in a real-world launch scenario, ahead of Dragon flights for NASA under the Commercial Orbital Transportation Services program. The spacecraft orbited the Earth over 300 times before decaying from orbit and reentering the atmosphere on 29 June.",
+        "json-uri": "http://dbpedia.org/data/Dragon_Spacecraft_Qualification_Unit.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/AISSat-1",
+        "abstract": "AISSat-1 is a Norwegian satellite that was launched from India on 12 July 2010 from the Satish Dhawan Space Centre. The satellite's aim is to improve maritime safety in the Northern sea. The satellite, which is an experimental satellite, will receive and forward signals from ships' Automatic Identification System (AIS). Thus, the coverage of the AIS expands from the coastal waters of all oceans Norway manage.AISSat-1 is a nano-satellite which is shaped like a cube in the dimensions of 20 cm x 20 cm x 20 cm. It weighs six kilograms. The technology on board the AISSat-1 was developed in cooperation between the Norwegian Defence Research Establishment, Kongsberg Maritime, the Norwegian Coastal Administration and the Norwegian Space Centre. The satellite has cost 30 million NOK (3.9 million euros) and is financed by the Norwegian Ministry of Trade and Industry.The launch, which was originally scheduled for 9 May, was eventually postponed to 12 July after a flaw was discovered in the rocket during testing. Data is downloaded via Svalbard Satellite Station.",
+        "json-uri": "http://dbpedia.org/data/AISSat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Radio_Aurora_Explorer",
+        "abstract": "Radio Aurora Explorer (RAX) is the first National Science Foundation sponsored CubeSat mission. The RAX mission is a joint effort between SRI International in Menlo Park, California and the University of Michigan in Ann Arbor, Michigan. The chief scientist at SRI International, Dr. Hasan Bahcivan, led his team at SRI to develop the payload while the chief engineer, Dr. James Cutler, led a team of students to develop the satellite bus in the Michigan Exploration Laboratory. There are currently two satellites in the RAX mission.The RAX-1 mission, launched in November 2010, was a demonstration of the team’s technological capabilities – it made great strides in CubeSat design, and was able to execute bistatic radar measurements that had never before been performed on a satellite of its size.RAX-2 builds on this heritage by completing the scientific portion of the overall mission; it is a reflection of students learning from practical experience, and swiftly implementing new, more inventive technologies firsthand. RAX team members were able to get practical spacecraft troubleshooting experience, and applied lessons learned from RAX-1 to RAX-2, which performs the same mission concept with improved bus performance and additional operational modes. RAX-2 launched on October 28, 2011 as part of the NASA ELaNa 3 mission.",
+        "json-uri": "http://dbpedia.org/data/Radio_Aurora_Explorer.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SpaceX_COTS_Demo_Flight_1",
+        "abstract": "SpaceX COTS Demo Flight 1 in 2010 was the unmanned first spaceflight of the SpaceX Dragon spacecraft, the Dragon C1, which orbited the Earth, and the second overall flight of the SpaceX Falcon 9. It was also the first demonstration flight for NASA's Commercial Orbital Transportation Services (COTS) program for which SpaceX was selected. The primary mission objectives were to test the orbital maneuvering and reentry of the Dragon capsule. The mission also aimed to test fixes to the Falcon 9 rocket, particularly the unplanned roll of the first stage that occurred during Flight 1. The capsule was carried to orbit by a Falcon 9 rocket, which made its second scheduled launch. Liftoff occurred on December 8, 2010, at 10:43 am EST (1543 GMT).The success of the mission allowed SpaceX to advance its vehicle testing plan. With the two back-to-back \"near-perfect\" Falcon 9 launches (including Falcon 9 Flight 1 in June) \"and the successful orbital operation, reentry and parachute landing of its first Dragon capsule\" SpaceX \"asked NASA to combine objectives laid out for the remaining two COTS missions ... and permit a berthing at the [space station] during its next flight,\" which was completed successfully in 2012.",
+        "json-uri": "http://dbpedia.org/data/SpaceX_COTS_Demo_Flight_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Compass-IGSO1",
+        "abstract": "Compass-IGSO1, also known as Beidou-2 IGSO1 is a Chinese navigation satellite which will become part of the Compass navigation system. It was launched in July 2010, and became the fifth Compass satellite to be launched after Compass-M1, G2, G1, and G3.Compass-IGSO1 was launched at 21:30 GMT on 31 July 2010. The launch used a Long March 3A carrier rocket, flying from the Xichang Satellite Launch Centre. The satellite is developed in the basis of the DFH-3 satellite platform and has a lifespan of 8 years.",
+        "json-uri": "http://dbpedia.org/data/Compass-IGSO1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2459",
+        "abstract": "Kosmos 2459 (Russian: Космос 2459 meaning Cosmos 2459) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2460 and Kosmos 2461.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 731.Kosmos 2459/60/61 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 21:19 UTC on 1 March 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-007A. The United States Space Command assigned it the Satellite Catalog Number 36400.It is in the third orbital plane of the GLONASS constellation, in orbital slot 22. It started operations on 28 March 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2459.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-01M",
+        "abstract": "Soyuz TMA-01M was a Soyuz flight that transported three members of the Expedition 25 crew to the International Space Station. TMA-01M was the 107th flight of a Soyuz spacecraft, and the first flight of the modernized TMA-M series. The spacecraft remained docked to the space station during Expedition 25, to serve as an emergency escape vehicle. The spacecraft's COSPAR ID was 2010-052A.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-01M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Picard_(satellite)",
+        "abstract": "PICARD is a satellite dedicated to the simultaneous measurement of the absolute total and spectral solar irradiance, the diameter and solar shape, and to the Sun's interior probing by the helioseismology method. These measurements obtained throughout the mission will allow study of their variations as a function of solar activity. It launched, along with the Prisma spacecraft, on June 15, 2010 on a Dnepr-1 launcher from Dombarovskiy Cosmodrome, near Yasny, Russia.",
+        "json-uri": "http://dbpedia.org/data/Picard_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Cartosat-2B",
+        "abstract": "CARTOSAT 2B is an Earth observation satellite in a sun-synchronous orbit and the fourth of the Cartosat series of satellites. The satellite is the seventeenth satellite in the Indian Remote Sensing (IRS) satellite series to be built by the Indian Space Research Organisation. It was launched along with the 116 kg Algerian satellite, one nano satellite each from Canada and Switzerland, and StudSat, a pico satellite, on 12 July 2010 in a Polar Satellite Launch Vehicle (PSLV) rocket from the spaceport at Sriharikota.The satellite carries a panchromatic (PAN) camera capable of taking black-and-white pictures in the visible region of electromagnetic spectrum. The highly agile CARTOSAT-2B can be steered up to 26 degrees along as well as across the direction of its movement to facilitate imaging of any area more frequently.",
+        "json-uri": "http://dbpedia.org/data/Cartosat-2B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EchoStar_XV",
+        "abstract": "EchoStar XV is an American geostationary communications satellite which is operated by EchoStar. It is positioned in geostationary orbit, and will be located at a longitude of 61.5° West, from where it is intended to provide direct broadcasting of high-definition television services to the continental United States and Puerto Rico for Dish Network.EchoStar XV was built by Space Systems/Loral, and is based around the LS-1300 satellite bus. It is equipped with 32 J band (IEEE Ku band) transponders, and at launch it had a mass of 5,521 kilograms (12,172 lb). It has a design life of fifteen years, however it is carrying enough fuel for around twenty years of operations. It has a common configuration with EchoStar XI and EchoStar XVI.The launch of EchoStar XV was conducted by International Launch Services, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred from Site 200/39 at the Baikonur Cosmodrome in Kazakhstan, at 18:40 UTC on 10 July 2010. The launch successfully placed EchoStar XV into a geosynchronous transfer orbit. Following separation from the rocket, it manoeuvred into a geostationary orbit with a perigee of 35,781 kilometres (22,233 mi) and an apogee of 35,805 kilometres (22,248 mi).",
+        "json-uri": "http://dbpedia.org/data/EchoStar_XV.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-19",
+        "abstract": "Soyuz TMA-19 was a manned spaceflight to the International Space Station and is part of the Soyuz programme. It was launched June 15, 2010 carrying three members of the Expedition 24 crew to the International Space Station, who remained aboard the station for around six months. TMA-19 was the 106th manned flight of a Soyuz spacecraft, since the first mission which was launched in 1967. The spacecraft remained docked to the space station for the remainder of Expedition 24, and for Expedition 25, to serve as an emergency escape vehicle. It undocked from ISS and landed in Kazakhstan on the November 26, 2010. It was the 100th mission to be conducted as part of the International Space Station programme since assembly began in 1998.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-19.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-07M",
+        "abstract": "Progress M-07M (Russian: Прогресс М-07М), identified by NASA as Progress 39 or 39P, is a Progress spacecraft which was used to resupply the International Space Station. It was the seventh Progress-M 11F615A60 spacecraft to be launched, the fourth for the year 2010 and has the serial number 407. The spacecraft was manufactured by RKK Energia, and is being operated by the Russian Federal Space Agency. It arrived at the space station whilst the Expedition 24 crew was aboard, and will remain docked for the entirety of Expedition 25, before departing during Expedition 26.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-07M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tranquility_(ISS_module)",
+        "abstract": "Tranquility, also known as Node 3, is a module of the International Space Station (ISS). ESA and the Italian Space Agency had Tranquility built by Thales Alenia Space. A ceremony on November 20, 2009 transferred ownership of the module to NASA. On February 8, 2010, NASA launched the module on the Space Shuttle's STS-130 mission.The module provides six berthing locations, but three of those locations are disabled, as modules originally planned to be attached to Tranquility were canceled. STS-130 also brought the Cupola, a large window module and robotics work station to the ISS, which was then attached to the nadir-side of Tranquility. The module also includes various ISS systems, including additional life support systems.",
+        "json-uri": "http://dbpedia.org/data/Tranquility_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Rassvet_(ISS_module)",
+        "abstract": "Rassvet (Russian: Рассве́т; lit. \"dawn\"), also known as the Mini-Research Module 1 (MRM-1) (Russian: Малый исследовательский модуль, МИМ 1) and formerly known as the Docking Cargo Module (DCM), is a component of the International Space Station (ISS). The module's design is similar to the Mir Docking Module launched on STS-74 in 1995. Rassvet is primarily used for cargo storage and as a docking port for visiting spacecraft. It was flown to the ISS aboard Space Shuttle Atlantis on the STS-132 mission on May 14, 2010, and was connected to the ISS on May 18. The hatch connecting Rassvet with the ISS was first opened on May 20. On 28 June 2010, the Soyuz TMA-19 spacecraft performed the first docking with the module.",
+        "json-uri": "http://dbpedia.org/data/Rassvet_(ISS_module).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SES-1",
+        "abstract": "SES-1 is a geostationary communications satellite which is operated by SES World Skies. It was originally ordered by SES Americom as a ground spare for AMC-5R, however in April 2008 a decision was made to launch it, and it was named AMC-1R. It was subsequently renamed AMC-4R, and finally SES-1 after SES Americom merged with SES New Skies to form SES World Skies. It was the third World Skies satellite to be launched following the merger, but the first to carry the new SES designation. SES-1 operates in geostationary orbit, and is intended to be located at a longitude of 101 degrees West, where it will replace the AMC-2 and AMC-4 satellites, and be used broadcast high-definition television to very small aperture terminals in the United States.SES-1 was built by Orbital Sciences Corporation, and is based around the Star-2.4 satellite bus. It is equipped with 24 G/H band (IEEE C band), and 24 J band (IEEE Ku band) transponders, and at launch it had a mass of 3,170 kilograms (6,990 lb). It has a design life of fifteen years, however it was launched with enough fuel to operate for at least sixteen if its systems are still functional.The launch of SES-1 was conducted by International Launch Services, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred from Site 200/39 at the Baikonur Cosmodrome, at 11:19:00 GMT on 24 April 2010. The launch successfully placed SES-1 into a subsynchronous orbit close to geostationary altitude.In May and June 2010, SES-1 was positioned close to 131° West to temporarily provide backup to the AMC-11 satellite in the event that AMC-11 could not continue broadcasting whilst it is moved out of the way of the failed Galaxy 15 satellite, which passed close to it at the end of May. In the end, services provided by AMC-11 were not interrupted.",
+        "json-uri": "http://dbpedia.org/data/SES-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Nilesat_201",
+        "abstract": "Nilesat 201, is an Egyptian communications satellite, which was launched on 4 August 2010.Nilesat 201 will enable the Egyptian satellite operator Nilesat to deliver digital Direct to Home (DTH) TV and radio broadcasting and high-speed data transmission services to North Africa and the Middle East starting in September 2010. It was built by Thales Alenia Space in the Cannes Mandelieu Space Center, and is based around the Spacebus 4000B2 satellite bus. It will be operated in geosynchronous orbit, at a longitude of 7° West. The spacecraft has a design life of 15 years and a mass at launch of 3.2 tonnes. It is powered by solar arrays which will generate 5.9 kilowatts of electricity at the end of the spacecraft's design life. It will carry 40 transponders, of which 24 will be Ku band for broadcasting, and 4 will be Ka band. Nilesat 201 was launched by an Ariane 5ECA rocket at 20:59 UTC on 4 August 2010.",
+        "json-uri": "http://dbpedia.org/data/Nilesat_201.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Hayato_(satellite)",
+        "abstract": "Hayato, known before launch as K-Sat, or the Kagoshima Satellite, is a Japanese satellite which was launched in May 2010. It is a student-built spacecraft, which is operated by Kagoshima University, and is being used for technology demonstration and remote sensing. The satellite is a single unit CubeSat, and carries equipment to study water vapour in the Earth's atmosphere, microwave imagery and spacecraft communication.The launch was conducted by Mitsubishi Heavy Industries under contract to the Japan Aerospace Exploration Agency. In preparation for a planned launch on 17 May, the H-IIA rocket was rolled out to Pad 1 of the Yoshinobu Launch Complex at the Tanegashima Space Centre on 16 May 2010. It departed the assembly building at 21:01 UTC and arriving at the launch pad 24 minutes later at 21:25 UTC. The terminal countdown began at 11:30 UTC on 17 May and by 15:28, the loading of cryogenic propellant into the rocket's first and second stages had been completed. The launch attempt was scrubbed a few minutes before liftoff due to bad weather, but took place successfully at 21:58:22 UTC on 20 May 2010.Hayato was deployed from a JAXA Picosatellite Deployer attached to the second stage of the H-IIA 202 rocket used in the launch of the Akatsuki spacecraft towards Venus. K-Sat shared its dispenser with the Negai ☆ satellite, whilst a second dispenser contained Waseda-SAT2. The three CubeSats separated into low Earth orbit during a coast phase of the launch, between the first and second burns of the second stage. The rocket then continued to Heliocentric orbit, where it deployed Akatsuki, along with the IKAROS and UNITEC-1 spacecraft.",
+        "json-uri": "http://dbpedia.org/data/Hayato_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-221",
+        "abstract": "USA-221, also known as FalconSat-5, is an American military minisatellite, which was launched in 2010. The fifth FalconSat spacecraft to be launched, it carries four technology development and ionospheric research experiments. The satellite was constructed and is operated by the United States Air Force Academy.",
+        "json-uri": "http://dbpedia.org/data/USA-221.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/O/OREOS",
+        "abstract": "The O/OREOS (Organism/Organic Exposure to Orbital Stresses) nanosatellite is a 5.5-kilogram (12 lb) automated laboratory approximately the size of a loaf of bread that contains two separate astrobiology experiments on board. Developed by the Small Spacecraft Division at NASA Ames Research Center, the spacecraft was successfully launched as a secondary payload on STP-S26 led by the Space Test Program of the United States Air Force on a Minotaur IV rocket from Kodiak Island, Alaska on November 19, 2010.",
+        "json-uri": "http://dbpedia.org/data/O/OREOS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ofek-9",
+        "abstract": "Ofek-9, also known as Ofeq 9, is part of the Ofeq family of reconnaissance satellites designed and built by Israel Aerospace Industries (IAI) for the Israeli Ministry of Defense.It was launched on June 22, 2010 from Palmachim Airbase in Israel. It was delivered using an improved version of the Shavit launcher. The payload is believed to be the multi-spectral 'Jupiter' space camera produced by El-Op While precise imaging capabilities remain classified, sources say that like the still operating Ofeq 5 and Ofeq 7, Ofeq 9 offers a resolution \"much better than\" a half-meter. The satellite was also said to be able to detect objects being carried by people.The satellite operates in a retrograde low Earth orbit.",
+        "json-uri": "http://dbpedia.org/data/Ofek-9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2467",
+        "abstract": "Kosmos 2467 (Russian: Космос 2467 meaning Cosmos 2467) is one of a pair of Russian military communications satellites which were launched in 2010 by the Russian Space Forces. It was launched with Kosmos 2468 and a Gonets-M civilian communication satellite.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2467.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-06M",
+        "abstract": "Progress M-06M, identified by NASA as Progress 38P, is a Russian Progress spacecraft which was launched in June 2010 to resupply the International Space Station. It was the 38th Progress to dock with the space station and the third of year 2010.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-06M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-5P",
+        "abstract": "GSAT-5P, or GSAT-5 Prime, was an Indian communications satellite which was lost in a launch failure in December 2010. Part of the Indian National Satellite System, it was intended to operate in geosynchronous orbit as a replacement for INSAT-3E.",
+        "json-uri": "http://dbpedia.org/data/GSAT-5P.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shin'en_(spacecraft)",
+        "abstract": "Shin'en, known before launch as UNITEC-1 or UNISEC Technology Experiment Carrier 1, is a Japanese student spacecraft which was intended to make a flyby of Venus in order to study the effects of interplanetary spaceflight on spacecraft computers. In doing so, it was intended to become the first student-built spacecraft to operate beyond geocentric orbit. It was operated by UNISEC, a collaboration between several Japanese universities.Contact was lost shortly after launch.",
+        "json-uri": "http://dbpedia.org/data/Shin'en_(spacecraft).jsond",
+        "instrumentation": [
+            "Geiger counter, Mission camera"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/STSAT-2B",
+        "abstract": "STSAT-2B, or Science and Technology Satellite 2B, was a South Korean satellite which was lost in the failure of the second flight of the Naro-1 carrier rocket. It was to have been operated by the Korea Aerospace Research Institute, and was intended to demonstrate technology for future spacecraft. The satellite had a mass of 100 kilograms (220 lb), and was expected to operate for at least two years.STSAT-2B was originally intended to operate alongside a second spacecraft, STSAT-2A; however STSAT-2A was lost in 2009 after the payload fairing of its carrier rocket failed to separate, leaving the rocket unable to achieve orbit.",
+        "json-uri": "http://dbpedia.org/data/STSAT-2B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_15",
+        "abstract": "GOES 15, previously known as GOES-P, is an American weather satellite, which forms part of the Geostationary Operational Environmental Satellite (GOES) system operated by the US National Oceanic and Atmospheric Administration. The spacecraft was constructed by Boeing, and is the last of three GOES satellites to be based on the BSS-601 bus. The other BSS-601 GOES satellites; GOES 13 and GOES 14 were launched in May 2006 and June 2009 respectively. In total it was the sixteenth GOES satellite to be launched.GOES 15 was launched atop a Delta IV-M+(4,2) rocket flying from Space Launch Complex 37B at the Cape Canaveral Air Force Station. The launch occurred at 23:57 GMT on 4 March 2010, forty minutes into a sixty-minute launch window. Upon reaching geostationary orbit on 16 March, it was redesignated GOES 15. On December 6, 2011, it was activated as the GOES West satellite, replacing GOES 11.At launch, the mass of the satellite was 3,238 kilograms (7,139 lb). It has a design life of ten years. Power is supplied by a single gallium arsenide solar panel, which provides up to 2.3 kilowatts of power. A 24 cell nickel hydrogen battery is used to provide power when the satellite is not in sunlight. Instruments aboard GOES15 include a five channel multispectral imager to capture visible light and infrared images of the continental United States, a sounder to take readings of atmospheric temperature and moisture, a solar x-ray imager to detect solar flares, and instruments to monitor the magnetosphere, cosmic background radiation and charged particles.",
+        "json-uri": "http://dbpedia.org/data/GOES_15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2468",
+        "abstract": "Kosmos 2468 (Russian: Космос 2468 meaning Cosmos 2468) is a Russian military communications satellite which was launched in 2010 by the Russian Space Forces. It was launched with Kosmos 2467 and a Gonets-M civilian communication satellite.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2468.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2466",
+        "abstract": "Kosmos 2466 (Russian: Космос 2466 meaning Cosmos 2466) is one of a set of three Russian military satellites launched in 2010 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2465 and Kosmos 2464.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 738.Kosmos 2464/5/6 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-M carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 05:49 UTC on 2 September 2010. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2010-041A. The United States Space Command assigned it the Satellite Catalog Number 27137.It is in the second orbital plane of the GLONASS constellation, in orbital slot 16. It started operations on 11 October 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2466.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-08M",
+        "abstract": "Progress M-08M (Russian: Прогресс М-08М), identified by NASA as Progress 40 or 40P, is a Progress spacecraft which was used to resupply the International Space Station. It was the eighth Progress-M 11F615A60 spacecraft to be launched, the fifth for the year 2010. The spacecraft was manufactured by RKK Energia, and was operated by the Russian Federal Space Agency. It arrived at the space station on 30 October 2010 whilst the Expedition 25 crew was aboard, and departed during Expedition 26 on 24 January 2011.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-08M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NanoSail-D2",
+        "abstract": "NanoSail-D2 is a small satellite built by NASA's Marshall Space Flight Center and Ames Research Center to study the deployment of a solar sail in space. It is a three-unit CubeSat, measuring 30×10×10 centimetres (11.8×3.9×3.9 in) with a mass of 4 kilograms (8.8 lb). Its solar sail has an area of 10 square meters (110 sq ft), and was deployed in around five seconds.It was planned to be deployed from the FASTSAT satellite around 3 December 2010, two weeks after launch. The satellite did not eject at that time, but on January 17, 2011, it ejected on its own and deployed its sail three days later on the 20th. The beacon signal began transmitting after ejection and was first received on the afternoon of January 19, 2011.",
+        "json-uri": "http://dbpedia.org/data/NanoSail-D2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/StudSat",
+        "abstract": "StudSat is a satellite designed by students. This project was conceptualized and project managed by undergraduate students across India. STUDSAT-1 is a picosatellite, a miniaturized satellite, successfully launched on 12 July 2010 from Satish Dhawan Space Centre into a sun synchronous orbit. The mission's objective was for students to have a hands-on experience with the design, fabrication and realization of a space mission at a minimum cost. Experimental in nature, the mission life was stated to be six months.StudSat-1 was the first picosatellite launched by India, as well as the smallest satellite launched indigenously by any Indian organization.",
+        "json-uri": "http://dbpedia.org/data/StudSat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-132",
+        "abstract": "STS-132 (ISS assembly flight ULF4) was a NASA Space Shuttle mission, during which Space Shuttle Atlantis docked with the International Space Station on 16 May 2010. STS-132 was launched from the Kennedy Space Center on 14 May 2010. The primary payload was the Russian Rassvet Mini-Research Module, along with an Integrated Cargo Carrier-Vertical Light Deployable (ICC-VLD). Atlantis landed at the Kennedy Space Center on 26 May 2010.STS-132 was initially scheduled to be the final flight of Atlantis, provided that the STS-335/STS-135 Launch On Need rescue mission was not flown. However, in February 2011, NASA declared that the final mission of Atlantis and of the Space Shuttle program, STS-135, would be flown regardless of the funding situation.",
+        "json-uri": "http://dbpedia.org/data/STS-132.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/FASTSAT",
+        "abstract": "Fast, Affordable, Science and Technology Satellite or FASTSAT, also known as USA 220 is a NASA satellite that was launched from the Kodiak Launch Complex in Kodiak, Alaska, United States, on November 20, 2010 on a Minotaur IV rocket. The mission's objective is to demonstrate the capability to build, design and test a microsatellite platform to enable researchers to conduct low-cost scientific and technology experiments on an autonomous satellite in space.The satellite is intended to demonstrate technology for a new lower-cost microsatellite bus and, capable of carrying science, research and technology payloads. It carried experiments ranked #28, #55, #57, and #59 by the Space Experiments Review Board (SERB), which selects and prioritises experiments for US military research satellites. the Threat Detection System (TDS); Thermospheric Temperature Imager (TTI), Plasma Impedance Spectrum Analyzer (PISA), Miniature Imager for Neutral Ionospheric atoms and Magnetosphereic electrons (MINI-ME), a Miniature Star Tracker (MST), and NanoSail-D2.",
+        "json-uri": "http://dbpedia.org/data/FASTSAT.jsond",
+        "instrumentation": []
+    }
+]

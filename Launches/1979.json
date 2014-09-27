@@ -1,0 +1,86 @@
+[
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-1.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_T-1",
+        "abstract": "Soyuz T-1 (Russian: Союз Т-1, also called Soyuz T) was a 1979-80 unmanned Soviet space flight, a test flight of a new Soyuz craft which docked with the orbiting Salyut 6 space station."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_32.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_32",
+        "abstract": "Soyuz 32 (Russian: Союз 32, Union 32) was a 1979 Soviet manned space flight to the Salyut 6 space station. It was the eighth mission to and seventh successful docking at the orbiting facility. The Soyuz 32 crew was the third long-duration crew to man the space station.Cosmonauts Vladimir Lyakhov and Valery Ryumin spent 175 days in space, setting a new space endurance record. Because of the failure of a visiting crew to successfully dock and the resultant decision to send an unmanned Soyuz craft as a replacement return vehicle, the Soyuz 32 crew had no visitors."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Ariel_6.jsond",
+        "uri": "http://dbpedia.org/page/Ariel_6",
+        "abstract": "Ariel 6, also known as Ariel VI and UK-6, was a British satellite launched in 1979 as part of the Ariel programme. It was operated by the Science Research Council, which became the Science and Engineering Research Council in 1981. Ariel 6 was used for astronomical research, and operated until February 1982. It was the last Ariel satellite to be launched.The spacecraft was manufactured by the Marconi Company, and had a mass of 155 kilograms (342 lb). It carried three instruments; two of which were used for x-ray astronomy, and one which was used to detect cosmic rays. Interference from radar signals prevented the satellite from pointing correctly, and affected the data that it returned.A Scout D-1 carrier rocket, serial number S198C, was used to launch Ariel 6 from Launch Area 3A at the Wallops Flight Center. The launch was successfully conducted at 23:26:00 UTC on 2 June 1979. The satellite was placed into a low Earth orbit, and received the International Designator 1979-047A.Ariel 6 operated in a 599 by 653 kilometres (372 by 406 mi) low Earth orbit, at an inclination of 55 degrees and with an orbital period of 97.22 minutes as of 15 July 1979. It decayed from orbit and reentered the atmosphere on 23 September 1990."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1124.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1124",
+        "abstract": "Kosmos 1124 (Russian: Космос 1124 meaning Cosmos 1124) was a Soviet US-K missile early warning satellite which was launched in 1979 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1124 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 00:17 UTC on 28 August 1979. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1979-077A. The United States Space Command assigned it the Satellite Catalog Number 11509.Podvig says that it self-destructed and that its orbit was never stabilised."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Solwind.jsond",
+        "uri": "http://dbpedia.org/page/Solwind",
+        "abstract": "P78-1 or Solwind was a United States satellite launched aboard an Atlas F rocket from Vandenberg Air Force Base in California on February 24, 1979. The satellite operated until it was destroyed in orbit on September 13, 1985 to test the ASM-135 ASAT anti-satellite missile."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1109.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1109",
+        "abstract": "Kosmos 1109 (Russian: Космос 1109 meaning Cosmos 1109) was a Soviet US-K missile early warning satellite which was launched in 1979 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1109 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 18:11 UTC on 27 June 1979. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1979-058A. The United States Space Command assigned it the Satellite Catalog Number 11417.Podvig says that it self-destructed and that its orbit was never stabilised."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_33.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_33",
+        "abstract": "Soyuz 33 (Russian: Союз 33, Union 33) was a 1979 Soviet manned space flight to the Salyut 6 space station. It was the ninth mission to the orbiting facility, but an engine failure forced the mission to be aborted, and the crew had to return to earth before docking with the station. It was the first-ever failure of a Soyuz engine during orbital operations.The two-man crew, commander Nikolai Rukavishnikov and Bulgarian cosmonaut Georgi Ivanov, suffered a steep ballistic re-entry, but were safely recovered. The original intention of the mission had been to visit the orbiting crew for about a week and leave a fresh vehicle for the station crew to return to earth in. The mission failure meant that the orbiting Salyut 6 crew lacked a reliable return vehicle as their Soyuz had the same suspect engine as Soyuz 33. A subsequent manned flight was canceled and a vacant craft with a redesigned engine was sent for the crew to use."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Magsat.jsond",
+        "uri": "http://dbpedia.org/page/Magsat",
+        "abstract": "Magsat (Magnetic Field Satellite, Explorer 61, Applications Explorer Mission-3 or AEM-3) spacecraft was launched in the fall of 1979 and ended in the spring of 1980. The mission was to map the Earth's magnetic field, the satellite has two magnetometers. The scalar (Cesium vapor) and vector (fluxgate) magnetometers gave Magsat a capability beyond that of any previous spacecraft. Extended by a telescoping boom, the magnetometers were distanced from the magnetic field created by the satellite and its electronics. The satellite carried two magnetometers, a three-axis fluxgate magnetometer for determining the strength and direction of magnetic fields, and an ion-vapor/vector magnetometer for determining the magnetic field caused by the vector magnetometer itself. MAGSAT is considered to be one of the more important Science/Earth orbiting satellites launched; the data it accumulated is still being used, particularly in linking new satellite data to past observations.After launch the payload was brought to an orbit of 96.8° facing the sun as the earth rotated underneath. It was kept in a close earth orbit, with vector magnetometers capable of sensing magnetic fields closer to Earth's surface. The data collected by this satellite allowed a 3D-mapping of the Earth's magnetic interior as never seen before. In combination with a later satellite, Ørsted, it has been an essential component for explaining the current declining state of the Earth's magnetic field."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1074.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1074",
+        "abstract": "Kosmos 1074 (Russian: Космос 1074 meaning Cosmos 1074) was a Soviet unmanned long-duration test flight of the Soyuz-T spacecraft launched on January 31 of 1979 and de-orbited on April the 1st of the same year."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/CAT-1.jsond",
+        "uri": "http://dbpedia.org/page/CAT-1",
+        "abstract": "CAT-1 (also Technological Capsule 1) was the first artificial Earth satellite launched by the European Space Agency on their own rocket, the Ariane 1. It was only intended to provide data on the launch characteristics of the new rocket and was only powered for 8 orbits."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_34.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_34",
+        "abstract": "Soyuz 34 (Russian: Союз 34, Union 34) was a 1979 Soviet unmanned space flight to the Salyut 6 space station. It was sent to supply the resident crew a reliable return vehicle after the previous flight, Soyuz 33, suffered an engine failure.Mission control decided to re-design the engine used on Soyuz craft as a result of the Soyuz 33 failure, and to return the Soyuz 32 craft which transported Vladimir Lyakhov and Valery Ryumin to the space station to earth unmanned as it had the same suspect engine as Soyuz 33. Soyuz 34 successfully returned the crew to earth 73 days after launching."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/High_Energy_Astronomy_Observatory_3.jsond",
+        "uri": "http://dbpedia.org/page/High_Energy_Astronomy_Observatory_3",
+        "abstract": "The last of NASA's three High Energy Astronomy Observatories, HEAO 3 was launched 20 September 1979 on an Atlas-Centaur launch vehicle, into a nearly circular, 43.6 degree inclination low-Earth orbit with an initial perigee of 486.4 km.The normal operating mode was a continuous celestial scan, spinning approximately once every 20 min about the spacecraft z-axis, which was nominally pointed at the Sun.Total mass of the observatory at launch was 2,660.0 kilograms (5,864.3 lb).HEAO 3 included three scientific instruments: the first a cryogenic high-resolution germanium gamma-ray spectrometer, and two devoted to cosmic-ray observations.The scientific objectives of the mission's three experiments were:(1) to study intensity, spectrum, and time behavior of X-ray and gamma-ray sources between 0.06 and 10 MeV; measure isotropy of the diffuse X-ray and gamma-ray background; and perform an exploratory search for X-and gamma-ray line emissions;(2) to determine the isotopic composition of the most abundant components of the cosmic-ray flux with atomic mass between 7 and 56, and the flux of each element with atomic number (Z) between Z = 4 and Z = 50;(3) to search for super-heavy nuclei up to Z = 120 and measure the composition of the nuclei with Z >20.↑"
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Hakucho.jsond",
+        "uri": "http://dbpedia.org/page/Hakucho",
+        "abstract": "Hakucho (also known as CORSA-b before launch) was Japan's first X-ray astronomy satellite, developed by the Institute of Space and Aeronautical Science (then a division of the University of Tokyo). It was launched by the ISAS M-3C-4 rocket on February 21, 1979 and reentered the atmosphere on April 16, 1985[citation needed].It was a replacement for the CORSA satellite which failed to launch due to rocket failure on February 4, 1976[citation needed]."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1129.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1129",
+        "abstract": "Bion 5 (Cosmos 1129) was a Bion satellite. It was a biomedical research mission involving scientists from nine countries. Among the experiments was the first attempt to breed mammals in space, which proved unsuccessful. The mission ended after 18.5 days."
+    }
+]

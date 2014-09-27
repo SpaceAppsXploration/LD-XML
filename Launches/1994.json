@@ -1,0 +1,174 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/STS-68",
+        "abstract": "STS-68 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on September 30, 1994.",
+        "json-uri": "http://dbpedia.org/data/STS-68.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2286",
+        "abstract": "Kosmos 2286 (Russian: Космос 2286 meaning Cosmos 2286) is a Russian US-K missile early warning satellite which was launched in 1994 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 2286 was launched from Site 16/2 at Plesetsk Cosmodrome in Russia. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 01:12 UTC on 5 August 1994. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1994-048A. The United States Space Command assigned it the Satellite Catalog Number 23194.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2286.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES_8",
+        "abstract": "GOES 8, known as GOES-I before becoming operational, was an American weather satellite, which formed part of the US National Oceanic and Atmospheric Administration's Geostationary Operational Environmental Satellite system. It was launched in 1994, and operated until 2004 when it was retired and boosted to a graveyard orbit. At launch, the satellite had a mass of 2,105 kilograms (4,641 lb), and an expected operational lifespan of three or five years. It was built by Space Systems/Loral, based on the LS-1300 satellite bus, and was the first of five GOES-I series satellites to be launched.GOES 8 was also featured in the 1996 film Twister.",
+        "json-uri": "http://dbpedia.org/data/GOES_8.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-62",
+        "abstract": "STS-62 was a Space Shuttle program mission flown aboard Space Shuttle Columbia. The primary payloads were the USMP-02 microgravity experiments package and the OAST-2 engineering and technology payload, both in the orbiter's cargo bay. The two-week mission also featured a number of biomedical experiments focusing on the effects of long duration spaceflight. The landing was chronicled by the 1994 Discovery Channel special about the Space Shuttle program and served as the show's opening. A C.F. Martin backpacker guitar was also flown aboard Columbia during the mission.",
+        "json-uri": "http://dbpedia.org/data/STS-62.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-59",
+        "abstract": "STS-59 Shuttle mission was a Space Shuttle program mission that took place in 1994. The launch was chronicled by the 1994 Discovery Channel special about the Space Shuttle Program.",
+        "json-uri": "http://dbpedia.org/data/STS-59.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-19",
+        "abstract": "The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi - meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.Soyuz TM-19 was the tenth expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-19.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-100",
+        "abstract": "USA-100, also known as GPS IIA-15, GPS II-24 and GPS SVN-36, is an American navigation satellite which forms part of the Global Positioning System. It was the fifteenth of nineteen Block IIA GPS satellites to be launched.USA-100 was launched at 03:40:01 UTC on 10 March 1994, atop a Delta II carrier rocket, flight number D226, flying in the 7925-9.5 configuration. The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-100 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.On 15 April 1994, USA-100 was in an orbit with a perigee of 19,986 kilometres (12,419 mi), an apogee of 20,315 kilometres (12,623 mi), a period of 716.69 minutes, and 54.9 degrees of inclination to the equator. It broadcasts the PRN 06 signal, and operates in slot 1 of plane C of the GPS constellation. The satellite has a mass of 1,816 kilograms (4,004 lb). It had a design life of 7.5 years, but it remained in service until February of 2014, shortly after the launch of USA-248.",
+        "json-uri": "http://dbpedia.org/data/USA-100.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_1D",
+        "abstract": "Astra 1D is a geostationary communications satellite launched in 1994 by the Société Européenne des Satellites (SES). As of August 2012, the craft remains in service for occasional use.Astra 1D was the fourth, and under original plans, last Astra communications satellite from SES. It was launched to SES' original solitary operational position at 19.2° east, and was intended as an in-orbit spare for Astra's 1A, 1B and 1C and to carry digital TV transmissions. However, development of digital reception equipment in Europe was not sufficiently advanced for Astra 1D to be SES' first digital satellite (the later Astra 1E fulfilled that role) and demand for additional capacity for both British and German television channels led to 12 of the satellite's transponders being leased to broadcast analogue TV channels before the satellite had been launched.",
+        "json-uri": "http://dbpedia.org/data/Astra_1D.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TAOS",
+        "abstract": "Technology for Autonomous Operational Survivability (also known as TAOS and STEP 0) was a satellite developed by the US Air Force's Phillips Laboratory (now part of the Air Force Research Laboratory Space Vehicles Directorate) to test technology for autonomous operation of spacecraft.The TAOS mission was operated by heritage Space Test and Development Wing and the 1st Space Operations Squadron.",
+        "json-uri": "http://dbpedia.org/data/TAOS.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-64",
+        "abstract": "STS-64 was a Space Shuttle Discovery mission to perform multiple experiment packages. It was launched from Kennedy Space Center, Florida, on 9 September 1994.",
+        "json-uri": "http://dbpedia.org/data/STS-64.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-66",
+        "abstract": "STS-66 was a Space Shuttle program mission that was flown by the Space Shuttle Atlantis. STS-66 launched on 3 November 1994 at 11:59:43.060 am EDT from Launch Pad 39-B at NASA's Kennedy Space Center. Atlantis landed at Edwards Air Force Base on 14 November 1994 at 10:33:45 am EST.",
+        "json-uri": "http://dbpedia.org/data/STS-66.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Brasilsat_B1",
+        "abstract": "Brasilsat B1 is a Brazilian communications satellite launched on August 10, 1994, by an Ariane rocket model 44L at Kourou in French Guiana.",
+        "json-uri": "http://dbpedia.org/data/Brasilsat_B1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Advanced_Photovoltaic_Experiment",
+        "abstract": "Advanced Photovoltaic and Electronics Experiments, also known as APEX, was a satellite-based science mission launched into Low Earth orbit on August 3, 1994 by a Pegasus rocket. The mission successfully tested the use of photovoltaic and electronic components in space.",
+        "json-uri": "http://dbpedia.org/data/Advanced_Photovoltaic_Experiment.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/OREX",
+        "abstract": "OREX (Orbital Re-Entry EXperiment) was a NASDA reentry demonstrator prototype which was launched in 1994 on the H-II launcher. It was a precursor for the Japanese space Shuttle Hope.OREX tested various communications systems, heating profiles and heat shielding components for Hope.",
+        "json-uri": "http://dbpedia.org/data/OREX.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Clementine_(spacecraft)",
+        "abstract": "Clementine (officially called the Deep Space Program Science Experiment (DSPSE)) was a joint space project between the Ballistic Missile Defense Organization (BMDO, previously the Strategic Defense Initiative Organization, or SDIO) and NASA. Launched on January 25, 1994, the objective of the mission was to test sensors and spacecraft components under extended exposure to the space environment and to make scientific observations of the Moon and the near-Earth asteroid 1620 Geographos. The Geographos observations were not made due to a malfunction in the spacecraft.The lunar observations made included imaging at various wavelengths in the visible as well as in ultraviolet and infrared, laser ranging altimetry, gravimetry, and charged particle measurements. These observations were for the purposes of obtaining multi-spectral imaging of the entire lunar surface, assessing the surface mineralogy of the Moon, obtaining altimetry from 60N to 60S latitude, and obtaining gravity data for the near side. There were also plans to image and determine the size, shape, rotational characteristics, surface properties, and cratering statistics of Geographos.Clementine carried seven distinct experiments on-board: a UV/Visible Camera, a Near Infrared Camera, a Long Wavelength Infrared Camera, a High Resolution Camera, two Star Tracker Cameras, a Laser Altimeter, and a Charged Particle Telescope. The S-band transponder was used for communications, tracking, and the gravimetry experiment. The project was named Clementine after the song \"Oh My Darling, Clementine\" as the spacecraft would be \"lost and gone forever\" following its mission.",
+        "json-uri": "http://dbpedia.org/data/Clementine_(spacecraft).jsond",
+        "instrumentation": [
+            "Camera",
+            "High-resolution camera",
+            "Ultraviolet",
+            "Near-Infrared CCD camera",
+            "Laser Image Detection and Ranging  system",
+            "Light",
+            "Charged particle telescope"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-24",
+        "abstract": "Progress M-24 was a Russian unmanned cargo spacecraft which was launched in 1994 to resupply the Mir space station; causing minor damage to the station as the result of a collision during a failed attempt to dock.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-24.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/IRS-P2",
+        "abstract": "IRS-P2 was an Earth observation satellite launched under the NNRMS (National Natural Resources Management System) programme undertaken by ISRO. The objectives of the mission was to provide spaceborne capability to India in observing and managing the Natural Resources and utilizing them in productive manner. The satellite carried Imaging multi-spectral radiometers on board for radio sensing of the resources.",
+        "json-uri": "http://dbpedia.org/data/IRS-P2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-60",
+        "abstract": "STS-60 was the first mission of the US/Russian Shuttle-Mir Program, which carried Sergei K. Krikalev, the first Russian cosmonaut to fly aboard a Space Shuttle. The mission used Space Shuttle Discovery, which lifted off from Launch Pad 39A on 3 February 1994 from Kennedy Space Center, Florida. The mission carried the Wake Shield Facility experiment and a SPACEHAB module into orbit, and carried out a live bi-directional audio and downlink link-up with the cosmonauts aboard the Russian space station Mir.",
+        "json-uri": "http://dbpedia.org/data/STS-60.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_1A",
+        "abstract": "Türksat 1A was a Turkish communications satellite as part of a project to form an instant network with two geosynchronous satellites that is supervised by the companies Türksat A.Ş. in Turkey and Aérospatiale of France.Turkey's first spacecraft in its space program, Türksat 1A was launched by Arianespace atop an Ariane-44LP H10+ launch vehicle, along with the French satellite Eutelsat 2F5, in a dual-payload launch on January 24, 1994 at 21:37:00 UTC from ELA-2 at the Guiana Space Centre in Kourou, French Guiana. It failed to reach the orbit as it was lost by falling into ocean due to malfunction of the launch vehicle's last stage 12 minutes and 12 seconds after lift-off.After successful launching of Türksat 1B the same year, Türksat 1A's mission was replaced by Türksat 1C, which was placed into orbit in 1996.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_1A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/WIND_(spacecraft)",
+        "abstract": "The Global Geospace Science (GGS) WIND satellite is a NASA science spacecraft launched at 04:31:00 EST on November 1, 1994 from launch pad 17B at Cape Canaveral Air Force Station (CCAFS) in Merritt Island, Florida aboard a McDonnell Douglas Delta II 7925-10 rocket. WIND was designed and manufactured by Martin Marietta Astro Space Division in East Windsor, New Jersey. The satellite is a spin stabilized cylindrical satellite with a diameter of 2.4 m and a height of 1.8 m.It was deployed to study radio and plasma that occur in the solar wind and in the Earth's magnetosphere before the solar wind reaches the Earth. The spacecraft's original mission was to orbit the Sun at the L1 Lagrangian point, but this was delayed when the SOHO and ACE spacecraft were sent to the same location. WIND has been at L1 continuously since 2004, and is still operating as of March 18, 2014. WIND currently has enough fuel to last roughly 60 years at L1. WIND continues to produce relevant research, with its data having contributed to over 800 publications since 2009 and over 2000 publications prior to 2009. As of March 18, 2014 (not including 2014 publications), the total number of publications either directly or indirectly using WIND data is ~2977.Mission operations are conducted from the Multi-Mission Operations Center (MMOC) in Building 14 at Goddard Space Flight Center in Greenbelt, Maryland.WIND is the sister ship to GGS Polar.",
+        "json-uri": "http://dbpedia.org/data/WIND_(spacecraft).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-20",
+        "abstract": "The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi - meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications, emergency and integrated parachute/landing engine systems. The new Kurs rendezvous and docking system permitted the Soyuz-TM to maneuver independently of the station, without the station making \"mirror image\" maneuvers to match unwanted translations introduced by earlier models' aft-mounted attitude control.Soyuz TM-20 was the twentieth expedition to the Russian Space Station Mir.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-20.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/T%C3%BCrksat_1B",
+        "abstract": "Türksat 1B was a Turkish communications satellite as part of a project to form an instant network with two geosynchronous satellites that is supervised by the companies Türksat A.Ş. in Turkey and Aérospatiale of France.Türksat 1B was launched by Arianespace atop an Ariane-44LP H10+ launch vehicle, along with Brasilian satellite Brasilsat B1, in a dual-payload launch on August 10, 1994 at 23:05 UTC from ELA-2 at the Guiana Space Centre in Kourou, French Guiana. The satellite was successfully placed into geostationary transfer orbit and positioned at 42°E.It is based on the Aerospatiale Spacebus 2000 series having an on-orbit mass of about one ton. The communications payload consists of 16 Ku band transponders with six wideband channels of 72 MHz and ten narrowband of 36 MHz.In addition to Turkey, the satellite covered a geographical range from Europe to Central Asia before completing its mission in 2006.",
+        "json-uri": "http://dbpedia.org/data/T%C3%BCrksat_1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-65",
+        "abstract": "STS-65 is a Space Shuttle program mission of Columbia launched from Kennedy Space Center, Florida, 8 July 1994. The flight was commanded by Robert D. Cabana who would go on later to lead the Kennedy Space Center.",
+        "json-uri": "http://dbpedia.org/data/STS-65.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_2",
+        "abstract": "Intelsat 2, formerly PAS-2, was a communications satellite operated by Intelsat which spent most of its operational life serving the Pacific Rim market from a longitude of 169° East. Launched in 1994, the satellite was operated by PanAmSat until it merged with Intelsat in 2006. The spacecraft was renamed, along with the rest of PanAmSat's fleet, in February 2007.Intelsat 2 was constructed by the Hughes Aircraft Corporation, based on the HS-601 satellite bus. It had a mass at launch of 2,920 kilograms (6,440 lb), which decreased to around 1,727 kilograms (3,807 lb) by the time it was operational. Designed for an operational life of 15 years, the spacecraft was equipped with 20 C-band and 20 Ku-band transponders. Its two solar arrays, which had a span of 26 metres (85 ft) generated 4,700 watts of power when the spacecraft first entered service, which was expected to drop to around 4300 watts by the end of the vehicle's operational life.Arianespace launched Intelsat 2, using an Ariane 4 rocket, flight number V65, in the Ariane 44L H10+ configuration. The launch took place from ELA-2 at the Centre Spatial Guyanais at 23:05:32 UTC on 8 July 1994. The satellite was placed into a geosynchronous transfer orbit, from which it raised itself into geostationary orbit by means of an R-4D-11-300 apogee motor.Intelsat 2 was removed from geostationary orbit in February 2011, being placed into graveyard orbit on 28 February. Manoeuvring into graveyard orbit did not fully deplete the satellite's propellant as had been expected, so engineering operations continued until July 2011 in order to exhaust the remaining supply. The satellite was then decommissioned and powered down.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2282",
+        "abstract": "Kosmos 2282 (Russian: Космос 2282 meaning Cosmos 2282) is a Russian US-KMO missile early warning satellite which was launched in 1994 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2282 was launched from Site 81/23 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 23:58 UTC on 6 July 1994. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 1994-038A. The United States Space Command assigned it the Satellite Catalog Number 23168.This satellite only worked for 17 months before failing.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2282.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-18",
+        "abstract": "Soyuz TM-18 was launched from Baikonur Cosmodrome and landed 112 km north of Arkalyk. TM-18 was a two-day solo flight that docked with the Mir space station on January 10, 1994. The three cosmonauts became the 15th resident crew of the MIR. The crew did research work in space flight medicine, primarily by cosmonaut Valeri Polyakov during his long-term flight, and accomplished 25 different experiments.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-18.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Wake_Shield_Facility",
+        "abstract": "Wake Shield Facility is an experimental science platform that was placed in low Earth orbit by the Space Shuttle. It is a 3.7 meter (12 ft) diameter, free-flying stainless steel disk.The WSF was deployed in the wake of the Space Shuttle at an orbital altitude of over 300 kilometers (186 mi), within the thermosphere, where the atmosphere is exceedingly tenuous. The forward edge of the WSF disk redirected atmospheric and other particles around the sides, leaving an \"ultra-vacuum\" in its wake. The resulting vacuum was used to study epitaxial film growth.The WSF has flown into space three times, on board shuttle flights STS-60, STS-69 and STS-80. During STS-60, some hardware issues were experienced, and, as a result, the WSF was only deployed at the end of the shuttle's robotic arm. During the later missions, the WSF was deployed as a free-flying platform in the wake of the shuttle.These flights proved the vacuum wake concept, and realized the space epitaxy concept by growing the first-ever crystalline semiconductor thin films in the vacuum of space. These included gallium arsenide (GaAs) and aluminum gallium arsenide (AlGaAs) depositions. These experiments have been used to develop better photocells and thin films. Among the potential resulting applications are artificial retinas made from tiny ceramic detectors.Pre-flight calculations suggested that the pressure on the wake side could be decreased by some 6 orders of magnitude over the ambient pressure in low Earth orbit (from 10−8 to 10−14 Torr). Analysis of the pressure and temperature data gathered from the two flights concluded that the decrease was some 2 orders of magnitude (4 orders of magnitude less than expected).The Wake Shield is sponsored by the Space Processing Division in NASA's Office of Life and Microgravity Sciences and Applications. Wake Shield was designed, built and is operated by the Center for Advanced Materials (formerly Space Vacuum Epitaxy Center) at the University of Houston—a NASA Commercial Space Center—in conjunction with its industrial partner, Space Industries, Inc., also in Houston.",
+        "json-uri": "http://dbpedia.org/data/Wake_Shield_Facility.jsond",
+        "instrumentation": []
+    }
+]

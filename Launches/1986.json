@@ -1,0 +1,110 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/Viking_(satellite)",
+        "abstract": "Viking was Sweden's first satellite. It was launched on an Ariane 1 rocket as a piggyback payload together with the French satellite SPOT 1, on February 22, 1986. Operations ended on May 12, 1987. Viking was used to explore plasma processes in the magnetosphere and the ionosphere.",
+        "json-uri": "http://dbpedia.org/data/Viking_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mir_Core_Module",
+        "abstract": "Mir (Russian: Мир, IPA: [ˈmʲir]; lit. Peace or World), DOS-7, was the first module of the Soviet/Russian Mir space station complex, in low Earth orbit from 1986 to 2001. Generally referred to as either the core module or base block, the module was launched on 20 February 1986 on a Proton-K rocket from LC-200/39 at the Baikonur Cosmodrome. The spacecraft was generally similar in design to the two previous Soviet orbital stations, Salyut 6 and Salyut 7, however possessed a revolutionary addition in the form of a multiple docking node at the forward end of the module. This, in addition to the docking port at the rear of the spacecraft, allowed five additional modules (Kvant-1 (1987), Kvant-2 (1989), Kristall (1990), Spektr (1995) and Priroda (1996)) to be docked directly to DOS-7, greatly expanding the station's capabilities.Designed as a 'habitat' or 'living' module, DOS-7 possessed less scientific apparatus than its predecessors (lacking, for instance the large imaging camera which had partially obstructed the living areas of previous stations), instead providing crews with a comfortable living area on the station. Other changes made to DOS-7 from its predecessors included larger solar arrays and a new power system, greater automation and a new docking system, Kurs, in addition to the older Igla system. The spacecraft also featured a small trash/science airlock, and an aluminium hull (about 1 to 5 mm thick) with several portholes with hatches for viewing out. Inside, the spacecraft featured two-toned colours, fluorescent lighting, and one toilet. The module was launched unmanned, and first crewed by the two members of EO-1, launched aboard Soyuz T-15 on 13 March 1986. After 52 days, they left Mir and visited Salyut 7 for 51 days, then returned to Mir for 21 additional days, before returning to Earth on 16 July 1986. This is the only occasion in history when a crew transferred between two different space stations.",
+        "json-uri": "http://dbpedia.org/data/Mir_Core_Module.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TM-1",
+        "abstract": "Soyuz TM-1 was an unmanned test flight of the Soyuz-TM spacecraft, intended for use in the Mir space station program. This was the maiden flight of the Soyuz-TM spacecraft, intended as the successor to the Soyuz-T spacecraft used in the Salyut program.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TM-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1761",
+        "abstract": "Kosmos 1761 (Russian: Космос 1761 meaning Cosmos 1761) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1761 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 01:16 UTC on 5 July 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-050A. The United States Space Command assigned it the Satellite Catalog Number 16849.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1761.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1806",
+        "abstract": "Kosmos 1806 (Russian: Космос 1806 meaning Cosmos 1806) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1806 was launched from Site 43/4 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 18:35 UTC on 12 December 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-098A. The United States Space Command assigned it the Satellite Catalog Number 17213.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1806.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1783",
+        "abstract": "Kosmos 1783 (Russian: Космос 1783 meaning Cosmos 1783) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1783 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 13:05 UTC on 3 October 1986. The launch placed the satellite into a molniya orbit but not into a usable orbit due to upper stage failure.It subsequently received its Kosmos designation, and the international designator 1986-075A. The United States Space Command assigned it the Satellite Catalog Number 16993.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1783.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GOES-G",
+        "abstract": "GOES-G was a weather satellite to be operated by the National Oceanic and Atmospheric Administration. The satellite was designed to sense and monitor meteorological conditions from a geostationary orbit, intended to replace GOES-5 and provide continuous vertical profiles of atmospheric temperature and moisture. It was lost due to the launch failure of a Delta 3914 rocket on 3 May 1986.",
+        "json-uri": "http://dbpedia.org/data/GOES-G.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Mir",
+        "abstract": "Mir (Russian: Мир, IPA: [ˈmʲir]; lit. Peace or World) was a space station that operated in low Earth orbit from 1986 to 2001, owned at first by the Soviet Union and then by Russia. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. It had a greater mass than that of any previous spacecraft. It held the record for the largest artificial satellite orbiting the Earth until that record was surpassed by the International Space Station after Mir's deorbit on 21 March 2001. Mir served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology and spacecraft systems in order to develop technologies required for the permanent occupation of space.The station was the first consistently inhabited long-term research station in space and was operated by a series of long-duration crews. The Mir programme held the record for the longest uninterrupted human presence in space, at 3,644 days, until 23 October 2010 (when it was surpassed by the ISS), and it currently holds the record for the longest single human spaceflight, of Valeri Polyakov, at 437 days 18 hours. Mir was occupied for a total of twelve and a half years of its fifteen-year lifespan, having the capacity to support a resident crew of three, and larger crews for short-term visits.Following the success of the Salyut programme, Mir represented the next stage in the Soviet Union's space station programme. The first module of the station, known as the core module or base block, was launched in 1986, and was followed by six further modules, all launched by Proton rockets (with the exception of the docking module). When complete, the station consisted of seven pressurised modules and several unpressurised components. Power was provided by several photovoltaic arrays mounted directly on the modules. The station was maintained at an orbit between 296 km (184 mi) and 421 km (262 mi) altitude and traveled at an average speed of 27,700 km/h (17,200 mph), completing 15.7 orbits per day.The station was launched as part of the Soviet Union's manned spaceflight programme effort to maintain a long-term research outpost in space, and, following the collapse of the USSR, was operated by the new Russian Federal Space Agency (RKA). As a result, the vast majority of the station's crew were Soviet or Russian; however, through international collaborations, including the Intercosmos, Euromir and Shuttle-Mir programmes, the station was made accessible to astronauts from North America, several European nations and Japan. The cost of the Mir programme was estimated by former RKA General Director Yuri Koptev in 2001 as $4.2 billion over its lifetime (including development, assembly and orbital operation). The station was serviced by Soyuz spacecraft, Progress spacecraft and U.S. Space Shuttles, and was visited by astronauts and cosmonauts from 12 different nations.",
+        "json-uri": "http://dbpedia.org/data/Mir.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-51-L",
+        "abstract": "STS-51L was the 25th flight of the American Space Shuttle program, using the Space Shuttle Challenger, which lifted-off from Launch Complex 39-B, at the Kennedy Space Center in Florida, on January 28, 1986. The mission ended in catastrophic failure with the destruction of Challenger, starting at 72 seconds after lift-off, and the death of all seven crew members. The Rogers Commission determined that the cause of the destruction was due to the failure of an O-ring seal on the starboard Solid Rocket Boosters (SRBs). This flight marked the first time a non-government civilian, schoolteacher Christa McAuliffe, had flown aboard the Space Shuttle.",
+        "json-uri": "http://dbpedia.org/data/STS-51-L.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-61-C",
+        "abstract": "STS-61-C was the twenty-fourth mission of NASA's Space Shuttle program, and the seventh mission of Space Shuttle Columbia. It was the first time that Columbia, the first operational orbiter to be constructed, had flown since STS-9. The mission launched from Florida's Kennedy Space Center on 12 January 1986, and landed six days later on 18 January. STS-61-C's seven-person crew included the second African-American shuttle pilot, future NASA Administrator Charles Bolden, the first Costa Rican-born astronaut, Franklin Chang-Diaz, and the second sitting politician to fly in space, Representative Bill Nelson (D-FL). It was the last shuttle mission before the Space Shuttle Challenger disaster, which occurred just ten days after STS-61-C's landing.",
+        "json-uri": "http://dbpedia.org/data/STS-61-C.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1805",
+        "abstract": "Kosmos 1805 (Russian: Космос 1805 meaning Cosmos 1805) was a Soviet electronic intelligence satellite which was launched in 1986. The first of four Tselina-R satellites to fly, it was constructed by Yuzhnoye with its ELINT payload manufactured by TsNII-108 GKRE. Since it ceased operations it has remained in orbit as space junk, and in April 2012 NASA's Fermi Gamma-ray Space Telescope was forced to manoeuvre to avoid a collision with the derelict satellite.Kosmos 1805 was launched at 07:30 UTC on December 10, 1986 atop a Tsyklon-3 rocket flying from Site 32/2 at the Plesetsk Cosmodrome. Following its successful launch, the satellite was given its Kosmos designation, along with international designator 1986-097A, and Satellite Catalog Number 17191. By 9 January 1987, the satellite was in an orbit with a perigee of 634 kilometres (394 mi), an apogee of 662 kilometres (411 mi), 82.5 degrees of inclination, and an orbital period of 97.68 minutes.On April 30, 2013, it was announced that Fermi space observatory narrowly avoided a collision with Kosmos 1805 one year previous, in April 2012. Orbital predictions several days earlier indicated that the two satellites were expected to occupy the same point in space within 30 milliseconds of each other. On April 3, 2012 telescope operators decided to stow the satellite's high-gain parabolic antenna, rotate the solar panels out of the way and to fire Fermi's rocket thrusters for one second to move it out of the way. Even though the thrusters had been idle since the telescope had been placed in orbit nearly five years earlier, they worked correctly. After the danger was past, Fermi initiated a one second thruster burn to return to position.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1805.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1729",
+        "abstract": "Kosmos 1729 (Russian: Космос 1729 meaning Cosmos 1729) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1729 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 18:11 UTC on 1 February 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-011A. The United States Space Command assigned it the Satellite Catalog Number 16527.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1729.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TDRS-B",
+        "abstract": "TDRS-B was an American communications satellite, which was to have formed part of the Tracking and Data Relay Satellite System. It was destroyed when the Space Shuttle Challenger disintegrated 73 seconds after launch.",
+        "json-uri": "http://dbpedia.org/data/TDRS-B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1774",
+        "abstract": "Kosmos 1774 (Russian: Космос 1774 meaning Cosmos 1774) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1774 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 08:02 UTC on 28 August 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-065A. The United States Space Command assigned it the Satellite Catalog Number 16922.It re-entered the Earth's atmosphere on 2 November 2010.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1774.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1792",
+        "abstract": "Kosmos 1792 was a Soviet reconnaissance satellite which was launched in 1986. A Yantar-4K2 satellite, it operated for almost two months before being deorbited and recovered.Launched at 10:59 UTC on November 13, 1986 using a Soyuz-U rocket flying from the Baikonur Cosmodrome, Kosmos 1792 was operated in low Earth orbit until it was recovered on January 5, 1987. In addition to the main spacecraft, two separable film capsules were also returned during the satellite's mission. The satellite had a mass of approximately 7,000 kilograms (15,000 lb).In November 1987, other spacecraft that launched that month besides Kosmos 1792 included Kosmos 1790, Kosmos 1791, Molinya 1-68, Gorizont No.22L, Kosmos 1793, eight Strela-1M satellites designated Kosmos 1794 to 1801, Kosmos 1802 and Mech-K No.303 - which failed to achieve orbit.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1792.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1793",
+        "abstract": "Kosmos 1793 (Russian: Космос 1793 meaning Cosmos 1793) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1793 was launched from Site 16/2 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 12:09 UTC on 20 November 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-091A. The United States Space Command assigned it the Satellite Catalog Number 17134.It re-entered the Earth's atmosphere on 15 May 2011.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1793.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_T-15",
+        "abstract": "Soyuz T-15 (Russian: Союз T-15, Union T-15) was a manned mission to the Mir and Salyut 7 space stations and was part of the Soyuz programme. It marked the final flight of the Soyuz-T spacecraft, the third generation Soyuz spacecraft, which had been in service for seven years from 1979 to 1986. This mission marked the first time that a spacecraft visited, and docked with, two space stations in the same mission.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_T-15.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_1785",
+        "abstract": "Kosmos 1785 (Russian: Космос 1785 meaning Cosmos 1785) is a Soviet US-K missile early warning satellite which was launched in 1986 as part of the Soviet military's Oko programme. The satellite is designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1785 was launched from Site 41/1 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 09:29 UTC on 15 October 1986. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1986-078A. The United States Space Command assigned it the Satellite Catalog Number 17031.It re-entered the Earth's atmosphere on 28 February 2002.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_1785.jsond",
+        "instrumentation": []
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/We-Wish",
+        "abstract": "We-Wish was a small CubeSat deployed from the International Space Station in October 2012, and re-entered in March 2013. It was built by Meisei Electric and/or Meisei Amateur Radio Club, and could transmit pictures from a small infrared camera via radio at 437.515 MHz. We-Wish was deployed along with several other cubesats, from Kibo's robotic arm.It travelled to orbit aboard HTV-3 (Kounotori 3) with Raiko, FITSat 1, F-1, and TechEdSat.Designation: 1998-067CS↑ ↑ 2.0 2.1 ↑ 3.0 3.1",
+        "json-uri": "http://dbpedia.org/data/We-Wish.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2479",
+        "abstract": "Kosmos 2479 (Russian: Космос 2479 meaning Cosmos 2479) is a Russian US-KMO missile early warning satellite which was launched in 2012 as part of the Russian Aerospace Defence Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes. It was the last US-KMO geostationary satellite, to be launched, prior to the system being replaced by EKS.Kosmos 2479 was launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. The last Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 05:49 UTC on 30 March 2012. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 2012-012A. The United States Space Command assigned it the Satellite Catalog Number 38101.Kosmos 2479 replaced Kosmos 2440 which was launched in June 2008 and operated until February 2010. These satellites are moved to 80°E and then moved to their intended position. It arrived at 80°E in mid April 2012 and featured in the official opening of the Oko eastern control centre at Pivan-1 in May. It started to drift from 80°E in July 2012 and in October 2012 it was stabilised at 166°E, a location registered as Prognoz-6 but which had previously never been used.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2479.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Meridian_6",
+        "abstract": "Meridian 6 (Russian: Меридиан-6) is a Russian military communications satellite, one of the Meridian series. It is designed to carry military communications traffic and is a replacement for the molniya satellites. In common with the earlier satellites these craft are in molniya orbits, a highly elliptical orbit named after the earlier satellites and giving good coverage of northern Russia.",
+        "json-uri": "http://dbpedia.org/data/Meridian_6.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kounotori_3",
+        "abstract": "Kounotori 3 (Japanese: こうのとり3号機; English: \"white stork\"), also known as HTV-3, is the third Japanese H-II Transfer Vehicle. It was launched on 21 July 2012 to resupply the International Space Station (ISS) aboard the H-IIB Launch Vehicle No. 3 (H-IIB F3) manufactured by MHI and JAXA. Kounotori 3 arrived at the ISS on 27 July 2012, and Expedition 32 Flight Engineer and JAXA astronaut Akihiko Hoshide used the International Space Station’s Canadarm2 robotic arm to install Kounotori 3, to its docking port on the Earth-facing side of the Harmony module at 14:34 GMT.After the supplies are unloaded, Kounotori 3 was loaded with waste material from ISS, including used experiment equipment and used clothes.Then Kounotori 3 was unberthed from the ISS on September 11 and burned up upon reentering the atmosphere on September 14, 2012.",
+        "json-uri": "http://dbpedia.org/data/Kounotori_3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Pleiades_(satellite)",
+        "abstract": "The Pléiades constellation is composed of two very-high-resolution optical Earth-imaging satellites. Pléiades 1A and Pléiades 1B provide the coverage of Earth’s surface with a repeat cycle of 26 days. Designed as a dual civil/military system, Pléiades will meet the space imagery requirements of European defence as well as civil and commercial needs.",
+        "json-uri": "http://dbpedia.org/data/Pleiades_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ExactView_1",
+        "abstract": "ExactView 1 exactView-1 is based on an SSTL-100 platform and forms part of the ExactEARTH AIS constellation used by ships and traffic to, for example, monitor ship movements through busy shipping channels and harbors and to provide information on global shipping movements.exactView-1 was launched on 22nd July 2012 on a Soyuz rocket from Baikonur Cosmodrome.",
+        "json-uri": "http://dbpedia.org/data/ExactView_1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_21",
+        "abstract": "Intelsat 21 is a communications satellite manufactured by Boeing Space Systems for the Intelsat Corp, based on the BSS-702MP platform. It was launched in August 2012 from a mobile platform in the equatorial Pacific Ocean. and replaces the Intelsat 9 satellite at 58° West Longitude.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_21.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EchoStar_XVII",
+        "abstract": "EchoStar XVII or EchoStar 17, also known as Jupiter 1, is an American geostationary communications satellite which is operated by Hughes Network Systems, a subsidiary of EchoStar. It will be positioned in geostationary orbit at a longitude of 107.1° West, from where it will be used for satellite broadband.EchoStar XVII was built by Space Systems/Loral, and is based around the LS-1300 satellite bus. It measures 8.0 metres (26.2 ft) by 3.2 metres (10 ft) by 3.1 metres (10 ft), with 26.07-meter (85.5 ft) solar arrays which were deployed after launch, and will generate a minimum of 16.1 kilowatts of power. The spacecraft had a mass at liftoff of 6,100 kilograms (13,400 lb), and is expected to operate for fifteen years. It carries sixty Ka band (NATO K band) transponders which will be used to cover North America.EchoStar XVII was launched by Arianespace, using an Ariane 5ECA carrier rocket flying from ELA-3 at Kourou. The spacecraft was launched at 21:36 UTC on 5 July 2012. The MSG-3 weather satellite was launched aboard the same rocket, mounted below EchoStar XVII, which was atop a Sylda 5 adaptor. The launch successfully placed both satellites into a geosynchronous transfer orbit. EchoStar XVII will use its own propulsion system to manoeuvre into a geostationary orbit.",
+        "json-uri": "http://dbpedia.org/data/EchoStar_XVII.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Vinasat-2",
+        "abstract": "Vinasat-2 is the second Vietnamese satellite to be placed in orbit. It was launched at 5.13am on May 16 at the European Spaceport in Kourou in French Guiana in South America and by 5.48 am it entered orbit. VINASAT is the national satellite program of Vietnam. The project aims to bring independence in satellite communications for Vietnam, besides other benefits such as enhancing national security, opening new economic opportunities, etc.Vietnam hopes for some economic benefits from the telecommunications links that the satellite will provide. It will provide communication for fishermen at sea, deliver weather forecasts and ensure defence security.The satellite costs about US$280 million and weighing 3,000 kg, was constructed by US-based Lockheed Martin. It will be able to provide capacity equal to 13,000 channels of telephone/internet/data communications or 150 Television channels; greater number of sensor responses; and higher bandwidth capacity.The Lockheed Martin A2100 satellite has 12 Ku band transponders and 8 C band transponders.",
+        "json-uri": "http://dbpedia.org/data/Vinasat-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Fengyun_2-07",
+        "abstract": "Fengyun 2-07 or FY-2-07 (Chinese: 风云二号07 meaning Wind Cloud 2-07), also known as Fengyun-2F or FY-2F, is a Chinese weather satellite operated by China's National Satellite Meteorological Centre. Part of the Fengyun programme, it was the sixth Fengyun 2 geostationary satellite to be launched.Fengyun 2-07 was launched by a Long March 3A carrier rocket, with the serial number Y22, flying from Launch Area 3 at the Xichang Satellite Launch Centre. The launch took place on 13 January 2012 at 00:56 UTC, and resulted in the successful deployment of the satellite into a geosynchronous transfer orbit. After raising itself into its operational geostationary orbit, by means of an FG-36 apogee motor, the satellite will be positioned at a longitude of 86.5 degrees East.At launch, Fengyun 2-07 had a mass of 1,369 kilograms (3,018 lb), however by the time it reaches its operational orbit, this will have decreased to 536 kilograms (1,182 lb), partly through jettisoning the FG-36. The spacecraft is cylindrical, with a diameter of 2.1 metres (6 ft 11 in), and a length of 4.5 metres (15 ft) fully deployed. It is spin-stabilised at a rate of 100 rpm, and carries a five-channel Stretched Visible and Infrared Spin Scan Radiometer, or S-VISSR, capable of producing visible light and infrared images of the Earth. The S-VISSR will return visible-light images with a resolution of 1.25 kilometres (0.78 mi), and infrared images with a resolution of 5 kilometres (3.1 mi). It will produce a full-disc image every thirty minutes, as well as imaging smaller areas of interest. In addition to S-VISSR, Fengyun 2-07 also carries an x-ray detector to monitor the Sun, and detect solar flares.",
+        "json-uri": "http://dbpedia.org/data/Fengyun_2-07.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-233",
+        "abstract": "USA-233 or WGS-4 is an American military communications satellite which was launched in 2012. The fourth Wideband Global SATCOM spacecraft, it is the first WGS Block II satellite to be launched.USA-233 can transmit data with approximately 3.6 gigabits per second bandwidth. It can point 19 individual beams at different points on the Earth, operating at x band and ka band frequencies. Built by Boeing around the BSS-702 bus, the 5,987-kilogram (13,199 lb) satellite is expected to operate for 14 years. Propulsion is provided by an R-4D apogee motor, and four XIPS-25 ion thrusters for stationkeeping.The launch of USA-233 took place at 00:38 UTC on 20 January 2012, using a Delta IV-M+(5,4) carrier rocket flying from Space Launch Complex 37B at the Cape Canaveral Air Force Station. The launch was conducted by United Launch Alliance, and marked the eighteenth flight of the Delta IV. The carrier rocket successfully placed the satellite into a 440-by-66,870-kilometre (270 by 41,550 mi) supersynchronous transfer orbit, with 24 degrees of inclination. Upon achieving orbit, WGS-4 was assigned its USA designation, and the International Designator 2012-003A. The satellite will use its onboard propulsion systems to inject itself into geosynchronous orbit.",
+        "json-uri": "http://dbpedia.org/data/USA-233.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Luch_5B",
+        "abstract": "Luch 5B (Russian: Луч-5Б meaning ray and sometimes transliterated as Loutch-5B) is a Russian Luch relay satellite which will transmit data from the Russian Orbital Segment of the International Space Station, and from other satellites in low Earth orbit. It will be in geosynchronous orbit.",
+        "json-uri": "http://dbpedia.org/data/Luch_5B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/NuSTAR",
+        "abstract": "NuSTAR (Nuclear Spectroscopic Telescope Array) is a space-based X-ray telescope that uses a Wolter telescope to focus high energy X-rays from astrophysical sources, especially for nuclear spectroscopy, and operates in the range of 5 to 80 keV. It is the eleventh mission of the NASA Small Explorer satellite program (SMEX-11) and the first space-based direct-imaging X-ray telescope at energies beyond those of the Chandra X-ray Observatory and XMM-Newton. It was successfully launched on 13 June 2012, having previously been delayed from 21 March due to software issues with the launch vehicle.Its primary scientific goals are to conduct a deep survey for black holes a billion times more massive than the sun, understand how particles are accelerated to within a fraction of a percent below the speed of light in active galaxies, and understand how the elements are created in the explosions of massive stars by imaging the remains, which are called supernova remnants.",
+        "json-uri": "http://dbpedia.org/data/NuSTAR.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_70B",
+        "abstract": "Eutelsat 70B is a commercial communications satellite run by Eutelsat. It was launched on 3 December 2012 and is designed to provide telecommunication services for the Middle East, Central Asia, South East Asia and parts of Africa. It will replace Eutelsat 70A, which was previously known as Eutelsat W5. That satellite, which was launched in 2002, currently occupies the same 70.5° E location this satellite is intended for.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_70B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/RISAT-1",
+        "abstract": "Radar Imaging Satellite 1, or RISAT-1, is an Indian remote sensing satellite which was built and is operated by the Indian Space Research Organisation (ISRO). The second RISAT satellite to be launched, it uses C-band 5.35 GHz Synthetic Aperture Radar for earth observation irrespective of the light and weather conditions of the area being imaged.The launch of RISAT-1 came several years after that of RISAT-2, which carried an Israeli-built x-band radar. The RISAT-2 mission was prioritised over RISAT-1 following the 2008 Mumbai attacks, resulting in RISAT-1 being delayed by several years.",
+        "json-uri": "http://dbpedia.org/data/RISAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-10",
+        "abstract": "GSAT-10 is an Indian communication satellite which was launched by Ariane-5ECA carrier rocket in September 2012. It has 12 KU Band, 12 C Band and 6 lower extended c band transponders, and included a navigation payload to augment GAGAN capacity. Following its launch and on-orbit testing, it was placed in Geosynchronous orbit at 83.0° East, from where it will provide communication services in India.",
+        "json-uri": "http://dbpedia.org/data/GSAT-10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Goliat",
+        "abstract": "Goliat is the first artificial satellite developed in Romania.",
+        "json-uri": "http://dbpedia.org/data/Goliat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Skynet_5D",
+        "abstract": "Skynet 5D is a military communications satellite operated by Astrium Services on behalf of the British Ministry of Defence. It was the last of four Skynet 5 satellites to be launched.",
+        "json-uri": "http://dbpedia.org/data/Skynet_5D.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Apstar-7",
+        "abstract": "Apstar-7 is a Chinese communications satellite which is operated by APT Satellite Holdings as part of the Apstar system. It was launched in 2012 as a replacement for the Apstar-IIR satellite launched in 1997.Apstar-7 was constructed by Thales Alenia Space, and is based on the Spacebus-4000C2 satellite bus. The satellite had a mass at launch of 5,054 kilograms (11,142 lb), and is expected to operate for at least 15 years. It is positioned in geostationary orbit at a longitude of 76.5 degrees East, and carries 56 transponders with an operating power of 8.4 kilowatts; 28 operating in the c band and providing services to Asia, Africa, eastern and central Europe and Australia and the other 28 operating in the ku band, covering Africa, the Middle East, the People's Republic of China, and Taiwan. The satellite's solar arrays generate 11.4 kilowatts of power.Apstar-7 was launched by a Long March 3B/E carrier rocket, flying from Launch Complex 2 at the Xichang Satellite Launch Centre. Liftoff took place at 10:27 UTC on 31 March 2012, with the rocket placing the satellite into a supersynchronous transfer orbit.",
+        "json-uri": "http://dbpedia.org/data/Apstar-7.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/HYLAS_2",
+        "abstract": "HYLAS 2 is a geostationary High throughput satellite operated by Avanti Communications. HYLAS, an acronym for Highly Adaptable Satellite, was launched on an Ariane 5 from Guyana Space Centre at Kourou, French Guyana, on August 2, 2012.",
+        "json-uri": "http://dbpedia.org/data/HYLAS_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_21B",
+        "abstract": "Eutelsat 21B, previously known as Eutelsat W6A, is a French communications satellite. Operated by Eutelsat, it provides direct to home broadcasting services from geostationary orbit at a longitude of 21.5 degrees east. It replaced the Eutelsat 21A spacecraft which was launched in 1999.Eutelsat 21B was constructed by Thales Alenia Space, and is based on the Spacebus-4000C3 satellite bus. It had a mass at launch of 5,012 kilograms (11,050 lb) and is expected to operate for at least 15 years. The satellite carries 40 Ku-band transponders, which are used to broadcast satellite television and radio to Europe, North Africa, Central Asia and the Middle East.Eutelsat 21B was originally ordered as Eutelsat W6A, as part of the W Series of satellites - the satellite it was to replace was at the time named Eutelsat W6. In 2012, several months before its scheduled launch, W6A was renamed Eutelsat 21B. Its launch was conducted by Arianespace using an Ariane 5ECA carrier rocket, as part of a dual launch with the Brazilian Star One C3 satellite. The launch took place from ELA-3 at Kourou, French Guiana, at 21:05:07 UTC on 10 November 2012. The spacecraft was deployed into geosynchronous transfer orbit, raising itself to its operational geostationary orbit by means of its S400 apogee motor.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_21B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Telkom-3",
+        "abstract": "Telkom-3 is an Indonesian communications satellite which was lost due to a launch failure on 6 August 2012. It was built by ISS Reshetnev for Indonesian telecommunications provider PT Telekomunikasi Indonesia. It was based on the Ekspress-1000 bus and had 32 C band transponders and 16 Ku band transponders. It was due to be located in geosynchronous orbit at 118° east above the equator.",
+        "json-uri": "http://dbpedia.org/data/Telkom-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-06M",
+        "abstract": "Soyuz TMA-06M launched on 23 October 2012 was a spaceflight to the International Space Station, transporting three members of the Expedition 33 crew. TMA-06M was the 115th flight of a Soyuz spacecraft, the first flight launching in 1967. Soyuz TMA-06M launch was also the first manned flight from the remote Site 31 pad since July 1984.The Soyuz remained on board the space station for the Expedition 33 increment to serve as an emergency escape vehicle. Soyuz TMA-06M successfully returned to Earth on 15 March 2013.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-06M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2481",
+        "abstract": "Kosmos 2481 (Russian: Космос 2481 meaning Cosmos 2481) is a Russian Strela-3 military communications satellite which was launched in 2012 by the Russian Aerospace Defence Forces. It was launched with 2 Gonets-M civilian communication satellites and a research satellite called Yubileiny-2, also known as MiR.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2481.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/EchoStar_XVI",
+        "abstract": "EchoStar XVI is an American geostationary communications satellite which is operated by EchoStar. It is positioned in geostationary orbit, and will be located at a longitude of 61.5° West, from where it is intended to provide direct broadcasting of high-definition television services to the United States for Dish Network.EchoStar XVI was built by Space Systems/Loral, and is based around the LS-1300 satellite bus. It is equipped with 32 J band (IEEE Ku band) transponders. At launch it had a mass of 6,258 kilograms (13,797 lb). It has a design life of fifteen years. It has a common configuration with EchoStar XI and EchoStar XV.The launch of EchoStar XVI was conducted by International Launch Services, using a Proton-M carrier rocket with a Briz-M upper stage. The launch occurred on 20 November 2012, 18:31 UTC from Site 200/39 at the Baikonur Cosmodrome in Kazakhstan.The Creative Time was launched with EchoStar XVI into outer space an archival disc created by artist Trevor Paglen called The Last Pictures. Made of ultra-archival materials, the disc is expected to orbit the Earth for billions of years affixed to the exterior of the communications satellite. A silicon disc has one hundred photographs selected to represent modern human history.",
+        "json-uri": "http://dbpedia.org/data/EchoStar_XVI.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TechEdSat",
+        "abstract": "TechEdSat is a 1U CubeSat built by San Jose State University students in partnership with Ames Research Center and ÅAC Microtec. Its mission is to evaluate Space Plug-and-play Avionics (SPA) designed in Sweden by ÅAC Microtec, and to perform a communications experiment utilizing the Iridium and Orbcomm satellite phone network. TechEdSat was launched from Pad 2 of the Yoshinobu Launch Complex at Tanegashima on 21 July 2012, aboard Kounotori 3 atop an H-IIB carrier rocket. Kounotori 3 will carry the satellite, along with the Raiko, We Wish, Niwaka and F-1 spacecraft, to the International Space Station, from where they will be deployed via the JAXA J-SSOD deployer, from the Kibo module.TechEdSat was successfully deployed from the ISS on 4 Oct 2012 at 15:44:15.297 UTC.It reentered to atmosphere on 5 May 2013.",
+        "json-uri": "http://dbpedia.org/data/TechEdSat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PROITERES",
+        "abstract": null,
+        "json-uri": "http://dbpedia.org/data/PROITERES.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_20",
+        "abstract": "Intelsat 20 is a geostationary communications satellite which is to be operated by Intelsat. It was constructed by Space Systems Loral, and is based on the LS-1300 satellite bus. It was launched on 2 August 2012, and replaces the Intelsat 7 and Intelsat 10 spacecraft at 68.5º East longitude. It is fully operational since September 2012.Intelsat 20 carries 24 IEEE C-band (NATO G/H-band), 54 IEEE Ku band (NATO J-band) transponders and 1 Ka band transponder. The C-band covers the Asia-Pacific region, while the Ku band transponders is used for Direct to Home broadcasting to Asia, Africa, and the Middle East. The Ka band payload provides coverage to the Middle East and Central Asia",
+        "json-uri": "http://dbpedia.org/data/Intelsat_20.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-234",
+        "abstract": "USA-234, also known as NRO Launch 25 or NROL-25, is an American reconnaissance satellite, operated by the National Reconnaissance Office. Launched from Vandenberg Air Force Base in 2012, it has been identified as the second radar imaging satellite to be launched as part of the Future Imagery Architecture programme.USA-234 was launched by United Launch Alliance, using a Delta IV carrier rocket, making its first flight in the Medium+(5,2) configuration. The rocket was launched from Space Launch Complex 6 at Vandenberg, at 23:12:57 UTC (16:12 PDT) on 3 April 2012. It was identified as NRO Launch 25, and was the nineteenth flight of a Delta IV; the vehicle was designated Delta 359, and named Electra.The satellite's orbit and mission are officially classified, however it has been located by amateur observers in a 1,096 by 1,079 kilometres (681 by 670 mi) orbit, inclined at 123 degrees.",
+        "json-uri": "http://dbpedia.org/data/USA-234.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/TET-1",
+        "abstract": "TET-1 (German: Technologieerprobungsträger 1, Technology Experiment Carrier) is a microsatellite operated by the German Aerospace Center. It is the centre of the OOV (On Orbit Verification) Program, initiated to offer on-orbit verification possibilities to the German industrial and scientific aerospace community. TET is based on the satellite bus used for the BIRD satellite, which was launched in 2001.The main contractor for Phase A (feasibility) was IABG. The final contract for Phases B, C, and D (definition/qualification, and production) and start was given to Kayser-Threde GmbH, a medium-sized aerospace company based in Munich belonging to the German OHB-System group. The environmental qualification was successfully conducted in the IABG space simulation centre in Munich.TET-1 was carried to orbit as a secondary payload on a Soyuz-FG/Fregat carrier rocket which was launched from the Baikonur Cosmodrome on 22 July 2012. The primary payload of the launch was the Kanopus-V1 satellite, with the BelKA-2, Zond-PP and exactView-1 satellites also flying on the same rocket.",
+        "json-uri": "http://dbpedia.org/data/TET-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2480",
+        "abstract": "Kosmos 2480 (Russian: Космос 2480 meaning Cosmos 2480) is a Russian Kobalt-M reconnaissance satellite which was launched in 2012 by the Russian Aerospace Defence Forces. It was the last launch of a Soyuz-U rocket launched from Plesetsk Cosmodrome.Kosmos 2480 was launched from Site 16/2 at Plesetsk Cosmodrome. The last Soyuz-U carrier rocket launched from Plesetsk Cosmodrome was used to perform the launch, which took place at 18:05 UTC on 17 May 2012. The launch successfully placed the satellite into low earth orbit. It subsequently received its Kosmos designation, and the international designator 2012-024A. The United States Space Command assigned it the Satellite Catalog Number 38335.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2480.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/VesselSat-2",
+        "abstract": "VesselSat-2 is a Luxembourgian microsatellite built and owned by LuxSpace, and operated by Orbcomm under lease. It carries a receiver for Automatic Identification System signals, used to track ships at sea. VesselSat-2 is the second of two VesselSat spacecraft, which were built by LuxSpace for Orbcomm, as replacements for the AIS capabilities of the failed Orbcomm-QL spacecraft.VesselSat-2 was launched as a secondary payload on a Long March 4B carrier rocket which was carrying Ziyuan 3. The launch occurred at 03:17 UTC on 9 January 2012, from Launch Complex 9 at the Taiyuan Satellite Launch Centre, and was the first orbital launch of the year.",
+        "json-uri": "http://dbpedia.org/data/VesselSat-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Navid_(satellite)",
+        "abstract": "Navid (Persian: نوید‎) or Navid-e Elm-o San'at (Persian: نوید علم و صنعت‎, \"Gospel of Science and Technology\") was an experimental Iranian Earth observation satellite. The satellite carried a camera for taking higher-precision imagery of Earth and it was also be used to collect weather data and monitor natural disasters. It was developed by students at the Iran University of Science and Technology. The third satellite to be launched indigenously by Iran, it was placed into orbit by a new configuration of the Safir carrier rocket, featuring a larger second stage with 20% more thrust. The launch occurred at approximately 00:04 UTC on 3 February 2012. The satellite remained in orbit for two months, before reentering the atmosphere on 1 April 2012.",
+        "json-uri": "http://dbpedia.org/data/Navid_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Niwaka",
+        "abstract": "Niwaka or FITSAT-1 is a 1U CubeSat satellite deployed from the International Space Station on October 4, 2012.The Niwaka satellite includes high power LEDs which are driven by 200W pulses, allowing Morse code style communication from the sky to the ground. FITSAT-1 (Niwaka) communicates with ground by means of 5.8 GHz high-speed (115200bit/s) transmitter. It also has a 437 MHz (amateur band) beacon and transmitter with data rate 1200bit/s for telemetry downlink.The name Niwaka derives from \"Hakata Niwaka\", which is traditional impromptu comical talking with masks. It is also the old name of the city Fukuoka, site of the Fukuoka Institute of Technology in Japan which created the satellite.We-Wish, Raiko, FITSat 1, F 1, and TechEdSat travelled to orbit aboard HTV-3.It reentered atmosphere on July 4, 2013.",
+        "json-uri": "http://dbpedia.org/data/Niwaka.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-15M",
+        "abstract": "Progress M-15M (Russian: Прогресс М-15М), identified by NASA as Progress 47 or 47P, is a Progress spacecraft used by Roskosmos to resupply the International Space Station during 2012. The fifteenth Progress-M 11F615A60 spacecraft, it has the serial number 414 and was built by RKK Energia. It arrived at the ISS in late April to deliver supplies to the Expedition 30 crew, and departed the ISS in late July.It was the 122nd launch to the ISS and the fifth Russian space launch in 2012. It was also the second mission for the Soyuz family of rockets since the beginning of the year.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-15M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-05M",
+        "abstract": "Soyuz TMA-05M is the 114th flight of a Soyuz spacecraft. It was launched on 15 July 2012, transporting three members of the Expedition 32 crew to the International Space Station (ISS). The Soyuz remained docked to the ISS throughout the mission to serve as an emergency escape vehicle. The launch also coincided with the 37th anniversary of the Apollo–Soyuz Test Project. Soyuz TMA-05M successfully returned to Earth on 19 November 2012.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-05M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Star_One_C3",
+        "abstract": "Star One C3 is a communications satellite operated by Star One, a subsidiary of Embratel. It was built by Orbital Sciences Corporation based on the Star-2 satellite bus, and was launched on 10 November 2012 21:05 UTC by an Ariane 5ECA carrier rocket, as part of a dual-payload launch with Eutelsat 21B.Star One C3 will replace Brasilsat B3 in the 75º W position. The start mass was 3226.6 kg.",
+        "json-uri": "http://dbpedia.org/data/Star_One_C3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_22",
+        "abstract": "Intelsat 22, with the International Designator of the Committee on Space Research (COSPAR ID) 2012-011A is a satellite constructed by Boeing Space Systems for the Intelsat Corp.The satellite was planned to be located at 72 degrees East Longitude over the Indian Ocean.The Australian Defense Force (ADF) signed a $167 Million contract with Intelsat for the UHF payload on the Intelsat 22 satellite for 15 years of service.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_22.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_23",
+        "abstract": "Intelsat 23 is a communications satellite run by Intelsat which will provide communications services for the Americas, Western Europe and Africa. It is in a geosynchronous orbit located at 307° east and will replace Intelsat 707. It was built by Orbital Sciences and has a designed life of 15 years.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_23.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-07M",
+        "abstract": "Soyuz TMA-07M (Russian: Союз ТМА-07M) was a spaceflight launched to the International Space Station in 2012 which transported three members of the Expedition 34 crew to the station. The Soyuz remained docked to the space station and served as an emergency escape vehicle for the Expedition 35 increment, before returning its crew to Earth in May 2013.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-07M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ROBUSTA",
+        "abstract": "ROBUSTA (Radiation on Bipolar Test for University Satellite Application) is a nano-satellite scientific experiment developed by University of Montpellier II as part of a National Center for Space Studies (CNES) initiative to develop ideas for student projects in the field of orbital systems. The satellite is defined as a Cubesat, the name given to a series of nano-satellites developed as part of student projects. The ROBUSTA mission is to check the deterioration of electronic components, based on bipolar transistors, when exposed to in-flight space radiation. The results of the experiment will be used to validate a test method proposed in the laboratory.",
+        "json-uri": "http://dbpedia.org/data/ROBUSTA.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MaSat-1",
+        "abstract": "MaSat-1 (from the words Magyar and Satellite, the first meaning Hungarian in Hungarian, pronounced \"maszat\", meaning \"smudge\") is the first indigenous Hungarian satellite, developed and built by students at the Technical University of Budapest. The 1U CubeSat-type satellite was launched into low Earth orbit on 13 February 2012. The satellite provides telemetric data as well as VGA resolution color images at the 70 cm amateur radio wavelength (437.345 MHz frequency) received at the tracking center at Budapest. The center was tested on 31 March 2009 with the help of Charles Simonyi on board the International Space Station. With the successful launch of MaSat-1, Hungary became the 47th nation to orbit a satellite.",
+        "json-uri": "http://dbpedia.org/data/MaSat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Colorado_Student_Space_Weather_Experiment",
+        "abstract": "Colorado Student Space Weather Experiment (CSSWE) was the sixth National Science Foundation sponsored CubeSat mission. It was built by students at the University of Colorado at Boulder with advising from professionals at the Laboratory for Atmospheric and Space Physics. The CSSWE mission was a joint effort by the University of Colorado's Department of Aerospace Engineering Sciences and Laboratory for Atmospheric and Space Physics. The mission principal investigators were Profs. Xinlin Li and Scott Palo. The project manager for the project was Ph.D. candidate Lauren Blum, the system engineer was Ph.D. graduate David Gerhardt, the instrument scientist was Ph.D. candidate Quintin Schiller.CSSWE launched on September 13, 2012, on an Atlas V rocket by the United Launch Alliance as part of the NASA ELaNa launch initiative. The CSSWE team released its science products to the public for download.",
+        "json-uri": "http://dbpedia.org/data/Colorado_Student_Space_Weather_Experiment.jsond",
+        "instrumentation": [
+            "REPTile - Relativistic Electron and Proton Telescope integrated little experiment"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kwangmy%C5%8Fngs%C5%8Fng-3_Unit_2",
+        "abstract": "Kwangmyŏngsŏng-3 Unit 2 or Gwangmyeongseong-3 ho 2-hogi (Chosŏn'gŭl: 《광명성―3》호 2호기; hancha: 光明星3號2號機; MR: Kwangmyŏngsŏng-3 ho 2-hogi; RR: Gwangmyeongseong-3 ho 2-hogi; English: Bright Star-3 Unit 2 or Lodestar-3 Unit 2) is the first satellite successfully launched from North Korea, an Earth observation spacecraft that was launched on 12 December 2012, 00:49 UTC, in order to replace the original Kwangmyŏngsŏng-3, which failed to reach orbit on 13 April 2012. The United Nations Security Council condemned the satellite launch regard this as a violation of a ban on North Korean ballistic missile tests, as the rocket technology is the same.The launch came during the period when the DPRK was commemorating the first anniversary of the death of former leader Kim Jong-il and just before the first South Korean domestic launch of a satellite and the South Korean presidential election on 19 December 2012. The successful launch makes the DPRK the tenth space power capable of putting satellites in orbit using its own launch vehicles.North Korea declared the launch successful, and the South Korean military and North American Aerospace Defense Command (NORAD) reported that initial indications suggested that an object had achieved orbit. North Korea had previously claimed the Kwangmyŏngsŏng-1 and Kwangmyŏngsŏng-2 launches successful, despite American military sources claimed that they failed to achieve orbit.Several days after the launch, Western sources claimed the satellite had achieved orbit but stated that the satellite seemed to be tumbling and was probably out of control.",
+        "json-uri": "http://dbpedia.org/data/Kwangmy%C5%8Fngs%C5%8Fng-3_Unit_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/LARES_(satellite)",
+        "abstract": "LARES (acronym for Laser Relativity Satellite) (COSPAR ID 2012-006A) is an Italian Space Agency scientific satellite launched from the ESA Guiana Space Centre of Kourou, French Guiana, by the maiden flight of the European launch vehicle Vega on 13 February 2012.The LARES satellite is the densest known object orbiting in the Solar System.",
+        "json-uri": "http://dbpedia.org/data/LARES_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-16M",
+        "abstract": "Progress M-16M (Russian: Прогресс М-16М), identified by NASA as Progress 48 or 48P, is a Progress spacecraft used by Roskosmos to resupply the International Space Station during 2012. The sixteenth Progress-M 11F615A60 spacecraft, it has the serial number 416 and was built by RKK Energia.It was the 126th launch to the ISS and the fifteenth Russian space launch in 2012. It was also the seventh mission for the Soyuz family of rockets since the beginning of the year.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-16M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-239",
+        "abstract": "USA-239, also known as GPS IIF-3, and GPS SVN-65, is an American navigation satellite which forms part of the Global Positioning System. It was the third of twelve Block IIF satellites to be launched.Built by Boeing and launched by United Launch Alliance, USA-239 was launched at 12:10 UTC on 4 October 2012, atop a Delta IV carrier rocket, flight number D361, flying in the Medium+(4,2) configuration. The launch took place from Space Launch Complex 37B at the Cape Canaveral Air Force Station, and placed USA-239 directly into medium Earth orbit. The rocket's second stage engine failed to provide the planned full thrust in all of its three burns due to a leak above the narrow throat portion of the thrust chamber, however the stage have enough propellant margins to put the satellite in the correct orbit.As of 18 February 2014, USA-232 was in an orbit with a perigee of 20,231 kilometres (12,571 mi), an apogee of 20,132 kilometres (12,509 mi), a period of 717.96 minutes, and 54.87 degrees of inclination to the equator. It is used to broadcast the PRN 24 signal, and operates in slot 1 of plane A of the GPS constellation. The satellite has a design life of 15 years and a mass of 1,630 kilograms (3,590 lb). As of 2014 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-239.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SDS-4",
+        "abstract": "SDS-4 (Small Demonstration Satellite 4) is a small satellite (50 cm cube with mass of 50 kg) developed by JAXA and to be launched as a secondary payload on the Shizuku mission in mid-2012.There are four rather specialised systems on the satellite: SPAISE (SPace-based Automatic Identification SystEm) - test on-orbit a receiver for picking up signals from Automatic Identification System transmitters on ships well out to sea, and determine how space-based reception is affected by interference between nearby transmitters and by environmental conditions. FOX (Flat heat-pipe on-orbit experiment) - to test whether flat heat pipes work in space in accordance with theoretical models and with tests on Earth IST (In-flight experiment of Solar absorption rate with THERME) - to acquire information about the effect of sunlight in space on thermal coatings, re-flying the THERME instrument developed by CNES for testing different thermal coatings QCM (Quartz Crystal Microbalance) - to test whether a Japanese-manufactured quartz microbalance works well in monitoring contamination of the satellite from assembly to on-orbit operation.↑ ↑ ↑ ↑ ↑",
+        "json-uri": "http://dbpedia.org/data/SDS-4.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_9",
+        "abstract": "Shenzhou 9 was a manned spacecraft flight of China's Shenzhou program, launched at 18:37:24 CST (10:37:24 UTC), 16 June 2012. Shenzhou 9 was the second spacecraft and first manned spacecraft to dock with the Tiangong 1 space station, which took place on 18 June. The Shenzhou 9 spacecraft landed at 10:01:16 CST (02:01:16 UTC) on 29 June in Inner Mongolia Autonomous Region. The mission's crew included the first Chinese female astronaut, Liu Yang. The next planned mission was Shenzhou 10, which launched on 11 June 2013.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_9.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Yamal-402",
+        "abstract": "Yamal-402 is a Russian geostationary communications satellite. It was launched on 8 December 2012, 13:13:43 UTC from Site 200/39 at the Baikonur Cosmodrome in Kazakhstan. It was built by Thales Alenia Space, and is based around the Spacebus 4000C3 satellite bus. It is equipped with 46 J band (IEEE Ku band) transponders. It has a design life of 15 years, but reducing to 11 years expected after launch partial failure.",
+        "json-uri": "http://dbpedia.org/data/Yamal-402.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UniCubeSat-GG",
+        "abstract": "UniCubeSat-GG is a Miniaturized satellite built by the Sapienza University of Rome. It was launched into Low Earth Orbit on the maiden flight of Arianespace's Vega rocket on 13 February 2012. The launch was a multi-payload mission shared with LARES, ALMASat-1, Goliat, MaSat-1, PW-Sat, ROBUSTA, e-st@r and Xatcobeo.UniCubeSat-GG is a 1-U cubesat design with a mass of 1 kg. Its primary mission is to study the effects of orbital eccentricity through the Earth's gravity gradient.",
+        "json-uri": "http://dbpedia.org/data/UniCubeSat-GG.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Raiko",
+        "abstract": "Raiko (Japanese: 雷鼓, literally thunder drum) is a Japanese satellite which was built and operated by Tohoku and Wakayama Universities. A two-unit CubeSat, Raiko was deployed from the International Space Station on October 4, 2012, having been launched in July.Raiko was launched aboard the Kounotori 3 spacecraft, atop an H-IIB carrier rocket flying from Pad 2 of the Yoshinobu Launch Complex at the Tanegashima Space Centre. The launch occurred at 02:06 UTC on 21 July 2012. Four other CubeSats were launched with Raiko; We-Wish, Niwaka, TechEdSat and F-1. The five CubeSats was delivered to the International Space Station for deployment. CubeSats were deployed from Japanese Experiment Module Kibo via the J-SSOD system on October 4, 2012 .Named after a Japanese god of thunder, Raiko is a 2-kilogram (4.4 lb) spacecraft, which will be used for technology demonstration. It carries a camera with a fish-eye lens for Earth imaging, a prototype star tracker, a deployable membrane to slow the satellite, lowering its orbit, a photographic system to measure the satellite's movement relative to the International Space Station, and a Ku-band antenna for communications and Doppler ranging experiments.We-Wish, Raiko, FITSat 1, F-1, and TechEdSat travelled to orbit aboard HTV-3.",
+        "json-uri": "http://dbpedia.org/data/Raiko.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-17M",
+        "abstract": "Progress M-17M (Russian: Прогресс М-17М), identified by NASA as Progress 49 or 49P, was a Progress spacecraft used by Roskosmos to resupply the International Space Station during 2012. The seventeenth Progress-M 11F615A60 spacecraft to launch, it had the serial number 417 and was built by RKK Energia. It was the 130th launch to the ISS and the twentieth Russian space launch in 2012. It was also the eleventh mission for the R-7 family of rockets since the beginning of the year.On April 15, 2013, Progress M-17M cargo shop undocked from the Space Station. It was disposed six days later and fell into the Pacific Ocean on April 21.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-17M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/E-st@r",
+        "abstract": "e-st@r (Educational Satellite @ Politecnico di Torino) is a miniaturized satellite built by the Politecnico di Torino. It is a 1-U CubeSat design weighing 1 kg.",
+        "json-uri": "http://dbpedia.org/data/E-st@r.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Astra_2F",
+        "abstract": "Astra 2F is one of the Astra communications satellites owned and operated by SES, launched in September 2012 to the Astra 28.2°E orbital slot. The satellite provides free-to-air and encrypted direct-to-home (DTH) digital TV and satellite broadband services for Europe and Africa.Astra 2F is the first of three ‘second generation’ satellites for the 28.2°E position which replace the first generation Astra 2A, Astra 2B and Astra 2D craft previously there. The second, Astra 2E, was launched in 2013 and they will be joined in orbit by Astra 2G in 2014 Some parts of the construction of Astra 2F by Astrium in Stevenage, UK could be seen in the BBC2 documentary programme, How To Build… A Satellite broadcast on November 27, 2011.Astra 2F was successfully launched from Kourou in French Guiana on September 28, 2012. and underwent in-orbit testing at 43.5°E. Commercial operations at 28.2°E began on November 21, 2012.",
+        "json-uri": "http://dbpedia.org/data/Astra_2F.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Edoardo_Amaldi_ATV",
+        "abstract": "The Edoardo Amaldi ATV, or Automated Transfer Vehicle 003 (ATV-003), was a European unmanned cargo resupply spacecraft, named after the 20th-century Italian physicist Edoardo Amaldi. The spacecraft was launched by the European Space Agency (ESA) on 23 March 2012, on a mission to supply the International Space Station (ISS) with propellant, water, oxygen, and dry cargo.Edoardo Amaldi was the third ATV to be built, following Jules Verne (2008) and Johannes Kepler (2011). At the time of its launch, it was the world's largest single operational spacecraft, with a total launch mass of over 20 tonnes (44,000 lb). The ATV completed its mission successfully, and was deorbited on 4 October 2012, burning up in the Earth's atmosphere as planned.",
+        "json-uri": "http://dbpedia.org/data/Edoardo_Amaldi_ATV.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ziyuan_III-01",
+        "abstract": "Ziyuan 3 or ZY-3 (Chinese: 资源三号 meaning Resources 3) is a Chinese Earth observation satellite launched in January 2012. It is a high-resolution imaging satellite operated by the Ministry of Land and Resources of the People's Republic of China.The Ziyuan 3 satellite was constructed by the China's Academy of Space Technology, and carries three cameras produced by the Changchun Institute of Optics, Fine Machinery and Physics. A camera aligned normal to the Earth's surface will produce images with a spatial resolution of 2.5 metres (8 ft 2 in), whilst the other two, offset at 22 degrees forward and aft, have spatial resolutions of 4.0 metres (13.1 ft). In addition to the three cameras, Ziyuan-3 carries an infrared multispectral spectrometer, with a spectral resolution of 6.0 metres (19.7 ft). The satellite is used to provide imagery to monitor resources, land use and ecology, and for use in urban planning and disaster management. It had a mass at launch of 2,630 kilograms (5,800 lb).Ziyuan 3 was launched by a Long March 4B carrier rocket, flying from Launch Complex 9 at the Taiyuan Satellite Launch Centre. The launch occurred at 03:17 UTC on 9 January 2012, and was the first orbital launch of the year. VesselSat-2 was launched as a secondary payload on the same rocket.",
+        "json-uri": "http://dbpedia.org/data/Ziyuan_III-01.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ekspress_MD2",
+        "abstract": "Ekspress MD2 is a Russian communications satellite which was lost due to a launch failure on 6 August 2012. Equipped with eight C band transponders and one L band transponder, it was intended to be located in geostationary orbit at a longitude of 145° east. It was the second Ekspress MD satellite to be launched, following Ekspress MD1 in 2009.",
+        "json-uri": "http://dbpedia.org/data/Ekspress_MD2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/VRSS-1",
+        "abstract": "VRSS-1 (Venezuelan Remote Sensing Satellite) is the first Venezuelan remote sensing satellite, and the second Venezuelan satellite after VENESAT-1. It will be used to study the territory of Venezuela and help with planning, agriculture and disaster recovery. It was built and launched by the Chinese and has been named after Venezuelan revolutionary Francisco de Miranda.",
+        "json-uri": "http://dbpedia.org/data/VRSS-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/F-1_(satellite)",
+        "abstract": "F-1 is a 1U CubeSat built by FSpace laboratory at FPT University in Vietnam, in partnership with Angstrom Space Technology Center (ASTC), Uppsala University and NanoRacks LLC. Its mission is to train young engineers and students about aerospace engineering and evaluate an advanced 3-axis magnetometer (SDTM) designed in Sweden by ASTC.F-1 was launched on 21 July 2012 and delivered to International Space Station (ISS) aboard Kounotori 3 along with the Raiko, We Wish, Niwaka and TechEdSat cubesats. Then, on October 4, 2012, it was deployed into orbit from ISS using JEM Small Satellite Orbital Deployer (J-SSOD) which was attached to the Kibo module's robotic arm.As of November 2, 2012, F-1 failed to confirm communication after the orbital deployment.F-1, We-Wish, Raiko, FITSat 1, and TechEdSat travelled to orbit aboard HTV-3.",
+        "json-uri": "http://dbpedia.org/data/F-1_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ALMASat-1",
+        "abstract": "ALMASat-1(ALma MAter SATellite) is a micro satellite developed by University of Bologna for demonstrative purposes which will be helpful for earth observation missions. The project is funded by Italian Ministry of Research.",
+        "json-uri": "http://dbpedia.org/data/ALMASat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/G%C3%B6kt%C3%BCrk-2",
+        "abstract": "Göktürk-2 is an earth observation satellite designed and developed by the Scientific and Technological Research Council of Turkey (TÜBİTAK) and built by TÜBİTAK Space Technologies Research Institute (TÜBİTAK UZAY) and Turkish Aerospace Industries (TUSAŞ) for the Turkish Ministry of National Defence.Göktürk-2 was launched from Jiuquan Launch Area 4 / SLS-2 in China by a Long March 2D space launch vehicle at 16:12:52 UTC on December 18, 2012, one day before the initial schedule due to poor weather conditions in the region. Equipped with state of the art advanced technology developed by Turkey and a series of new enhancements to provide improved high resolution imagery, it was placed at 16:26 UTC into a low Earth orbit of 686 km (426 mi). The first signal from Göktürk-2 was received at 17:39 UTC in the Tromsø Satellite Station, northern Norway.Produced with 80 percent indigenously developed technology and 100% domestically developed software, the satellite offers high-resolution imagery of 2.5 m (8.2 ft) resolution at panchromatic, 10 m (33 ft) at multispectral (VNIR) and 20 m (66 ft) at SWIR band. It is Turkey's second national satellite following RASAT, which was launched from Russia on August 17 the same year. For the telecommunication, it has three S band receivers and transmitters. Göktürk-2 later put its solar panels into service, and began the week after the launch to send data and its first images, which were from the USA, Brazil, India as well as Turkey's western city of Izmir.",
+        "json-uri": "http://dbpedia.org/data/G%C3%B6kt%C3%BCrk-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Intelsat_19",
+        "abstract": "Intelsat 19 is a geostationary communications satellite operated by Intelsat. It was constructed by Space Systems Loral, based on the LS-1300E satellite bus. It was successfully launched by Sea Launch using a Zenit-3SL carrier rocket on 1 June 2012. Upon entering service it replaced Intelsat 8 at 166º East Longitude.",
+        "json-uri": "http://dbpedia.org/data/Intelsat_19.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Dragon_C2+",
+        "abstract": "Dragon C2+, also known as SpaceX COTS Demo Flight 2 (COTS 2), was the second test-flight for SpaceX's uncrewed Dragon cargo spacecraft, launched on the third flight of the company's two-stage Falcon 9 launch vehicle. The flight was performed under a funded agreement from NASA as the second Dragon demonstration mission in the Commercial Orbital Transportation Services (COTS) program. The purpose of the COTS program is to develop and demonstrate commercial sources for cargo re-supply of the International Space Station (ISS). The Dragon C2+ spacecraft was the first American vehicle to visit the ISS since the end of the Space Shuttle program. It was also the first commercial spacecraft to rendezvous and berth with another spacecraft.Initially, the objectives of the C2+ mission were to have been accomplished by two separate missions; Dragon C2 would have carried out a fly-by of the ISS, practiced rendezvous maneuvers and communications with the station, before returning to Earth. A second mission, C3, would have been the first mission to berth with the station. In July 2011, NASA gave tentative approval to combine the objectives of the two missions. In December 2011, NASA formally approved the merger of the COTS 2 and 3 missions into the Dragon C2+ flight. There were several launch delays, the last one occurring on 19 May 2012, due to a launch abort during the last second before liftoff.Dragon C2+ successfully launched from Cape Canaveral on 22 May 2012. During the mission's first three days all of the COTS 2 objectives were successfully completed. The mission's COTS 3 phase began on 25 May when Dragon rendezvoused again with the ISS and then was successfully captured using the Canadarm2. It was berthed to the station later that day, using the robotic arm. Dragon stayed for almost six days during which the astronauts unloaded cargo, and then reloaded Dragon with Earth-bound cargo. On 31 May, Dragon unberthed from the ISS, its capsule landed in the Pacific Ocean off the California coast and was recovered. All the objectives of the mission were successfully completed, and the Falcon 9-Dragon system became certified to start regular cargo delivery missions to the ISS under the Commercial Resupply Services program.",
+        "json-uri": "http://dbpedia.org/data/Dragon_C2+.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-14M",
+        "abstract": "Progress M-14M (Russian: Прогресс М-14М), identified by NASA as Progress 46 or 46P, is a Progress spacecraft which was used by Roskosmos to resupply the International Space Station during 2012. The fourteenth Progress-M 11F615A60 spacecraft, it had the serial number 414 and was built by RKK Energia. Upon its arrival in late January, it delivered supplies to the Expedition 30 crew aboard the space station, where it remained docked until 19 April.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-14M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SES-5",
+        "abstract": "SES-5 (also known as Astra 4B and Sirius 5) is a commercial geostationary communication satellite operated by SES. It was launched on 9 July 2012. It was constructed by Space Systems/Loral, and is based on the LS-1300 satellite bus. It carries 24 C-band and 36 Ku-band transponders. It covers Sub-Saharan Africa, North Africa, Europe, Atlantic Ocean.",
+        "json-uri": "http://dbpedia.org/data/SES-5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Tianhui_1B",
+        "abstract": "Tian Hui-1 (also known as Mapping Satellite I) is a Chinese earth observation satellite built by Dong Feng Hong, a China Aerospace Science and Technology Corporation (CASC).Tian Hui-1 was launched on 6 May 2012 at 9:10 GMT on a Long March 2 2D booster rocket into a sun-synchronous, polar orbit with an apogee of 490 km (300 mi) and perigee of 505 km (314 mi).According to the Chinese Ministry of Defense the new satellite carries scientific experiments and is to be used for the evaluation of ground resources and mapping.Tian Hui 1 is equipped with two different camera systems in the visible and infrared range. The visible light camera is able to produce three-dimensional pictures in the spectral region between 510 to 690 nanometers with a dissolution of approximately 5 meters and a field of view of approximately 25 degrees. The infrared camera reaches a dissolution of approximately 10 meters and covers four wavelengths (430 - 520 Nm, 520 - 610 Nm, 610 - 690 Nm and 760 - 900 Nm).",
+        "json-uri": "http://dbpedia.org/data/Tianhui_1B.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Zhongxing_12",
+        "abstract": "Now called Zhongxing 15A (ZX 15A), or ChinaSat-15A, the former Zhongxing 12 communications satellite is wholly owned by China Satcom, with part of its communications payload leased or rented by SupremeSAT, a Sri Lankan company to be marketed to potential users as SupremeSAT-I. Once operational it will provide communications services for the China, Sri Lanka, East Asia, South Asia, Middle East, Africa, Australia and China sea area, the Indian Ocean region.",
+        "json-uri": "http://dbpedia.org/data/Zhongxing_12.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kwangmy%C5%8Fngs%C5%8Fng-3",
+        "abstract": "Kwangmyŏngsŏng-3 (Hangul: 광명성 3호; hanja: 光明星3號; English: Bright Star-3 or Lode Star-3) was a North Korean Earth observation satellite, which according to the DPRK was for weather forecast purposes, and whose launch was widely portrayed in the West to be a veiled ballistic missile test. The satellite was launched on 13 April 2012 at 07:39 KST aboard the Unha-3 carrier rocket from Sohae Satellite Launching Station. The rocket exploded 90 seconds after launch near the end of the firing of the first stage of the rocket. The launch was planned to mark the centenary of the birth of Kim Il-sung, the founder of the republic. On 1 December 2012 North Korea announced that a replacement satellite would be launched between 10 and 22 December 2012. After a delay and extending the launch window to 29 December, the rocket was launched on 12 December.",
+        "json-uri": "http://dbpedia.org/data/Kwangmy%C5%8Fngs%C5%8Fng-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/PW-Sat",
+        "abstract": "PW-Sat is the first Polish artificial satellite which was launched 13 February 2012 from ELA-1 at Guiana Space Centre aboard Italian-built Vega launch vehicle during its maiden voyage. Its mission was to test experimental elastic solar cells, as well as an orbital decay technology consisting of a \"tail\" designed to speed re-entry. It was expected to last for 1 year.PW-Sat was a type of CubeSat satellite and it was constructed by the Faculty of Power and Aeronautical Engineering of Warsaw University of Technology, in cooperation with the Space Research Centre of the Polish Academy of Sciences, and is the first Polish satellite.",
+        "json-uri": "http://dbpedia.org/data/PW-Sat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-240",
+        "abstract": "USA-240 is the second flight of the first Boeing X-37B, the Orbital Test Vehicle 3 (X-37B OTV-3), an American unmanned robotic vertical-takeoff, horizontal-landing spaceplane. It was launched aboard an Atlas V rocket from Cape Canaveral on 11 December 2012. It is operating in low Earth orbit. Its mission designation is part of the USA series.The spaceplane is operated by the United States Air Force, which has not revealed the specific objectives of the mission or identity of the mission's payload. The Air Force stated only that the, \"mission will incorporate the lessons learned during the refurbishment process on OTV-1. As the X-37B program is examining the affordability and reusability of space vehicles, validation through testing is vital to the process. We are excited to see how this vehicle performs on a second flight.\"",
+        "json-uri": "http://dbpedia.org/data/USA-240.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SpaceX_CRS-1",
+        "abstract": "SpaceX CRS-1, also known as SpX-1, was the third flight for Space Exploration Technologies Corporation's (SpaceX) uncrewed Dragon cargo spacecraft, the fourth overall flight for the company's two-stage Falcon 9 launch vehicle, and the first SpaceX operational mission under their Commercial Resupply Services contract with NASA. The launch occurred on 7 October 2012 at 20:34 EDT (8 October 2012 at 00:34 UTC).",
+        "json-uri": "http://dbpedia.org/data/SpaceX_CRS-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-04M",
+        "abstract": "Soyuz TMA-04M was a spaceflight to Low Earth orbit that transported three members of the Expedition 31 crew to the International Space Station (ISS), which was launched on May 15, 2012 and landed on September 17, 2012. TMA-04M was the Soyuz spacecraft's 113th flight since its initial launch in 1967, and the fourth launch of the improved Soyuz TMA-M series (first launched October 7, 2010). As per the mission plan, the spacecraft remained docked to the space station to serve as an emergency escape vehicle during Expedition 31.The mission successfully launched to the International Space Station from the Baikonur Cosmodrome in Kazakhstan on Tuesday, May 15, 2012, at 3:01:23 UTC (9:01:23 local time). The Soyuz docked successfully with the ISS on May 17 at 4:36 UTC. The spacecraft carried to the ISS a three person crew (Gennady Padalka, Russia; Sergei Revin, Russia; Joseph Acaba, United States). The mission landed successfully in Kazakhstan on September 17, 2012, at 2:53 UTC.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-04M.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Xatcobeo",
+        "abstract": "Xatcobeo, originally known as Dieste, is a project to build the first Galician artificial satellite developed by a team from various departments of the University of Vigo and leadered by Fernando Aguado in collaboration with the Instituto Nacional de Técnica Aeroespacial (INTA) and with the support of the Galician government-owned corporation Retegal. The project was presented to the European Space Agency for its launch in the inaugural flight of the Vega rocket from the Guiana Space Centre, in Kourou (French Guiana). Its life will be between 6 and 12 months, and its cost will be around 1.2 million euros, being 50% funded by the Ministerio de Ciencia e Investigación of Spain, 25% by Retegal and in the last 25% jointly by the University of Vigo and INTA.It is a Cubesat-type satellite and its objective will be to do research related with communications and with solar power in satellites.",
+        "json-uri": "http://dbpedia.org/data/Xatcobeo.jsond",
+        "instrumentation": []
+    }
+]

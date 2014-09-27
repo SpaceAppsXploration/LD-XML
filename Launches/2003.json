@@ -1,0 +1,216 @@
+[
+    {
+        "uri": "http://dbpedia.org/page/INSAT-3A",
+        "abstract": "INSAT-3A, a multipurpose satellite built by ISRO was launched by Ariane in April 2003. It is located at 93.5 degree East longitude.It is third satellite in INSAT-3 series after INSAT-3B & INSAT-3C.Built at a cost of $53 mn, it provides communication,weather and search & rescue services.",
+        "json-uri": "http://dbpedia.org/data/INSAT-3A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SCISAT-1",
+        "abstract": "SCISAT-1 is a Canadian satellite designed to make observations of the Earth's atmosphere. Its main instruments are an optical Fourier transform infrared spectrometer, the ACE-FTS Instrument, and an ultraviolet spectrophotometer, MAESTRO. These devices record spectra of the Sun, as sunlight passes through the Earth's atmosphere, making analyses of the chemical elements of the atmosphere possible.SCISAT is a relatively small satellite weighing 150 kg (~330 pounds). It is partly drum shaped with a diameter of about five feet and a depth of about five feet. The Canadian Space Agency coordinated its design, launch and use. The main contractors were Bristol Aerospace of Winnipeg, Manitoba, who were prime contractor for the bus, and ABB Bomem Inc. of Quebec City, Quebec who developed the ACE-FTS instrument. The total development cost of SCISAT, as estimated by the CSA in 2003, was about CDN$60M. As of 10 years after launch, the satellite and its instruments are still operating.SCISAT passes through the Earth's shadow 15 times per day, profiting from the occultation of the Sun to make a spectrographic analysis of the structure and chemistry of those parts of the upper atmosphere that are too high to be reached by balloons and airplanes and too low to be visited by orbiting satellites. This kind of analysis can help understand the depletion of the ozone layer and other upper atmosphere phenomena.SCISAT was placed in low Earth orbit, or LEO, by a Pegasus rocket launched from a NASA Lockheed L-1011 carrier aircraft on August 12, 2003 from Vandenberg Air Force Base. Expected to operate for two to five years, it was still operational in 2012. Current information may be obtained from the ACE Mission Information for Public Data Release report.The University of Waterloo, York University, the University of Toronto, and several other Canadian universities collaborated in the design of the experiments, and in several aspects of the testing of the satellite.",
+        "json-uri": "http://dbpedia.org/data/SCISAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2397",
+        "abstract": "Kosmos 2397 (Russian: Космос 2397 meaning Cosmos 2397) is a Russian US-KMO missile early warning satellite which was launched in 2003 as part of the Russian Space Forces' Oko programme. The satellite is designed to identify missile launches using infrared telescopes.Kosmos 2397 was launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a DM-2 upper stage was used to perform the launch, which took place at 04:23 UTC on 24 April 2003. The launch successfully placed the satellite into geostationary orbit. It subsequently received its Kosmos designation, and the international designator 2003-015A. The United States Space Command assigned it the Satellite Catalog Number 27775.The satellite developed problems two months after being launched. It started drifting eastwards in June 2003 and had reached 155E by November 2003.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2397.jsond",
+        "instrumentation": [
+            "Infrared telescope with  aperture"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/Coriolis_(satellite)",
+        "abstract": "The Coriolis satellite is a Naval Research Laboratory and Air Force Research Laboratory earth and space observation satellite launched from Vandenberg Air Force Base, on 2003-01-06 at 14:19 GMT.",
+        "json-uri": "http://dbpedia.org/data/Coriolis_(satellite).jsond",
+        "instrumentation": [
+            "WindSat, SMEI"
+        ]
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-166",
+        "abstract": "USA-166, also known as GPS IIR-8 and GPS SVN-56, is an American navigation satellite which forms part of the Global Positioning System. It was the eighth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-166 was launched at 18:06:00 UTC on 29 January 2003, atop a Delta II carrier rocket, flight number D295, flying in the 7925-9.5 configuration. The XSS-10 satellite was carried as a secondary payload on the same rocket, but was deployed from the second stage of the three-stage rocket. The launch took place from Space Launch Complex 17B at the Cape Canaveral Air Force Station, and placed USA-166 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 1 February 2003, USA-166 was in an orbit with a perigee of 20,155 kilometres (12,524 mi), an apogee of 20,344 kilometres (12,641 mi), a period of 720.7 minutes, and 55 degrees of inclination to the equator. It is used to broadcast the PRN 16 signal, and operates in slot 1 of plane B of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-166.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Ekspress_AM22",
+        "abstract": "Ekspress AM22 (Russian: Экспресс АМ22, meaning Express AM22) is a communications satellite. It belongs to the Russian Satellite Communications Company (RSCC) based in MoscowThe satellite has a total of 24 transponders, 12 of which are referred to as SESAT 2, and are leased to Eutelsat by the RSCC (Russian Satellite Communications Company). The remaining 12 transponders, with domestic coverage of the Russian Federation, are commercialised by the RSCC under the name EKSPRESS AM22.The satellite can be received in Europe, Asia, the Middle East and the most part of Russia. The transfer takes place in the Ku band.",
+        "json-uri": "http://dbpedia.org/data/Ekspress_AM22.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/QuakeSat",
+        "abstract": "Quakesat is an earth observation nanosatellite based on 3 CubeSats. It was designed to be a proof-of-concept for space-based detection of ELF signals, thought by some to be earthquake precursor signals. The science behind the concept is disputed.The students working on the project are hoping that the detection of magnetic signals may have value in showing the onset of an earthquake. The company, QuakeFinder, that put the satellites together is from Palo Alto, California. They're gathering data on the extremely low magnetic field fluctuations that are associated with earthquakes to help better understand this area of study. The primary instrument is a magnetometer housed in a 2 foot (0.6 m) telescoping boom.The 30 June 2003 deployment of Quakesat was alongside other university CubeSats and one commercial CubeSat. The launch occurred on a Rockot rocket from Russia’s Plesetsk launch site.",
+        "json-uri": "http://dbpedia.org/data/QuakeSat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2404",
+        "abstract": "Kosmos 2404 (Russian: Космос 2402 meaning Cosmos 2404) is one of a set of three Russian military satellites launched in 2003 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2402 and Kosmos 2403.This satellite is a GLONASS-M satellite, also known as Uragan-M, and is numbered Uragan-M No. 701.Kosmos 2402/3/4 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 17:42 UTC on 10 December 2003. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2003-056A. The United States Space Command assigned it the Satellite Catalog Number 28112.It was in the first orbital plane in orbital slot 6. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2404.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-3",
+        "abstract": "Soyuz TMA-3 was a Soyuz (Russian Союз ТМА-3, Union TMA-3) mission to the International Space Station (ISS) launched by a Soyuz FG launch vehicle which was the third flight for the TMA modification of the Soyuz spacecraft, and the 7th Soyuz to fly to the ISS.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-3.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/BILSAT-1",
+        "abstract": "BILSAT-1 was an earth observation satellite designed and developed by TÜBİTAK Space Technologies Research Institute (TÜBİTAK UZAY) and produced in Turkey as part of the Disaster Monitoring Constellation (DMC) project in the context of a show-how program led by DMC International Imaging of Surrey Satellite Technology (SSTL).",
+        "json-uri": "http://dbpedia.org/data/BILSAT-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-175",
+        "abstract": "USA-175, also known as GPS IIR-10 and GPS SVN-47, is an American navigation satellite which forms part of the Global Positioning System. It was the tenth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-175 was launched at 08:05:00 UTC on 21 December 2003, atop a Delta II carrier rocket, flight number D302, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-175 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 22 February 2004, USA-175 was in an orbit with a perigee of 20,043 kilometres (12,454 mi), an apogee of 20,319 kilometres (12,626 mi), a period of 717.92 minutes, and 55.1 degrees of inclination to the equator. It is used to broadcast the PRN 22 signal, and operates in slot 2 of plane E of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-175.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2402",
+        "abstract": "Kosmos 2402 (Russian: Космос 2402 meaning Cosmos 2402) is one of a set of three Russian military satellites launched in 2003 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2403 and Kosmos 2404.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 794.Kosmos 2402/3/4 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 17:42 UTC on 10 December 2003. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2003-056B. The United States Space Command assigned it the Satellite Catalog Number 28113.It was in the first orbital plane in orbital slot 2. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2402.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/UK-DMC",
+        "abstract": "UK-DMC or UK-DMC 1, also known as BNSCSAT-1, was a British satellite a part of the Disaster Monitoring Constellation (DMC). It was built by Surrey Satellite Technology, who operated it via DMC International Imaging on behalf of the British National Space Centre and later the UK Space Agency. It was launched alongside other DMC satellites on 27 September 2003, and retired from service in November 2011.",
+        "json-uri": "http://dbpedia.org/data/UK-DMC.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-47",
+        "abstract": "Progress M-47, identified by NASA as Progress 10 or 10P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 247.Progress M-47 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 12:59:40 GMT on 2 February 2003. The spacecraft docked with the Aft port of the Zvezda module at 14:49:04 GMT on 4 February. It remained docked for almost seven months before undocking at 22:48:08 GMT on 27 August 2003 to make way for Progress M-48. It was deorbited at 01:49 GMT the next day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 02:37:46 GMT.Progress M-47 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research. It was the first spacecraft to launch to the International Space Station following the loss of the Space Shuttle Columbia the day prior to the Progress module's launch, which resulted in a suspension of Shuttle flights to the Station.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-47.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/ICESat",
+        "abstract": "ICESat (Ice, Cloud, and land Elevation Satellite), part of NASA's Earth Observing System, was a satellite mission for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography and vegetation characteristics. ICESat was launched 13 January 2003 on a Delta II rocket from Vandenberg Air Force Base in California into a near-circular, near-polar orbit with an altitude of approximately 600 km. It operated for seven years before being retired in February 2010, after its scientific payload shut down and scientists were unable to restart it.The ICESat mission was designed to provide elevation data needed to determine ice sheet mass balance as well as cloud property information, especially for stratospheric clouds common over polar areas. It provides topography and vegetation data around the globe, in addition to the polar-specific coverage over the Greenland and Antarctic ice sheets. The satellite was found useful in assessing important forest characteristics, including tree density.",
+        "json-uri": "http://dbpedia.org/data/ICESat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/MOST_(satellite)",
+        "abstract": "The Microvariability and Oscillations of STars telescope, better known simply as MOST, is Canada's first space telescope. Up until nearly 10 years after its launch it was also the smallest space telescope in orbit (for which its creators nicknamed it the “Humble Space Telescope”, in reference to one of the largest, the Hubble). MOST is the first spacecraft dedicated to the study of asteroseismology, subsequently followed by the now-completed COROT and Kepler missions. It was also the first Canadian science satellite launched since ISIS II, 32 years previously.",
+        "json-uri": "http://dbpedia.org/data/MOST_(satellite).jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/XSS_10",
+        "abstract": "XSS-10 (eXperimental Small Satellite 10) was a small, low-cost micro-spacecraft developed by the U.S. Air Force Research Laboratory’s Space Vehicles Directorate to test technology for line-of-sight guidance of spacecraft. The project was initiated at AFRL by Program Manager David Barnhart and completed by Georgia Tech Research Institute engineer Thom Davis. The project was declared a success shortly after launch.",
+        "json-uri": "http://dbpedia.org/data/XSS_10.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CBERS-2",
+        "abstract": "China–Brazil Earth Resources Satellite 2 (CBERS-2), also known as Ziyuan I-02 or Ziyuan 1B, was a remote sensing satellite operated as part of the China–Brazil Earth Resources Satellite programme between the China Centre for Resources Satellite Data and Application and Brazil's National Institute for Space Research. The second CBERS satellite to fly, it was launched by China in 2003 to replace CBERS-1.CBERS-2 was a 1,450-kilogram (3,200 lb) spacecraft built by the China Academy of Space Technology and based on the Phoenix-Eye 1 satellite bus. The spacecraft was powered by a single solar array, which provided 1,100 watts of electricity for the satellite's systems. The instrument suite aboard the CBERS-2 spacecraft consisted of three systems: the Wide Field Imager (WFI) produced visible-light to near-infrared images with a resolution of 260 metres (850 ft) and a swath width of 890 kilometres (550 mi); a high-resolution CCD camera was used for multispectral imaging at a resolution of 20 metres (66 ft) with a swath width of 113 kilometres (70 mi); the third instrument, the Infrared Multispectral Scanner (IMS), had a resolution of 80 metres (260 ft) and a swath width of 120 kilometres (75 mi).A Chang Zheng 4B carrier rocket, operated by the China Academy of Launch Vehicle Technology, was used to launch CBERS-2. The launch took place at 03:16 UTC on 21 October 2003, using Launch Complex 7 at the Taiyuan Satellite Launch Centre. The satellite was successfully placed into a sun-synchronous orbit.Following the launch of CBERS-2B in 2007, CBERS-2 was retired from service. As of 1 December 2013, the dericict satellite remains in orbit, with a perigee of 780 kilometres (480 mi), an apogee of 782 kilometres (486 mi), 98.17 degrees inclination and a period of 100.33 minutes. Its orbit has a semimajor axis of 7,152.64 kilometres (4,444.44 mi), and eccentricity of 0.0001886.",
+        "json-uri": "http://dbpedia.org/data/CBERS-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GALEX",
+        "abstract": "The Galaxy Evolution Explorer (GALEX) was an orbiting ultraviolet space telescope launched on April 28, 2003. A Pegasus rocket placed the craft into a nearly circular orbit at an altitude of 697 kilometres (433 mi) and an inclination to the Earth's equator of 29 degrees.The first observation was dedicated to the crew of the Space Shuttle Columbia and images the sky in the constellation Hercules, taken on May 21, 2003. This region was selected because it had been directly overhead the shuttle at the time of its last contact with the NASA Mission Control Center.NASA cut off financial support for operations of GALEX in early February 2011 as it was ranked lower than other projects which were seeking a limited supply of funding. The mission's life-cycle cost to NASA was $150.6 million. The California Institute of Technology negotiated to transfer control of GALEX and its associated ground control equipment to the California Institute of Technology in keeping with the Stevenson-Wydler Technology Innovation Act. Under this Act, excess research equipment owned by the US government can be transferred to educational institutions and non-profit organizations. In May 2012, GALEX operations were transferred to Caltech.A fund-raising effort called GALEX CAUSE is being run to try and complete its All-Sky UV Survey. Its unique ultraviolet observations shed new light on special studies of galaxies, black-holes, supernova, stars, and beyond.On June 28, 2013 NASA decommissioned GALEX. It is expected that the spacecraft will remain in orbit for at least 65 years before it will re-enter the atmosphere.",
+        "json-uri": "http://dbpedia.org/data/GALEX.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/CHIPSat",
+        "abstract": "CHIPSat (Cosmic Hot Interstellar Plasma Spectrometer satellite) is a now-decommissioned, but still-orbiting, microsatellite. It was launched on January 12, 2003 from Vandenberg Air Force Base aboard a Delta II with the larger ICESat, and had an intended mission duration of one year. CHIPSat was the first of NASA's University-Class Explorers (UNEX) mission class. It performed spectroscopy from 90 to 250 angstroms (9 to 26 nm), extreme ultraviolet light.The primary objective of the science team, led by Principal Investigator Mark Hurwitz, was to study the million-degree gas in the local interstellar medium. CHIPSat was designed to capture the first spectra of the faint, extreme ultraviolet glow that is expected to be emitted by the hot interstellar gas within about 300 light-years of the sun, a region often referred to as the Local Bubble. Surprisingly, these measurements produced a null result, with only very faint EUV emissions detected, despite theoretical expectations of much stronger emissionsIt was the first U.S. mission to use TCP/IP for end-to-end satellite operations control.The University of California, Berkeley's Space Sciences Laboratory served as CHIPSat's primary groundstation and manufactured the CHIPS spectrograph, designed to perform all-sky spectroscopy. Other ground network support was provided by groundstations at Wallops Island, Virginia and Adelaide, Australia. CHIPSat's spacecraft platform was manufactured by SpaceDev.In September 2005 the spacecraft was converted to a solar observatory. From April 3, 2006 to April 5, 2008 CHIPsat performed 1458 observations of the Sun.Satellite operations were terminated in April 2008.",
+        "json-uri": "http://dbpedia.org/data/CHIPSat.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Beagle_2",
+        "abstract": "Beagle 2 was an unsuccessful British landing spacecraft that formed part of the European Space Agency's 2003 Mars Express mission. All contact with it was lost upon its separation from the Mars Express six days before its scheduled entry into the atmosphere. Beagle 2 was named after HMS Beagle, which twice carried Charles Darwin during expeditions which would later lead to the theory of natural selection.",
+        "json-uri": "http://dbpedia.org/data/Beagle_2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Shenzhou_5",
+        "abstract": "Shenzhou 5 (simplified Chinese: 神舟五号; traditional Chinese: 神舟五號; pinyin: shénzhōu wǔ hào) — was the first human spaceflight mission of the Chinese space program, launched on October 15, 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of unmanned Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight capability after the Soviet Union (later, Russia) and the United States.",
+        "json-uri": "http://dbpedia.org/data/Shenzhou_5.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Amos-2",
+        "abstract": "AMOS-2 is an Israeli commercial communication satellite, part of the AMOS series of satellites. The satellite was positioned at 4° W longitude in the geo-stationary orbit.it was launched at December 27, 2003 from Baikonur, Kazakhstan and it serves clients in three service regions: Middle East (including Israel), Europe and eastern coast of USA. Transmission and communication services given by this satellite include: direct distribution of TV and radio translations, TV and radio translations to communication centers, distribution of internet services, data transmissions to communication networks.AMOS-2 carries 28 Ku-band transponders; 22 active with six as backups.With a mass of 1370 kg at launch, AMOS-2 incorporated a 400 newton Liquid Apogee Boost Motor (ABM) and fourteen 10 newton Reaction Control Thrusters for raising the satellite's orbit from Geostationary Transfer orbit to its final geostationary orbit as well as for its attitude control. It carried 450 kg of propellant (monomethyl hydrazine and MON-3).[citation needed]AMOS-2 measures 11.5 m in length in its final in-orbit configuration. It is 3-axis body stabilised using Sun and Earth sensors, momentum and reaction wheels. Its solar array generates 1700W power, backed up by 24 A·h Ni-Cd batteries.[citation needed]After its launch into Geo-synchronous transfer orbit by Soyuz, AMOS-2 was taken to its final geo-stationary orbit by firing the apogee boost motor in phases. After it reached the geo-stationary orbit, its antenna and solar Panels were deployed and the satellite was finally placed in its allocated slot of 4° W longitude.[citation needed]Amos 2 and Amos 3 are placed in proximity to create common location, which enables to satellite users to increase user abilities without additional antennas.",
+        "json-uri": "http://dbpedia.org/data/Amos-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/SERVIS-1",
+        "abstract": "SERVIS-1, or Space Environment Reliability Verification Integrated System 1, is a Japanese satellite designed for testing the performance of commercial off-the-shelf products in the space environment. It has a mass of about 840 kg, and was launched on 30 October 2003 from the Plesetsk Cosmodrome by Eurockot, who used a Rokot rocket with a Briz-KM upper stage. The satellite was active for two years. A second satellite, SERVIS-2, was launched in 2010.",
+        "json-uri": "http://dbpedia.org/data/SERVIS-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/INSAT-3E",
+        "abstract": "INSAT 3E is a defunct communication satellite built by Indian Space Research Organisation. It was launched on September 28, 2003 from the European Space Agency's spaceport in French Guiana on board the Ariane rocket. The satellite had a launch mass of 2750 kilograms. It is the 4th satellite launched in the INSAT-3 series of ISRO.It was designed for providing high-speed communication, Television, VSAT & Tele-education services and was an important landmark in Indian Space Programme.In April 2014, almost eleven years after being launched, the satellite ran out of oxidizer and a few days later, was decommissioned by the ISRO. In a few days time, it will be moved to a graveyard orbit.",
+        "json-uri": "http://dbpedia.org/data/INSAT-3E.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/GSAT-2",
+        "abstract": "GSAT-2 was an experimental communication satellite built by the Indian Space Research Organisation (ISRO) and launched on one of the first GSLVs. The satellite was positioned at 48 deg east longitude in the geo-stationary orbit.",
+        "json-uri": "http://dbpedia.org/data/GSAT-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/STS-107",
+        "abstract": "STS-107 was the 113th flight of the Space Shuttle program, and the final flight of Space Shuttle Columbia. The mission launched from Kennedy Space Center on 16 January 2003, and during its 16 days in orbit conducted a multitude of international scientific investigations.The seven-member crew died on 1 February 2003 when the Columbia orbiter disintegrated during reentry into the Earth's atmosphere. The Columbia Accident Investigation Board determined the failure was caused by a piece of foam that broke off during launch and damaged the thermal protection system components (reinforced carbon-carbon panels and thermal protection tiles) on the leading edge of the left wing of the orbiter. During re-entry the damaged wing slowly overheated and came apart, eventually leading to loss of control and disintegration of the vehicle.",
+        "json-uri": "http://dbpedia.org/data/STS-107.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Solar_Radiation_and_Climate_Experiment",
+        "abstract": "The Solar Radiation and Climate Experiment (SORCE) is a NASA-sponsored satellite mission that provides state-of-the-art measurements of incoming X-ray, ultraviolet, visible, near-infrared, and total solar radiation. The measurements provided by SORCE specifically address long-term climate change, natural variability and enhanced climate prediction, and atmospheric ozone and UV-B radiation. These measurements are critical to studies of the Sun; its effect on our Earth system; and its influence on humankind.SORCE measures the Sun's output with the use of state-of-the-art radiometers, spectrometers, photodiodes, detectors, and bolometers engineered into instruments mounted on a satellite observatory. The SORCE satellite orbits around the Earth accumulating solar data. Spectral measurements identify the irradiance of the Sun by characterizing the Sun's energy and emissions in the form of color that can then be translated into quantities and elements of matter. Data obtained by the SORCE experiment can be used to model the Sun's output and to explain and predict the effect of the Sun's radiation on the Earth's atmosphere and climate.The SORCE spacecraft launched on January 25, 2003 on a Pegasus XL launch vehicle to provide NASA's Earth Science Enterprise (ESE) with precise measurements of solar radiation. It launched into a 645-km, 40-degree orbit and is operated by the Laboratory for Atmospheric and Space Physics (LASP) at the University of Colorado at Boulder, Colorado, USA. It will continue the precise measurements of total solar irradiance that began with the ERB instrument in 1979 and has continued to the present with the ACRIM series of measurements. SORCE will also provide the measurements of the solar spectral irradiance from 1 nm to 2000 nm, accounting for 95% of the spectral contribution to the total solar irradiance. SORCE carries four instruments including the Total Irradiance Monitor (TIM), Solar Stellar Irradiance Comparison Experiment (SOLSTICE), Spectral Irradiance Monitor (SIM), and the XUV Photometer System (XPS).",
+        "json-uri": "http://dbpedia.org/data/Solar_Radiation_and_Climate_Experiment.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Resourcesat-1",
+        "abstract": "RESOURCESAT-1 (also known as IRS-P6) is an advanced remote sensing satellite built by Indian Space Research Organization. The tenth satellite of ISRO in IRS series, RESOURCESAT-1 is intended to not only continue the remote sensing data services provided by IRS-1C and IRS-1D, both of which have far outlived their designed mission lives, but also vastly enhance the data quality.",
+        "json-uri": "http://dbpedia.org/data/Resourcesat-1.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Soyuz_TMA-2",
+        "abstract": "Soyuz TMA-2 was a Soyuz (Russian Союз ТМА-2, Union TMA-2) mission to the International Space Station (ISS) launched by a Soyuz FG launch vehicle. The spacecraft docked with the ISS 2003-04-28 and undocked 2003-10-27.Soyuz TMA-2 was the second flight for the TMA modification of the Soyuz spacecraft, and the 6th Soyuz to fly to the ISS.The commander is Yuri Ivanovich Malenchenko (Russia), and flight engineer Edward Tsang Lu (USA), and after docking with the ISS they exchanged with the resident crew on ISS and became the seventh station crew, called \"ISS Expedition Seven\". Alexander Kaleri and Michael Foale were assigned as the backup crew.",
+        "json-uri": "http://dbpedia.org/data/Soyuz_TMA-2.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Eutelsat_33A",
+        "abstract": "Eutelsat 33A (formerly e-Bird and Eurobird 3) is a communications satellite that offers capacity for broadband and broadcast services in Europe. It is owned by Eutelsat.Positioned at 33° East, Eutelsat 33A is optimised for interactive broadband services, and also valued by broadcasters for occasional use and professional video services, and data networks like Estar by Technologie Satelitarne service.Its 20 Ku band transponders are connected to 4 spot beams over Europe and Turkey. These 4 beams overlap to allow hubs located in the hot spots of each beam to communicate with each other, thus ensuring highly effective pan-European coverage.",
+        "json-uri": "http://dbpedia.org/data/Eutelsat_33A.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M-48",
+        "abstract": "Progress M-48, identified by NASA as Progress 12 or 12P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M 11F615A55 spacecraft, with the serial number 248.Progress M-48 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 01:47:59 GMT on 29 August 2003. The spacecraft docked with the Aft port of the Zvezda module at 03:40:45 GMT on 31 August. It remained docked for five months before undocking at 08:35:56 GMT on 28 January 2004 to make way for Progress M1-11. It was deorbited at 13:11 GMT on the same day. The spacecraft burned up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 13:57:12 GMT.Progress M-48 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M-48.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Kosmos_2403",
+        "abstract": "Kosmos 2403 (Russian: Космос 2403 meaning Cosmos 2403) is one of a set of three Russian military satellites launched in 2003 as part of the GLONASS satellite navigation system. It was launched with Kosmos 2402 and Kosmos 2404.This satellite is a GLONASS satellite, also known as Uragan, and is numbered Uragan No. 795.Kosmos 2402/3/4 were launched from Site 81/24 at Baikonur Cosmodrome in Kazakhstan. A Proton-K carrier rocket with a Blok DM upper stage was used to perform the launch which took place at 17:42 UTC on 10 December 2003. The launch successfully placed the satellites into Medium Earth orbit. It subsequently received its Kosmos designation, and the international designator 2003-056C. The United States Space Command assigned it the Satellite Catalog Number 28114.It was in the first orbital plane in orbital slot 4. It is no longer part of the GLONASS constellation.",
+        "json-uri": "http://dbpedia.org/data/Kosmos_2403.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/USA-168",
+        "abstract": "USA-168, also known as GPS IIR-9 and GPS SVN-45, is an American navigation satellite which forms part of the Global Positioning System. It was the ninth Block IIR GPS satellite to be launched, out of thirteen in the original configuration, and twenty one overall. It was built by Lockheed Martin, using the AS-4000 satellite bus.USA-168 was launched at 22:09:01 UTC on 31 March 2003, atop a Delta II carrier rocket, flight number D297, flying in the 7925-9.5 configuration. The launch took place from Space Launch Complex 17A at the Cape Canaveral Air Force Station, and placed USA-168 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37FM apogee motor.By 3 April 2003, USA-168 was in an orbit with a perigee of 20,063 kilometres (12,467 mi), an apogee of 20,433 kilometres (12,696 mi), a period of 720.64 minutes, and 54.9 degrees of inclination to the equator. It is used to broadcast the PRN 21 signal, and operates in slot 3 of plane D of the GPS constellation. The satellite has a mass of 2,032 kilograms (4,480 lb), and a design life of 10 years. As of 2012 it remains in service.",
+        "json-uri": "http://dbpedia.org/data/USA-168.jsond",
+        "instrumentation": []
+    },
+    {
+        "uri": "http://dbpedia.org/page/Progress_M1-10",
+        "abstract": "Progress M1-10, identified by NASA as Progress 11 or 11P, was a Progress spacecraft used to resupply the International Space Station. It was a Progress-M1 11F615A55 spacecraft, with the serial number 259.Progress M1-10 was launched by a Soyuz-U carrier rocket from Site 1/5 at the Baikonur Cosmodrome. Launch occurred at 10:34 GMT on 8 June 2003. The spacecraft docked with the Pirs module at 11:14:53 GMT on 11 June. It remained docked for three months before undocking at 19:41:44 GMT on 4 September to make way for Soyuz TMA-3. Following undocking, it remained in orbit for a month, conducting an earth observation mission. It was deorbited at 11:26 GMT on 3 October, burning up in the atmosphere over the Pacific Ocean, with any remaining debris landing in the ocean at around 12:38:49 GMT.Progress M1-10 carried supplies to the International Space Station, including food, water and oxygen for the crew and equipment for conducting scientific research.",
+        "json-uri": "http://dbpedia.org/data/Progress_M1-10.jsond",
+        "instrumentation": []
+    }
+]

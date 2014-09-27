@@ -1,0 +1,164 @@
+[
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1001.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1001",
+        "abstract": "Kosmos 1001 (Russian: Космос 1001 meaning Cosmos 1001) was a redesigned Soviet Soyuz T spacecraft that failed an unmanned test in 1978. The spacecraft was the upgraded Soyuz for Salyut-6 and Salyut-7."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Progress_2.jsond",
+        "uri": "http://dbpedia.org/page/Progress_2",
+        "abstract": "Progress 2 was an unmanned Progress cargo spacecraft launched by the Soviet Union in 1978 to resupply the Salyut 6 space station. It used the Progress 7K-TG configuration, and was the second Progress mission to Salyut 6. It carried supplies for the EO-2 crew aboard Salyut 6, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_30.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_30",
+        "abstract": "Soyuz 30 (Russian: Союз 30, Union 30) was a 1978 manned Soviet space flight to the Salyut 6 space station. It was the sixth mission to and fifth successful docking at the orbiting facility. The Soyuz 30 crew were the first to visit the long-duration Soyuz 29 resident crew.Soyuz 30 carried Pyotr Klimuk and Mirosław Hermaszewski, the first Polish cosmonaut, aloft."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/OPS_5113.jsond",
+        "uri": "http://dbpedia.org/page/OPS_5113",
+        "abstract": "OPS 5113, also known as Navstar 3, GPS I-3 and GPS SVN-3, was an American navigation satellite launched in 1978 as part of the Global Positioning System development programme. It was the third of eleven Block I GPS satellites to be launched."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1030.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1030",
+        "abstract": "Kosmos 1030 (Russian: Космос 1030 meaning Cosmos 1030) was a Soviet US-K missile early warning satellite which was launched in 1978 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/OPS_5111.jsond",
+        "uri": "http://dbpedia.org/page/OPS_5111",
+        "abstract": "OPS 5111, also known as Navstar 1, NDS-1, GPS I-1 and GPS SVN-1, was an American navigation satellite launched in 1978 as part of the Global Positioning System development programme. It was the first GPS satellite to be launched, and one of eleven Block I demonstration satellites.OPS 5111 was launched at 23:44 UTC on 22 February 1978, atop an Atlas E/F carrier rocket with an SGS-1 upper stage. The Atlas used had the serial number 64F, and was originally built as an Atlas F. The launch took place from Space Launch Complex 3E at Vandenberg Air Force Base, and placed OPS 5111 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-27 apogee motor.By 11 April 1978, OPS 5111 was in an orbit with a perigee of 20,075 kilometres (12,474 mi), an apogee of 20,291 kilometres (12,608 mi), a period of 718 minutes, and 63.3 degrees of inclination to the equator. The satellite had a design life of 5 years and a mass of 758 kilograms (1,671 lb). It broadcast the PRN 04 signal in the GPS demonstration constellation, and was retired from service on 17 July 1985."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Landsat_3.jsond",
+        "uri": "http://dbpedia.org/page/Landsat_3",
+        "abstract": "Landsat 3 is the third satellite of the Landsat program. It was launched on March 5, 1978, with the primary goal of providing a global archive of satellite imagery (satellite data are called images and not photos because they are not just reflected light exposure, but recordings of radiative electromagnetic energy fluxes of surface materials). Unlike later Landsats, Landsat 3 was managed solely by NASA. Landsat 3 is no longer in operation, having been decommissioned on September 7, 1983, far beyond its designed life expectancy of one year."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Pioneer_Venus_Orbiter.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_Venus_Orbiter",
+        "abstract": "The Pioneer Venus Orbiter, also known as Pioneer Venus 1 or Pioneer 12 was a mission to Venus conducted as part of the Pioneer program. Launched in May 1978 atop an Atlas-Centaur rocket, the spacecraft was inserted into an elliptical orbit around Venus on December 4, 1978. It returned data on Venus until October of 1992."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/OPS_5114.jsond",
+        "uri": "http://dbpedia.org/page/OPS_5114",
+        "abstract": "OPS 5114, also known as Navstar 4, GPS I-4 and GPS SVN-4, was an American navigation satellite launched in 1978 as part of the Global Positioning System development programme. It was the fourth of eleven Block I GPS satellites to be launched."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/International_Ultraviolet_Explorer.jsond",
+        "uri": "http://dbpedia.org/page/International_Ultraviolet_Explorer",
+        "abstract": "The International Ultraviolet Explorer (IUE) was an astronomical observatory satellite primarily designed to take ultraviolet spectra. The satellite was a collaborative project between NASA, the UK Science Research Council and the European Space Agency (ESA). The mission was first proposed in early 1964, by a group of scientists in the United Kingdom, and was launched on January 26, 1978 aboard a NASA Delta rocket. The mission lifetime was initially set for 3 years, but in the end it lasted almost 18 years, with the satellite being shut down in 1996. The switch-off occurred for financial reasons, while the telescope was still functioning at near original efficiency.It was the first space observatory to be operated in real time by astronomers who visited the groundstations in the United States and Europe. Astronomers made over 104,000 observations using the IUE, of objects ranging from solar system bodies to distant quasars. Among the significant scientific results from IUE data were the first large scale studies of stellar winds, accurate measurements of the way interstellar dust absorbs light, and measurements of the supernova SN1987A which showed that it defied stellar evolution theories as they then stood. When the mission ended, it was considered the most successful astronomical satellite ever."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Heat_Capacity_Mapping_Mission.jsond",
+        "uri": "http://dbpedia.org/page/Heat_Capacity_Mapping_Mission",
+        "abstract": "The Heat Capacity Mapping Mission (HCMM) was the first Applications Explorer Mission. HCMM provided comprehensive, accurate, high-spatial-resolution thermal surveys of the surface of the Earth.HCCM was launched from Vandenberg Air Force Base on April 26, 1978 by a Scout-F rocket. Its mass was 117.0 kilograms (257.9 lb).The HCMM spacecraft was placed in a circular sun-synchronous orbit, allowing the spacecraft to sense surface temperatures near the maximum and minimum of the diurnal cycle. There was no on-board data storage capability, so only real-time data were transmitted when the satellite came within reception range of seven ground stations.During February 21–23, 1980, the HCMM orbital altitude was lowered from 620 km to 540 km to stop the drift of the orbit plane to unfavorable sun angles which in turn reduced the power collection capability of the solar panels. The operations of the spacecraft were terminated on September 30, 1980."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Pioneer_Venus_project.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_Venus_project",
+        "abstract": "The Pioneer Venus project was part of the Pioneer program, consisting of two spacecraft launched to Venus in 1978. The Pioneer Venus Orbiter continued to transmit data until October 1992 after entering orbit around Venus in 1978, while the Pioneer Venus Multiprobe deployed four small probes into the Venusian atmosphere before entering the atmosphere itself. The program was managed by NASA's Ames Research Center."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Progress_1.jsond",
+        "uri": "http://dbpedia.org/page/Progress_1",
+        "abstract": "Progress 1 was a Soviet unmanned Progress cargo spacecraft which was launched in 1978 to resupply the Salyut 6 space station. It was the maiden flight of the Progress spacecraft, and used the Progress 7K-TG configuration. It carried supplies for the EO-1 crew aboard Salyut 6, which consisted of Soviet cosmonauts Yuri Romanenko and Georgi Grechko. The cargo carried by Progress 1 also included equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Kosmos_1024.jsond",
+        "uri": "http://dbpedia.org/page/Kosmos_1024",
+        "abstract": "Kosmos 1024 (Russian: Космос 1024 meaning Cosmos 1024) was a Soviet US-K missile early warning satellite which was launched in 1978 as part of the Soviet military's Oko programme. The satellite was designed to identify missile launches using optical telescopes and infrared sensors.Kosmos 1024 was launched from Site 43/3 at Plesetsk Cosmodrome in the Russian SSR. A Molniya-M carrier rocket with a 2BL upper stage was used to perform the launch, which took place at 02:59 UTC on 28 June 1978. The launch successfully placed the satellite into a molniya orbit. It subsequently received its Kosmos designation, and the international designator 1978-066A. The United States Space Command assigned it the Satellite Catalog Number 10970.Podvig says that moved from its orbital position in October 1979."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Seasat.jsond",
+        "uri": "http://dbpedia.org/page/Seasat",
+        "abstract": "Seasat was the first Earth-orbiting satellite designed for remote sensing of the Earth's oceans and had on board the first spaceborne synthetic aperture radar (SAR). The mission was designed to demonstrate the feasibility of global satellite monitoring of oceanographic phenomena and to help determine the requirements for an operational ocean remote sensing satellite system. Specific objectives were to collect data on sea-surface winds, sea-surface temperatures, wave heights, internal waves, atmospheric water, sea ice features and ocean topography. Seasat was managed by NASA's Jet Propulsion Laboratory and was launched on 27 June 1978 into a nearly circular 800 km orbit with an inclination of 108°. Seasat operated for 106 days until 10 October 1978, when a massive short circuit in the satellite's electrical system ended the mission.Seasat carried five major instruments designed to return the maximum information from ocean surfaces: Radar altimeter to measure spacecraft height above the ocean surface Microwave scatterometer to measure wind speed and direction Scanning multichannel microwave radiometer to measure sea surface temperature Visible and infrared radiometer to identify cloud, land and water features Synthetic Aperture Radar (SAR) L-band, HH polarization, fixed look angle to monitor the global surface wave field and polar sea ice conditions {the antenna is the light parallelogram in the picture}. The SAR support structure was designed and manufactured by Northrop Grumman Astro Aerospace in Carpinteria, CA. The structure deployed on orbit.Many later remote sensing missions owe their legacy to Seasat. These include imaging radars flown on NASA's Space Shuttle, altimeters on Earth-orbiting satellites such as TOPEX/Poseidon, and scatterometers on NASA Scatterometer (NSCAT), QuikSCAT, and Jason 1."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Venera_12.jsond",
+        "uri": "http://dbpedia.org/page/Venera_12",
+        "abstract": "The Venera 12 (Russian: Венера-12 meaning Venus 12) was an USSR unmanned space mission to explore the planet Venus. Venera 12 was launched on 14 September 1978 at 02:25:13 UTC.Separating from its flight platform on December 19, 1978, the lander entered the Venus atmosphere two days later at 11.2 km/s. During the descent, it employed aerodynamic braking followed by parachute braking and ending with atmospheric braking. It made a soft landing on the surface at 06:30 Moscow time (0330 UT) on 21 December after a descent time of approximately 1 hour. The touchdown speed was 7–8 m/s. Landing coordinates are 7°S 294°E. It transmitted data to the flight platform for 110 minutes after touchdown until the flight platform moved out of range. Identical instruments were carried on Venera 11 and 12."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_31.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_31",
+        "abstract": "Soyuz 31 (Russian: Союз 31, Union 31) was a 1978 Soviet manned space flight to the Salyut 6 space station. It was the seventh mission to and sixth successful docking at the orbiting facility. The Soyuz 31 crew were the second to visit the long-duration Soyuz 29 resident crew.Soyuz 31 carried Valery Bykovsky and Sigmund Jähn, the first German cosmonaut, into space. They swapped Soyuz craft with the long-duration crew and returned to earth in Soyuz 29, the resident crew returned to earth in Soyuz 31."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_27.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_27",
+        "abstract": "Soyuz 27 (Russian: Союз 27, Union 27) was a 1978 Soviet manned spacecraft which flew to the orbiting Salyut 6 space station, during the mission EP-1. It was the third manned flight to the station, and the second successful docking. Once docked, it marked the first time that three spacecraft were docked together.The main function of the EP-1 mission was to swap Soyuz craft with the orbiting crew, in so doing freeing a docking port for a forthcoming supply tanker. Cosmonauts Vladimir Dzhanibekov and Oleg Makarov returned to earth in the Soyuz 26 spacecraft after spending five days on the station."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_28.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_28",
+        "abstract": "Soyuz 28 (Russian: Союз 28, Union 28) was a 1978 Soviet manned mission to the orbiting Salyut 6 space station. It was the fourth mission to the station, the third successful docking, and the second visit to the resident crew launched in Soyuz 26.Cosmonaut Vladimír Remek from Czechoslovakia became the first person launched into space who was not a citizen of the United States or the Soviet Union. The other crew member was Aleksei Gubarev. The flight was the first mission in the Intercosmos program that gave Eastern Bloc and other communist states access to space through manned and unmanned launches."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Venera_11.jsond",
+        "uri": "http://dbpedia.org/page/Venera_11",
+        "abstract": "The Venera 11 (Russian: Венера-11 meaning Venus 11) was a USSR unmanned space mission part of the Venera program to explore the planet Venus. Venera 11 was launched on 9 September 1978 at 3:25:39 UTC.Separating from its flight platform on December 23, 1978 the lander entered the Venus atmosphere two days later on December 25 at 11.2 km/s. During the descent, it employed aerodynamic braking followed by parachute braking and ending with atmospheric braking. It made a soft landing on the surface at 06:24 Moscow time (0324 UT) on 25 December after a descent time of approximately 1 hour. The touchdown speed was 7 to 8 m/s. Information was transmitted to the flight platform for retransmittal to earth until it moved out of range 95 minutes after touchdown. Landing coordinates are 14°S 299°E."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/International_Cometary_Explorer.jsond",
+        "uri": "http://dbpedia.org/page/International_Cometary_Explorer",
+        "abstract": "The International Cometary Explorer (ICE) spacecraft was originally known as International Sun/Earth Explorer 3 (ISEE-3) satellite, launched August 12, 1978. It was part of the ISEE (International Sun-Earth Explorer) international cooperative program between NASA and ESRO/ESA to study the interaction between the Earth's magnetic field and the solar wind. The program used three spacecraft, a mother/daughter pair (ISEE-1 and ISEE-2) and a Heliocentric orbit spacecraft (ISEE-3, later renamed ICE).ISEE-3 was the first spacecraft to be placed in a halo orbit at one of Earth-Sun Lagrangian points (L1). It was later (as ICE) sent to visit Comet Giacobini-Zinner and became the first spacecraft to do so by flying through a comet's tail passing the nucleus at a distance of approximately 7800 km. ICE was not equipped with cameras."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Einstein_Observatory.jsond",
+        "uri": "http://dbpedia.org/page/Einstein_Observatory",
+        "abstract": "Einstein Observatory (HEAO-2) was the first fully imaging X-ray telescope put into space and the second of NASA's three High Energy Astrophysical Observatories. Named HEAO B before launch, the observatory's name was changed to honor Albert Einstein upon its successfully attaining orbit."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/OPS_5112.jsond",
+        "uri": "http://dbpedia.org/page/OPS_5112",
+        "abstract": "OPS 5112, also known as Navstar 2, NDS-2, GPS I-2 and GPS SVN-2, was an American navigation satellite launched in 1978 as part of the Global Positioning System development programme. It was the second of eleven Block I GPS satellites to be launched.OPS 5112 was launched at 10:34 UTC on 13 May 1978, atop an Atlas E/F carrier rocket with an SGS-1 upper stage. The Atlas used had the serial number 49F, and was originally built as an Atlas F. The launch took place from Space Launch Complex 3E at Vandenberg Air Force Base, and placed OPS 5112 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-27 apogee motor.By 20 June 1978, OPS 5112 was in an orbit with a perigee of 20,056 kilometres (12,462 mi), an apogee of 20,195 kilometres (12,549 mi), a period of 715.67 minutes, and 63.1 degrees of inclination to the equator. The satellite had a design life of 5 years and a mass of 758 kilograms (1,671 lb). It broadcast the PRN 07 signal in the GPS demonstration constellation, and was retired from service in early-mid February 1988."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Pioneer_Venus_Multiprobe.jsond",
+        "uri": "http://dbpedia.org/page/Pioneer_Venus_Multiprobe",
+        "abstract": "The Pioneer Venus Multiprobe, also known as Pioneer Venus 2 or Pioneer 13 was a spacecraft launched in 1978 to explore Venus as part of NASA's Pioneer program."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/GOES_3.jsond",
+        "uri": "http://dbpedia.org/page/GOES_3",
+        "abstract": "GOES 3, known as GOES-C before becoming operational, is an American geostationary weather and communications satellite. It was originally built for the National Oceanic and Atmospheric Administration as part of the Geostationary Operational Environmental Satellite system, and was launched in June 1978. It is positioned in geostationary orbit, from where it was initially used for weather forecasting in the United States. Since ceasing to function as a weather satellite in 1989, it has been used as a communications satellite, and having spent over thirty one years in operation, it is one of the oldest functioning satellites in orbit.GOES 3 was built by Ford Aerospace, and is based around the satellite bus developed for the SMS programme. At launch it had a mass of 627 kilograms (1,382 lb)."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Progress_3.jsond",
+        "uri": "http://dbpedia.org/page/Progress_3",
+        "abstract": "Progress 3 was an unmanned Progress cargo spacecraft launched by the Soviet Union in 1978 to resupply the Salyut 6 space station. It used the Progress 7K-TG configuration, and was the third Progress mission to Salyut 6. It carried supplies for the EO-2 crew aboard Salyut 6, as well as equipment for conducting scientific research, and fuel for adjusting the station's orbit and performing manoeuvres."
+    },
+    {
+        "instrumentation": [],
+        "json-uri": "http://dbpedia.org/data/Soyuz_29.jsond",
+        "uri": "http://dbpedia.org/page/Soyuz_29",
+        "abstract": "Soyuz 29 (Russian: Союз 29, Union 29) was a 1978 manned Soviet space mission to the Salyut 6 space station. It was the fifth mission, the fourth successful docking, and the second long-duration crew for the orbiting station. Commander Vladimir Kovalyonok and flight engineer Aleksandr Ivanchenkov established a new space-endurance record of 139 days.The crew returned in Soyuz 31, which had been swapped by a crew launched in August who returned in Soyuz 29."
+    }
+]
