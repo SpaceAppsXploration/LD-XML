@@ -1,9 +1,11 @@
-LD in Chronos LD architecture are defined using these namespaces:
+<h2>LD in Chronos LD architecture are defined using these namespaces:</h2>
 - rdf (trying to avoid rdfs)
 - skos (main usage)
 - owl (only some specific properties)
 
-Divisions:
+Here's how divisions, subjects and terms are defined as taken from NASA-STI Subjects and Scopes.
+
+**Divisions:**<br/>
 divisions as defined in NASA-STI taxonomy
 
 example:
@@ -26,7 +28,7 @@ example:
     </skos:Concept>
 
 
-Subjects:
+**Subjects:**<br/>
 subjects as defined in NASA-STI taxonomy
 
 example:
@@ -61,7 +63,7 @@ example:
 
 
 
-Terms:
+**Terms:**<br/>
 terms (keywords) as defined in NASA-STI taxonomy
 
 example:
