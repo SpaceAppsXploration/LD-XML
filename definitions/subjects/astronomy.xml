@@ -12,7 +12,7 @@
 
         <skos:prefLabel xml:lang="en">astronomy</skos:prefLabel>
 
-        <skos:scopeNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 

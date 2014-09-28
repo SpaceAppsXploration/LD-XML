@@ -13,7 +13,7 @@
         <skos:prefLabel xml:lang="en">solar physics</skos:prefLabel>
         <skos:altLabel xml:lang="en">Sun</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: All facets of solar physics.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive: All facets of solar physics.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 

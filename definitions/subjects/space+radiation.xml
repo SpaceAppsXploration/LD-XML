@@ -14,7 +14,7 @@
         <skos:altLabel xml:lang="en">cosmic rays</skos:altLabel>
         <skos:altLabel xml:lang="en">cosmic radiation</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: All facets of space radiation.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive: All facets of space radiation.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+radiation#"/>
 

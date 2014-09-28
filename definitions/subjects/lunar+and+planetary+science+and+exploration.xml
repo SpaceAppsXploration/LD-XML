@@ -15,7 +15,7 @@
         <skos:altLabel xml:lang="en">planet</skos:altLabel>
         <skos:altLabel xml:lang="en">exoplanet</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive": All facets of lunar and planetary sciences, and manned, unmanned, or remote exploration of planets and their structure, including planets within the solar system or elsewhere within the universe.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive": All facets of lunar and planetary sciences, and manned, unmanned, or remote exploration of planets and their structure, including planets within the solar system or elsewhere within the universe.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 

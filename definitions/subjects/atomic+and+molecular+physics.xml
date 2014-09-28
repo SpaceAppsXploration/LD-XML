@@ -14,9 +14,9 @@
         <skos:altLabel xml:lang="en">atomic physics</skos:altLabel>
         <skos:altLabel xml:lang="en">molecular physics</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: The basic theories and formulas of atomic and molecular physics as they relate to aeronautics, astronautics, and aerospace sciences. Those elements of atomic and molecular physics that have actual or potential application to the aerospace program;
+        <skos:editorialNote>Exhaustive: The basic theories and formulas of atomic and molecular physics as they relate to aeronautics, astronautics, and aerospace sciences. Those elements of atomic and molecular physics that have actual or potential application to the aerospace program;
                   Selective: Those applications of atomic and molecular science that have potential use to the aerospace sciences;
-                  Negative: Basic theories and formulas of atomic and molecular physics that have no application to the aerospace sciences.</skos:scopeNote>
+                  Negative: Basic theories and formulas of atomic and molecular physics that have no application to the aerospace sciences.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 

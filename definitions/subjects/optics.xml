@@ -13,9 +13,9 @@
         <skos:prefLabel xml:lang="en">optics</skos:prefLabel>
         <skos:altLabel xml:lang="en">optical</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
+        <skos:editorialNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
                   Selective: Optics and light phenomena with potential aerospace use;
-                  Negative: Industrial, commercial, and household applications of optics and light phenomena, lenses, and eyeglasses.</skos:scopeNote>
+                  Negative: Industrial, commercial, and household applications of optics and light phenomena, lenses, and eyeglasses.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 

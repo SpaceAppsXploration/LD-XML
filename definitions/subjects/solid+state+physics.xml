@@ -12,9 +12,9 @@
 
         <skos:prefLabel xml:lang="en">solid state physics</skos:prefLabel>
 
-        <skos:scopeNote>Exhaustive: All facets of solid-state physics and the solid-state effects in electrical and electronic devices as they relate to aeronautics, astronautics, and aerospace sciences;
+        <skos:editorialNote>Exhaustive: All facets of solid-state physics and the solid-state effects in electrical and electronic devices as they relate to aeronautics, astronautics, and aerospace sciences;
                   Selective: Commercial applications of solid-state physics that might have a potential for use in aerospace applications;
-                  Negative: Solid-state physics with no application to aerospace science.</skos:scopeNote>
+                  Negative: Solid-state physics with no application to aerospace science.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
