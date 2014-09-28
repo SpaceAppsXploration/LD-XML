@@ -18,9 +18,9 @@
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+radiation#"/>
 
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Health_threat_from_cosmic_rays"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Health_threat_from_cosmic_rays"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.health+threat+from+cosmic+rays"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.cosmic_ray"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.cosmic_ray"/>
 
         <skos:related rdf:seeAlso="https://www.freebase.com/m/0ctpn"/> <!-- cosmic ray -->
         <skos:related rdf:seeAlso="https://www.freebase.com/m/03d2v06"/> <!--  -->

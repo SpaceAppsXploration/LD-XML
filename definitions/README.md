@@ -21,8 +21,8 @@ example:
         <skos:narrower rdf:resource="http://mydomain.com/subjects/instrumentation+and+photography#"/>
     
         <!-- URIs of synonyms resources from DBpedia, Freebase and Wikidata -->
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Engineering"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Engineering"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
     
     </skos:Concept>
 
@@ -47,9 +47,9 @@ example:
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
     
         <!-- URIs of synonyms resources (RDF) from DBpedia, Freebase and Wikidata -->
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Astronomy"/>
-        <skos:closeMatch rdf:resource="https://www.wikidata.org/wiki/Q333"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Astronomy"/>
+        <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q333"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
     
         <!-- URIs of related resources (RDF) from DBpedia, Freebase and Wikidata -->
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
@@ -80,8 +80,8 @@ example:
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
         <!-- URIs of synonyms resources (RDF) from DBpedia, Freebase and Wikidata -->
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Infrared_telescope"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_telescope"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Infrared_telescope"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_telescope"/>
 
         <!-- URIs of other resources (can be non-RDF also) related to the concept -->
         <skos:related rdf:seeAlso="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->

@@ -15,8 +15,8 @@
 
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Asteroid"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.asteroid"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Asteroid"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.asteroid"/>
 
         <skos:related rdf:seeAlso="http://dbpedia.org/page/Asteroid_belt"/> <!-- asteroid belt -->
         <skos:related rdf:seeAlso="http://rdf.freebase.com/ns/en.asteroid_belt"/>

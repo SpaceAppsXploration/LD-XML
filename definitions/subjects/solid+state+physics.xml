@@ -18,8 +18,8 @@
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Solid-state_physics"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.solid-state_physics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Solid-state_physics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.solid-state_physics"/>
 
         <skos:related rdf:seeAlso="https://www.freebase.com/m/0pzvq"/>
 

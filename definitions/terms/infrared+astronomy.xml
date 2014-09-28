@@ -13,7 +13,7 @@
         <!-- no skos:scopeNote definition -->
 
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
-        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_astronomy"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_astronomy"/>
 
         <skos:related rdf:resource="http://dbpedia.org/page/Infrared"/>
         <skos:related rdf:seeAlso="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
