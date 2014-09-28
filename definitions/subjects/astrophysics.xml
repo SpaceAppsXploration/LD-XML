@@ -21,7 +21,7 @@
         <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.astrophysics"/>
         <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q37547"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/01_j8n"/> <!-- astrophysics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/01_j8n"/> <!-- astrophysics -->
 
 
     </skos:Concept>

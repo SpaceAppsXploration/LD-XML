@@ -21,7 +21,7 @@
         <skos:exactMatch rdf:resource="http://dbpedia.org/page/Physics"/>
         <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.physics"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/05qjt"/>
+        <skos:related rdf:resource="https://www.freebase.com/m/05qjt"/>
 
     </skos:Concept>
 

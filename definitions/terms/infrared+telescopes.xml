@@ -18,9 +18,9 @@
         <skos:exactMatch rdf:resource="http://dbpedia.org/page/Infrared_telescope"/>
         <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_telescope"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/03z8m"/> <!-- infrared spectroscopy -->
+        <skos:related rdf:resource="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
+        <skos:related rdf:resource="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
+        <skos:related rdf:resource="https://www.freebase.com/m/03z8m"/> <!-- infrared spectroscopy -->
 
     </skos:Concept>
 

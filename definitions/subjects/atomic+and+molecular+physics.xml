@@ -25,8 +25,8 @@
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.molecular_physics"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.atomic_physics"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/0mxq"/> <!-- atomic physics -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/031z81"/> <!-- molecular physics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/0mxq"/> <!-- atomic physics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/031z81"/> <!-- molecular physics -->
 
 
     </skos:Concept>

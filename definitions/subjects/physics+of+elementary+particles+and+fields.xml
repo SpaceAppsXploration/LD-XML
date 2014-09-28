@@ -23,8 +23,8 @@
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.elementary_particle"/>
 
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/05skl"/> <!-- particle physics -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/02__0"/> <!-- elementary particle -->
+        <skos:related rdf:resource="https://www.freebase.com/m/05skl"/> <!-- particle physics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/02__0"/> <!-- elementary particle -->
 
     </skos:Concept>
 
