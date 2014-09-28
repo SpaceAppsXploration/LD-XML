@@ -54,7 +54,8 @@ example:
         <!-- URIs of closely related resources (RDF) from DBpedia, Freebase and Wikidata -->
         <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
     
-        <!-- URIs of other resources (can be non-RDF also) related to the concept -->
+        <!-- URIs of other resources (non-RDF) related to the concept.
+        For RDF format use skos:relatedMatch instead of skos:related -->
         <skos:related rdf:resource="https://www.freebase.com/m/0dc_v"/> <!-- astronomy -->
         <skos:related rdf:resource="https://www.freebase.com/m/03n1_"/> <!-- history of astronomy -->
     
@@ -86,7 +87,8 @@ example:
         <!-- URIs of closely related resources (RDF) from DBpedia, Freebase and Wikidata -->
         <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared"/>
         
-        <!-- URIs of other resources (can be non-RDF also) related to the concept -->
+        <!-- URIs of other resources (non-RDF) related to the concept.
+        For RDF format use skos:relatedMatch instead of skos:related -->
         <skos:related rdf:resource="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
         <skos:related rdf:resource="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->
         <skos:related rdf:resource="https://www.freebase.com/m/03z8m"/> <!-- infrared spectroscopy -->
