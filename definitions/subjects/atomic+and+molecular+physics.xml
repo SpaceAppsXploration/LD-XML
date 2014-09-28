@@ -3,8 +3,7 @@
 <!-- Definition of Category Atomic and Molecular Physics -->
 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/subjects/atomic+and+molecular+physics">
@@ -21,7 +20,7 @@
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:related owl:sameAs="http://dbpedia.org/page/Molecular_physics"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Molecular_physics"/>
         <skos:related rdf:resource="http://dbpedia.org/page/Atomic_physics"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.molecular_physics"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.atomic_physics"/>

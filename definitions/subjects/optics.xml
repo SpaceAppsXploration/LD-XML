@@ -3,8 +3,7 @@
 <!-- Definition of Category Optics -->
 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/subjects/optics">
@@ -20,8 +19,8 @@
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:related owl:sameAs="http://dbpedia.org/page/Optics"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.optics"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Optics"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.optics"/>
 
         <skos:related rdf:seeAlso="https://www.freebase.com/m/05mn2"/> <!-- Optics -->
 

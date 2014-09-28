@@ -3,8 +3,7 @@
 <!-- Definition of division: physics -->
 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/divisions/engineering">
@@ -15,8 +14,8 @@
 
         <skos:narrower rdf:resource="http://mydomain.com/subjects/instrumentation+and+photography#"/>
 
-        <skos:related owl:sameAs="http://dbpedia.org/page/Engineering"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.engineering"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Engineering"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
 
     </skos:Concept>
 

@@ -3,8 +3,7 @@
 <!-- Definition of Category Astronomy -->
         
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/subjects/astronomy">
@@ -18,9 +17,9 @@
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
-        <skos:related owl:sameAs="http://dbpedia.org/page/Astronomy"/>
-        <skos:related owl:sameAs="https://www.wikidata.org/wiki/Q333"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.astronomy"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Astronomy"/>
+        <skos:closeMatch rdf:resource="https://www.wikidata.org/wiki/Q333"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
 
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
 

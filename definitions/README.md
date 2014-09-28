@@ -1,7 +1,6 @@
 <h2>LD in Chronos LD architecture are defined using these namespaces:</h2>
 - rdf (trying to avoid rdfs)
 - skos (main usage)
-- owl (only some specific properties)
 
 Here's how divisions, subjects and terms are defined as taken from NASA-STI Subjects and Scopes.
 
@@ -22,8 +21,8 @@ example:
         <skos:narrower rdf:resource="http://mydomain.com/subjects/instrumentation+and+photography#"/>
     
         <!-- URIs of synonyms resources from DBpedia, Freebase and Wikidata -->
-        <skos:related owl:sameAs="http://dbpedia.org/page/Engineering"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.engineering"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Engineering"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
     
     </skos:Concept>
 
@@ -48,9 +47,9 @@ example:
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
     
         <!-- URIs of synonyms resources (RDF) from DBpedia, Freebase and Wikidata -->
-        <skos:related owl:sameAs="http://dbpedia.org/page/Astronomy"/>
-        <skos:related owl:sameAs="https://www.wikidata.org/wiki/Q333"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.astronomy"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Astronomy"/>
+        <skos:closeMatch rdf:resource="https://www.wikidata.org/wiki/Q333"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
     
         <!-- URIs of related resources (RDF) from DBpedia, Freebase and Wikidata -->
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
@@ -81,8 +80,8 @@ example:
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
         <!-- URIs of synonyms resources (RDF) from DBpedia, Freebase and Wikidata -->
-        <skos:related owl:sameAs="http://dbpedia.org/page/Infrared_telescope"/>
-        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.infrared_telescope"/>
+        <skos:closeMatch rdf:resource="http://dbpedia.org/page/Infrared_telescope"/>
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.infrared_telescope"/>
 
         <!-- URIs of other resources (can be non-RDF also) related to the concept -->
         <skos:related rdf:seeAlso="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
