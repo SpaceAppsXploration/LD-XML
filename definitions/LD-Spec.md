@@ -6,8 +6,10 @@ LD in Chronos LD architecture are defined using these namespaces:
 Divisions:
 divisions as defined in NASA-STI taxonomy
 
-example
+example:
+
     <!-- each division is a SKOS Concept -->
+    
     <skos:Concept rdf:about="http://mydomain.com/divisions/engineering">
     
         <skos:definition> Includes engineering (general); communications and radar; electronics and electrical engineering;... </skos:definition>
@@ -28,7 +30,9 @@ Subjects:
 subjects as defined in NASA-STI taxonomy
 
 example:
+
     <!-- each subject is a SKOS Concept -->
+    
     <skos:Concept rdf:about="http://mydomain.com/subjects/astronomy">
     
         <skos:definition>Includes observations of celestial bodies; astronomical instruments and techniques; radio, gamma-ray, x-ray, ultraviolet, and infrared astronomy; and astrometry.</skos:definition>
@@ -61,7 +65,9 @@ Terms:
 terms (keywords) as defined in NASA-STI taxonomy
 
 example:
+
     <!-- each term is a SKOS Concept -->
+    
     <skos:Concept rdf:about="http://mydomain.com/terms/infrared+telescopes">
 
         <skos:prefLabel xml:lang="en">infrared telescopes</skos:prefLabel>
