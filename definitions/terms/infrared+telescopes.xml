@@ -3,7 +3,8 @@
 <!-- Definition of Keyword infrared telescopes -->
 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/terms/infrared+telescopes">
@@ -11,12 +12,12 @@
         <skos:prefLabel xml:lang="en">infrared telescopes</skos:prefLabel>
         <skos:altLabel xml:lang="en">infrared telescope</skos:altLabel>
 
-        <skos:scopeNote></skos:scopeNote>
+        <!-- no skos:scopeNote definition -->
 
         <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Infrared_telescope"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.infrared_telescope"/>
+        <skos:related owl:sameAs="http://dbpedia.org/page/Infrared_telescope"/>
+        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.infrared_telescope"/>
 
         <skos:related rdf:seeAlso="https://www.freebase.com/m/02qkxqz"/> <!-- infrared telescope -->
         <skos:related rdf:seeAlso="https://www.freebase.com/m/0flvd"/> <!-- infrared astronomy -->

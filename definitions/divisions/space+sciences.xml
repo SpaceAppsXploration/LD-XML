@@ -3,7 +3,8 @@
 <!-- Definition of division space sciences -->
 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
 
 
     <skos:Concept rdf:about="http://mydomain.com/divisions/space+sciences">
@@ -19,8 +20,8 @@
         <skos:narrower rdf:resource="http://mydomain.com/lunar+and+planetary+science+and+exploration#"/>
         <skos:narrower rdf:resource="http://mydomain.com/space+radiation#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Outline_of_space_science"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.space_science"/>
+        <skos:related owl:sameAs="http://dbpedia.org/page/Outline_of_space_science"/>
+        <skos:related owl:sameAs="http://rdf.freebase.com/ns/en.space_science"/>
 
     </skos:Concept>
 
