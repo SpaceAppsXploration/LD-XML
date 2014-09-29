@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "Aug 6, 2014 ... ... using radio waves between the Earth and the satellite, and between ... and Gravity Recovery and Interior Laboratory (GRAIL) from the USA.", 
-        "link": "http://www.isas.jaxa.jp/e/topics/2014/0806.shtml", 
-        "title": "ISAS | Still hot inside the Moon: Tidal heating in the deepest part of ..."
-    }
-]

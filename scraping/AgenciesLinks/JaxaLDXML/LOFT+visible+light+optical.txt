@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "Large X-Ray Flares of MRK 421 : 11th European VLBI .... Instrumentation 2012: Optical, Infrared, and Millimeter .... LOFT: the Large Observatory For X-ray.", 
-        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
-        "title": "4．外部の国内，国際会議等に発表のもの"
-    }
-]
