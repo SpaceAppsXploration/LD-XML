@@ -1,0 +1,68 @@
+/*
+* Example for a Subject
+* (JSON doesnt support comments, this is just an example)
+ */
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "skos": "http://www.w3.org/2004/02/skos/core#"
+  },
+
+  "@id":"http://mydomain.com/astronomy",
+  "@language": "en",
+  "@type": "skos:Concept",
+
+  "skos:prefLabel": { // this is the name of the subject
+    "@value": "astronomy",
+    "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:altLabel": {
+    "@value": "astronomical",
+    "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:editorialNote": { // this is how the subject is described in NASA-STI
+    "@value": "Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio...",
+    "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:broader": [ // this is the division which the concept is narrower element
+    {
+      "@value": "http://mydomain.com/divisions/space+sciences#",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+    }
+  ],
+
+  "skos:closeMatch": [ // this is URI to connected argument
+     {
+       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+       "@value": "http://rdf.freebase.com/ns/en.history_of_astronomy"
+     }
+  ],
+
+  "skos:exactMatch": [ // these are definitions in other knowledge bade
+       {
+         "@value": "http://dbpedia.org/page/astronomy#",
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       },
+       {
+         "@value": "http://rdf.freebase.com/ns/en.astronomy",
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       }
+  ],
+
+  "rdf:related": [ // these are related URLs
+       {
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+         "@value": "https://www.freebase.com/m/0dc_v"
+
+       },
+       {
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+         "@value": "https://www.freebase.com/m/03n1_"
+       }
+  ]
+
+}
