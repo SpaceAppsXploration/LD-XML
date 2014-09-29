@@ -1,0 +1,116 @@
+
+EXAMPLE JSON-LD (http://json-ld.org/playground/index.html)
+
+VERSION 1
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "skos": "http://www.w3.org/2004/02/skos/core#"
+  },
+  "@id":"http://mydomain.com/astronomy",
+  "@language": "en",
+  "@type": "skos:Concept",
+  "skos:prefLabel": {
+        "@value": "astronomy",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+  "skos:altLabel": {
+        "@value": "astronomical",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+  "skos:editorialNote": {
+        "@value": "Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio...",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:broader": [
+    {
+      "@value": "http://mydomain.com/divisions/space+sciences#",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+    }
+  ],
+
+  "skos:closeMatch": [
+     {
+       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+       "@value": "http://rdf.freebase.com/ns/en.history_of_astronomy"
+     }
+  ],
+
+  "skos:exactMatch": [
+       {
+         "@value": "http://dbpedia.org/page/astronomy#",
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       },
+       {
+         "@value": "http://rdf.freebase.com/ns/en.astronomy",
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       }
+  ],
+
+  "rdf:related": [
+       {
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+         "@value": "https://www.freebase.com/m/0dc_v"
+
+       },
+       {
+         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+         "@value": "https://www.freebase.com/m/03n1_"
+       }
+
+  ]
+
+
+}
+
+
+VERSION 2
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "skos": "http://www.w3.org/2004/02/skos/core#"
+  },
+  "@id":"http://mydomain.com/astronomy",
+  "@language": "en",
+  "@type": "skos:Concept",
+  "skos:prefLabel": {
+        "@value": "astronomy",
+        "@type": "http://www.w3.org/TR/xmlschema11-2/#string"
+  },
+  "skos:altLabel": {
+        "@value": "astronomical",
+        "@type": "http://www.w3.org/TR/xmlschema11-2/#string"
+  },
+  "skos:editorialNote": {
+        "@value": "Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio...",
+        "@type": "http://www.w3.org/TR/xmlschema11-2/#string"
+  },
+
+  "skos:broader": {
+    "rdf:resource": {
+      "@value": "http://mydomain.com/divisions/space+sciences#"
+
+    }
+  },
+
+  "skos:closeMatch": {
+        "rdf:resource": ["http://rdf.freebase.com/ns/en.history_of_astronomy"]
+  },
+
+  "skos:exactMatch": [
+       "http://dbpedia.org/page/astronomy#",
+       "http://rdf.freebase.com/ns/en.astronomy"
+  ],
+
+  "rdf:related": [
+       "https://www.freebase.com/m/0dc_v",
+       "https://www.freebase.com/m/03n1_"
+  ]
+
+
+}
+
+

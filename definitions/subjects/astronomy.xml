@@ -11,17 +11,20 @@
         <skos:definition>Includes observations of celestial bodies; astronomical instruments and techniques; radio, gamma-ray, x-ray, ultraviolet, and infrared astronomy; and astrometry.</skos:definition>
 
         <skos:prefLabel xml:lang="en">astronomy</skos:prefLabel>
+        <skos:altLabel xml:lang="en">astronomical</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive Interest : Except for astrophysics, all facets of astronomy including radio and gamma-ray astronomy, observations of celestial bodies, their structure, motions, and locations.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Astronomy"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Astronomy"/>
+        <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q333"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.astronomy"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/0dc_v"/> <!-- astronomy -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/03n1_"/> <!-- history of astronomy -->
+        <skos:closeMatch rdf:resource="http://rdf.freebase.com/ns/en.history_of_astronomy"/>
+
+        <skos:related rdf:resource="https://www.freebase.com/m/0dc_v"/> <!-- astronomy -->
+        <skos:related rdf:resource="https://www.freebase.com/m/03n1_"/> <!-- history of astronomy -->
 
     </skos:Concept>
 

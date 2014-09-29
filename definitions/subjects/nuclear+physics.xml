@@ -14,16 +14,16 @@
         <skos:altLabel xml:lang="en">atom</skos:altLabel>
         <skos:altLabel xml:lang="en">nucleus</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: The basic theories and formulas of nuclear physics and testing and research equipment to support these developments as they relate to aeronautics, astronautics, and aerospace sciences;
+        <skos:editorialNote>Exhaustive: The basic theories and formulas of nuclear physics and testing and research equipment to support these developments as they relate to aeronautics, astronautics, and aerospace sciences;
                   Selective: Those applications of nuclear physics that may be of use to the aerospace program, e.g., propulsion systems and power sources, suitable for aerospace use;
-                  Negative: Large, commercial nuclear reactor applications; ship propulsion reactors.</skos:scopeNote>
+                  Negative: Large, commercial nuclear reactor applications; ship propulsion reactors.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Nuclear_physics"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.nuclear_physics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Nuclear_physics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.nuclear_physics"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/05bjy"/>
+        <skos:related rdf:resource="https://www.freebase.com/m/05bjy"/>
 
     </skos:Concept>
 

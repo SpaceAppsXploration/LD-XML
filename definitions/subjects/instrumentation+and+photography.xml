@@ -14,19 +14,19 @@
         <skos:altLabel xml:lang="en">instrumentation</skos:altLabel>
         <skos:altLabel xml:lang="en">imaging</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: Design, development, installation, and use of devices for detecting, measuring, recording, telemetering, processing, or analyzing values or quantities related to aeronautical or space flight; the environment within or outside the flight vehicle; the physical operation and well being of the flight vehicle and its structure during all phases of flight; the facilities for testing and/or developing the flight vehicle; the observations and experiments performed as a result of the flight of these vehicles;
+        <skos:editorialNote>Exhaustive: Design, development, installation, and use of devices for detecting, measuring, recording, telemetering, processing, or analyzing values or quantities related to aeronautical or space flight; the environment within or outside the flight vehicle; the physical operation and well being of the flight vehicle and its structure during all phases of flight; the facilities for testing and/or developing the flight vehicle; the observations and experiments performed as a result of the flight of these vehicles;
                   Selective: Instrument design, development, and theory for other purposes that have potential aerospace applications because of advanced or unusual features, or are developed for extreme environments or unusual test conditions;
-                  Negative: Commercial off-the-shelf photographic equipment and instrument design and development for general use for artistic or commercial applications.</skos:scopeNote>
+                  Negative: Commercial off-the-shelf photographic equipment and instrument design and development for general use for artistic or commercial applications.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/engineering#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Instrumentation"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Instrumentation"/>
         <skos:related rdf:resource="http://dbpedia.org/page/Sensor"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.sensor"/>
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.optical_telescope"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/01j7cq"/> <!-- sensor -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/01ngsz"/> <!-- optical telescope -->
+        <skos:related rdf:resource="https://www.freebase.com/m/01j7cq"/> <!-- sensor -->
+        <skos:related rdf:resource="https://www.freebase.com/m/01ngsz"/> <!-- optical telescope -->
 
     </skos:Concept>
 

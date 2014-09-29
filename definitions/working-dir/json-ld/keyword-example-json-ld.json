@@ -1,0 +1,59 @@
+/*
+* Example for a Keyword (term)
+* (JSON doesnt support comments, this is just an example)
+* @id are fictious and couldnt be consistent
+ */
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "schema": "http://schema.org"
+  },
+
+  "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database
+  "schema:url": "http://mydomain.com/infrared+telescopes",
+  "@language": "en",
+  "@type": "skos:Concept",
+
+  "skos:prefLabel": { // this words will be searched in webpages for indexing
+    "@value": "infrared telescopes",
+    "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:altLabel": {
+    "@value": "infrared telescope",
+    "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+  },
+
+  "skos:broader": [ // this points to the subject which the keyword is a narrower element
+    {
+        "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database for http://mydomain.com/subjects/astronomy#
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+    }
+  ],
+
+  "skos:exactMatch": [ // this point to the definition in other knowledge bases
+       {
+           "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database (cached) for http://dbpedia.org/page/Infrared_telescope
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       },
+       {
+           "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database for http://rdf.freebase.com/ns/en.infrared_telescope
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+       }
+  ],
+
+  "rdf:related": [ // this points to other related URLs
+       {
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+           "@value": "https://www.freebase.com/m/02qkxqz"
+
+       },
+       {
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+           "@value": "https://www.freebase.com/m/0flvd"
+       }
+  ]
+
+}

@@ -11,16 +11,16 @@
         <skos:definition>Includes space sciences (general); astronomy; astrophysics; lunar and planetary science and exploration; solar physics; and space radiation.</skos:definition>
 
         <skos:prefLabel xml:lang="en">space sciences</skos:prefLabel>
+        <skos:altLabel xml:lang="en">space science</skos:altLabel>
 
         <skos:narrower rdf:resource="http://mydomain.com/astronomy#"/>
         <skos:narrower rdf:resource="http://mydomain.com/astrophysics#"/>
         <skos:narrower rdf:resource="http://mydomain.com/solar+physics#"/>
         <skos:narrower rdf:resource="http://mydomain.com/space+radiation#"/>
         <skos:narrower rdf:resource="http://mydomain.com/lunar+and+planetary+science+and+exploration#"/>
-        <skos:narrower rdf:resource="http://mydomain.com/space+radiation#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Outline_of_space_science"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.space_science"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Outline_of_space_science"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.space_science"/>
 
     </skos:Concept>
 

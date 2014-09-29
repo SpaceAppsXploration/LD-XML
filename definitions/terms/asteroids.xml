@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<!-- Definition of Keyword asteroids -->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+
+    <skos:Concept rdf:about="http://mydomain.com/terms/asteroids-observation">
+
+        <skos:prefLabel xml:lang="en">asteroids</skos:prefLabel>
+        <skos:altLabel xml:lang="en">asteroid</skos:altLabel>
+
+        <skos:scopeNote>observation</skos:scopeNote>
+
+        <skos:broader rdf:resource="http://mydomain.com/subjects/astronomy#"/>
+
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Asteroid"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.asteroid"/>
+
+        <skos:related rdf:resource="http://dbpedia.org/page/Asteroid_belt"/> <!-- asteroid belt -->
+        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.asteroid_belt"/>
+
+    </skos:Concept>
+
+</rdf:RDF>

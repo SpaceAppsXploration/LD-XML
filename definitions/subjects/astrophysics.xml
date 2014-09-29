@@ -11,15 +11,17 @@
         <skos:definition>Includes cosmology; celestial mechanics; space plasmas; and interstellar and interplanetary gases and dust.</skos:definition>
 
         <skos:prefLabel xml:lang="en">astrophysics</skos:prefLabel>
+        <skos:altLabel xml:lang="en">astrophysical</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive Interest : All facets of the physical properties of celestial bodies, interplanetary, interstellar, and intergalactic properties; data analysis and calculations of celestial mechanics.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive Interest : All facets of the physical properties of celestial bodies, interplanetary, interstellar, and intergalactic properties; data analysis and calculations of celestial mechanics.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Astrophysics"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.astrophysics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Astrophysics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.astrophysics"/>
+        <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q37547"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/01_j8n"/> <!-- astrophysics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/01_j8n"/> <!-- astrophysics -->
 
 
     </skos:Concept>

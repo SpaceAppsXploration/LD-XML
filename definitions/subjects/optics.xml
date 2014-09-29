@@ -13,16 +13,16 @@
         <skos:prefLabel xml:lang="en">optics</skos:prefLabel>
         <skos:altLabel xml:lang="en">optical</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
+        <skos:editorialNote>Exhaustive: Theories of light transmission and lenses, light absorption, reflection, and scattering as they relate to aeronautics, astronautics, and space sciences;
                   Selective: Optics and light phenomena with potential aerospace use;
-                  Negative: Industrial, commercial, and household applications of optics and light phenomena, lenses, and eyeglasses.</skos:scopeNote>
+                  Negative: Industrial, commercial, and household applications of optics and light phenomena, lenses, and eyeglasses.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Optics"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.optics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Optics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.optics"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/05mn2"/> <!-- Optics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/05mn2"/> <!-- Optics -->
 
     </skos:Concept>
 

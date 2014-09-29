@@ -14,9 +14,9 @@
         <skos:altLabel xml:lang="en">astrophysical plasma</skos:altLabel>
         <skos:altLabel xml:lang="en">plasma</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: Theoretical magnetohydrodynamics and plasma fusion; research and test equipment for studies in plasma physics as related to aerospace sciences;
+        <skos:editorialNote>Exhaustive: Theoretical magnetohydrodynamics and plasma fusion; research and test equipment for studies in plasma physics as related to aerospace sciences;
                   Selective: Applications of magnetohydrodynamics and plasma fusion that may be of interest for propulsion, power sources, and other uses in the aerospace program;
-                  Negative: Heavy industrial and commercial applications; large power reactors.</skos:scopeNote>
+                  Negative: Heavy industrial and commercial applications; large power reactors.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
@@ -26,9 +26,9 @@
         <skos:related rdf:resource="http://rdf.freebase.com/ns/en.plasma_cosmology"/>
 
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/09jww5"/> <!-- plasma -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/06zj7c"/> <!-- astrophysical plasma -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/01mssk"/> <!-- plasma cosmology -->
+        <skos:related rdf:resource="https://www.freebase.com/m/09jww5"/> <!-- plasma -->
+        <skos:related rdf:resource="https://www.freebase.com/m/06zj7c"/> <!-- astrophysical plasma -->
+        <skos:related rdf:resource="https://www.freebase.com/m/01mssk"/> <!-- plasma cosmology -->
 
     </skos:Concept>
 

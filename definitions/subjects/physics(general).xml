@@ -12,16 +12,16 @@
 
         <skos:prefLabel xml:lang="en">physical</skos:prefLabel>
 
-        <skos:scopeNote>Exhaustive: The elements of physics as they relate to aeronautics, astronautics, and the aerospace sciences;
+        <skos:editorialNote>Exhaustive: The elements of physics as they relate to aeronautics, astronautics, and the aerospace sciences;
                   Selective: The elements of physics from all fields that might have potential aerospace applications;
-                  Negative: Nuclear physics for weaponry, large-scale commercial electricity generation, and other applications not having aerospace potential.</skos:scopeNote>
+                  Negative: Nuclear physics for weaponry, large-scale commercial electricity generation, and other applications not having aerospace potential.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/physics#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Physics"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.physics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Physics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.physics"/>
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/05qjt"/>
+        <skos:related rdf:resource="https://www.freebase.com/m/05qjt"/>
 
     </skos:Concept>
 

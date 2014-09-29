@@ -14,8 +14,8 @@
 
         <skos:narrower rdf:resource="http://mydomain.com/subjects/instrumentation+and+photography#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Engineering"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Engineering"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.engineering"/>
 
     </skos:Concept>
 

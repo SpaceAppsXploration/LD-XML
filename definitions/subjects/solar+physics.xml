@@ -13,16 +13,16 @@
         <skos:prefLabel xml:lang="en">solar physics</skos:prefLabel>
         <skos:altLabel xml:lang="en">Sun</skos:altLabel>
 
-        <skos:scopeNote>Exhaustive: All facets of solar physics.</skos:scopeNote>
+        <skos:editorialNote>Exhaustive: All facets of solar physics.</skos:editorialNote>
 
         <skos:broader rdf:resource="http://mydomain.com/divisions/space+sciences#"/>
 
-        <skos:related rdf:resource="http://dbpedia.org/page/Solar_physics"/>
-        <skos:related rdf:resource="http://rdf.freebase.com/ns/en.solar_physics"/>
+        <skos:exactMatch rdf:resource="http://dbpedia.org/page/Solar_physics"/>
+        <skos:exactMatch rdf:resource="http://rdf.freebase.com/ns/en.solar_physics"/>
 
 
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/082zm2"/> <!-- solar physics -->
-        <skos:related rdf:seeAlso="https://www.freebase.com/m/06m_p"/> <!-- sun -->
+        <skos:related rdf:resource="https://www.freebase.com/m/082zm2"/> <!-- solar physics -->
+        <skos:related rdf:resource="https://www.freebase.com/m/06m_p"/> <!-- sun -->
 
     </skos:Concept>
 
