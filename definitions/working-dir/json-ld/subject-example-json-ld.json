@@ -42,7 +42,7 @@
      }
   ],
 
-  "skos:exactMatch": [ // these are definitions in other knowledge bade
+  "skos:exactMatch": [ // these are definitions in other knowledge base
        {
          "@value": "http://dbpedia.org/page/astronomy#",
          "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
