@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "schema": "http://schema.org"
+    },
+
+    "@id":"35h3g435246kk2347l77245", // id in MongoDB
+    "@type": "schema:WebPage",
+    "schema:url": "http://www.nasa.gov/jpl/cassini/saturn-aurora-20140211/",
+    "schema:inLanguage": "English",
+    "schema:publisher": {
+        "@id": "56j24356l3kdfag556",
+        "@value": "NASA"
+    },
+    "schema:provider": {
+        "@id": "56j243fsdgdfgs56l3k556",
+        "@value": "JPL"
+    },
+    "schema:keywords": ["@id keyword1", "@id keyword2"]
+
+}

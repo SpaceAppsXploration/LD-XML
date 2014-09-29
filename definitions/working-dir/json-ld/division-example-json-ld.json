@@ -1,15 +1,18 @@
 /*
 * Example for a Subject
 * (JSON doesnt support comments, this is just an example)
+* @id are invented and couldnt be consistent
  */
 
 {
   "@context": {
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-    "skos": "http://www.w3.org/2004/02/skos/core#"
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "schema": "http://schema.org"
   },
 
-  "@id":"http://mydomain.com/space+sciences",
+  "@id":"46jilb4p6n2gfgsfs6oh23b45o23b4", // id in the database
+  "schema:url": "http://mydomain.com/divisions/space+sciences",
   "@language": "en",
   "@type": "skos:Concept",
 
@@ -30,35 +33,42 @@
 
   "skos:narrower": [ // this is the list of subjects contained in this division
     {
-      "@value": "http://mydomain.com/astronomy#",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        "@id":"46jilb4p67567s6oh23b45o23b4", // id in the database
+        "@value": "http://mydomain.com/astronomy#",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
     },
     {
-      "@value": "http://mydomain.com/astrophysics#",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        "@id":"46jilb4p6n2gfgsf97693b45o23b4", // id in the database
+        "@value": "http://mydomain.com/astrophysics#",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
     },
     {
-      "@value": "http://mydomain.com/solar+physics#",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        "@id":"46jil45342gfgsfs6oh23b45o23b4", // id in the database
+        "@value": "http://mydomain.com/solar+physics#",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
     },
     {
-      "@value": "http://mydomain.com/space+radiation#",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        "@id":"46jilb4p6n2gfgsfs6oh2658o23b4", // id in the database
+        "@value": "http://mydomain.com/space+radiation#",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
     },
     {
-      "@value": "http://mydomain.com/lunar+and+planetary+science+and+exploration#",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        "@id":"46jilb4p6n2gfgsfs6ortjrj5o23b4", // id in the database
+        "@value": "http://mydomain.com/lunar+and+planetary+science+and+exploration#",
+        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
     }
   ],
 
   "skos:exactMatch": [ // these are definitions in other knowledge base
        {
-         "@value": "http://dbpedia.org/page/Outline_of_space_science",
-         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+           "@id":"46jilb4sdfhfgsfs6oh23b45o23b4", // id in the database (cached)
+           "@value": "http://dbpedia.org/page/Outline_of_space_science",
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
        },
        {
-         "@value": "http://rdf.freebase.com/ns/en.space_science",
-         "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+           "@id":"46jilb4p6n2sdfg6oh23b45o23b4", // id in the database (cached)
+           "@value": "http://rdf.freebase.com/ns/en.space_science",
+           "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
        }
   ]
 }
