@@ -1,3 +1,9 @@
+/*
+* Example for a URL resource stored in the DB
+* (JSON doesnt support comments, this is just an example)
+* @id are invented and couldnt be consistent
+ */
+
 {
     "@context": {
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -10,12 +16,12 @@
     "schema:url": "http://www.nasa.gov/jpl/cassini/saturn-aurora-20140211/",
     "schema:inLanguage": "English",
     "schema:publisher": {
-        "@id": "56j24356l3kdfag556", // id for NASA
+        "@id": "56j24356l3kdfag556", // id for 'NASA'
         "@type": "schema:Organization"
     },
 
     "schema:provider": {
-        "@id": "56j243fsdgdfgs56l3k556", // id for JPL
+        "@id": "56j243fsdgdfgs56l3k556", // id for 'JPL'
         "@type": "schema:Organization"
     },
 
