@@ -6,7 +6,7 @@
          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
 
-    <skos:Concept rdf:about="http://mydomain.com/terms/asteroids">
+    <skos:Concept rdf:about="http://mydomain.com/terms/asteroids-observation">
 
         <skos:prefLabel xml:lang="en">asteroids</skos:prefLabel>
         <skos:altLabel xml:lang="en">asteroid</skos:altLabel>

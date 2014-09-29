@@ -95,3 +95,4 @@ example:
 
     </skos:Concept>
 
+Terms with a skos:scopeNote, i.e 'asteroids(observation)', get a URL like "http://mydomain.com/terms/asteroids-observation"

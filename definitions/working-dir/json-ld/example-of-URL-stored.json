@@ -10,14 +10,12 @@
     "schema:url": "http://www.nasa.gov/jpl/cassini/saturn-aurora-20140211/",
     "schema:inLanguage": "English",
     "schema:publisher": {
-        "@id": "56j24356l3kdfag556",
-        "@value": "NASA",
+        "@id": "56j24356l3kdfag556", // id for NASA
         "@type": "schema:Organization"
     },
 
     "schema:provider": {
-        "@id": "56j243fsdgdfgs56l3k556",
-        "@value": "JPL",
+        "@id": "56j243fsdgdfgs56l3k556", // id for JPL
         "@type": "schema:Organization"
     },
 
@@ -30,6 +28,20 @@
         "@value": "During the July 14, 2005, flyby of Saturn's moon Enceladus, Cassini's ultraviolet imaging spectrograph made the first direct detection of an ...",
         "@type": "schema:Text"
     },
-    "schema:keywords": ["<@id keyword1>", "<@id keyword2>", "etc"]
+    "schema:about": [
+        {
+            "@id": "56j243fsdgdfgs56l3gsfdghk556", // id for 'ultraviolet astronomy' keyword > http://mydomain.com/terms/ultraviolet+astronomy
+            "@type": "skos:Concept"
+
+        },
+        {
+            "@id": "56j2fdgsdrg63gsfdghk556", // id for 'ultraviolet radiation (optics)' keyword > http://mydomain.com/terms/ultraviolet+radiation-optics
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "56j2fdgsdr5674567ghk556", // id for 'ultraviolet radiation (space)' keyword > http://mydomain.com/terms/ultraviolet+radiation-space
+            "@type": "skos:Concept"
+        }
+    ]
 
 }
