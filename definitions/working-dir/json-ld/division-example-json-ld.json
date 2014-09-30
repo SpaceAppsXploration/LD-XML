@@ -11,10 +11,13 @@
     "schema": "http://schema.org/"
   },
 
-  "@id":"46jilb4p6n2gfgsfs6oh23b45o23b4", // id in the database
-  "schema:url": "http://mydomain.com/divisions/space+sciences",
+  "@id": "http://mydomain.com/divisions/space+sciences",
   "@language": "en",
   "@type": "skos:Concept",
+  "schema:provider":{
+      "@value": "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE+%3Chttp://dbpedia.org/resource/NASA_STI_Program%3E&output=application%2Fld%2Bjson",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+  },
 
   "skos:prefLabel": { // this is the name of the division
     "@value": "space sciences",
@@ -31,36 +34,15 @@
     "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
   },
 
-  "skos:narrower": [ // this is the list of subjects contained in this division
-    {
-        "@id":"46jilb4p67567s6oh23b45o23b4", // id in the database for http://mydomain.com/astronomy#
-        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
-    },
-    {
-        "@id":"46jilb4p6n2gfgsf97693b45o23b4", // id in the database for http://mydomain.com/astrophysics#
-        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
-    },
-    {
-        "@id":"46jil45342gfgsfs6oh23b45o23b4", // id in the database for http://mydomain.com/solar+physics#
-        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
-    },
-    {
-        "@id":"46jilb4p6n2gfgsfs6oh2658o23b4", // id in the database for http://mydomain.com/space+radiation#
-        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
-    },
-    {
-        "@id":"46jilb4p6n2gfgsfs6ortjrj5o23b4", // id in the database for http://mydomain.com/lunar+and+planetary+science+and+exploration#
-        "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
-    }
-  ],
-
   "skos:exactMatch": [ // these are definitions in other knowledge base
        {
-           "@id":"46jilb4sdfhfgsfs6oh23b45o23b4", // id in the database (cached) for http://dbpedia.org/page/Outline_of_space_science
+           "_id":"46jilb4sdfhfgsfs6oh23b45o23b4", // id in the database (cached) for
+           "@id": "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE+%3Chttp://dbpedia.org/page/Outline_of_space_science%3E&output=application%2Fld%2Bjson",
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
        },
        {
-           "@id":"46jilb4p6n2sdfg6oh23b45o23b4", // id in the database (cached) for http://rdf.freebase.com/ns/en.space_science
+           "_id":"46jilb4p6n2sdfg6oh23b45o23b4", // id in the database (cached) for
+           "@id": "https://www.googleapis.com/freebase/v1/topic/m/0718x",
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
        }
   ]

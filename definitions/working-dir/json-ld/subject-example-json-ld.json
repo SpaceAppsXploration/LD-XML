@@ -15,6 +15,10 @@
   "schema:url": "http://mydomain.com/subjects/astronomy",
   "@language": "en",
   "@type": "skos:Concept",
+  "schema:provider":{
+      "@value": "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE+%3Chttp://dbpedia.org/resource/NASA_STI_Program%3E&output=application%2Fld%2Bjson",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+  },
 
   "skos:prefLabel": { // this is the name of the subject
     "@value": "astronomy",
@@ -59,12 +63,12 @@
   "rdf:related": [ // these are related URLs
        {
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
-           "@value": "https://www.freebase.com/m/0dc_v"
+           "@value": "https://www.googleapis.com/freebase/v1/topic/m/0dc_v"
 
        },
        {
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
-           "@value": "https://www.freebase.com/m/03n1_"
+           "@value": "https://www.googleapis.com/freebase/v1/topic/m/03n1_"
        }
   ]
 

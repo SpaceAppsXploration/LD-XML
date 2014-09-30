@@ -12,9 +12,13 @@
   },
 
   "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database
-  "schema:url": "http://mydomain.com/infrared+telescopes",
+  "schema:url": "http://mydomain.com/terms/infrared+telescopes",
   "@language": "en",
   "@type": "skos:Concept",
+  "schema:provider":{
+      "@value": "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE+%3Chttp://dbpedia.org/resource/NASA_STI_Program%3E&output=application%2Fld%2Bjson",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+  },
 
   "skos:prefLabel": { // this words will be searched in webpages for indexing
     "@value": "infrared telescopes",
@@ -47,12 +51,12 @@
   "rdf:related": [ // this points to other related URLs
        {
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
-           "@value": "https://www.freebase.com/m/02qkxqz"
+           "@value": "https://www.googleapis.com/freebase/v1/topic/m/02qkxqz"
 
        },
        {
            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
-           "@value": "https://www.freebase.com/m/0flvd"
+           "@value": "https://www.googleapis.com/freebase/v1/topic/m/0flvd"
        }
   ]
 
