@@ -1,14 +1,14 @@
 /*
 * Example for a Keyword (term)
 * (JSON doesnt support comments, this is just an example)
-* @id are fictious and couldnt be consistent
+* @id are fake and couldnt be consistent
  */
 
 {
   "@context": {
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
-    "schema": "http://schema.org"
+    "schema": "http://schema.org/"
   },
 
   "@id":"46jilb4p6n2op34b6oh23b45o23b4", // id in the database

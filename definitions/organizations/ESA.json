@@ -1,0 +1,31 @@
+{
+    "@context": {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "org": "http://www.w3.org/ns/org#",
+        "schema": "http://schema.org/"
+    },
+
+    "@id":"46jilb4p6n2o5635745o23b4", // id in the database
+    "@type": "schema:Organization",
+    "schema:alternativeType": "org:Organization",
+    "schema:name": "European Space Agency",
+    "skos:prefLabel": "ESA",
+
+    "schema:Brand": {
+        "schema:name": {
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral",
+            "@value": "ESA"
+        },
+        "schema:url": {
+            "@type": "schema:URL",
+            "@value": "http://www.esa.int"
+        },
+        "schema:logo": {
+            "@type": "schema:URL",
+            "@value": "http://upload.wikimedia.org/wikipedia/en/3/3b/ESA_LOGO.svg"
+        }
+
+    }
+
+}
