@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "Abstract, Both visible and near infrared spectroscopic observations have suggested that ... However, because this spectral region is severely affected by the telluric .... Abstract, 計画中の超広域サーベイ（すばるHSC, PFS, DES, Euclid など）から得 ...", 
-        "link": "http://planetb.sci.isas.jaxa.jp/luna/news.html", 
-        "title": "お知らせ（特別セミナー等）"
-    }
-]

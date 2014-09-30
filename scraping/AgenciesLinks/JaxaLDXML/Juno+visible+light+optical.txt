@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "Jan 13, 2008 ... Light refreshments and food will be served ... [S3-7] Visual Servo Motion Control of an Exploration Vehicle around an Asteroid Using Target Markers ...... (New Horizons already in flight and Juno in development). One of the ...", 
-        "link": "http://www.jspec.jaxa.jp/080110Final_IPEWG-ProgramBook.pdf", 
-        "title": "Final Program and Book of Abstracts"
-    }
-]

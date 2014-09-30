@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "ンポジウム：ISAS/JAXA：STEP-2010-037：（2011） ...... Yoshida, Y. Yoshimura, A. Yamagishi：Quest for ...... Hayabusa's Way Back to Earth by Microwave.", 
-        "link": "http://www.isas.jaxa.jp/publications/annalreport/2010/10yoran300_409.pdf", 
-        "title": "国内, 国際会議等で発表のもの - Institute of Space and Astronautical ..."
-    }
-]

@@ -1,7 +1,0 @@
-[
-    {
-        "abstract": "Mid-infrared Multi-field Imager for 6.5-m TAO Tele- .... LOFT: the Large Observatory For X-ray ...... nar Crustal Magnetic Fields Observed at Low Altitude :.", 
-        "link": "http://www.isas.jaxa.jp/publications/annalreport/2012/VII-4.pdf", 
-        "title": "4．外部の国内，国際会議等に発表のもの"
-    }
-]
