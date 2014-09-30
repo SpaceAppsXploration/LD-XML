@@ -19,7 +19,7 @@
         },
         "schema:url": {
             "@type": "schema:URL",
-            "@value": "http://www.nasa.gov"
+            "@value": "http://www.nasa.gov/"
         },
         "schema:logo": {
             "@type": "schema:URL",
