@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 import json, io, requests, sys, os
 
 lib_path = os.path.abspath("../../")
@@ -30,30 +30,69 @@ def parse(html, mission, keyword):
         for link in results.find_all("a"):
             titles.append(link.text)
             links.append(link["href"])
+            link.extract()
 
+        count = 0
         for abstract in results.find_all("p"):
-            abstracts.append((abstract.text).replace("\n", "").replace("\t", "").strip())
+            if len((abstract.text).replace("\n", "").replace("\t", "").strip()) == 0:
+                for abastract_between_img in get_abstracts_between_img(results):
+                    abstracts.append(abastract_between_img)
+            else:    
+                abstracts.insert(count - 3, ((abstract.text).replace("\n", "").replace("\t", "").strip()))
 
+            count += 1
+        
         for i in range(0, len(titles)):
             elements.append([titles[i], links[i], abstracts[i]])
 
         for element in elements:
             data.append(dict(zip(keys, element)))
 
-    except AttributeError:
-        print "No results"
+    except AttributeError as exception:
+        print "No results" + ", exception: " + str(exception)
 
     return mission, keyword, data
 
+def get_abstracts_between_img(source):
+    abstracts = []
+    starts = []
+
+    pieces = source.find_all(lambda tag: tag.name == 'div' and tag.get('class') == ['img'])
+        
+    for piece in pieces:
+        start = piece.nextSibling
+        starts.append(start)
+
+    i = 1
+    for piece in pieces:
+        abstract = []
+        if i < len(starts):
+            while (piece.nextSibling) != starts[i]:
+                text = unicode(((piece.nextSibling).string)).replace("\n", "").replace("\t", "").replace("  ", " ").strip()
+                if text != "None":
+                    abstract.append(text)
+                piece = piece.nextSibling
+            i += 1
+        abstracts.append(" ".join(abstract).strip())
+
+    return abstracts
+
 def save_json(data):
+    i = 0
     for row in data:
-        with io.open("EsaLDXML.txt","a", encoding="utf-8") as out_file:
+        i += 1
+        with io.open("EsaLDXML.txt", "a", encoding="utf-8") as out_file:
             out_file.write(unicode(json.dumps({"mission": row[0], "keyword": row[1], "urls": row[2]}, ensure_ascii=False, indent=4, separators=(',', ': '))))
+            if i != len(data):
+                out_file.write(unicode(", \n"))
     out_file.close()    
 
 missions = []
+data = [] 
+
+missions = []
 data = []
-#DA TOGLIERE
+
 for field in FIELDS.keys():
     for mission in FIELDS[field]["missions"]:
         if not any(mission in mission_name for mission_name in missions):
@@ -62,16 +101,10 @@ for field in FIELDS.keys():
             index = [mission_saved[0] for mission_saved in missions].index(mission)
             missions[index][1].append(FIELDS[field]["kw"])
 
-missions.sort()
-i = 0
 for mission in missions:
     for field in mission[1]:
-        i += 1  
-        if i < 10:  #DA TOGLIERE
-            url = generate_url(mission[0] + " " + field)
-            html = retrieve(url)
-            data.append(parse(html, mission[0], field))
-        else:       #DA TOGLIERE
-            break
+        url = generate_url(mission[0] + " " + field)
+        html = retrieve(url)
+        data.append(parse(html, mission[0], field))
 
 save_json(data)
