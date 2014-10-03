@@ -1,33 +1,25 @@
 {
-    "@context": {
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "org": "http://www.w3.org/ns/org#",
-        "schema": "http://schema.org/"
+    "@id":"http://projectchronos.eu/organizations/NASA",
+    "@type": "http://schema.org/Organization",
+    "http://schema_org/alternativeType": "http://www.w3.org/ns/org#Organization",
+    "http://schema_org/name": "National Aeronautics and Space Administration",
+    "http://www_w3_org/2004/02/skos/core#prefLabel": "NASA",
+    "http://www_w3_org/2004/02/skos/core#exactMatch": {
+        "@type": "http://schema.org/URL",
+        "@value": "http://dbpedia.org/data/NASA.jsond"
     },
 
-    "@id":"46jilb4p6n2o5635745o23b4",
-    "@type": "schema:Organization",
-    "schema:alternativeType": "org:Organization",
-    "schema:url": "http://mydomain.com/organizations/NASA",
-    "schema:name": "National Aeronautics and Space Administration",
-    "skos:prefLabel": "NASA",
-    "skos:exactMatch": {
-        "@type": "schema:URL",
-        "@value": "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE+%3Chttp://dbpedia.org/resource/NASA%3E&output=application%2Fld%2Bjson"
-    },
-
-    "schema:Brand": {
-        "schema:name": {
+    "http://schema_org/Brand": {
+        "http://schema_org/name": {
             "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral",
             "@value": "NASA"
         },
-        "schema:url": {
-            "@type": "schema:URL",
+        "http://schema_org/url": {
+            "@type": "http://schema.org/URL",
             "@value": "http://www.nasa.gov/"
         },
-        "schema:logo": {
-            "@type": "schema:URL",
+        "http://schema_org/logo": {
+            "@type": "http://schema.org/URL",
             "@value": "http://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"
         }
 
