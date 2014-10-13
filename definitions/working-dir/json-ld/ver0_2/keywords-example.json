@@ -1,0 +1,60 @@
+{
+    "_id": "543bfab0d61fce44808f7b2b",
+    "schema:provider": [
+        {
+            "@value": "http://dbpedia.org/data/NASA_STI_Program.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+        }
+    ],
+    "skos:scopeNote": [
+        {
+            "@value": "solid state",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+        }
+    ],
+    "skos:relatedMatch": [ /* keyword has related mathc in external reources' scheme (mapping or alignment) */
+        {
+            "@id": "http://dbpedia.org/data/Electron_acceptor.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+            "_id": "543bfab0d61fce44808f7b23"
+        },
+        {
+            "@id": "http://dbpedia.org/data/Acceptor.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+            "_id": "543bfab0d61fce44808f7b24"
+        },
+        {
+            "@id": "http://dbpedia.org/data/Currency_detector.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+            "_id": "543bfab0d61fce44808f7b25"
+        },
+        {
+            "@id": "http://dbpedia.org/data/Abstract_family_of_acceptors.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+            "_id": "543bfab0d61fce44808f7b26"
+        },
+        {
+            "@id": "http://dbpedia.org/data/Electrophiles.jsond",
+            "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+            "_id": "543bfab0d61fce44808f7b27"
+        }
+    ],
+    "skos:prefLabel": "acceptors",
+    "@id": "http://projectchronos.eu/keywords/acceptors",
+    "skos:inScheme": [
+        {
+            "@id": "_:scheme76", /* keywords in scheme76, solid state physics */
+            "@type": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "_id": "543bfaafd61fce44808f7b0a"
+        }
+    ],
+    "@type": "http://www.w3.org/2004/02/skos/core#Concept",
+    "@language": "en",
+    "skos:broader": [
+        {
+            "@id": "http://projectchronos.eu/subjects/solid+state+physics", /* keywords has semantical relations with element in subjects' collection */
+            "@type": "http://www.w3.org/2004/02/skos/core#Concept",
+            "_id": "543bfaafd61fce44808f7b09"
+        }
+    ]
+}
