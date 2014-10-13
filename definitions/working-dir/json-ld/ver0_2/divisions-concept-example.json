@@ -1,0 +1,36 @@
+{
+        "_id" : "543bfaafd61fce44808f7b07",
+        "schema:provider" : [
+                {
+                        "@value" : "http://dbpedia.org/data/NASA_STI_Program.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@id" : "http://projectchronos.eu/divisions/engineering",
+        "skos:prefLabel" : "Engineering",
+        "@type" : "http://www.w3.org/2004/02/skos/core#Concept",
+        "@language" : "en",
+        "skos:narrower" : [
+                {
+                        "@id" : "http://projectchronos.eu/subjects/instrumentation+and+photography",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+                        "_id" : "543bfaafd61fce44808f7b1f"
+                }
+        ],
+        "skos:editorialNote" : [
+                {
+                        "@value" : "Includes engineering (general); communications and radar; electronics and electrical engineering; fluid mechanics and thermodynamics; instrumentation and photography; lasers and masers; mechanical engineering; quality assurance and reliability; and structural mechanics. For related information see also PHYSICS (categories 70 through 77).",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+                }
+        ],
+        "owl:sameAs" : [
+                {
+                        "@id" : "https://www.googleapis.com/freebase/v1/topic/m/02ky346",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://dbpedia.org/data/Engineering.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ]
+}

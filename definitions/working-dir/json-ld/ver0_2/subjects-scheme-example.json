@@ -1,0 +1,38 @@
+{
+        "_id" : "543bfaafd61fce44808f7b0a",
+        "schema:provider" : [
+                {
+                        "@value" : "http://projectchronos.eu/org",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@id" : "_:scheme76", /* schemes and collections are blank nodes */
+        "skos:prefLabel" : "solid+state+physics scheme", /* schemes aggregates concepts (suggestively more than restrictively) */
+        "skos:editorialNote" : {
+                "@value" : "subject's scheme where keywords are aggregated",
+                "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+        },
+        "@type" : "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+        "skos:hasTopConcept" : { /* TopConcept is a Keyword/Concept with the same name of the Subject in Subjects' Collection */
+                "@id" : "http://projectchronos.eu/keywords/solid+state+physics",
+                "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+                "_id" : "543bfaafd61fce44808f7b09"
+        },
+        "skos:altLabel" : [ /* keywords contained in the scheme are placed wit skos:altLabel as suggested by JPL*/
+                "acceptors",
+                "band structure of solids",
+                "condensed matter physics",
+                "conductivity",
+                "donors",
+                "electrical transport properties in solids",
+                "energy gaps in semiconductors",
+                "holes",
+                "radiation effects in semiconductors",
+                "semiconductor materials",
+                "solid state physics",
+                "superconducting materials",
+                "superconductivity",
+                "thermoelectric materials"
+        ],
+        "@language" : "en"
+}

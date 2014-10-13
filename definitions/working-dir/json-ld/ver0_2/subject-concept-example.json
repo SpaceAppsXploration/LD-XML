@@ -1,0 +1,33 @@
+{
+        "_id" : "543bfaafd61fce44808f7b09",
+        "schema:provider" : [
+                {
+                        "@value" : "http://dbpedia.org/data/NASA_STI_Program.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@id" : "http://projectchronos.eu/subjects/solid+state+physics",
+        "skos:prefLabel" : "Solid State Physics",
+        "@type" : "http://www.w3.org/2004/02/skos/core#Concept",
+        "skos:editorialNote" : {
+                "@value" : "Includes condensed matter physics, crystallography, and superconductivity. \nSelective: Commercial applications of solid-state physics that might have a potential for use in aerospace applications. \nNegative: Solid-state physics with no application to aerospace science. \nExhaustive: All facets of solid-state physics and the solid-state effects in electrical and electronic devices as they relate to aeronautics, astronautics, and aerospace sciences.",
+                "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+        },
+        "skos:related" : [ ],
+        "skos:broader" : [
+                {
+                        "@id" : "http://projectchronos.eu/divisions/physics",
+                        "@type" : "http://www.w3.org/2004/02/skos/core#Concept",
+                        "_id" : "543bfaafd61fce44808f7b06"
+                }
+        ],
+        "skos:topConceptOf" : "_:scheme76",
+        "@language" : "en",
+        "owl:sameAs" : [
+                {
+                        "@id" : "http://dbpedia.org/data/Solid-state_physics.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
+                        "_id" : "543bf582d61fce42e87db4d1"
+                }
+        ]
+}

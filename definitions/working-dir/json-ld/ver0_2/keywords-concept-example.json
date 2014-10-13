@@ -12,7 +12,7 @@
             "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
         }
     ],
-    "skos:relatedMatch": [ /* keyword has related mathc in external reources' scheme (mapping or alignment) */
+    "skos:relatedMatch": [ /* keyword has related matches in external resources' scheme (mapping or alignment) */
         {
             "@id": "http://dbpedia.org/data/Electron_acceptor.jsond",
             "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource",
@@ -43,7 +43,7 @@
     "@id": "http://projectchronos.eu/keywords/acceptors",
     "skos:inScheme": [
         {
-            "@id": "_:scheme76", /* keywords in scheme76, solid state physics */
+            "@id": "_:scheme76", /* keywords is in scheme76, solid state physics, that has as a TopConcept "solid+state+physics" */
             "@type": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
             "_id": "543bfaafd61fce44808f7b0a"
         }

@@ -1,0 +1,31 @@
+{
+        "_id" : ObjectId("543bfaafd61fce44808f7b04"),
+        "schema:provider" : [
+                {
+                        "@value" : "http://dbpedia.org/data/NASA_STI_Program.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@id" : "_:d1",
+        "skos:prefLabel" : "divisions collection",
+        "@type" : "http://www.w3.org/2004/02/skos/core#Collection",
+        "skos:memberList" : [
+                {
+                        "@id" : "http://projectchronos.eu/divisions/space+sciences",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/divisions/physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/divisions/engineering",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@language" : "en",
+        "skos:editorialNote" : {
+                "@value" : "Divisions are collections of subjects",
+                "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+        }
+}

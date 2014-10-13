@@ -1,0 +1,71 @@
+{
+        "_id" : "543bfaafd61fce44808f7b08",
+        "schema:provider" : [
+                {
+                        "@value" : "http://dbpedia.org/data/NASA_STI_Program.jsond",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@id" : "_:s1", /* is a blank node */
+        "skos:prefLabel" : "subjects collection",
+        "@type" : "http://www.w3.org/2004/02/skos/core#Collection", /* is a collection (concepts that share something in common) */
+        "skos:memberList" : [ /* members of the collection (Concept that are TopConcept of Subjects) */
+                {
+                        "@id" : "http://projectchronos.eu/keywords/solid+state+physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/keywords/physics+of+elementary+particles+and+fields",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/keywords/optics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/plasma+physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/atomic+and+molecular+physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/astronomy",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/physics+(general)",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/astrophysics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/lunar+and+planetary+science+and+exploration",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/solar+physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/space+radiation",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/instrumentation+and+photography",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                },
+                {
+                        "@id" : "http://projectchronos.eu/subjects/nuclear+physics",
+                        "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#resource"
+                }
+        ],
+        "@language" : "en",
+        "skos:editorialNote" : {
+                "@value" : "Subjects are collections of keywords",
+                "@type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"
+        }
+}
