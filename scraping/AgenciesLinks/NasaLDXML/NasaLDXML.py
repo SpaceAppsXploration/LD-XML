@@ -16,11 +16,6 @@ def parse(html, mission, keyword):
     soup = BeautifulSoup(html)
 
     keys = ["title", "link", "abstract"]
-    titles = []
-    links = []
-    abstracts = []
-
-    elements = []
 
     data = []
 
@@ -28,18 +23,28 @@ def parse(html, mission, keyword):
 
     try:
         for result in results:
+            titles = []
+            links = []
+            abstracts = []
+
+            elements = []
+            
             link = result.find("a")
             titles.append(link.text)
             links.append(link['href'])
 
+            i = 0
             for abstract in result.find_all("h3"):
-                try:
-                    abstract["class"]
-                except KeyError:
+                if i % 2 != 0:
                     abstracts.append(abstract.text)
+                i += 1
+            #     try:
+            #         abstract["class"] 
+            #     except KeyError:
+            #         abstracts.append(abstract.text)
 
             for i in range(0, len(titles)):
-                elements.append([titles[i], links[i], abstracts[i]])
+                    elements.append([titles[i], links[i], abstracts[i]])
 
             for element in elements:
                 data.append(dict(zip(keys, element)))
@@ -69,7 +74,7 @@ for field in FIELDS.keys():
         else:
             index = [mission_saved[0] for mission_saved in missions].index(mission)
             missions[index][1].append(FIELDS[field]["kw"])
-
+i = 0
 for mission in missions:
     for field in mission[1]:
         url = generate_url(mission[0] + " " + field)
