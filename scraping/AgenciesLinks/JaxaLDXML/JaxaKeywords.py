@@ -11,13 +11,9 @@ if __name__ == "__main__":
 
 	i = 0
 	for key, value in JPL_keywords.items():
-		if i < 10:
-			for keyword in value:
-				url = generate_jaxa_url(keyword)
-				html = retrieve_webdriver(url)
-				data.append([key, keyword, parse_jaxa_page(html)])
-				i = i + 1
-		else:
-			break
+		for keyword in value:
+			url = generate_jaxa_url(keyword)
+			html = retrieve_webdriver(url)
+			data.append([key, keyword, parse_jaxa_page(html)])
 
 	save_json("JaxaKeywords.txt", ["key", "keyword", "urls"], data)

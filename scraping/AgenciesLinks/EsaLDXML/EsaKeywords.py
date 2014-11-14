@@ -11,13 +11,9 @@ if __name__ == "__main__":
 
 	i = 0
 	for key, value in JPL_keywords.items():
-		if i < 10:
-			for keyword in value:
-				url = generate_esa_url(keyword)
-				html = retrieve(url)
-				data.append([key, keyword, parse_esa_page(html)])
-				i = i + 1
-		else:
-			break
+		for keyword in value:
+			url = generate_esa_url(keyword)
+			html = retrieve(url)
+			data.append([key, keyword, parse_esa_page(html)])
 
 	save_json("EsaKeywords.txt", ["key", "keyword", "urls"], data)
