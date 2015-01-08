@@ -41,7 +41,7 @@
             "rdfs:label": "is a document related to a celestial body named",
             "rdfs:comment": "subject-document is semantically related to a celestial body",
             "rdfs:domain": ["chronos:dbpediadoc", "chronos:launch", "chronos:mission", "chronos:webpage"], 
-            "rdfs:range": "chronos:target",    
+            "rdfs:range": ["dbpedia:Planet", "dbpedia:Satellite", "dbpedia:Asteroid", "dbpedia:CelestialBody"]    
         },
         {
             "@id": "chronos:payload",
@@ -96,10 +96,28 @@
             "rdfs:comment": "a document representing an event or happening from Chronos legacy"
         },
         {
-            "@id": "chronos:target",
-            "@type": ["dbpedia:Planet", "dbpedia:Satellite", "dbpedia:Asteroid", "dbpedia:CelestialBody"],
+            "@id": "dbpedia:Planet",
+            "@type": "dbpedia:Planet",
+            "rdfs:label": "a planet",
+            "rdfs:comment": "a document representing a planet"
+        },
+        {
+            "@id": "dbpedia:Satellite",
+            "@type": "dbpedia:Satellite",
+            "rdfs:label": "a natural satellite",
+            "rdfs:comment": "a document representing a natural satellite"
+        },
+        {
+            "@id": "dbpedia:Asteroid",
+            "@type": "dbpedia:Asteroid",
+            "rdfs:label": "an asteroid",
+            "rdfs:comment": "a document representing an asteroid"
+        },
+        {
+            "@id": "dbpedia:CelestialBody",
+            "@type": "dbpedia:CelestialBody",
             "rdfs:label": "a celestial body",
-            "rdfs:comment": "a document representing a planetor other celestial body"
+            "rdfs:comment": "a document representing a generic celestial body"
         },
         {
             "@id": "chronos:webpage",
