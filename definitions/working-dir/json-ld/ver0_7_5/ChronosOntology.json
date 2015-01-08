@@ -97,25 +97,25 @@
         },
         {
             "@id": "dbpedia:Planet",
-            "@type": "dbpedia:Planet",
+            "@type": "owl:Class",
             "rdfs:label": "a planet",
             "rdfs:comment": "a document representing a planet"
         },
         {
             "@id": "dbpedia:Satellite",
-            "@type": "dbpedia:Satellite",
+            "@type": "owl:Class",
             "rdfs:label": "a natural satellite",
             "rdfs:comment": "a document representing a natural satellite"
         },
         {
             "@id": "dbpedia:Asteroid",
-            "@type": "dbpedia:Asteroid",
+            "@type": "owl:Class",
             "rdfs:label": "an asteroid",
             "rdfs:comment": "a document representing an asteroid"
         },
         {
             "@id": "dbpedia:CelestialBody",
-            "@type": "dbpedia:CelestialBody",
+            "@type": "owl:Class",
             "rdfs:label": "a celestial body",
             "rdfs:comment": "a document representing a generic celestial body"
         },
