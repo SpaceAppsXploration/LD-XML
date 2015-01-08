@@ -17,7 +17,7 @@
             "rdfs:label": "is related to a keyword Concept",
             "rdfs:comment": "subject-document is in a semantic relation with the object-keyword",
             "rdfs:domain": "chronos:dbpediadoc", 
-            "rdfs:range": "chronos:nasasti"    
+            "rdfs:range": "chronos:keyword"    
         },
         {
             "@id": "chronos:relMission",
@@ -66,7 +66,7 @@
             "rdfs:range": "chronos:keyword",    
         },
         {
-            "@id": "chronos:nasasti",
+            "@id": "chronos:keyword",
             "@type": "skos:Concept",
             "rdfs:label": "NASA-STI keyword",
             "rdfs:comment": "a keyword representing a Concept in the NASA-STI taxonomy",
