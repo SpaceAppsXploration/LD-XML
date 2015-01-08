@@ -4,19 +4,66 @@
         "schema": "https://schema.org/",
         "skos": "<skos core url>",
         "rdfs": "<rdfs url>",
-        "owl": "<owl url>"
-    }
+        "owl": "<owl url>",
+        "dbpedia": "http://dbpedia.org/ontology/"
+    },
 
     "@id": "chronos",
     "@type": "owl:Ontology",
     "defines": [
         {
-            "@id": "chronos:keyword",
+            "@id": "chronos:relKeyword",
             "@type": "owl:ObjectProperty",
             "rdfs:label": "is related to a keyword Concept",
             "rdfs:comment": "subject-document is in a semantic relation with the object-keyword",
             "rdfs:domain": "chronos:dbpediadoc", 
             "rdfs:range": "chronos:nasasti"    
+        },
+        {
+            "@id": "chronos:relMission",
+            "@type": "owl:ObjectProperty",
+            "rdfs:label": "is related to a space mission or a space launch",
+            "rdfs:comment": "subject-document is historically or technically related to a space mission",
+            "rdfs:domain": ["chronos:dbpediadoc", "chronos:webpage", "chronos:event"], 
+            "rdfs:range": ["chronos:mission", "chronos:launch"]    
+        },
+        {
+            "@id": "chronos:relEvent",
+            "@type": "owl:ObjectProperty",
+            "rdfs:label": "is an document related to an event",
+            "rdfs:comment": "subject-document is semantically related with an event or happening",
+            "rdfs:domain": "chronos:dbpediadoc", 
+            "rdfs:range": "chronos:event",    
+        },
+        {
+            "@id": "chronos:relTarget",
+            "@type": "owl:ObjectProperty",
+            "rdfs:label": "is a document related to a celestial body named",
+            "rdfs:comment": "subject-document is semantically related to a celestial body",
+            "rdfs:domain": ["chronos:dbpediadoc", "chronos:launch", "chronos:mission", "chronos:webpage"], 
+            "rdfs:range": "chronos:target",    
+        },
+        {
+            "@id": "chronos:payload",
+            "@type": "owl:ObjectProperty",
+            "rdfs:label": "is a mission that carries the payload named",
+            "rdfs:comment": "subject-document is a mission or a launch carrying the object-document",
+            "rdfs:domain": ["chronos:launch", "chronos:mission"], 
+            "rdfs:range": ["chronos:sensor"],    
+        },
+        {
+            "@id": "chronos:relatedMatch",
+            "@type": "owl:ObjectProperty",
+            "rdfs:label": "is a DBpedia document with an high level of semantical relation with",
+            "rdfs:comment": "a DBpedia document highly semantically related to another of the same kind",
+            "rdfs:domain": "chronos:dbpediadoc", 
+            "rdfs:range": "chronos:dbpediadoc",    
+        },
+        {
+            "@id": "schema:about",
+            "@type": "owl:ObjectProperty",
+            "rdfs:domain": "chronos:webpage", 
+            "rdfs:range": "chronos:keyword",    
         },
         {
             "@id": "chronos:nasasti",
@@ -29,7 +76,43 @@
             "@type": "owl:Class",
             "rdfs:label": "data taken from a DBpedia page",
             "rdfs:comment": "a document representing a wikipedia page information"
-        }
+        },
+        {
+            "@id": "chronos:launch",
+            "@type": "owl:class",
+            "rdfs:label": "a space launch that took place somewhen in the past",
+            "rdfs:comment": "a document representing a space launch taken from wikipedia page"
+        },
+        {
+            "@id": "chronos:mission",
+            "@type": "owl:class",
+            "rdfs:label": "a space mission",
+            "rdfs:comment": "a document representing a space mission from Chronos legacy"
+        },
+        {
+            "@id": "chronos:event",
+            "@type": "owl:class",
+            "rdfs:label": "an event or happening related with a space mission",
+            "rdfs:comment": "a document representing an event or happening from Chronos legacy"
+        },
+        {
+            "@id": "chronos:target",
+            "@type": ["dbpedia:Planet", "dbpedia:Satellite", "dbpedia:Asteroid", "dbpedia:CelestialBody"],
+            "rdfs:label": "a celestial body",
+            "rdfs:comment": "a document representing a planetor other celestial body"
+        },
+        {
+            "@id": "chronos:webpage",
+            "@type": "schema:CreativeWork",
+            "rdfs:label": "a crawled webpage",
+            "rdfs:comment": "a document representing a webpage"
+        },
+        {
+            "@id": "chronos:sensor",
+            "@type": "owl:class",
+            "rdfs:label": "a sensor or an instrument from the sensors' taxonomy",
+            "rdfs:comment": "a document representing a sensor"
+        },
     ]
 
 }
