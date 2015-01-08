@@ -79,19 +79,19 @@
         },
         {
             "@id": "chronos:launch",
-            "@type": "owl:class",
+            "@type": "owl:Class",
             "rdfs:label": "a space launch that took place somewhen in the past",
             "rdfs:comment": "a document representing a space launch taken from wikipedia page"
         },
         {
             "@id": "chronos:mission",
-            "@type": "owl:class",
+            "@type": "owl:Class",
             "rdfs:label": "a space mission",
             "rdfs:comment": "a document representing a space mission from Chronos legacy"
         },
         {
             "@id": "chronos:event",
-            "@type": "owl:class",
+            "@type": "owl:Class",
             "rdfs:label": "an event or happening related with a space mission",
             "rdfs:comment": "a document representing an event or happening from Chronos legacy"
         },
@@ -109,7 +109,7 @@
         },
         {
             "@id": "chronos:sensor",
-            "@type": "owl:class",
+            "@type": "owl:Class",
             "rdfs:label": "a sensor or an instrument from the sensors' taxonomy",
             "rdfs:comment": "a document representing a sensor"
         },
