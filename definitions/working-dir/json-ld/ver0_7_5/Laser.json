@@ -1,5 +1,9 @@
  
-{
+{       "@context": {
+            "dbpedia": "<dbpedia url>",
+            "chronos": "<our ontology>",
+            "skos": "<skos core>"
+         },
         "dbpedia:abstract" : null,
         "chronos:relMission" : [ ],
         "chronos:relatedMatch" : [ ],
