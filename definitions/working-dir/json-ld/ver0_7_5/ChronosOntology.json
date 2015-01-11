@@ -126,10 +126,16 @@
             "rdfs:comment": "a document representing a webpage"
         },
         {
-            "@id": "chronos:sensor",
+            "@id": "chronos:detector",
             "@type": "owl:Class",
             "rdfs:label": "a sensor or an instrument from the sensors' taxonomy",
-            "rdfs:comment": "a document representing a sensor"
+            "rdfs:comment": "a document representing a detector or sensor, see Sensor Ontology"
+        },
+        {
+            "@id": "chronos:group",
+            "@type": "rdf:PlainLiteral",
+            "rdfs:label": "can be queried as a member of this group",
+            "rdfs:comment": "a string assigning the document to a set or a Class in the datastore, useful for fast querying"
         },
     ]
 
