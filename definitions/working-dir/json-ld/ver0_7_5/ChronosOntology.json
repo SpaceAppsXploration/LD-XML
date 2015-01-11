@@ -31,7 +31,7 @@
         {
             "@id": "chronos:relEvent",
             "@type": "owl:ObjectProperty",
-            "rdfs:label": "is an document related to an event",
+            "rdfs:label": "is a document related to an event",
             "rdfs:comment": "subject-document is semantically related with an event or happening",
             "rdfs:domain": "chronos:dbpediadoc", 
             "rdfs:range": "chronos:event",    
