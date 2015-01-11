@@ -4,6 +4,7 @@
         "schema": "https://schema.org/",
         "skos": "<skos core url>",
         "rdfs": "<rdfs url>",
+        "rdf": "<rdf url>",
         "owl": "<owl url>",
         "dbpedia": "http://dbpedia.org/ontology/"
     },
