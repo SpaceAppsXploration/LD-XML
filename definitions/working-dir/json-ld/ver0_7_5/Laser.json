@@ -1,9 +1,9 @@
  
 {
         "dbpedia:abstract" : null,
-        "chronos:mission" : [ ],
+        "chronos:relMission" : [ ],
         "chronos:relatedMatch" : [ ],
-        "chronos:keyword" : [
+        "chronos:relKeyword" : [
                 {
                         "@id" : "http://projectchronos.eu/keywords/laser+applications",
                         "skos:inScheme" : {
@@ -173,7 +173,7 @@
                         "@type" : "http://www.w3.org/2004/02/skos/core#Concept",
                 }
         ],
-        "chronos:target" : [ ],
+        "chronos:relTarget" : [ ],
         "chronos:group" : "dbpediadocs",
         "chronos:dbpediaCategories" : [
                 "Lasers",
@@ -195,7 +195,7 @@
         "@id" : "http://projectchronos.eu/dbpediadocs/Laser",
         "skos:prefLabel" : null,
         "chronos:tagMeAbs" : "A laser is a device that emits light (electromagnetic radiation) through a process of optical amplification based on the stimulated emission of photons. The term \"laser\" originated as an acronym for Light Amplification by Stimulated Emission of Radiation. The emitted laser light is notable for its high degree of spatial and temporal coherence, unattainable using other technologies.",
-        "chronos:event" : [ ],
+        "chronos:relEvent" : [ ],
         "skos:altLabel" : "Laser",
         "@type" : "http://projectchronos.eu/ontology/dbpediadoc",
         "owl:sameAs" : [
