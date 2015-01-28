@@ -1,5 +1,6 @@
 {
     "@context": {
+        "@base": "http://projectchronos.eu/ontology",
         "chronos": "http://projectchronos.eu/ontology/",
         "schema": "https://schema.org/",
         "skos": "<skos core url>",
@@ -9,7 +10,7 @@
         "dbpedia": "http://dbpedia.org/ontology/"
     },
 
-    "@id": "chronos",
+    "@id": "",
     "@type": "owl:Ontology",
     "defines": [
         {
