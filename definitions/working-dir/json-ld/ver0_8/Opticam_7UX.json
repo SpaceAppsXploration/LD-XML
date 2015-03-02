@@ -8,7 +8,7 @@
 
     "@id": "http://pramantha.eu/subsystem/Opticam_7UX",
     "@type": "http://pramantha.eu/subsystems/ontology/Spacecraft_Detector",
-    "rdfs:subClassOf": {
+    "subsystem:embedSensor": {
         "@id": "http://pramantha.eu/sensors/ontology/CCD"
     },
     "skos:prefLabel": "Opticam_7UX",
