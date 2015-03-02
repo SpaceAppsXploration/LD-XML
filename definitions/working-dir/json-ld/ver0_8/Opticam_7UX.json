@@ -1,0 +1,50 @@
+ 
+{       
+    "@context": {
+        "subsystems": "http://pramantha.eu/subsystems/ontology/",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "xml": "http://www.w3.org/2001/XMLSchema#"
+    },
+
+    "@id": "http://pramantha.eu/subsystem/Opticam_7UX",
+    "@type": "http://pramantha.eu/subsystems/ontology/Spacecraft_Detector",
+    "skos:prefLabel": "Pticam_7UX",
+    "subsystem:isStandard": "Cubesat",
+    "subsytem:hasVolume": {
+        "@id": 50112,
+        "subsystem:unitOfMeasure": "mm3",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:hasMass": {
+        "@id": 166,
+        "subsystem:unitOfMeasure": "g",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:hasPower": {
+        "@id": 0.66,
+        "subsystem:unitOfMeasure": "W",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:hasVoltage": {
+        "@id": 3.3,
+        "subsystem:unitOfMeasure": "V",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:minAmpere": {
+        "@id": 70,
+        "subsystem:unitOfMeasure": "mA",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:maxAmpere": {
+        "@id": 110,
+        "subsystem:unitOfMeasure": "mA",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:function": {"@id": "http://dbpedia.org/resource/Digital_Imaging"}, 
+    "subsystem:hasMonetaryValue": {
+        "@id": "11500.00",
+        "subsystem:unitOfMeasure": "euro",
+        "@type": "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "subsystem:manufacturer": "Chronos"      
+}
