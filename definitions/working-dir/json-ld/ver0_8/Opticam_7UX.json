@@ -8,6 +8,9 @@
 
     "@id": "http://pramantha.eu/subsystem/Opticam_7UX",
     "@type": "http://pramantha.eu/subsystems/ontology/Spacecraft_Detector",
+    "rdfs:subClassOf": {
+        "@id": "http://pramantha.eu/sensors/ontology/CCD"
+    },
     "skos:prefLabel": "Pticam_7UX",
     "subsystem:isStandard": "Cubesat",
     "subsytem:hasVolume": {
