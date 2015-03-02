@@ -14,12 +14,12 @@
     "skos:prefLabel": "Opticam_7UX",
     "subsystem:isStandard": "Cubesat",
     "subsytem:hasVolume": {
-        "@id": 50112,
+        "@id": 50112.0,
         "subsystem:unitOfMeasure": "mm3",
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
     "subsystem:hasMass": {
-        "@id": 166,
+        "@id": 166.0,
         "subsystem:unitOfMeasure": "g",
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
@@ -34,18 +34,18 @@
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
     "subsystem:minAmpere": {
-        "@id": 70,
+        "@id": 70.0,
         "subsystem:unitOfMeasure": "mA",
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
     "subsystem:maxAmpere": {
-        "@id": 110,
+        "@id": 110.0,
         "subsystem:unitOfMeasure": "mA",
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
     "subsystem:function": {"@id": "http://dbpedia.org/resource/Digital_Imaging"}, 
     "subsystem:hasMonetaryValue": {
-        "@id": "11500.00",
+        "@id": 11500.00,
         "subsystem:unitOfMeasure": "euro",
         "@type": "http://www.w3.org/2001/XMLSchema#float"
     },
