@@ -1,7 +1,7 @@
  
 {       
     "@context": {
-        "subsystems": "http://pramantha.eu/subsystems/ontology/",
+        "subsystem": "http://pramantha.eu/subsystems/ontology/",
         "skos": "http://www.w3.org/2004/02/skos/core#",
         "xml": "http://www.w3.org/2001/XMLSchema#"
     },
