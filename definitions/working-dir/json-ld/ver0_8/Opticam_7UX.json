@@ -11,7 +11,7 @@
     "rdfs:subClassOf": {
         "@id": "http://pramantha.eu/sensors/ontology/CCD"
     },
-    "skos:prefLabel": "Pticam_7UX",
+    "skos:prefLabel": "Opticam_7UX",
     "subsystem:isStandard": "Cubesat",
     "subsytem:hasVolume": {
         "@id": 50112,
